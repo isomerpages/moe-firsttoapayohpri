@@ -3,9 +3,6 @@ title: Privacy Statement
 permalink: /about-us/privacy-statement/
 description: ""
 ---
-### Privacy Statement
-
-
 *   This is First Toa Payoh Primary School‘s website. Thank you for examining our privacy policy. 
 
   
