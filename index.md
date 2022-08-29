@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/home_static_banner.jpg
-      dropdown:
-        title: ""
-        options: []
+  - infobar:
+      button: MK @ First Toa Payoh
+      url: /mk-at-first-toa-payoh/our-mk-and-kcare-programmes
 ---
