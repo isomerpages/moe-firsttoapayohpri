@@ -15,4 +15,4 @@ they have forgotten their username, password, or if their account has been locke
 
 Here is a poster for students on how to troubleshoot login issues.
 
-![](/images/SLS_FAQs1.jpg)
+[![](/images/SLS_FAQs1.jpg)](https://go.gov.sg/slsloginhelp)
