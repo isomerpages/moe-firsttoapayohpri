@@ -2,5 +2,6 @@ collections:
   student-zoom-account-guide:
     output: true
     order:
+      - Accessing Zoom through the Mobile or Tablet App.md
       - (Annex) Troubleshooting Instructions.md
       - Student ZOOM Account Guide.md
