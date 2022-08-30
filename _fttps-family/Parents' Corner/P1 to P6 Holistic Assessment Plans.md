@@ -20,14 +20,18 @@ third_nav_title: Parents' Corner
 #### P2 HA Plans
 
 
-[2022\_P2\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
-[2022\_P2\_ASSESSMENT PLAN\_FOR\_ENGLISH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)  
-[2022\_P2\_ASSESSMENT PLAN\_FOR\_MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN_FOR_MALAY.pdf)  
-[2022\_P2\_ASSESSMENT PLAN\_FOR\_MATH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN_FOR_MATH.pdf)  
-[2022\_P2\_ASSESSMENT PLAN\_FOR\_TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)  
+[2022_P2_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P2_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
+<br>
+[2022_P2_ASSESSMENT PLAN_FOR_ENGLISH](/files/2022_P2_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)
+<br>
+[2022_P2_ASSESSMENT PLAN_FOR_MALAY](/files/2022_P2_ASSESSMENT%20PLAN_FOR_MALAY.pdf)
+<br>
+[2022_P2_ASSESSMENT PLAN_FOR_MATH](/files/2022_P2_ASSESSMENT%20PLAN_FOR_MATH.pdf)
+<br>
+[2022_P2_ASSESSMENT PLAN_FOR_TAMIL.pdf](/files/2022_P2_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)
 
-P3 HA Plans
------------
+#### P3 HA Plans
+
 
 [2022\_P3\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P3/2022_P3_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
 [2022\_P3\_ASSESSMENT PLAN FOR\_ENGLISH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P3/2022_P3_ASSESSMENT%20PLAN%20FOR_ENGLISH.pdf)  
