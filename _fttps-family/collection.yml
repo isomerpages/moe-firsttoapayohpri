@@ -2,4 +2,5 @@ collections:
   fttps-family:
     output: true
     order:
+      - Students' Corner/School eResource Repository (SERR).md
       - Students' Corner/.keep
