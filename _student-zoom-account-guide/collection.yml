@@ -1,4 +1,5 @@
 collections:
   student-zoom-account-guide:
     output: true
-    order: []
+    order:
+      - Student ZOOM Account Guide.md
