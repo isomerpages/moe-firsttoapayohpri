@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Parents' Corner/P1 Orientation 2021 2022.md
       - Parents' Corner/P1 Parents Engagement.md
       - Parents' Corner/.keep
       - Students' Corner/Students' Corner.md
