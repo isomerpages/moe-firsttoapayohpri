@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Students' Corner/Students' Corner.md
       - Students' Corner/Home based Learning Timetable.md
       - Students' Corner/SLS (Student Learning Space) Guide.md
       - Students' Corner/Student iCON Guide.md
