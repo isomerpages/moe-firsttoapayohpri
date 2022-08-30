@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Students' Corner
 ---
 <a href="https://workspace.google.com/dashboard">
-	<img src="/images/Student_iCON.jpg" style="width:30%"/>
+	<img src="/images/Student_iCON.jpg" style="width:30%" align="left"/>
 </a>
 
 [![](/images/Student%20ICON%20Guide1.jpg)](https://workspace.google.com/dashboard)
