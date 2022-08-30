@@ -2,8 +2,8 @@ collections:
   student-zoom-account-guide:
     output: true
     order:
+      - Student ZOOM Account Guide.md
       - Accessing Zoom with Browser.md
       - Accessing Zoom through the Desktop App.md
       - Accessing Zoom through the Mobile or Tablet App.md
       - (Annex) Troubleshooting Instructions.md
-      - Student ZOOM Account Guide.md
