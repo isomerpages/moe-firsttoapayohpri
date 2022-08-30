@@ -1,5 +1,4 @@
 collections:
   fttps-family:
     output: true
-    order:
-      - School eResource Repository/.keep
+    order: []
