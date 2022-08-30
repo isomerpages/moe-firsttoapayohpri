@@ -24,5 +24,5 @@ For more information, please click on the link below:
 <iframe width="700" height="394" src="https://www.youtube.com/embed/9gzKTOypbQI" title="Our Foundation Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="/ftpps-family/parents-corner/p1-orientation-2021-2022#lo_main">
- <img src="/images/arrow-up.png" style="width:5%" align="left"/> Back to Top
+ <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
 </a>
