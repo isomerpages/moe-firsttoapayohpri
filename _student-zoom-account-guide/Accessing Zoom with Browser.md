@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Slide4.jpg)
 ![](/images/Slide5.jpg)
-![](/images/Slide6.jpg)
+[![](/images/Slide6.jpg)](https://students-edu-sg.zoom.us/)
 ![](/images/Slide7.jpg)
 ![](/images/Slide8.jpg)
 ![](/images/Slide9.jpg)
