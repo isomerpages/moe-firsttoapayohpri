@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Students' Corner/Student iCON Guide.md
       - Students' Corner/Student ZOOM Account Guide.md
       - Students' Corner/School eResource Repository (SERR).md
       - Students' Corner/.keep
