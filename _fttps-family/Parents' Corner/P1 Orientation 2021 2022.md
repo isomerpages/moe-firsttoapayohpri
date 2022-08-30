@@ -15,7 +15,16 @@ For more information, please click on the link below:
 
 #### Related Videos
 
+<iframe width="700" height="390" src="https://www.youtube.com/embed/IlsYkGqHfGo" title="FTPPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- [![](https://firsttoapayohpri.moe.edu.sg/rs/cc/icon/graphite/arrow-up.png) Back to Top](https://firsttoapayohpri.moe.edu.sg/ftpps-family/parents-corner/p1-orientation-2021-2022#lo_main)
+<iframe width="700" height="394" src="https://www.youtube.com/embed/S8y11KVON1Q" title="First Toa Payoh Primary Schhol (SMM @ FTPPS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](https://firsttoapayohpri.moe.edu.sg/pix/spacer.gif)
+<iframe width="700" height="390" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="700" height="394" src="https://www.youtube.com/embed/9gzKTOypbQI" title="Our Foundation Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p align="center">
+	<a href="/ftpps-family/parents-corner/p1-orientation-2021-2022#lo_main">
+	 <img src="/images/arrow-up.png" style="width:5%" align="left"/> Back to Top
+	</a>
+</p>
