@@ -4,17 +4,21 @@ permalink: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans/
 description: ""
 third_nav_title: Parents' Corner
 ---
-P1 HA Plans
------------
+#### P1 HA Plans
 
-[2022\_P1\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P1/2022_P1_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
-[2022\_P1\_ASSESSMENT PLAN\_FOR\_ENGLISH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P1/2022_P1_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)  
-[2022\_P1\_ASSESSMENT PLAN\_FOR\_MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P1/2022_P1_ASSESSMENT%20PLAN_FOR_MALAY.pdf)  
-[2022\_P1\_ASSESSMENT PLAN\_FOR\_MATH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P1/2022_P1_ASSESSMENT%20PLAN_FOR_MATH.pdf)  
-[2022\_P1\_ASSESSMENT PLAN\_FOR\_TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P1/2022_P1_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)  
+[2022_P1_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P1_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf) 
+<br>
+[2022_P1_ASSESSMENT PLAN_FOR_ENGLISH](/files/2022_P1_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)
+<br>
+[2022_P1_ASSESSMENT PLAN_FOR_MALAY](/files/2022_P1_ASSESSMENT%20PLAN_FOR_MALAY.pdf)
+<br>
+[2022_P1_ASSESSMENT PLAN_FOR_MATH](/files/2022_P1_ASSESSMENT%20PLAN_FOR_MATH.pdf)
+<br>
+[ 2022_P1_ASSESSMENT PLAN_FOR_TAMIL](/files/2022_P1_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)
 
-P2 HA Plans
------------
+
+#### P2 HA Plans
+
 
 [2022\_P2\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
 [2022\_P2\_ASSESSMENT PLAN\_FOR\_ENGLISH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P2/2022_P2_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)  
@@ -89,8 +93,8 @@ Foundation Subjects**
 [2022\_P6\_ASSESSMENT PLAN\_FOR\_MATH FOUNDATION](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_MATH%20FOUNDATION.pdf)  
 [2022\_P6\_ASSESSMENT PLAN\_FOR\_SCIENCE FOUNDATION](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20FOUNDATION.pdf)  
   
-**Higher Mother Tongue  
-**  
+**Higher Mother Tongue  **  
+
 [2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
 
