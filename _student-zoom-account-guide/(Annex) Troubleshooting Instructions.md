@@ -13,7 +13,7 @@ description: ""
 ![](/images/Slide39.jpg)
 ![](/images/Slide40.jpg)
 
-![](/images/Slide41.jpg)
+[![](/images/Slide41.jpg)](https://support.zoom.us/hc/en-us/categories/200101697)
 ![](/images/Slide42.jpg)
 
 ![](/images/Student%20iCON%20-%20Student%20EDM%20IAMS%20Password%20Requirements.jpg)
