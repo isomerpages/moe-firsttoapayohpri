@@ -47,8 +47,9 @@ P4 HA Plans
 [2022\_P4\_ASSESSMENT PLAN FOR\_ENGLISH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022_P4_ASSESSMENT%20PLAN%20FOR_ENGLISH.pdf)  
 [2022 P4\_ASSESSMENT PLAN\_FOR\_MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022%20P4_ASSESSMENT%20PLAN_FOR_MALAY.pdf)  
 [2022\_P4\_ASSESSMENT PLAN FOR\_TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022_P4_ASSESSMENT%20PLAN%20FOR_TAMIL.pdf)  
-[2022\_P4\_ASSESSMENT PLAN\_FOR\_MATH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022_P4_ASSESSMENT%20PLAN_FOR_MATH.pdf)  
-[2022\_P4\_ASSESSMENT PLAN\_FOR\_SCIENCE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022_P4_ASSESSMENT%20PLAN_FOR_SCIENCE.pdf)  
+[2022_P4_ASSESSMENT PLAN_FOR_MATH](/files/2022_P4_ASSESSMENT%20PLAN_FOR_MATH.pdf)
+<br>
+[2022_P4_ASSESSMENT PLAN_FOR_SCIENCE](/files/2022_P4_ASSESSMENT%20PLAN_FOR_SCIENCE.pdf)
 
 #### P5 HA Plans
 
