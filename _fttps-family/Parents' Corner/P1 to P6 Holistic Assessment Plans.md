@@ -85,8 +85,10 @@ P6 HA Plans
 [2022\_P6\_ASSESSMENT PLAN FOR\_ENGLISH STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_ENGLISH%20STANDARD.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_MALAY.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_TAMIL.pdf)  
-[2022\_P6\_ASSESSMENT PLAN\_FOR\_MATH STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_MATH%20STANDARD.pdf)  
-[2022\_P6\_ASSESSMENT PLAN\_FOR\_SCIENCE STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20STANDARD.pdf)  
+<br>
+[2022_P6_ASSESSMENT PLAN_FOR_MATH STANDARD](/files/2022_P6_ASSESSMENT%20PLAN_FOR_MATH%20STANDARD.pdf)
+<br>
+[2022_P6_ASSESSMENT PLAN_FOR_SCIENCE STANDARD](/files/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20STANDARD.pdf)
 
 ##### Foundation Subjects
   
