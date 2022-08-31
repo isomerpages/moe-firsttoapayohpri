@@ -60,7 +60,7 @@ third_nav_title: Parents' Corner
 
 #### P5 HA Plans
 
-##### Standard Subjects  
+<h6><u> Standard Subjects  </u></h6>
 
   [2022_P5_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
 <br>
@@ -74,7 +74,7 @@ third_nav_title: Parents' Corner
 <br>
 [2022_P5_ASSESSMENT PLAN_FOR_SCIENCE STANDARD](/files/2022_P5_ASSESSMENT%20PLAN_FOR_SCIENCE%20STANDARD.pdf)
 
-##### Foundation Subjects  
+<h6><u> Foundation Subjects </u></h6>
   
 [2022_P5_ASSESSMENT PLAN FOR_FOUNDATION CHINESE](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20CHINESE.pdf)
 <br>
@@ -88,7 +88,7 @@ third_nav_title: Parents' Corner
 <br>
 [2022_P5_ASSESSMENT PLAN_FOR_SCIENCE FOUNDATION](/files/2022_P5_ASSESSMENT%20PLAN_FOR_SCIENCE%20FOUNDATION.pdf)
   
-##### Higher Mother Tongue  
+<h6><u> Higher Mother Tongue  </u></h6>
   
 [2022_P5_ASSESSMENT PLAN FOR_HIGHER CHINESE](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)
 <br>
@@ -99,7 +99,7 @@ third_nav_title: Parents' Corner
 #### P6 HA Plans
 
 
-##### Standard Subjects  
+<h6><u> Standard Subjects  </u></h6>
   
 [2022_P6_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
 <br>
@@ -113,7 +113,7 @@ third_nav_title: Parents' Corner
 <br>
 [2022_P6_ASSESSMENT PLAN_FOR_SCIENCE STANDARD](/files/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20STANDARD.pdf)
 
-##### Foundation Subjects
+<h6><u> Foundation Subjects </u></h6>
   
 [2022_P6_ASSESSMENT PLAN FOR_FOUNDATION CHINESE](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20CHINESE.pdf)
 <br>
@@ -127,7 +127,7 @@ third_nav_title: Parents' Corner
 <br>
 [2022_P6_ASSESSMENT PLAN_FOR_SCIENCE FOUNDATION](/files/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20FOUNDATION.pdf)
   
-##### Higher Mother Tongue 
+ <h6><u> Higher Mother Tongue </u></h6>
 
 [2022_P6_ASSESSMENT PLAN FOR_HIGHER CHINESE](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)
 <br>
