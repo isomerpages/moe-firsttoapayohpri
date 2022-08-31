@@ -81,26 +81,37 @@ P6 HA Plans
 
 **Standard Subjects  
   
-**[2022\_P6\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
+[2022\_P6\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_ENGLISH STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_ENGLISH%20STANDARD.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_MALAY.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_TAMIL.pdf)  
 [2022\_P6\_ASSESSMENT PLAN\_FOR\_MATH STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_MATH%20STANDARD.pdf)  
 [2022\_P6\_ASSESSMENT PLAN\_FOR\_SCIENCE STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20STANDARD.pdf)  
-**  
-Foundation Subjects**  
-  
-[2022\_P6\_ASSESSMENT PLAN FOR\_FOUNDATION CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20CHINESE.pdf)  
-[2022\_P6\_ASSESSMENT PLAN FOR\_ENGLISH FOUNDATION](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_ENGLISH%20FOUNDATION.pdf)  
-[2022\_P6\_ASSESSMENT PLAN FOR\_FOUNDATION MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20MALAY.pdf)  
-[2022\_P6\_ASSESSMENT PLAN FOR\_FOUNDATION TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20TAMIL.pdf)  
-[2022\_P6\_ASSESSMENT PLAN\_FOR\_MATH FOUNDATION](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_MATH%20FOUNDATION.pdf)  
-[2022\_P6\_ASSESSMENT PLAN\_FOR\_SCIENCE FOUNDATION](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Foundation%20Subjects/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20FOUNDATION.pdf)  
-  
-**Higher Mother Tongue  **  
 
-[2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)  
-[2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER TAMIL](/files/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
+##### Foundation Subjects
+  
+[2022_P6_ASSESSMENT PLAN FOR_FOUNDATION CHINESE](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20CHINESE.pdf)
+<br>
+[2022_P6_ASSESSMENT PLAN FOR_ENGLISH FOUNDATION](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_ENGLISH%20FOUNDATION.pdf) 
+<br>
+[2022_P6_ASSESSMENT PLAN FOR_FOUNDATION MALAY](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20MALAY.pdf)
+<br>
+[2022_P6_ASSESSMENT PLAN FOR_FOUNDATION TAMIL](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_FOUNDATION%20TAMIL.pdf)
+<br>
+[2022_P6_ASSESSMENT PLAN_FOR_MATH FOUNDATION](/files/2022_P6_ASSESSMENT%20PLAN_FOR_MATH%20FOUNDATION.pdf)
+<br>
+[2022_P6_ASSESSMENT PLAN_FOR_SCIENCE FOUNDATION](/files/2022_P6_ASSESSMENT%20PLAN_FOR_SCIENCE%20FOUNDATION.pdf)
+  
+##### Higher Mother Tongue 
+
+[2022_P6_ASSESSMENT PLAN FOR_HIGHER CHINESE](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)
+<br>
+[2022_P6_ASSESSMENT PLAN FOR_HIGHER TAMIL](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
+
+
+<br>
+<br>
+<br>
 
 <a href="/ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
