@@ -76,10 +76,10 @@ P5 HA Plans
 [2022\_P5\_ASSESSMENT PLAN FOR\_HIGHER MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P5/Higher%20Mother%20Tongue/2022_P5_ASSESSMENT%20PLAN%20FOR_HIGHER%20MALAY.pdf)  
 [2022\_P5\_ASSESSMENT PLAN FOR\_HIGHER TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P5/Higher%20Mother%20Tongue/2022_P5_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)  
 
-P6 HA Plans
------------
+#### P6 HA Plans
 
-**Standard Subjects  
+
+##### Standard Subjects  
   
 [2022\_P6\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
 [2022\_P6\_ASSESSMENT PLAN FOR\_ENGLISH STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Standard%20Subjects/2022_P6_ASSESSMENT%20PLAN%20FOR_ENGLISH%20STANDARD.pdf)  
