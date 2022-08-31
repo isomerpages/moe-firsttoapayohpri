@@ -50,14 +50,16 @@ P4 HA Plans
 [2022\_P4\_ASSESSMENT PLAN\_FOR\_MATH](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022_P4_ASSESSMENT%20PLAN_FOR_MATH.pdf)  
 [2022\_P4\_ASSESSMENT PLAN\_FOR\_SCIENCE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P4/2022_P4_ASSESSMENT%20PLAN_FOR_SCIENCE.pdf)  
 
-P5 HA Plans
------------
+#### P5 HA Plans
 
-**Standard Subjects  
-  
-**[2022\_P5\_ASSESSMENT PLAN FOR\_CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P5/Standard%20Subjects/2022_P5_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)  
-[2022\_P5\_ASSESSMENT PLAN FOR\_ENGLISH STANDARD](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P5/Standard%20Subjects/2022_P5_ASSESSMENT%20PLAN%20FOR_ENGLISH%20STANDARD.pdf)  
-[2022\_P5\_ASSESSMENT PLAN FOR\_MALAY](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P5/Standard%20Subjects/2022_P5_ASSESSMENT%20PLAN%20FOR_MALAY.pdf)  
+##### Standard Subjects  
+
+  [2022_P5_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
+<br>
+[2022_P5_ASSESSMENT PLAN FOR_ENGLISH STANDARD](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_ENGLISH%20STANDARD.pdf)
+<br>
+[2022_P5_ASSESSMENT PLAN FOR_MALAY](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_MALAY.pdf)
+<br>
 [2022_P5_ASSESSMENT PLAN_FOR_TAMIL](/files/2022_P5_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)
 <br>
 [2022_P5_ASSESSMENT PLAN_FOR_MATH STANDARD](/files/2022_P5_ASSESSMENT%20PLAN_FOR_MATH%20STANDARD.pdf)
