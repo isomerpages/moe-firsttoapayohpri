@@ -100,7 +100,7 @@ Foundation Subjects**
 **Higher Mother Tongue  **  
 
 [2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER CHINESE](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)  
-[2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER TAMIL](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
+[2022\_P6\_ASSESSMENT PLAN FOR\_HIGHER TAMIL](/files/Holistic%20Assessment/P6/Higher%20Mother%20Tongue/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
 
 <a href="/ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
