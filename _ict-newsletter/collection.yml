@@ -1,0 +1,4 @@
+collections:
+  ict-newsletter:
+    output: true
+    order: []
