@@ -6,5 +6,5 @@ third_nav_title: Our Staff
 ---
 |  |  |
 | :---: | :---: |
-| AED/LBS | AW YONG BI ZHU (MS)<br>[aw\_yong\_bi\_zhu@moe.edu.sg](mailto:aw_yong_bi_zhu@moe.edu.sg)<br><br>ONG CHONG TIANG (MR) <br>[ong\_chong\_tiang@moe.edu.sg](mailto:ong_chong_tiang@moe.edu.sg) |
-| SCHOOL COUNSELLOR | TOH BAO ZHEN STEPHANIE (MISS)<br>[stephanie\_toh\_bao\_zhen@moe.edu.sg](mailto:stephanie_toh_bao_zhen@moe.edu.sg) |
+| **AED/LBS** | AW YONG BI ZHU (MS)<br>[aw\_yong\_bi\_zhu@moe.edu.sg](mailto:aw_yong_bi_zhu@moe.edu.sg)<br><br>ONG CHONG TIANG (MR) <br>[ong\_chong\_tiang@moe.edu.sg](mailto:ong_chong_tiang@moe.edu.sg) |
+| **SCHOOL COUNSELLOR** | TOH BAO ZHEN STEPHANIE (MISS)<br>[stephanie\_toh\_bao\_zhen@moe.edu.sg](mailto:stephanie_toh_bao_zhen@moe.edu.sg) |
