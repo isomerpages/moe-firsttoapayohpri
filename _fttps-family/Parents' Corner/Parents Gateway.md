@@ -16,7 +16,7 @@ From April 2019 onward, parents will receive all school notifications and cons
 
 ![](/images/PG%20Animated%20Gif.gif)
 
-For more information:  
+For more information: 
 <br>
 [Read PDFs easily on mobile](/files/Read%20PDFs%20easily%20on%20mobile.pdf)
 <br>
@@ -25,3 +25,11 @@ For more information:
 [Meetings Feature - User Guide for Parents](/files/Meetings%20Feature%20-%20User%20Guide%20for%20Parents.pdf)
 <br>
 [Frequently Asked Questions For Parents](/files/Frequently%20Asked%20Questions%20For%20Parents.pdf)
+
+<br>
+<br>
+<br>
+
+<a href="/ftpps-family/parents-corner/parents-gateway#lo_main">
+	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+</a>
