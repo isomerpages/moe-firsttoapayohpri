@@ -9,28 +9,28 @@ description: ""
 			<a href="/distinctive-programmes/applied-learning-programme-alp">
 				<img src="/images/ALP.jpg"/>
 				<br>
-				• Aplied Learning Programme •
+				<p align="center">• Aplied Learning Programme •</p>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/distinctive-programmes/learning-for-life-programme-llp">
+				<img src="/images/LLP.jpg"/>
 				<br>
-				• text •
+				<p align="center">• Learning for Life Programme •</p>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/distinctive-programmes/the-tinkerlution-programme">
+				<img src="/images/TINKERLUTION.jpg"/>
 				<br>
-				• text •
+				<p align="center">• The Tinkerlution Programme •</p>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/distinctive-programmes/learn-live-lead">
+				<img src="/images/LLL.jpg"/>
 				<br>
-				• text •
+				<p align="center">• Live.Learn.Lead •</p>
 			</a>
 		</td>
 	</tr>
