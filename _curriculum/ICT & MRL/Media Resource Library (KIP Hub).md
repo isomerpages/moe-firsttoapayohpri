@@ -57,7 +57,7 @@ third_nav_title: ICT & MRL
 	</tr>
 	<tr>
 		<td colspan="2">
-			<img src="/images/2%20(4).jpg"/>
+			<img src="/images/2%20(4).jpg" style="width:60%"/>
 		</td>
 	</tr>
-</table> 
+</table>
