@@ -63,4 +63,28 @@ They experience activities such as the challenge rope course, rock climbing, abs
 | --- | --- |
 | ![](/images/pe9.jpg) | ![](/images/pe7.jpg) |
 
+###### Primary 4 2D1N School Camp
 
+| <br>![](/images/pe11.jpg) | ![](/images/pe13.jpg)
+| --- | --- |
+| ![](/images/pe10.jpg) | ![](/images/pe12.jpg)
+
+###### Primary 5 3D2N Outdoor Adventure Camp
+
+<img src="/images/pe14.jpg" style="width:65%"/>
+
+| | |
+| --- | --- |
+| ![](/images/pe15.jpg) | ![](/images/pe16.jpg) |
+
+<img src="/images/pe17.jpg" style="width:65%"/>
+
+#### P1 to P2 Programmes
+
+###### P2 Swim Safer
+
+Our P2 students are highly encouraged to attend the Swimsafer Programme where they learn about water safety and build their proficiency in basic swimming.
+
+| | |
+| --- | --- |
+| ![](/images/pe18.jpg) | ![](/images/pe19.jpg) |
