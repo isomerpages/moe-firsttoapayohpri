@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Parent Support Group/Parent Support Group (PSG) Meeting.md
       - Parent Support Group/.keep
       - Parents' Corner/Monthly Letters to Parents.md
       - Parents' Corner/Parents Gateway.md
