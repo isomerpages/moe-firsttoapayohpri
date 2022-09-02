@@ -3,7 +3,7 @@ title: CCA & PAL
 permalink: /curriculum/cca-n-pal/
 description: ""
 ---
-#### Co-curricular Activities (CCA)  
+##### Co-curricular Activities (CCA)  
 
 <table>
 	<tr>
