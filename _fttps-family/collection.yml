@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Parents' Corner/Parents Gateway.md
       - Parents' Corner/School Bill FAQs for Parents.md
       - Parents' Corner/Group Personal Accident Insurance for Students.md
       - Parents' Corner/School's Service Provider.md
