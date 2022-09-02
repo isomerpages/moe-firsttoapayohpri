@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Our Staff/Allied Educators and School Counsellor.md
       - Our Staff/Non Teaching Staff.md
       - Our Staff/.keep
       - School Advisory Committee.md
