@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - ICT & MRL/Media Resource Library (KIP Hub).md
       - ICT & MRL/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Visual Art Gallery.md
