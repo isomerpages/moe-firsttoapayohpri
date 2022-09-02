@@ -32,3 +32,35 @@ In First Toa Payoh Primary School, our PE curriculum is closely aligned to the n
 For upper primary level, students learn about the various games concepts through the ‘Games Concept Approach’ (GCA) by playing modified games. We also aim to develop students’ core values and social emotional competencies through various learning experiences in the outdoors. We believe that when students enjoy their PE lessons, it kick-starts a love for a physically active lifestyle, which students can bring along with them long after they have left school.
 
 #### Programmes
+
+##### Sports-4-all
+
+**“Respect”, “Friendship”, and “Excellence”** – the Olympic values which are always centred around our annual Sports-4-All. It is a day of fun and games where students will show their sense of belonging to the houses and compete against each other and themselves to gain points for their house, at the same time, displaying the Olympic values.
+
+| ![](/images/pe1.jpg) | ![](/images/pe2.jpg) |
+| --- | --- |
+| ![](/images/pe3.jpg) | ![](/images/pe4.jpg) | 
+
+<img src="/images/pe5.jpg" style="width:65%"/>
+
+##### Outdoor Education
+
+First Toa Payoh Primary School is a strong advocate of outdoor education as it provides valuable opportunities for learning through self-discovery. Our students learn important values and life lessons that they cannot in a classroom. They overcome obstacles and work with their teammates to solve challenges in unfamiliar settings. They learn to be adaptable and resilient, ready to tackle future challenges in their life journey.
+
+At FTPPS, all students participate in a progression of camps from P3 to P5:
+
+P3:  1D Outdoor Adventure
+<br>
+P4: 2D1N  School Camp
+<br>
+P5: 3D2N Outdoor Adventure Camp
+
+They experience activities such as the challenge rope course, rock climbing, abseiling, and caving. These activities help them overcome their fear of heights and fear of the dark. The camps also enable the students enjoy the great outdoors while forging friendships and gaining memorable experiences.
+
+###### Primary 3 1D Outdoor Adventure
+
+| <br>![](/images/pe6.jpg) | ![](/images/pe8.jpg) |
+| --- | --- |
+| ![](/images/pe9.jpg) | ![](/images/pe7.jpg) |
+
+
