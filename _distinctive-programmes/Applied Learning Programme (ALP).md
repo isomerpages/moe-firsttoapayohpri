@@ -20,3 +20,14 @@ description: ""
 ![](/images/15.jpg)
 ![](/images/16.jpg)
 ![](/images/17.jpg)
+
+[<- back to E-Open House 2021](/e-open-house-2021)<br>
+[<- back to Distinctive Programmes](/distinctive-programmes)
+
+<br>
+<br>
+<br>
+
+<a href="/distinctive-programmes/applied-learning-programme-alp#lo_main">
+	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+</a>
