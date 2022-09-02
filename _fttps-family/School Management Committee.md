@@ -9,6 +9,10 @@ description: ""
 | **Vice-Principal** | REMUND KOH PENG YEOW (MR) <br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 | **Vice-Principal (Admin)** | TAY YAM ENG (MS) <br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 
+<br>
+<br>
+<br>
+
 |  |  |
 | :---: | :---: |
 | **SCHOOL STAFF DEVELOPER** | TAN KUI ING PEARLY (MDM)<br>[tan\_kui\_ing\_pearly@moe.edu.sg](mailto:tan_kui_ing_pearly@moe.edu.sg)  |
