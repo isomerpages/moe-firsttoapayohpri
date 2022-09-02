@@ -10,3 +10,14 @@ description: ""
 ![](/images/5%20(1).jpg)
 ![](/images/6%20(1).jpg)
 ![](/images/7%20(1).jpg)
+
+[<- back to E-Open House 2021](/e-open-house-2021)<br>
+[<- back to Distinctive Programmes](/distinctive-programmes)
+
+<br>
+<br>
+<br>
+
+<a href="/distinctive-programmes/the-tinkerlution-programme#lo_main">
+	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+</a>
