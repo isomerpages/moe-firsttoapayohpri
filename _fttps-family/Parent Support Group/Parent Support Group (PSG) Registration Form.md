@@ -6,4 +6,4 @@ third_nav_title: Parent Support Group
 ---
 Please click on the [link](https://go.gov.sg/ftppspsg) or scan the QR code to join the PSG.
 
-![PSG Registration Form QR Code](/images/psg.jpg)
+<img src="/images/psg.jpg" style="width:40%" align="left"/>
