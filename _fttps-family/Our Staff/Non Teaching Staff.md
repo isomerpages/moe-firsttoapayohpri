@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Staff
 ---
 |  |  |
-|---|---|
+| :---: | :---: |
 | **Admin Manager** | KANG YI LING CYNDI (MRS) <br>[lim\_yi\_ling\_cyndi@moe.edu.sg](mailto:lim_yi_ling_cyndi@moe.edu.sg)|
 | **Operations Manager**  |  TEH CHENG MENG (MR) <br>[teh\_cheng\_meng@moe.edu.sg](mailto:teh_cheng_meng@moe.edu.sg) |
 | **Operations Manager** | CHOY YEW MENG (MR)<br>[choy\_yew\_meng@moe.edu.sg](mailto:choy_yew_meng@moe.edu.sg) |
