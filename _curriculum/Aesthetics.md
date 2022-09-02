@@ -128,5 +128,19 @@ Students listened and sang local and national songs during Karaoke@Recess. The p
 
 During Classical Peekaboo @ Recess, students were exposed to classical music from the 17th century. They learnt about the musical work and biography of classical composers such as Mozart and Beethoven. Students had fun playing classical tunes using iPad apps.
 
-![](/images/CP1.jpg)
-![](/images/CP4.jpg)
+| ![](/images/CP4.jpg) | ![](/images/CP3.jpg) |
+| --- | --- |
+| ![](/images/CP2.jpg) | ![](/images/CP1.jpg) |
+
+
+##### Knowing Great Artists
+
+Students learnt about the lives and works of great artists such as Andy Warhol, Pablo Picasso and Wassily Kandinsky. They will then recreate the artwork using their own interpretation.
+
+| | | |
+| --- | --- | --- |
+| ![](/images/artists1.jpg) | ![](/images/artists2.jpg) | ![](/images/artists3.jpg) |
+
+| | |
+| --- | --- |
+| ![](/images/artists4.jpg) | ![](/images/artists5.jpg) |
