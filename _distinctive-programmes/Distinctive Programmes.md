@@ -6,10 +6,10 @@ description: ""
 <table>
 	<tr>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/distinctive-programmes/applied-learning-programme-alp">
+				<img src="/images/ALP.jpg"/>
 				<br>
-				• text •
+				• Aplied Learning Programme •
 			</a>
 		</td>
 		<td width="25%">
@@ -35,3 +35,5 @@ description: ""
 		</td>
 	</tr>
 </table>
+
+[<- back to E-Open House 2021](/e-open-house-2021)
