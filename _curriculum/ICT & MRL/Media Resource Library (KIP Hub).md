@@ -11,7 +11,9 @@ third_nav_title: ICT & MRL
 		</td>
 		<td> 
 			<h5>Mission</h5>
-			text
+			Improve Every Child’s Accessibility to Books
+			<br>
+			Develop a Reading Child
 		</td>
 	</tr>
 	<td>
@@ -19,7 +21,7 @@ third_nav_title: ICT & MRL
 	</td>
 	<td> 
 		<h5>Vision</h5>
-		text
+		To develop the joy of reading in our FTPPS students.
 	</td>
 	</tr>
 </table>
