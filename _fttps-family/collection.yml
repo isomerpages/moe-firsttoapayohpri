@@ -2,6 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
+      - Parents' Corner/School's Service Provider.md
       - Parents' Corner/HBL Resource Kit.md
       - Parents' Corner/ICT Newsletter.md
       - Parents' Corner/Parents' Briefing 2022.md
