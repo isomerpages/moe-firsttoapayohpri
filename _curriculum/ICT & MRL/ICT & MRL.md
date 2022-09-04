@@ -4,7 +4,7 @@ permalink: /curriculum/ict-n-mrl/
 description: ""
 third_nav_title: ICT & MRL
 ---
-<table style="width:50%">
+<table style="width:60%">
 	<tr>
 		<td width="50%">
 			<a href="/curriculum/ict-n-mrl/info-comm-technology">
