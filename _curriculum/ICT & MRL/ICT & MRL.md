@@ -7,12 +7,12 @@ third_nav_title: ICT & MRL
 <table style="width:50%">
 	<tr>
 		<td width="50%">
-			<a href="link">
+			<a href="/curriculum/ict-n-mrl/info-comm-technology">
 				<img src="/images/ICT.png"/>
 			</a>
 		</td>
 		<td width="50%">
-			<a href="link">
+			<a href="/curriculum/ict-n-mrl/media-recource-library-kip-hub">
 				<img src="/images/MRL.png"/>
 			</a>
 		</td>
