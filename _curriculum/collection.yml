@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - CCE/National Education.md
       - CCE/Student Leadership.md
       - CCE/Sexuality Education (SEd).md
       - CCE/.keep
