@@ -109,3 +109,7 @@ Every year, the P5 students will have the opportunity to experience the National
 		</td>
 	</tr>
 </table>
+
+###### P6 Overseas Learning Journey to Malacca
+
+Students learn through direct interaction with an environment that reflects the concepts. With that, the P6 students will have the opportunity to go on an Overseas Learning Journey to Malacca, to experience the rich heritage culture, construct new knowledge, and make connections to the topics learnt in school. 
