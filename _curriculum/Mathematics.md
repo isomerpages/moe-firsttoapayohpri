@@ -68,3 +68,5 @@ For the middle primary levels, the **Improving Confidence and Achievement in Nu
 Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted. 
 
 Embedding games into the concrete-pictorial-abstract approach in Mathematics is purposeful, as students actively reinforce and hone their factual fluency and mathematical concepts. Also, games call for the need for our students to think out of the box as they devise creative and innovative solutions in the gameplay. Some examples of the games used during curriculum time are listed below.
+	
+	
