@@ -63,7 +63,7 @@ For the middle primary levels, the **Improving Confidence and Achievement in Nu
 *   [P3 to P4 Programmes](/curriculum/mathematics#menu2)
 *   [P5 to P6 Programmes](/curriculum/mathematics#menu3)
 	
-<a href="#home"><h5>Use of Games in Mathematics (P1 to P6)</a></h5>
+<a id="#home"><h5>Use of Games in Mathematics (P1 to P6)</a></h5>
 	
 Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted. 
 
