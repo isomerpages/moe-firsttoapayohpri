@@ -13,13 +13,14 @@ third_nav_title: CCE
 			<h5>Mission</h5>
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-Our school NE vision is anchored on the school Vision, Mission and Values that are aligned to MOE’s 21<sup>st</sup> Century Competencies, Student Outcomes and CCE Core Values of R<sup>3</sup>ICH – <b>Respect, Responsibility, Integrity, Care and Harmony</b>.
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+	Our school NE vision is anchored on the school Vision, Mission and Values that are aligned to MOE’s 21<sup>st</sup> Century Competencies, Student Outcomes and CCE Core Values of R<sup>3</sup>ICH – <b>Respect, Responsibility, Integrity, Care and Harmony</b>.
+		</td>
 	</tr>
 </table>
 
@@ -112,4 +113,4 @@ Every year, the P5 students will have the opportunity to experience the National
 
 ###### P6 Overseas Learning Journey to Malacca
 
-Students learn through direct interaction with an environment that reflects the concepts. With that, the P6 students will have the opportunity to go on an Overseas Learning Journey to Malacca, to experience the rich heritage culture, construct new knowledge, and make connections to the topics learnt in school. 
+Students learn through direct interaction with an environment that reflects the concepts. With that, the P6 students will have the opportunity to go on an Overseas Learning Journey to Malacca, to experience the rich heritage culture, construct new knowledge, and make connections to the topics learnt in school.
