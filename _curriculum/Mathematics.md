@@ -75,7 +75,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 | ![](/images/ma07.jpg) | ![](/images/ma08.jpg) |
 
 
-##### P1 to P2 Programmes
+<a id="#menu1"><h5> P1 to P2 Programmes</h5></a>
 
 <table>
 	<tr>
@@ -100,7 +100,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 	</tr>
 </table>
 
-##### P3 to P4 Programmes
+<a id="#menu2"><h5>P3 to P4 Programmes</h5></a>
 
 ###### P3 AND P4 EXPERIENTIAL LEARNING
 
@@ -140,7 +140,7 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 | ![](/images/2%20(5).jpg) | ![](/images/3%20(4).jpg) |
 
 
-##### P5 to P6 Programmes
+<a id="#menu3"><h5>P5 to P6 Programmes</h5></a>
 
 ###### MATHEMATICS OLYMPIAD TRAINING PROGRAMME
 
