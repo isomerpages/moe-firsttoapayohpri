@@ -86,4 +86,3 @@ Our P2 students had a speech & drama session. The children enjoyed learning from
 <h5><u>P3: Silat</u></h5>
 
 P3 students got the opportunity to learn Malay Martial Arts, Silat. The students listened and followed instructions closely to ensure that they were doing the actions correctly.
-
