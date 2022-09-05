@@ -15,13 +15,14 @@ description: ""
 			Providing equal opportunities for all and developing every child to their maximum potential  
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		Developing Character through CCA Excellence
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			Developing Character through CCA Excellence
+		</td>
 	</tr>
 </table>
 
