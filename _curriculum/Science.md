@@ -13,13 +13,14 @@ description: ""
 			-
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		Science Coming Alive in a Caring and Inquisitive Community.
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			Science Coming Alive in a Caring and Inquisitive Community.
+		</td>
 	</tr>
 </table>
 
