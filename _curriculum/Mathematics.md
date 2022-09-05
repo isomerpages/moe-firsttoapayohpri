@@ -65,7 +65,7 @@ For the middle primary levels, the **Improving Confidence and Achievement in Nu
 *   [P3 to P4 Programmes](/curriculum/mathematics#menu2)
 *   [P5 to P6 Programmes](/curriculum/mathematics#menu3)
 	
-	<a id="#home"><h5>Use of Games in Mathematics (P1 to P6)</h5></a>
+	<a id="home"><h5>Use of Games in Mathematics (P1 to P6)</h5></a>
 	
 Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted. 
 
@@ -76,7 +76,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 | ![](/images/ma07.jpg) | ![](/images/ma08.jpg) |
 
 
-<a id="#menu1"><h5> P1 to P2 Programmes</h5></a>
+<a id="menu1"><h5> P1 to P2 Programmes</h5></a>
 
 <table>
 	<tr>
@@ -101,7 +101,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 	</tr>
 </table>
 
-<a id="#menu2"><h5>P3 to P4 Programmes</h5></a>
+<a id="menu2"><h5>P3 to P4 Programmes</h5></a>
 
 ###### P3 AND P4 EXPERIENTIAL LEARNING
 
@@ -141,7 +141,7 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 | ![](/images/2%20(5).jpg) | ![](/images/3%20(4).jpg) |
 
 
-<a id="#menu3"><h5>P5 to P6 Programmes</h5></a>
+<a id="menu3"><h5>P5 to P6 Programmes</h5></a>
 
 ###### MATHEMATICS OLYMPIAD TRAINING PROGRAMME
 
