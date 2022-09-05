@@ -146,13 +146,9 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 
 In line with the school’s continual emphasis on enriching and developing students’ potential to their fullest, identified students from P5 and P6 will go through the training programme to be equipped with the necessary Mathematical knowledge and repertoire of problem-solving and visual-thinking skills to tackle higher-order and non-routine problems. Some of the competitions these students will take part include:
 
-  
-
 *   Singapore and Asian Schools Math Olympiad (SASMO)
 *   Primary School Mathematics Challenge (PSMC)
 *   National Mathematical Olympiad Singapore (NMOS)
-
-  
 
 ###### ASPIRE PROGRAMME  
 
