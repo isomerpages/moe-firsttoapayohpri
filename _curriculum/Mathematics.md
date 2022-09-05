@@ -135,7 +135,7 @@ Since the 2021 CATalytics Project with SEAB research team, students learn throug
 
 The ICAN programme is a collaboration between schools and MOE to support low progress learners students using intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.
 
-<table>
-	<tr>
-		<td>
-			<
+| | |
+| --- | --- |
+| ![](/images/2%20(5).jpg) | ![](/images/3%20(4).jpg) |
+
