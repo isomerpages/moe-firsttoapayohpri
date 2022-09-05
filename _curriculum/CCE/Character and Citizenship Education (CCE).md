@@ -14,13 +14,14 @@ third_nav_title: CCE
 			Empowering every child to be a responsible citizen who serves his community with love, respect and integrity.
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		To nurture students of good character
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			To nurture students of good character
+		</td>
 	</tr>
 </table>
 
