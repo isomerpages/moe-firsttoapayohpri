@@ -4,7 +4,6 @@ permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
 ---
-
 <table>
 	<tr>
 		<td width="100px">
@@ -15,13 +14,14 @@ third_nav_title: Aesthetics
 			To develop passion and excellence in the arts
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		To immerse our learning community in a stimulating environment to develop passion and excellence in the arts
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			To immerse our learning community in a stimulating environment to develop passion and excellence in the arts
+		</td>
 	</tr>
 </table>
 
