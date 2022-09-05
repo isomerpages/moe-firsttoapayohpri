@@ -59,7 +59,7 @@ P1 students had fun playing Malay traditional games such as ‘Tarik Upih’, �
 	</tr>
 </table>
 
-<p align="center"><b>"Saya berasa seronok dapat bermain Tarik Upih bersama kawan saya." -_ _Eshan , 1 RY</b></p>
+<p align="center"><b><em>"Saya berasa seronok dapat bermain Tarik Upih bersama kawan saya." -_ _Eshan , 1 RY</em></b></p>
 
 <h6><u>P2: Speech & Drama</u></h6>
 
@@ -81,8 +81,16 @@ Our P2 students had a speech & drama session. The children enjoyed learning from
 	</tr>
 </table>
 
-<p align="center"><b>"Saya belajar banyak perkara tentang aktiviti ini." - Umairah, 2LO</b></p>
+<p align="center"><b><em>"Saya belajar banyak perkara tentang aktiviti ini." - Umairah, 2LO</em></b></p>
 
 <h5><u>P3: Silat</u></h5>
 
 P3 students got the opportunity to learn Malay Martial Arts, Silat. The students listened and followed instructions closely to ensure that they were doing the actions correctly.
+
+| | |
+| --- | --- |
+| ![](/images/P3_1.jpg) | ![](/images/P3_2.jpg) |
+
+<p align="center"><b><em>"I learnt how to defend and protect myself." - Aliya, 3RT
+<br>
+	"I learnt how to punch and kick properly. - Elias, 3RT</em></b></p>
