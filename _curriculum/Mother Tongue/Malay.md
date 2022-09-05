@@ -59,7 +59,7 @@ P1 students had fun playing Malay traditional games such as ‘Tarik Upih’, �
 	</tr>
 </table>
 
-<p align="center"><b><em>"Saya berasa seronok dapat bermain Tarik Upih bersama kawan saya." -_ _Eshan , 1 RY</em></b></p>
+<p align="center"><b><em>"Saya berasa seronok dapat bermain Tarik Upih bersama kawan saya." - Eshan , 1 RY</em></b></p>
 
 <h6><u>P2: Speech & Drama</u></h6>
 
@@ -83,7 +83,7 @@ Our P2 students had a speech & drama session. The children enjoyed learning from
 
 <p align="center"><b><em>"Saya belajar banyak perkara tentang aktiviti ini." - Umairah, 2LO</em></b></p>
 
-<h5><u>P3: Silat</u></h5>
+<h6><u>P3: Silat</u></h6>
 
 P3 students got the opportunity to learn Malay Martial Arts, Silat. The students listened and followed instructions closely to ensure that they were doing the actions correctly.
 
@@ -93,4 +93,23 @@ P3 students got the opportunity to learn Malay Martial Arts, Silat. The students
 
 <p align="center"><b><em>"I learnt how to defend and protect myself." - Aliya, 3RT
 <br>
-	"I learnt how to punch and kick properly. - Elias, 3RT</em></b></p>
+"I learnt how to punch and kick properly." - Elias, 3RT</em></b></p>
+
+<h6><u>P4: Kompang</u></h6>
+
+P4 students learnt how to play Malay traditional musical instrument called the Kompang. Generally, kompang is played in weddings and official ceremony. The students learnt to play the kompang beats.
+
+<table>
+	<tr>
+		<td>
+			<img src="/images/P4_1.jpg"/>
+		</td>
+		<td>
+			<img src="/images/P4_2.jpg"/>
+		</td>
+	</tr>
+</table>
+
+<p align="center"><b><em>"I find playing kompang in different ways is interesting."- Noorsalizah, 4RY
+<br>
+"I found it interesting that it is more difficult to hold the kompang while standing than sitting down." - Leann, 4RT</em></b></p>
