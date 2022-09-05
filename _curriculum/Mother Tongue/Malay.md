@@ -154,4 +154,32 @@ P6 students learnt Jawi writing, an old Malay form of writing. They were fascina
 <p align="center"><b><em>"I learnt the different types of Jawi letters & when the writing started.- Nabilah, 6IN
 <br>
 "I like when we get to write our name in Jawi." - Delisha, 6PE</em></b></p>
-	
+
+*   [P1 to P2 Programmes](/curriculum/mother-tongue/malay#p1p2)
+*   [P3 to P4 Programmes](/curriculum/mother-tongue/malay#p3p4)
+*   [P5 to P6 Programmes](/curriculum/mother-tongue/malay#p5p6)
+
+<h5><a id="p1p2">P1 to P2 Programme</a></h5>
+
+1.  **Show & Tell**  
+    Students share an artefact with their classmates and answer questions.
+2.  **Reading**  
+    *   Buddy Reading Programme
+    *   Reading Logs & Badges
+    *   10 minutes Reading
+3.  **ICT – 10CMT**
+
+<h5><a id="p3p4"> P3 to P4 Programmes</a></h5>
+
+*   Stretch and Support Programme
+*   10 mins Reading session every day
+*   MT Fortnight Activity : Bunga Manggar & Lukisan Batik
+*   IMTL for P4
+
+<h5><a id="p5p6">P5 to P6 Programmes</a></h5>
+
+*   Mass Lectures during Supplementary lessons for 1 term
+*   MT Fortnight Activities : Kite making & Nasi Ambeng
+*   Language & Cultural trail
+*   iMTL Portal
+*   10 mis reading sessions everyday
