@@ -141,7 +141,7 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 | ![](/images/2%20(5).jpg) | ![](/images/3%20(4).jpg) |
 
 
-<a id="menu3"><h5>P5 to P6 Programmes</h5></a>
+<h5><a id="menu3">P5 to P6 Programmes</a></h5>
 
 ###### MATHEMATICS OLYMPIAD TRAINING PROGRAMME
 
