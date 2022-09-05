@@ -163,8 +163,8 @@ P6 students learnt Jawi writing, an old Malay form of writing. They were fascina
 
 <h5><a id="p1p2">P1 to P2 Programme</a></h5>
 
-1.  **Show & Tell**  <br>
-    Students share an artefact with their classmates and answer questions.<br>
+1.  **Show & Tell** <br>
+Students share an artefact with their classmates and answer questions.<br>
 2.  **Reading**  
 *   Buddy Reading Programme
 *   Reading Logs & Badges
