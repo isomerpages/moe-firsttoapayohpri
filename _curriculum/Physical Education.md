@@ -13,13 +13,14 @@ description: ""
 			To develop the efficiency, effectiveness and versatility in movement for every child
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		Every child taking initiative to be physically active and living healthily
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			Every child taking initiative to be physically active and living healthily
+		</td>
 	</tr>
 </table>
 
