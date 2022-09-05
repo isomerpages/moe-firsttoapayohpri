@@ -13,13 +13,14 @@ description: ""
 			To inculcate positive attitudes towards the learning of Mathematics and cultivate analytical and logical thinking for problem-solving.
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		To nurture logical, critical and independent problem-solvers.
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			To nurture logical, critical and independent problem-solvers.
+		</td>
 	</tr>
 </table>
 
