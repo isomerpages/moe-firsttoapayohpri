@@ -49,6 +49,7 @@ In the teaching and learning of mathematics, the school believes in building a s
 			<img src="/images/ma5.jpg" style="padding: 0px 180px 0px 0px"/>
 		</td>
 	</tr>
+</table>
 	
 We believe that students discover, reason and communicate their thinking as they work in collaboration with their peers. Through **collaborative learning**, students build confidence in problem-solving, foster an interest towards learning mathematics and importantly, acquire deeper knowledge in mathematics.
 	
@@ -72,3 +73,61 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 | ![](/images/ma05.jpg) | ![](/images/ma06.jpg) |
 | --- | --- |
 | ![](/images/ma07.jpg) | ![](/images/ma08.jpg) |
+
+
+##### P1 to P2 Programmes
+
+<table>
+	<tr>
+		<td width="50%">
+			<h6> P1 AND P2 EXPERIENTAL LEARNING</h6>
+			In the lower primary, students are equipped with a learning kit that focuses on helping students strengthen their numeracy skills – focusing on numbers and the four operations (+, -, x, ÷), applying these to solving word problem types, as well as allowing them to explore math even out of the classroom – from measurement topics to reinforcing numeracy skills that they learnt in school. Students use the learning aids in this kit to help them in improving their working memory. Here are some of the learning items in the learning kit: Digit Cards, Ten Frames, Clocks with adjustable hands and Measuring Tape
+		</td>
+		<td>
+			<br><br><br><br><br>
+			<img src="/images/P1%20%20P2%20Learning%20Kit.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h6>LEARNING SUPPORT FOR MATHEMATICS (LSM)</h6>
+			The LSM programme is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. Identified students will be supported by Math Teachers especially trained in LSM Teachers. In LSM classrooms, students experience the joy of learning through activity-based lessons focusing on small successes to build on their motivation.
+		</td>
+		<td>
+			<br><br><br><br>
+			<img src="/images/ma09.jpg"/>
+		</td>
+	</tr>
+</table>
+
+##### P3 to P4 Programmes
+
+###### P3 AND P4 EXPERIENTIAL LEARNING
+
+Since the 2021 CATalytics Project with SEAB research team, students learn through a series of lessons which involved procuring and customising day-to-day items (eg: 1 kg of rice, 650 g of flour, 1 kg 400 g of red beans, etc) and setting up learning stations in the hall, taking into much consideration prevailing SMM requirements. All students of varying academic progress benefit very much from the experiential and authentic hands-on experiences on the topic Measurement, especially the sub-topic Mass. The students’ learning experiences increase their motivation to explore real life objects, and heighten the relevance of Math to everyday activities.
+
+<table>
+	<tr>
+		<td>
+			<img src="/images/P3P4_1.jpg"/>
+		</td>
+		<td>
+			<img src="/images/P3P4_2.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/P3P4_3.jpg"/>
+		</td>
+		<td>
+			<img src="/images/P3P4_4.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/P3P4_5.jpeg"/>
+		</td>
+		<td></td>
+	</tr>
+</table>
+			
