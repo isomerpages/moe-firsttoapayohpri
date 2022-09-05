@@ -16,13 +16,14 @@ third_nav_title: ICT & MRL
 			Develop a Reading Child
 		</td>
 	</tr>
-	<td>
-		<img src="/images/vision.png" style="height:75px; width:75px"/>
-	</td>
-	<td> 
-		<h5>Vision</h5>
-		To develop the joy of reading in our FTPPS students.
-	</td>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px"/>
+		</td>
+		<td> 
+			<h5>Vision</h5>
+			To develop the joy of reading in our FTPPS students.
+		</td>
 	</tr>
 </table>
 
