@@ -155,6 +155,8 @@ P6 students learnt Jawi writing, an old Malay form of writing. They were fascina
 <br>
 "I like when we get to write our name in Jawi." - Delisha, 6PE</em></b></p>
 
+--------------------
+
 *   [P1 to P2 Programmes](/curriculum/mother-tongue/malay#p1p2)
 *   [P3 to P4 Programmes](/curriculum/mother-tongue/malay#p3p4)
 *   [P5 to P6 Programmes](/curriculum/mother-tongue/malay#p5p6)
