@@ -62,4 +62,4 @@ Primary 2 - Netiquette  <br>
 Primary 3 - Cyberbullying  <br>
 Primary 4 - Dangers with cyber contacts  <br>
 Primary 5 - Handling inappropriate content  <br>
-Primary 6 - Copyright**w
+Primary 6 - Copyright**
