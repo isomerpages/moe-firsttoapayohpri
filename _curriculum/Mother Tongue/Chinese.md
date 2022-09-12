@@ -44,6 +44,15 @@ We also take into consideration different students’ learning needs, and help s
 
 This year’s Mother Tongue Fortnight promises an infusion of joyful learning experiences that seek to enthuse and unleash the potential of our students. Primary 1, 3 and 6 students made hand puppets, round fan paintings and decorated bamboo clips to gain hands-on experience in traditional handcrafts. The students from Primary 2, 4 and 5 immersed themselves in the performing arts such as recitation using bamboo clappers and playing on the waist drum. In addition, students of all levels also took part in different literary competitions, such as poetry recitation, Chinese songs singing and penmanship. Our students learn and appreciate their cultures through the cultural activities and instill the interest in the learning of the Chinese Language.
 
-![](/images/20190716_085120.jpg)
-
-![](/images/20190716_124052.jpg)
+<table>
+	<tr>
+		<td width="45%"><img src="/images/20190716_085120.jpg"/></td>
+		<td><img src="/images/20190716_124052.jpg"/></td>
+		<td><img src="/images/20190716_125907.jpg"/></td>
+	</tr>
+	<tr>
+		<td colspan="3">
+			<img src="/images/20190716_130710.jpg" style="width:70%"/>
+		</td>
+	</tr>
+</table>
