@@ -79,25 +79,22 @@ P1 CLEM was implemented in July 2017. It allows&nbsp;students with the interest 
 
 Cultural Performance Exposure Scheme (CPES) aims to expose school students to Chinese language-related cultural performance by local and foreign performing arts groups, through providing schools with the necessary funding and support.&nbsp;  
 
+<br><br>
 <h5 href="menu1">Conversational Chinese/Malay Programme (CCM) for P3 &amp; P4 students.</h5>
 
-**The aims of introducing CCM programme are two-fold:**&nbsp;
-
+**The aims of introducing CCM programme are two-fold:**
+<br>
 a) to strengthen social cohesion among the races in Singapore; and
-
+<br>
 b) to enable Singaporeans to have some grounding in the language so that they could more&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;easily&nbsp; pick up the language should they need it for economic or other reasons in adult life.&nbsp;&nbsp;
 
-### Cultural Performance Exposure Scheme (P1-P6)
+<h5> Cultural Performance Exposure Scheme (P1-P6)</h5>
 
 Cultural Performance Exposure Scheme (CPES) aims to expose school students to Chinese language-related cultural performance by local and foreign performing arts groups, through providing schools with the necessary funding and support.&nbsp;
 
-### Other Chinese E-Learning Portals
+<h5 href="menu2"> Other Chinese E-Learning Portals</h5>
 
-  
-
-  
-
-![ezhishi.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Mother%20Tongue/Chinese/ezhishi.jpg)**P1-P6 Ezhishi.Net Portal　易华文• 知识网**&nbsp;
+![](/images/ezhishi.jpg)**P1-P6 Ezhishi.Net Portal　易华文• 知识网**
 
   
 [Go to Website &gt;](http://www.ezhishi.net/)
