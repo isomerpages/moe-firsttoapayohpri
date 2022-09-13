@@ -30,10 +30,7 @@ Schools will charge an annual nominal fee for a child on LOA. The amount will be
 
 At the end of each year, you will need to decide whether to renew the LOA for another year. Your child’s LOA status will expire if you choose not to renew.
 
-  
-
-**How to apply**  
-
+<h6><u>How to apply</u></h6>
 Follow these steps to apply for LOA:
 
 1.  Complete the [application form](https://go.gov.sg/ftppsleaveofabsence).
