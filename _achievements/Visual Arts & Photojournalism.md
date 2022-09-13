@@ -23,6 +23,16 @@ description: ""
 
 <img src= "/images/SYF1.jpg" style="width:80%"/>
 <img src= "/images/SYF2.jpg" style="width:80%"/>
-<br>
+<br> <br>
 <img src="/images/1_Photojournalism.jpg" style="width:80%"/> 
-1-8
+<img src="/images/2_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/3_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/4_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/5_Photojournalism.jpg" style="width:80%"/> 
+<br> <br>
+<img src="/images/6_Photojournalism.jpg" style="width:80%"/> 
+<br> <br>
+<img src="/images/7_Photojournalism.jpg" style="width:80%"/> 
+<br> <br>
+<img src="/images/8_Photojournalism.jpg" style="width:80%"/> 
+
