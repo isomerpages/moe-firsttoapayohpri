@@ -88,3 +88,71 @@ This programme is aligned to MOE’s Curriculum C2015 initiatives to develop con
 		<td> <img src="/images/S&D4.jpg"/> </td>
 	</tr>
 </table>
+
+#### Programmes
+
+*   [P1 to P2 Programmes](/curriculum/english-language#home2)
+*   [P3 to P4 Programmes](/curriculum/english-language#menu3)
+*   [P5 to P6 Programmes](/curriculum/english-language#menu4)
+
+<h5 href="home2"> P1 to P2 Programmes </h5>
+
+###### Learning Support Programme (LSP)
+
+*   Students are given the support to bridge gaps in reading and writing to cope in English lessons.
+
+###### Reading
+
+*   Buddy Reading Programme
+*   Reading Logs & Badges 
+*   Uninterrupted Silent Reading (Tue, Thurs, Fri morning)
+*   Zoophonics
+
+###### MLEA Writing
+
+*   Students undergo class, group and individual writing processes following the reading of a text.
+
+<table>
+	<tr>
+		<td>
+			<img src="/images/MLEA1.jpg"/>
+		</td>
+		<td>
+			<img src="/images/MLEA.jpg"/>
+		</td>
+	</tr>
+</table>
+
+<h5 href="menu3"> P3 to P4 Programmes </h5>  
+
+###### Learning Support
+
+*   School Based Dyslexia Remediation (SDR) The SDR programme aims to assist students with dyslexia in decoding words through syllabication and an understanding of phonics. Through rigorous cycles of 45 min lessons, it monitors the development of students across 2 years. 
+*   Reading Remediation Programme (RRP) RRP identifies children who are below the appropriate developmental reading age and guides them to decode mono and multi syllabic words with consideration of its meaning as part of a sentence. Through twice weekly sessions and progress monitoring cycles, it tracks the development of students across 2 years.
+
+###### Reading
+
+1\.  Read & Response common book reading in class <br>
+2\.  Uninterrupted Silent Reading (Tue, Thurs, Fri) morning.
+
+<table>
+	<tr>
+		<td width="46%">
+			<img src="/images/reading1.jpg"/>
+		</td>
+		<td>
+			<img src="/images/reading2.jpg"/>
+		</td>
+	</tr>
+</table>
+
+<h5 href="menu4"> P5 to P6 Programmes</h5>
+
+###### Learning Support
+
+AED LBS will continue to support students with learning needs. This can take the form of both in-class or pull-out interventions during English lessons.  
+
+###### Reading
+
+1\.  Read & Response common book reading in class <br>
+2\.  Uninterrupted Silent Reading (Tue, Thurs, Fri) morning.
