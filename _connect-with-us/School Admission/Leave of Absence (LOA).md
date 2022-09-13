@@ -33,7 +33,7 @@ At the end of each year, you will need to decide whether to renew the LOA for an
 <h6><u>How to apply</u></h6>
 Follow these steps to apply for LOA:
 
-1.  Complete the [application form](https://go.gov.sg/ftppsleaveofabsence).
-2.  Submit the application form to your child’s school. LOA application is subject to the Principal's approval, and the school will notify you of the outcome.
-3.  Upon approval, the school will inform you of the amount payable. Enclose a cheque made payable to the school (if the application is made by post) or make a cash payment at the school. Please do not send cash by post. 
-4.  Renew LOA in **November** each year by submitting the renewal application form together with the required payment.
+1\.  Complete the [application form](https://go.gov.sg/ftppsleaveofabsence). <br>
+2\.  Submit the application form to your child’s school. LOA application is subject to the Principal's approval, and the school will notify you of the outcome.<br>
+3\.  Upon approval, the school will inform you of the amount payable. Enclose a cheque made payable to the school (if the application is made by post) or make a cash payment at the school. Please do not send cash by post. <br>
+4\.  Renew LOA in **November** each year by submitting the renewal application form together with the required payment.
