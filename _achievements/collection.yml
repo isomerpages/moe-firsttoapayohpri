@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - Environmental Awards.md
       - Performing Arts.md
       - Sports and Games.md
       - Uniform Groups.md
