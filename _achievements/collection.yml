@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Visual Arts & Photojournalism.md
       - Other Achievements.md
