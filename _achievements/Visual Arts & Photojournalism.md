@@ -34,5 +34,32 @@ description: ""
 <br> <br>
 <img src="/images/7_Photojournalism.jpg" style="width:80%"/> 
 <br> <br>
-<img src="/images/8_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/8_Photojournalism.jpg" style="width:80%"/>
+<br> <br>
 
+![PUB Conservation Photography Competition award p2.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20p2.jpg)  
+< image exceeds 5MB >
+
+![PUB Conservation Photography Competition award (1).jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20(1).jpg)  
+< image exceeds 5MB >
+
+![PUB Conservation Photography Competition award revised p3.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20revised%20p3.jpg)  
+< image exceeds 5MB >
+  
+![PUB Conservation Photography Competition award revised p5.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20revised%20p5.jpg)  
+< image exceeds 5MB >
+  
+![PUB Conservation Photography Competition award p6.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20p6.jpg)
+< image exceeds 5MB >
+
+<br> <br> <br>
+
+#### 2018 Awards
+
+<img src="/images/website_photo1.jpg" style="width:80%"/>
+<br> <br>
+<img src="/images/1%20(5).jpg" style="width:80%"/>
+<img src="/images/2%20(6).jpg" style="width:80%"/>
+<img src="/images/3%20(5).jpg" style="width:80%"/>
+<img src="/images/4%20(5).jpg" style="width:80%"/>
+<img src="/images/5%20(5).jpg" style="width:80%"/>
