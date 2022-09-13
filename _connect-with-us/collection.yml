@@ -2,5 +2,6 @@ collections:
   connect-with-us:
     output: true
     order:
+      - School Admission/Leave of Absence (LOA).md
       - School Admission/.keep
       - Contact Us.md
