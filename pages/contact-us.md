@@ -13,13 +13,28 @@ locations:
     title: School Address
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6256 7822
+      - email: ""
+      - other: ""
+    title: Telephone
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: ""
+      - other: 157, 153, 105, 159, 88, 238
+    title: Bus Services
+  - content:
+      - phone: +65 6256 1102
+      - email: ""
       - other: ""
-    title: Careers
+    title: Fax
+  - content:
+      - phone: ""
+      - email: ""
+      - other: NS18 Braddell, NS19 Toa Payoh
+    title: MRT Stations
+  - content:
+      - phone: ""
+      - email: ftpps@moe.edu.sg
+      - other: ""
+    title: Email
 ---
