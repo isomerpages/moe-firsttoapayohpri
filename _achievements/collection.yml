@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Uniform Groups.md
       - Visual Arts & Photojournalism.md
       - Other Achievements.md
