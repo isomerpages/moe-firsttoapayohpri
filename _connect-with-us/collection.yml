@@ -2,4 +2,5 @@ collections:
   connect-with-us:
     output: true
     order:
+      - School Admission/.keep
       - Contact Us.md
