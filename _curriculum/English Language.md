@@ -156,3 +156,18 @@ AED LBS will continue to support students with learning needs. This can take the
 
 1\.  Read & Response common book reading in class <br>
 2\.  Uninterrupted Silent Reading (Tue, Thurs, Fri) morning.
+
+<table>
+	<tr>
+		<td width="49.5%">
+			<img src="/images/reading3.jpg"/>
+		</td>
+		<td>
+			<img src="/images/reading4.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/images/reading5.jpg" style="width:70%"/>
+		</td>
+</table>
