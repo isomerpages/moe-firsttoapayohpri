@@ -45,7 +45,7 @@ description: ""
 			</a>
 		</td>
 		<td colspan="2">
-			<a href="/contact-us">
+			<a href="/contact-us/">
 				<img src="/images/contact.jpg">
 				<br>
 				<p align="center">• Contact Us •</p>
