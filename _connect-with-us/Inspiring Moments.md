@@ -11,6 +11,10 @@ description: ""
 
 <iframe width="944" height="531" src="https://www.youtube.com/embed/Yb7GM5uz7bs" title="Reminiscences of FTPPS Alumni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<img src="/images/Inspiring%20Moments1.jpg" style="width:80%"/>
+<img src="/images/Inspiring%20Moments2.jpg" style="width:80%"/>
+<img src="/images/Inspiring%20Moments3.jpg" style="width:80%"/>
+
 <br>
 <br>
 <br>
