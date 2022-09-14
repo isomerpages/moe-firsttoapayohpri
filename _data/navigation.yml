@@ -1,2 +1,10 @@
 logo: /images/isomer-logo.svg
-links: []
+links:
+  - title: About Us
+    collection: about-us
+  - title: FTPPS Family
+    collection: fttps-family
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Menu Title
+    collection: about-us
