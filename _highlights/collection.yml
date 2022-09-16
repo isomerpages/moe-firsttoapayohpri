@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2018/Speech & Drama 2018.md
       - 2018/Sports 4 All 2018.md
       - 2018/Fitness Fun Week 2018.md
       - 2018/.keep
