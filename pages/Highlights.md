@@ -97,22 +97,22 @@ description: ""
 
 <table>
 	<tr>
-		<td width="25%">
+		<td width="26.5%">
 			<a href="/highlights/e-open-house-2020">
 				<img src="/images/e-Open%20House%202020.jpg"/>
 			</a>
 		</td>
-		<td width="25%">
+		<td>
 			<a href="/highlights/ministers-visit-to-ftpps">
 				<img src="/images/Minister%20Visit%20to%20FTPPS%204.png"/>
 			</a>
 		</td>
-		<td width="25%">
+		<td>
 			<a href="/highlights/support-for-students">
 				<img src="/images/Support%20for%20Students%202020.png"/>
 			</a>
 		</td>
-		<td width="25%">
+		<td>
 			<a href="/highlights/ftpps-digital-reading-challenge-2020">
 				<img src="/images/FTPPS%20Reading%20Challenge%202020.png"/>
 			</a>
@@ -124,9 +124,9 @@ description: ""
 				<img src="/images/House%20Practice%202020.png"/>
 			</a>
 		</td>
-		<td width="25%">		</td>
-		<td width="25%">		</td>
-		<td width="25%">		</td>
+		<td>		</td>
+		<td>		</td>
+		<td>		</td>
 	</tr>	
 </table>
 
