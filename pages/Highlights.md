@@ -189,20 +189,20 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/highlights/tinkerlution-2019">
+				<img src="/images/Tinkerlution%202019.png"/>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/highlights/outdoor-resilience-walk-2019">
+				<img src="/images/ORW%202019.png"/>
 			</a>
 		</td>
 	</tr>
 		<tr>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
+			<a href="/highlights/p3-sports-education-programme-2019">
+				<img src="/images/P3%20SEP%202019.png"/>
 			</a>
 		</td>
 		<td width="25%">
