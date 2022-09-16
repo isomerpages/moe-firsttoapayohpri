@@ -13,10 +13,8 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="link">
-				<img src="img"/>
-				<br>
-				<p align="center">• text •</p>
+			<a href="/highlights/p2-sports-education-programme-2022">
+				<img src="/images/Logo%20P2%20Sports%20Education%20Programme%202022.png"/>
 			</a>
 		</td>
 		<td width="25%">
