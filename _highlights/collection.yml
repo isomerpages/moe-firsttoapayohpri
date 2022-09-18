@@ -2,8 +2,9 @@ collections:
   highlights:
     output: true
     order:
-      - 2019/Open House Photographs.md
+      - 2019/.keep
       - 2019/Open House 2019.md
+      - 2019/Open House Photographs.md
       - 2019/Tinkerlution 2019.md
       - 2019/Outdoor Resilience Walk 2019.md
       - 2019/P3 Sports Education Programme 2019.md
@@ -17,7 +18,6 @@ collections:
       - 2019/Prize Giving Day 2019.md
       - 2019/The Young Student Programme 2019.md
       - 2019/NE Show 2019.md
-      - 2019/.keep
       - 2018/Malay Cultural Quest 2018.md
       - 2018/P6 OLJ to Malacca 2018.md
       - 2018/P5 OLJ to Hong Kong 2018.md
