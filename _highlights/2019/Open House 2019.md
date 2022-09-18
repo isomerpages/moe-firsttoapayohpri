@@ -23,7 +23,7 @@ Click [here](/highlights/open-house-2019/open-house-photographs) to view more 
 | I am better informed of the programmes offered at FTPPS | 68 % | 32 % | - | - |
 | The sharing/dialogue session with the school leaders was beneficial | 57 % | 39 % | 4 %  | - |
 
-###### What did you like most about the Open House?
+##### What did you like most about the Open House?
 
 *   The informative experience given to the parents as well as to the preschool educators. Thank you for spending time to speak to and inform the parents of the necessary information that they have to know. Principal’s sharing is also a good avenue to connect to parents.
 *   Very well-organised and very detailed information about school.
@@ -44,7 +44,7 @@ Click [here](/highlights/open-house-2019/open-house-photographs) to view more 
 *   The school leaders-parents session at the Seminar Room.
 *    Teachers and Principal are friendly and approachable.
 
-###### Based on your overall experience at our Open House, would you recommend First Toa Payoh Primary School to a friend?  \[ Yes \]
+##### Based on your overall experience at our Open House, would you recommend First Toa Payoh Primary School to a friend?  \[ Yes \]
 
 *   I was impressed and love how well-rounded the learning programmes that the school offers are. I also love how some of the student volunteers explained what they have learnt.
 *    Friendly, approachable and supportive environment.
