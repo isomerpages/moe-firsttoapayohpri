@@ -2,5 +2,6 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
+      - Safe Management Measures.md
       - Parents' Testimonial.md
       - Parents' Resources.md
