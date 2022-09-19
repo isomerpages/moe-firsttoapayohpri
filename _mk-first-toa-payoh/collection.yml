@@ -2,4 +2,5 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
+      - Parents' Testimonial.md
       - Parents' Resources.md
