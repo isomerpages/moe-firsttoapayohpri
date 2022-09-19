@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2020/Support for Students.md
       - 2020/FTTPS Digital Reading Challenge 2020.md
       - 2020/House Practice 2020.md
       - 2020/.keep
