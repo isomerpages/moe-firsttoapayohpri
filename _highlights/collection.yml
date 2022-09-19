@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2020/House Practice 2020.md
       - 2020/.keep
       - 2019/Sports for All 2019.md
       - 2019/Storytelling Session 2019.md
