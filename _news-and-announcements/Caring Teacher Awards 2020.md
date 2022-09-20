@@ -23,14 +23,14 @@ All parents and students are invited to submit their nominations. Shortlisted c
 The CTA is organised by the National Institute of Education, Singapore, in partnership with ExxonMobil Asia Pacific Pte Ltd, with the support of the Ministry of Education.
 
 Please submit your nominations through the following link:
-
+<br>
 [https://www.cta.nie.edu.sg/nominate](https://www.cta.nie.edu.sg/nominate)  
   
 
 Completed nomination forms can be submitted to Mrs Pearly Goh (School Staff Developer) through:
-
+<br>
 (1) email (tan\_kui\_ing\_pearly@moe.edu.sg) for soft copies or,
-
+<br>
 (2) the mail box outside the KIP Hub for hard copies.
 
 **All nomination forms must be submitted by 20 October 2019.**
