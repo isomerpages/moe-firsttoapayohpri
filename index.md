@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: First Toa Payoh Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -49,3 +49,4 @@ sections:
       button: Click here
       url: /others/news-n-announcements/sports-for-all-2021-updates
 ---
+
