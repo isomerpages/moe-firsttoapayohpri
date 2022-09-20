@@ -51,4 +51,5 @@ description: ""
 				<p align="center">• Contact Us •</p>
 			</a>
 		</td>
+	</tr>
 </table>
