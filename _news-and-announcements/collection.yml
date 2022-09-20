@@ -2,6 +2,8 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - FTTPS Visual Art Presentation/Visual Art Presentation Invitation
+        Letter.md
       - FTTPS Visual Art Presentation/.keep
       - MOE's Seminar on Preparing Your Child's Transition to Secondary School.md
       - P1 Orientation Slides.md
