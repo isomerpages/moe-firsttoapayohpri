@@ -48,7 +48,7 @@ Partner the school in providing a holistic education for your child
 <br>
 Opportunities to work with teacher and other parents and get to know one another and collaborate
 
-**Volunteer **
+**Volunteer**
 <br>
 Engage in meaningful programmes to enrich our students’ learning
 
