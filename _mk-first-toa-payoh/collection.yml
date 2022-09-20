@@ -2,6 +2,7 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
+      - MOE Kindergarten (MK) Open House.md
       - Events.md
       - Learning Experiences.md
       - K1 Orientation 2021.md
