@@ -97,11 +97,11 @@ This programme is aligned to MOE’s Curriculum C2015 initiatives to develop con
 
 <h4 href="home2"> P1 to P2 Programmes </h4>
 
-###### Learning Support Programme (LSP)
+##### Learning Support Programme (LSP)
 
 *   Students are given the support to bridge gaps in reading and writing to cope in English lessons.
 
-###### Reading
+##### Reading
 
 *   Buddy Reading Programme
 *   Reading Logs & Badges 
