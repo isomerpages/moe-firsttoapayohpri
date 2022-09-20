@@ -2,27 +2,27 @@ collections:
   curriculum:
     output: true
     order:
-      - CCA.md
       - Curriculum.md
       - English Language.md
+      - Mother Tongue/.keep
       - Mother Tongue/Chinese.md
       - Mother Tongue/Malay.md
       - Mother Tongue/Tamil.md
-      - Mother Tongue/.keep
       - Mathematics.md
       - Science.md
+      - CCE/.keep
       - CCE/Character and Citizenship Education (CCE).md
       - CCE/National Education.md
       - CCE/Student Leadership.md
       - CCE/Sexuality Education (SEd).md
-      - CCE/.keep
+      - ICT & MRL/.keep
       - ICT & MRL/ICT & MRL.md
       - ICT & MRL/Infocomm Technology.md
       - ICT & MRL/Media Resource Library (KIP Hub).md
-      - ICT & MRL/.keep
+      - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Visual Art Gallery.md
       - Aesthetics/Music Gallery.md
-      - Aesthetics/.keep
       - Physical Education.md
       - CCA & PAL.md
+      - CCA.md
