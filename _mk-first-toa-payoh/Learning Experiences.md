@@ -3,3 +3,19 @@ title: Learning Experiences
 permalink: /mk-at-first-toa-payoh/learning-experiences/
 description: ""
 ---
+<img src="/images/Storytelling%20by%20parent%20volunteers%202022_Page_1.jpg" style="width:80%"/>
+<br>
+<img src="/images/Storytelling%20by%20parent%20volunteers%202022_Page_2.jpg" style="width:80%"/>
+<br>
+<img src="/images/Duckie%20Cant%20Swim%20Learning%20Experiences.jpg" style="width:80%"/>
+<br>
+<img src="/images/K2%20Occupation%20Learning%20Experiences.jpg" style="width:80%"/>
+
+
+<br>
+<br>
+<br>
+
+<a href="/mk-at-first-toa-payoh/learning-experiences#lo_main">
+	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+</a>
