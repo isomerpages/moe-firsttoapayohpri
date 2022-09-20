@@ -2,6 +2,7 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
+      - Learning Experiences.md
       - K1 Orientation 2021.md
       - MK@First Toa Payoh Virtual Tour.md
       - Safe Management Measures.md
