@@ -14,7 +14,7 @@ From April 2019 onward, parents will receive all school notifications and cons
 
 ![](/images/1PG%20One-Time%20Onboarding%20Guide%20002_Page_1.jpg)
 
-![](/images/PG%20Animated%20Gif.gif)
+<img src="/images/PG%20Animated%20Gif.gif" style="width:70%"/>
 
 For more information: 
 <br>
