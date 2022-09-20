@@ -26,49 +26,49 @@ description: ""
 
 <img src="/images/EL.jpg" style="width:70%"/>
 
-#### Stellar
+### Stellar
 
 The STELLAR framework guides the teaching and learning of English language in seeking to develop students listening, speaking, reading and writing competencies.
 
-**Lower Primary** 
+#### Lower Primary
 <br>
 Students experience the Shared Book Approach, Modified Language Experience (MLEA) writing and Learning Centres to learn skills related to “learning to read”, writing, speaking and listening.
 
-**Upper Primary** 
+#### Upper Primary
 <br>
 Students are taught progressive skills of Sustained Silent Reading, Supported Reading, KWL and Retelling and language activities. They engage in the Writing Process Cycle where they read, write and rewrite drafts in exploring language use. Learning takes place through differentiated instruction.
 
-#### Programmes
+### Programmes
 
-##### Speaking Programmes
+#### Speaking Programmes
 
 The STELLAR framework guides the teaching and learning of English language in seeking to develop students listening, speaking, reading and writing competencies.
 
 **Speaking Programmes**: Students develop confidence in speaking through a spiral approach to cultivating appropriate intonation, expression and pronunciation. 
 
-###### Lower Primary (P1 and P2)
+##### Lower Primary (P1 and P2)
 
 **Show and Tell**
 
 Students talk about an artefact they bring to school with their classmates and answer questions raised by them.
 
-###### Middle Primary (P3 and P4)
+##### Middle Primary (P3 and P4)
 
 **One Minute of Fame**
 
 Students are given the opportunity to present on a topic of their interest or passion to their classmates.
 
-###### Upper Primary (P5 and P6)
+##### Upper Primary (P5 and P6)
 
 **Seek and Speak**
 
 Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice. 
 
-##### Literacy Through Photojournalism
+#### Literacy Through Photojournalism
 
 Students engage in discussion on photographs taken by peers in this unique programme. Through the thinking routine ‘I SEE, I THINK, I WONDER’, students learn to articulate their observations of the shot composition, the emotions the photograph portrays, and their opinions on environmental messages and issues captured in the shots. Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to talk about the photographs. They will eventually use these skills to compose their photojournal to share their message with their audience.
 
-##### Speech and Drama
+#### Speech and Drama
 
 This programme is aligned to MOE’s Curriculum C2015 initiatives to develop confident pupils and the Primary Education Review & Implementation (PERI) recommendation to use engaging teaching pedagogies. All P1 & P2 students undergo 12 sessions of drama training in preparation for the Drama Extravaganza held twice a year. Be sure to catch them in action!
 
@@ -89,13 +89,13 @@ This programme is aligned to MOE’s Curriculum C2015 initiatives to develop con
 	</tr>
 </table>
 
-#### Programmes
+### Programmes
 
 *   [P1 to P2 Programmes](/curriculum/english-language#home2)
 *   [P3 to P4 Programmes](/curriculum/english-language#menu3)
 *   [P5 to P6 Programmes](/curriculum/english-language#menu4)
 
-<h5 href="home2"> P1 to P2 Programmes </h5>
+<h4 href="home2"> P1 to P2 Programmes </h4>
 
 ###### Learning Support Programme (LSP)
 
@@ -108,7 +108,7 @@ This programme is aligned to MOE’s Curriculum C2015 initiatives to develop con
 *   Uninterrupted Silent Reading (Tue, Thurs, Fri morning)
 *   Zoophonics
 
-###### MLEA Writing
+##### MLEA Writing
 
 *   Students undergo class, group and individual writing processes following the reading of a text.
 
@@ -123,14 +123,14 @@ This programme is aligned to MOE’s Curriculum C2015 initiatives to develop con
 	</tr>
 </table>
 
-<h5 href="menu3"> P3 to P4 Programmes </h5>  
+<h4 href="menu3"> P3 to P4 Programmes </h4>  
 
-###### Learning Support
+##### Learning Support
 
 *   School Based Dyslexia Remediation (SDR) The SDR programme aims to assist students with dyslexia in decoding words through syllabication and an understanding of phonics. Through rigorous cycles of 45 min lessons, it monitors the development of students across 2 years. 
 *   Reading Remediation Programme (RRP) RRP identifies children who are below the appropriate developmental reading age and guides them to decode mono and multi syllabic words with consideration of its meaning as part of a sentence. Through twice weekly sessions and progress monitoring cycles, it tracks the development of students across 2 years.
 
-###### Reading
+##### Reading
 
 1\.  Read & Response common book reading in class <br>
 2\.  Uninterrupted Silent Reading (Tue, Thurs, Fri) morning.
@@ -148,11 +148,11 @@ This programme is aligned to MOE’s Curriculum C2015 initiatives to develop con
 
 <h5 href="menu4"> P5 to P6 Programmes</h5>
 
-###### Learning Support
+##### Learning Support
 
 AED LBS will continue to support students with learning needs. This can take the form of both in-class or pull-out interventions during English lessons.  
 
-###### Reading
+##### Reading
 
 1\.  Read & Response common book reading in class <br>
 2\.  Uninterrupted Silent Reading (Tue, Thurs, Fri) morning.
