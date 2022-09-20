@@ -2,6 +2,8 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - FTTPS Visual Art Presentation/FTPPS Visual Art Presentation@Toa Payoh
+        Public Library.md
       - FTTPS Visual Art Presentation/Visual Art Presentation Invitation
         Letter.md
       - FTTPS Visual Art Presentation/.keep
