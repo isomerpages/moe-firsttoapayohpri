@@ -2,4 +2,5 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - Outstanding Youth in Education Award (OYEA) 2022.md
       - Caring Teacher Awards (CTA).md
