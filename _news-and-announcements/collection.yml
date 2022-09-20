@@ -2,6 +2,7 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - P1 Orientation Slides.md
       - Caring Teacher Awards 2020.md
       - President's Award for Teachers 2020.md
       - SMM @ FTPPS.md
