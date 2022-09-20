@@ -37,7 +37,7 @@ description: ""
 	<tr>
 		<td></td>
 		<td>
-			<a href="/ftpps-family/parents-corner">
+			<a href="/ftpps-family/parents-corner/monthly-letters-to-parents">
 				<img src="/images/PARENTS.jpg"/>
 				<br>
 				<p align="center">• Parents' Corner •</p>
