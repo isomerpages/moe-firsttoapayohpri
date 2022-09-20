@@ -43,14 +43,14 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/ict-n-mrl/media-recource-library-kip-hub">
+			<a href="//curriculum/ict-n-mrl/media-recource-library-kip-hub">
 				<img src="/images/MRL.jpg"/>
 				<br>
 				<p align="center">• Media Resource Library •</p>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/ict-n-mrl/info-comm-technology">
+			<a href="/curriculum//ict-n-mrl/info-comm-technology">
 				<img src="/images/ICT.jpg"/>
 				<br>
 				<p align="center">• ICT •</p>
