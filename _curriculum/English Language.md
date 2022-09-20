@@ -170,4 +170,5 @@ AED LBS will continue to support students with learning needs. This can take the
 		<td colspan="2">
 			<img src="/images/reading5.jpg" style="width:70%"/>
 		</td>
+	</tr>
 </table>
