@@ -87,8 +87,8 @@ We have a bright and cosy environment so that students can enjoy the facilities 
 
 ##### Accessibility to Books
 
-* **Collaboration with NLB**
-<img src="/images/image007.jpg" style="width:30%" align="left"/>
+* **Collaboration with NLB** 
+<br><img src="/images/image007.jpg" style="width:30%" align="left"/>
 <table>
 	<tr>
 		<td width="55%">
