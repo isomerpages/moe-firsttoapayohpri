@@ -32,7 +32,7 @@ In First Toa Payoh Primary School, our PE curriculum is closely aligned to the n
 
 For upper primary level, students learn about the various games concepts through the ‘Games Concept Approach’ (GCA) by playing modified games. We also aim to develop students’ core values and social emotional competencies through various learning experiences in the outdoors. We believe that when students enjoy their PE lessons, it kick-starts a love for a physically active lifestyle, which students can bring along with them long after they have left school.
 
-# Programmes < testing >
+### Programmes
 
 #### Sports-4-all
 
