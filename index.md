@@ -18,6 +18,9 @@ sections:
         - title: Virtual Tour
           description: ""
           url: /FTPPS-virtual-tour
+        - title: Inspiring Moments
+          description: ""
+          url: /connect-with-us/inspiring-moments
   - infobar:
       title: SMM @ FTPPS
       subtitle: News & Announcements
