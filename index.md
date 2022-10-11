@@ -8,19 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/home_static_banner.jpg
-      dropdown:
-        title: ""
-        options:
-          - title: MK @ First Toa Payoh
-            url: /mk-at-first-toa-payoh/our-mk-and-kcare-programmes
-          - title: e-Open House 2022
-            url: /e-open-house-2022
-          - title: FTPPS Virtual Tour
-            url: /FTPPS-virtual-tour
-          - title: Inspiring Moments
-            url: /connect-with-us/inspiring-moments
-          - title: Highlights
-            url: /highlights
+      key_highlights:
+        - title: MK @ First Toa Payoh
+          description: ""
+          url: /mk-at-first-toa-payoh/our-mk-and-kcare-programmes
+        - title: E-Open House 2022
+          description: ""
+          url: /e-open-house-2022
   - infobar:
       title: SMM @ FTPPS
       subtitle: News & Announcements
@@ -49,4 +43,3 @@ sections:
       button: Click here
       url: /others/news-n-announcements/sports-for-all-2021-updates
 ---
-
