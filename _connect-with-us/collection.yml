@@ -2,14 +2,14 @@ collections:
   connect-with-us:
     output: true
     order:
-      - Quicklinks.md
       - CONNECT with Us.md
       - Inspiring Moments.md
       - FTPPS in the News.md
       - Letters of Appreciation.md
+      - School Admission/.keep
       - School Admission/School Admission.md
       - School Admission/Primary 1 Registration.md
       - School Admission/Waitlist Application.md
       - School Admission/Leave of Absence (LOA).md
-      - School Admission/.keep
       - Contact Us.md
+      - Quicklinks.md
