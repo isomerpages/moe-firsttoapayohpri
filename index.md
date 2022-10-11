@@ -15,6 +15,9 @@ sections:
         - title: E-Open House 2022
           description: ""
           url: /e-open-house-2022
+        - title: Virtual Tour
+          description: ""
+          url: /FTPPS-virtual-tour
   - infobar:
       title: SMM @ FTPPS
       subtitle: News & Announcements
