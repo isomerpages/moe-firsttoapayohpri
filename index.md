@@ -37,15 +37,4 @@ sections:
       subtitle: News & Announcements
       button: More Information
       url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans
-  - infobar:
-      title: Home-Based Learning Timetable
-      subtitle: News & Announcements
-      button: More information
-      url: /ftpps-family/students-corner/home-based-learning-timetable
-  - infobar:
-      title: Sports-for-All 2021 Updates
-      subtitle: News & Announcements
-      description: Latest updates on Sports-for-All 2021!
-      button: Click here
-      url: /others/news-n-announcements/sports-for-all-2021-updates
 ---
