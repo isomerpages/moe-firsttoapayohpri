@@ -25,4 +25,4 @@ description: ""
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/firsttoapayohpri)
 ## **Parents**
-* [Parents Gateway Guide](https://firsttoapayohpri.moe.edu.sg/ftpps-family/parents-corner/parents-gateway)
+* [Parents Gateway Guide](/ftpps-family/parents-corner/parents-gateway)
