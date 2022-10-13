@@ -13,18 +13,16 @@ third_nav_title: Our MK and KCare Programmes
 		<td style="border: 1px solid grey"><p align="center"> 8am - 12pm </p></td>
 	</tr>
 	<tr>
-		<td style="border: 1px solid grey"><p align="center"> PM Session </p></td>
-		<td style="border: 1px solid grey"><p align="center"> 1pm - 5pm </p></td>
-	</tr>
+
 </table>
 
 <table style="border: 1px solid grey">
 	<tr>
-		<td colspan="2" style="border: 1px solid grey"> <p align="center"> <b> In 2022 <br> K1 and K2 (Full Day MK & KCare Programme)</b></p></td>
+		<td colspan="2" style="border: 1px solid grey"> <p align="center"> <b> In 2023 <br> K1 and K2 (Full Day MK & KCare Programme)</b></p></td>
 	</tr>
 	<tr>
 		<td rowspan="3" style="border: 1px solid grey">
-			<p align="center"> K1 Full Day Programme </p>
+			<p align="center">Full Day Programme </p>
 		</td>
 		<td style="border: 1px solid grey"><p align="center"> 7am - 8am (KCare) </p></td>
 	</tr>
@@ -35,14 +33,6 @@ third_nav_title: Our MK and KCare Programmes
 		<td style="border: 1px solid grey"><p align="center"> 12pm - 7pm (KCare) </p></td>
 	</tr>
 	<tr>
-		<td rowspan="3" style="border: 1px solid grey"><p align="center"> K2 Full Day Programme </p></td>
-		<td style="border: 1px solid grey"><p align="center"> 7am - 1pm (KCare) </p></td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid grey"><p align="center"> 1pm - 5pm (MK) </p></td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid grey"><p align="center"> 5pm - 7pm (KCare) </p></td>
 </table>
 
 
