@@ -40,17 +40,12 @@ Aesthetics department aims to bring out the passion and excellence in the Arts t
 #### 2019 Programmes
 
 ![](/images/website%20Buskstop%20Recess.jpg)
-
-![website Art@Recess (1).jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Aesthetics/website%20Art@Recess%20(1).jpg) < image exceeds 5MB >
-
-![website Classical Peekaboo@Recess (1).jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Aesthetics/website%20Classical%20Peekaboo@Recess%20(1).jpg) < image exceeds 5MB >
-
-![website Karaoke@Recess (1).jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Aesthetics/website%20Karaoke@Recess%20(1).jpg)  < image exceeds 5MB >
-
-![website Museum based learning (1).jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Aesthetics/website%20Museum%20based%20learning%20(1).jpg) < image exceeds 5MB >
+![](/images/Curriculum/Aesthetics/website%20Art@Recess_resize.jpg)
+![](/images/Curriculum/Aesthetics/website%20Classical%20Peekaboo@Recess%20(1)_resize.jpg)
+![](/images/Curriculum/Aesthetics/website%20Karaoke@Recess%20(1)_resize.jpg)
+![](/images/Curriculum/Aesthetics/website%20Museum%20based%20learning%20(1)_resize.jpg)
 
 #### 2018 Programmes
-
 ##### FIRST Clicks - Literacy Through Photography (LTP)
 
 As part of the school's Learning for Life Programme (LLP), all students from P1 to P6 participate in the Literacy Through Photography (LTP) programme where they learn to articulate their thoughts and inspirations through photography, reflections and jounals. Students are exposed to different photography tools ranging from the basic acrylic viewfinder, iPad, paper camera, compact camera to the professional DSLR cameras, over a 6-year progressive journey.
