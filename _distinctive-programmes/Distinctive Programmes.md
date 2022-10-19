@@ -36,4 +36,3 @@ description: ""
 	</tr>
 </table>
 
-[<- back to E-Open House 2021](/e-open-house-2021)
