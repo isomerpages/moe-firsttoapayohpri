@@ -4,8 +4,7 @@ permalink: /e-open-house-2022/
 description: ""
 image: /images/E Open house 2022 Banner.jpg
 ---
-
-#### [E-Open House 2022]((https://www.canva.com/design/DAEgAflmdhw/view?utm_content=DAEgAflmdhw&utm_campaign=designshare&utm_medium=embeds&utm_source=link))
+#### [E Open House 2022](https://www.canva.com/design/DAEgAflmdhw/2PyH59bcjS_aHtchB7IhPw/view?utm_content=DAEgAflmdhw&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 [Corporate Video](https://www.youtube.com/watch?v=IlsYkGqHfGo)
 <br>
 [Principal's Message](https://www.canva.com/design/DAEjYbIyEGQ/5QfQgsfNX5147Aw-XINOAQ/view?utm_content=DAEjYbIyEGQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
