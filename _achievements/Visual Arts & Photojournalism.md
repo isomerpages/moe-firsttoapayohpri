@@ -37,23 +37,16 @@ description: ""
 <img src="/images/8_Photojournalism.jpg" style="width:80%"/>
 <br> <br>
 
-![PUB Conservation Photography Competition award p2.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20p2.jpg)  
-< image exceeds 5MB >
+![](/images/Achievements/Visual%20Arts_Photojournalism/PUB%20Conservation%20Photography%20Competition%20award%20p2_resize.jpg)
 
-![PUB Conservation Photography Competition award (1).jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20(1).jpg)  
-< image exceeds 5MB >
+![](/images/Achievements/Visual%20Arts_Photojournalism/PUB%20Conservation%20Photography%20Competition%20award%20(1)_resize.jpg)
 
-![PUB Conservation Photography Competition award revised p3.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20revised%20p3.jpg)  
-< image exceeds 5MB >
-  
-![PUB Conservation Photography Competition award revised p5.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20revised%20p5.jpg)  
-< image exceeds 5MB >
-  
-![PUB Conservation Photography Competition award p6.jpg](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/Departments/Our%20Achievements/OTHERS/PUB%20Conservation%20Photography%20Competition%20award%20p6.jpg)
-< image exceeds 5MB >
+![](/images/Achievements/Visual%20Arts_Photojournalism/PUB%20Conservation%20Photography%20Competition%20award%20revised%20p3_resize.jpg)
 
-<br> <br> <br>
+![](/images/Achievements/Visual%20Arts_Photojournalism/PUB%20Conservation%20Photography%20Competition%20award%20revised%20p5_resize.jpg)
 
+![](/images/Achievements/Visual%20Arts_Photojournalism/PUB%20Conservation%20Photography%20Competition%20award%20p6_resize.jpg)
+ <br> 
 #### 2018 Awards
 
 <img src="/images/website_photo1.jpg" style="width:80%"/>
