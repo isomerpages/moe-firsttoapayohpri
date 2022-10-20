@@ -50,7 +50,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/curriculum/media-recource-library-kip-hub">
+			<a href="/curriculum/media-resource-library-kip-hub">
 				<img src="/images/MRL.jpg"/>
 				<br>
 				<p align="center">• Media Resource Library •</p>
