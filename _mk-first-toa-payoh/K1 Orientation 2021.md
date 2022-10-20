@@ -5,4 +5,4 @@ description: ""
 ---
 Please click the link below for more information
 <br>
-[K1 Orientation 2021](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/MK%20@%20FY/K1%20Orientation%20Website.pdf) < file exceeds 5MB >
+[K1 Orientation 2021](/files/MK@First%20Toa%20Payoh/K1%20Orientation%20Website.pdf)
