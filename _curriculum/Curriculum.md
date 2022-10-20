@@ -46,7 +46,7 @@ description: ""
 			<a href="/curriculum/ict-n-mrl/info-comm-technology">
 				<img src="/images/ICT.jpg"/>
 				<br>
-				<p align="center">• ICT •</p>
+				<p align="center">• Info-comm Technology •</p>
 			</a>
 		</td>
 		<td width="25%">
