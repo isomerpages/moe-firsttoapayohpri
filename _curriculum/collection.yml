@@ -2,8 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Infocomm Technology.md
-      - Media Resource Library (KIP Hub).md
       - Curriculum.md
       - English Language.md
       - Mother Tongue/.keep
@@ -19,6 +17,8 @@ collections:
       - CCE/Sexuality Education (SEd).md
       - ICT & MRL/.keep
       - ICT & MRL/ICT & MRL.md
+      - Infocomm Technology.md
+      - Media Resource Library (KIP Hub).md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Visual Art Gallery.md
