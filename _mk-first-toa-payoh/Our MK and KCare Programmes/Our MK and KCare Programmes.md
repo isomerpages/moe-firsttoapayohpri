@@ -13,7 +13,6 @@ third_nav_title: Our MK and KCare Programmes
 		<td style="border: 1px solid grey"><p align="center"> 8am - 12pm </p></td>
 	</tr>
 	<tr>
-
 </table>
 
 <table style="border: 1px solid grey">
@@ -34,7 +33,6 @@ third_nav_title: Our MK and KCare Programmes
 	</tr>
 	<tr>
 </table>
-<br> 
 
 ##### Collaboration with Early Years Centres (EYC)
 
