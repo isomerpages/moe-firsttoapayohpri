@@ -4,13 +4,12 @@ permalink: /mk-at-first-toa-payoh/moe-kindergarten-mk-open-house/
 description: ""
 ---
 Please click on the link below for more information.  
-[2022 MK Open House slides](https://firsttoapayohpri.moe.edu.sg/qql/slot/u735/MK%20@%20FY/2022%20MK%20Open%20House%20slides%20Website.pdf)  < file exceeds 5MB >
+.
+[2022 MK Open House slides](/files/MK@First%20Toa%20Payoh/2022%20MK%20Open%20House%20slides%20Website.pdf)
   
 
 #### ON TO A STRONG START!
-
-  
-
+<br>
 Dear Parents,
 
 Are you looking for a quality and affordable kindergarten programme for your pre-school child?
