@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Infocomm Technology.md
       - Media Resource Library (KIP Hub).md
       - Curriculum.md
       - English Language.md
