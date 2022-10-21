@@ -136,15 +136,9 @@ description: ""
 
 <a href="/highlights#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/> 
-	
-<style>
-.center {
-  text-align: center;
-}
-</style>
-<body>
-<div class="center">
-  <p>Back to Top</p>
+<p align="center"><em>
+	Back to Top
+</em></p>
 </div>
 </body>
 </a>
