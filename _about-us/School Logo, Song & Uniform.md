@@ -60,7 +60,7 @@ The words of the motto, “MAKING IMPACT” also converge on the target centre t
 
 <small><b> Composed by Clement Chow </b></small>
 <br>
-< insert school song here >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3NpCmi8E4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### School Uniform
 
