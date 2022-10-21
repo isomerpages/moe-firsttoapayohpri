@@ -135,5 +135,19 @@ description: ""
 <br>
 
 <a href="/highlights#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/> 
+	
+<style>
+.center {
+  text-align: center;
+}
+</style>
+<body>
+
+
+<div class="center">
+  <p>Back to Top.</p>
+</div>
+</body>
+	
 </a>
