@@ -139,6 +139,4 @@ description: ""
 <p align="center"><em>
 	Back to Top
 </em></p>
-</div>
-</body>
 </a>
