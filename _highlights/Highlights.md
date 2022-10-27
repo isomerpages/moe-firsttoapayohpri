@@ -39,9 +39,27 @@ description: ""
 				<img src="/images/P5%20Sports%20Education%20Programme%202022.jpg"/>
 			</a>
 		</td>
-		<td width="25%">		</td>
-		<td width="25%">		</td>
+		<td width="25%">
+			<a href="/highlights/2022/P4-2D1N-OA-Camp-2022">
+				<img src="/images/Highlights/2022/P4%202D1N%20Outdoor%20Camp%202022/P4%202-Day%201-Night%20Outdoor%20Adventure%20Residential%20Camp%202022.jpg"/>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/P5-3D2N-OA-Camp-2022">
+				<img src="/images/Highlights/2022/P5%203D2N%20OA%20Camp/P5%203-Day%202-Night%20Outdoor%20Adventure%20Residential%20Camp%202022.jpg"/>
+			</a>
+		</td>
 	</tr>
+	<tr>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			</a>
+			</td>
+		<td width="25%">
+		<td width="25%">
+		<td width="25%">
+
 </table>
 
 #### 2021
