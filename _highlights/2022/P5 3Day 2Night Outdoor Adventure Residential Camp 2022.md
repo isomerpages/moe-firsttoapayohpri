@@ -11,5 +11,5 @@ third_nav_title: "2022"
 <a href="/P5-3D2N-OA-Camp-2022#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/> 
 	Back to Top
-	</p>
+
 </a>
