@@ -54,12 +54,12 @@ description: ""
 		<td width="25%">
 			<a href="/highlights/2022/drama-extravaganza-2022/">
 				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
-			</a>
+				</a>
 			</td>
-			<td width="25%">
-			<td width="25%">
-			<td width="25%">
-		</tr>
+			<td>		</td>
+			<td>		</td>
+			<td>		</td>
+	</tr>	
 </table>
 
 #### 2021
