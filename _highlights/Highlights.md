@@ -153,5 +153,4 @@ description: ""
 <a href="/highlights#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/> 
 	Back to Top
-
-</a>
+	</a>
