@@ -20,7 +20,7 @@ third_nav_title: "2022"
 
 ![](/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20(FTPPS%20WEBSITE)_Page_8.jpg)
 
-<a href="/highlights#lo_main">
+<a href="/drama-extravaganza-2022#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/>
 	<p align="center">
 	Back to Top
