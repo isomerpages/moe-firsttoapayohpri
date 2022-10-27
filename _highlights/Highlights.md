@@ -149,12 +149,9 @@ description: ""
 </table>
 
 <br>
-<br>
-<br>
 
 <a href="/highlights#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/> 
-	<p align="center">
 	Back to Top
 	</p>
 </a>
