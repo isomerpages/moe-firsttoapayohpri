@@ -19,7 +19,7 @@ description: ""
 
 | [3 August 2020](https://www.canva.com/link?target=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fposts%2F10159942989482004&design=DAEknukMaSM&accessRole=viewer&linkSource=document) | [27 July 2020](https://www.canva.com/link?target=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fposts%2F10159920065892004&design=DAEknukMaSM&accessRole=viewer&linkSource=document) | [13 May 2020](https://www.canva.com/link?target=https%3A%2F%2Fwww.facebook.com%2Fmoesingapore%2Fposts%2F10159874944842004&design=DAEknukMaSM&accessRole=viewer&linkSource=document) |
 
-[FTPPS in the News](https://www.canva.com/design/DAEknukMaSM/view?utm_content=DAEknukMaSM&utm_campaign=designshare&utm_medium=embeds&utm_source=link&litebox=1) by FTPPS
+[FTPPS in the News](https://www.canva.com/design/DAEknukMaSM/view?utm_content=DAEknukMaSM&utm_campaign=designshare&utm_medium=embeds&utm_source=link&litebox=1) 
 
 
 <br>
@@ -27,5 +27,5 @@ description: ""
 <br>
 
 <a href="/connect-with-us/ftpps-in-the-news#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+	 <img src="/images/arrow-up.png" style="width:3%" align="centre"/> Back to Top
 </a>
