@@ -5,7 +5,7 @@ description: ""
 image: /images/E Open house 2022 Banner.jpg
 ---
 <a href="https://www.canva.com/design/DAEgAflmdhw/view">
-	<img src="/images/E%20Open%20House%202022/E-open%20house%202022_1980.jpg" style="wide:100%"/>
+	<img src="/images/E%20Open%20House%202022/E-open%20house%202022%20copy_resize.jpg"/>
 </a>
 
 
