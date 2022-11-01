@@ -57,6 +57,8 @@ Parents/ Guardians may purchase MK uniform from the School Bookshop during schoo
 [first-flight-12](/files/first-flight-12.pdf)<br>
 [first-flight-13](/files/first-flight-13.pdf)<br>
 [first-flight-14](/files/first-flight-14.pdf)<br>
+[first-flight-15](/files/MK@First%20Toa%20Payoh/Parents’%20Resources/First%20Flight%20Newsletter/MK%20first-flight-15.pdf)<br>
+[first-flight-16](/files/MK@First%20Toa%20Payoh/Parents’%20Resources/First%20Flight%20Newsletter/MK%20first-flight-16.pdf)<br>
 
 <br>
 <br>
