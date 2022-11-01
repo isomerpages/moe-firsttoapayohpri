@@ -21,9 +21,6 @@ description: ""
 ![](/images/16.jpg)
 ![](/images/17.jpg)
 
-[<- back to E-Open House 2021](/e-open-house-2021)<br>
-[<- back to Distinctive Programmes](/distinctive-programmes)
-
 <br>
 <br>
 <br>
