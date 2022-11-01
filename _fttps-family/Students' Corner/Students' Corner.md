@@ -17,11 +17,3 @@ Note: Usernames will not contain spaces or special characters such as apostrophe
 </a>
 
 [![](/images/Slide1.jpg)](https://students-edu-sg.zoom.us/)
-
-#### First Toa Payoh Primary School OPAC site
-
-[https://schoolibrary.moe.edu.sg/firsttoapayohpri](https://schoolibrary.moe.edu.sg/firsttoapayohpri)
-
-#### School eResource Repository (SERR)
-
-[![Phase 2 Infographics.png](/images/Phase%202%20Infographics.png)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
