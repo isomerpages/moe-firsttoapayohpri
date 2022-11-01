@@ -4,6 +4,11 @@ permalink: /highlights/e-open-house-2020/
 description: ""
 third_nav_title: "2020"
 ---
+<a href="https://www.canva.com/design/DAEAaSey20I/view">
+	<img src="/images/Highlights/2020/Open%20House%202020/E-open%20house%202020_resize.jpg"/>
+
+</a>
+
 ##### A WARM WELCOME TO OUR
 ### E - OPEN HOUSE 2020
 ##### FIRST TOA PAYOH PRIMARY SCHOOL
@@ -38,4 +43,3 @@ Principal
 - [Character & Leadership Development](/curriculum/character-and-citizenship-education-cce)
 
 [E-open house](https://www.canva.com/design/DAEAaSey20I/view?utm_content=DAEAaSey20I&utm_campaign=designshare&utm_medium=embeds&utm_source=link) by FTTPS
-
