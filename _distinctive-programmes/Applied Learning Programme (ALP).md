@@ -26,5 +26,5 @@ description: ""
 <br>
 
 <a href="/distinctive-programmes/applied-learning-programme-alp#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+	 <img src="/images/arrow-up.png" style="width:3%" align="center"/> Back to Top
 </a>
