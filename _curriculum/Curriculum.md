@@ -75,7 +75,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/curriculum/cca">
+			<a href="/curriculum/cca-n-pal/">
 				<img src="/images/CCA%20(1).jpg"/>
 				<br>
 				<p align="center">• CCA & PAL•</p>
