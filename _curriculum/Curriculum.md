@@ -78,7 +78,7 @@ description: ""
 			<a href="/curriculum/cca">
 				<img src="/images/CCA%20(1).jpg"/>
 				<br>
-				<p align="center">• CCA •</p>
+				<p align="center">• CCA & PAL•</p>
 			</a>
 		</td>
 		<td width="25%">
