@@ -4,7 +4,7 @@ permalink: /FTPPS-virtual-tour/
 description: ""
 ---
 <a href="https://kuula.co/share/collection/7Pl6B?logo=0&amp;info=1&amp;fs=1&amp;vr=1&amp;sd=1&amp;thumbs=1">
-	<img src="/images/Main/FTPPS%20Virtual%20Tour.jpg" width="100%" height="640"/>
+	<img src="/images/Main/FTPPS%20Virtual%20Tour.jpg" style="height:415"/>
 </a>
 
 \*\*Best viewed in&nbsp;**Full Screen**&nbsp;mode.  
