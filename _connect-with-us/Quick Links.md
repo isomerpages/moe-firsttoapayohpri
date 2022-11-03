@@ -88,8 +88,8 @@ description: ""
 			</a>	
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://www.opal2.moe.edu.sg/csl/s/skillsfuture-for-educators-sfed/wiki/page">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SFEd.jpg"/>
 				</a>
 		</td>
 	</tr>	
@@ -117,6 +117,32 @@ description: ""
 	</tr>
 </table>
 
+
+## **Student**
+<table>
+		<tr>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+			</td>
+			<td width="25%">
+				<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			</a>	
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+	</tr>
+</table>
 
 
 ## **Teachers**
