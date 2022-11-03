@@ -163,7 +163,7 @@ description: ""
 			</a>	
 		</td>
 		<td width="25%">
-			<a href=https://www.schoolbag.edu.sg/">
+			<a href="https://www.schoolbag.edu.sg/">
 				<img src="/images/CONNECT%20with%20Us/Quick%20Links/Schoolbag.jpg"/>
 				</a>
 		</td>
