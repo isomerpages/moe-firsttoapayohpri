@@ -17,8 +17,8 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/p3-sports-education-programme-2022">
-				<img src="/images/Logo%20P3%20Sports%20Education%20Programme%202022.jpg"/>
+			<a href="https://ssoe2.moe.edu.sg/sp?id=index">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2.jpg"/> SSOE Service Portal
 			</a>
 		</td>
 		<td width="25%">
