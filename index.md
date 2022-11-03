@@ -21,6 +21,14 @@ sections:
         - title: Highlights
           description: ""
           url: /highlights
+  - infopic:
+      title: SMM @ FTPPS
+      subtitle: News & Announcements
+      description: View the video on the school's safety management measures
+      button: Click here
+      url: /others/news-n-announcements/smm-at-ftpps
+      image: /images/HOMEPAGE/FTPPS SMM.jpg
+      alt: Image alt text
   - infobar:
       title: SMM @ FTPPS
       subtitle: News & Announcements
