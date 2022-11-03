@@ -29,12 +29,6 @@ sections:
       url: /others/news-n-announcements/smm-at-ftpps
       image: /images/HOMEPAGE/FTPPS SMM.jpg
       alt: Image alt text
-  - infobar:
-      title: SMM @ FTPPS
-      subtitle: News & Announcements
-      description: View the video on the school's safety management measures
-      button: Click here
-      url: /others/news-n-announcements/smm-at-ftpps
   - infopic:
       title: P1 Orientation 2021/2022
       subtitle: News & Announcements
@@ -42,14 +36,16 @@ sections:
       url: /ftpps-family/parents-corner/p1-orientation-2021-2022
       image: /images/HOMEPAGE/FTPPS_P1 Orientation 2021_2022.jpg
       alt: Image alt text
+  - infopic:
+      title: P1 to P6 Holistic Assessment Plans
+      subtitle: News & Announcements
+      button: More Information
+      url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans
+      image: /images/HOMEPAGE/HA.jpg
+      alt: Image alt text
   - infobar:
       title: P1 Orientation 2021/2022
       subtitle: News & Announcements
       button: more information
       url: /ftpps-family/parents-corner/p1-orientation-2021-2022
-  - infobar:
-      title: P1 to P6 Holistic Assessment Plans
-      subtitle: News & Announcements
-      button: More Information
-      url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans
 ---
