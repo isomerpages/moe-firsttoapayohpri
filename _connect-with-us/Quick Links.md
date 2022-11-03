@@ -71,6 +71,28 @@ description: ""
 				</a>
 		</td>
 	</tr>	
+	<tr>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+			</td>
+			<td width="25%">
+				<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			</a>	
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+	</tr>	
 </table>
 
 
@@ -78,10 +100,6 @@ description: ""
 ## **Teachers**
 
 
-* [SSOE 2 Service Portal](https://ssoe2.moe.edu.sg/)
-* [Resource Booking System (RBS)](https://rbs.avero-tech.com/login.html)
-* [iCON Mail](https://workspace.google.com/dashboard)
-* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [Parent Gateway (PG)](https://pg.moe.edu.sg/)
 * [iEXAMS 2](http://iexams.seab.gov.sg/login)
 * [HR & Payroll (HRP)](https://www.hrp.gov.sg/)
