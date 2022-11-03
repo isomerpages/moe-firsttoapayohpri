@@ -144,13 +144,33 @@ description: ""
 	</tr>
 </table>
 
+## **Parents**
+<table>
+		<tr>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+			</td>
+			<td width="25%">
+				<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			</a>	
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+	</tr>
+</table>
 
-## **Teachers**
 
-
-
-
-* [SSOE SWN Wi-Fi Portal](https://portal.swn.moe.edu.sg/)
 ## **Students**
 * [Student iCON mail](https://workspace.google.com/dashboard)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
