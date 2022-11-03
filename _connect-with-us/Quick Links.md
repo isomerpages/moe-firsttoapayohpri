@@ -122,25 +122,25 @@ description: ""
 <table>
 		<tr>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
-				</a>
-			</td>
-			<td width="25%">
-				<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
-				</a>
+			<a href="https://vle.learning.moe.edu.sg/login">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SLS.jpg"/>
+			</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://workspace.google.com/dashboard">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/StudentiCON.jpg"/>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="https://students-edu-sg.zoom.us/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/ZOOM.jpg"/>
 			</a>	
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://schoolibrary.moe.edu.sg/firsttoapayohpri">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/OPAC.jpg"/>
 				</a>
-		</td>
+			</td>
 	</tr>
 </table>
 
