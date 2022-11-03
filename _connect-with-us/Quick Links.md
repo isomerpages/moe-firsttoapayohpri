@@ -148,13 +148,13 @@ description: ""
 <table>
 		<tr>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="/ftpps-family/parent-support-group/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/PSG.jpg"/>
 				</a>
 			</td>
 			<td width="25%">
-				<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				<a href="/ftpps-family/parents-corner/parents-gateway/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/PGGuide.jpg"/>
 				</a>
 		</td>
 		<td width="25%">
@@ -171,9 +171,6 @@ description: ""
 </table>
 
 
-## **Students**
-* [Student iCON mail](https://workspace.google.com/dashboard)
-* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
-* [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/firsttoapayohpri)
+
 ## **Parents**
 * [Parents Gateway Guide](/ftpps-family/parents-corner/parents-gateway)
