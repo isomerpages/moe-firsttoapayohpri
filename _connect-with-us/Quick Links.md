@@ -8,7 +8,7 @@ description: ""
 	<tr>
 		<td width="25%">
 			<a href="https://intranet.moe.gov.sg/">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png"/> MOE Intranet
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png"/> <p align="center"/> MOE Intranet 
 			</a>
 		</td>
 		<td width="25%">
