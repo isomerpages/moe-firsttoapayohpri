@@ -4,10 +4,62 @@ permalink: /connect-with-us/quicklinks/
 description: ""
 ---
 ## **Teachers**
-|  |  |  |
-| -------- | -------- | -------- |
-|   <a href="https://intranet.moe.gov.sg/" ><img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png" style="width:50%" /><p align="center"> MOE Intranet </p> </a>| <a href="https://portal.mims.moe.gov.sg/idmdash/#/dashboard" ><img src="/images/CONNECT%20with%20Us/Quick%20Links/pw_MIMS.png" style="width:200%"/><p align="center"> MIMS Portal</p></a>   | <a href="https://ssoe2.moe.edu.sg/sp?id=index" ><img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2.jpg" style="width:40%"/><p align="center"> SSOE2 Service Portal </p> </a>   |
-| <a href="https://ssoe2.moe.edu.sg/sp?id=index" ><img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2.jpg" style="width:40%"/><p align="center"> SSOE2 Service Portal </a>  | <a href="website link" ><img src="/images/image url address"/> </a>   | <a href="website link" ><img src="/images/image url address"/> </a>   |
+<table>
+	<tr>
+		<td width="25%">
+			<a href="https://intranet.moe.gov.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png"/> MOE Intranet
+			</a>
+		</td>
+		<td width="25%">
+			<a href="https://portal.mims.moe.gov.sg/idmdash/#/dashboard">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/pw_MIMS.png"/> <br>MIMS Portal
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/p3-sports-education-programme-2022">
+				<img src="/images/Logo%20P3%20Sports%20Education%20Programme%202022.jpg"/>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/p3-outdoor-adventure-experience-2022">
+				<img src="/images/Logo%20P3%20Outdoor%20Adventure%20Experience%202022.jpg"/>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="25%">
+			<a href="/highlights/p4-sports-education-programme-2022">
+				<img src="/images/Logo%20P4%20Sports%20Education%20Programme%202022.jpg"/>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/p5-sports-education-programme-2022">
+				<img src="/images/P5%20Sports%20Education%20Programme%202022.jpg"/>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/P4-2D1N-OA-Camp-2022">
+				<img src="/images/Highlights/2022/P4%202D1N%20Outdoor%20Camp%202022/P4%202-Day%201-Night%20Outdoor%20Adventure%20Residential%20Camp%202022.jpg"/>
+			</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/P5-3D2N-OA-Camp-2022">
+				<img src="/images/Highlights/2022/P5%203D2N%20OA%20Camp/P5%203-Day%202-Night%20Outdoor%20Adventure%20Residential%20Camp%202022.jpg"/>
+			</a>
+		</td>
+	</tr>
+	<tr>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+			</td>
+			<td>		</td>
+			<td>		</td>
+			<td>		</td>
+	</tr>	
+</table>
 
 
 
