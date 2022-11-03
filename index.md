@@ -43,9 +43,4 @@ sections:
       url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans
       image: /images/HOMEPAGE/HA.jpg
       alt: Image alt text
-  - infobar:
-      title: P1 Orientation 2021/2022
-      subtitle: News & Announcements
-      button: more information
-      url: /ftpps-family/parents-corner/p1-orientation-2021-2022
 ---
