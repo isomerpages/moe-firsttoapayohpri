@@ -51,23 +51,23 @@ description: ""
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://pg.moe.edu.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/PG.jpg"/>
 				</a>
 			</td>
 			<td width="25%">
-				<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				<a href="http://opal2.moe.edu.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/OPAL2.jpg"/>
 				</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="http://iexams.seab.gov.sg/login">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/iEXAM2.jpg"/>
 			</a>	
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="http://www.hrp.gov.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/HRP.jpg"/>
 				</a>
 		</td>
 	</tr>	
@@ -100,10 +100,7 @@ description: ""
 ## **Teachers**
 
 
-* [Parent Gateway (PG)](https://pg.moe.edu.sg/)
-* [iEXAMS 2](http://iexams.seab.gov.sg/login)
-* [HR & Payroll (HRP)](https://www.hrp.gov.sg/)
-* [OPAL 2.0](http://opal2.moe.edu.sg/)
+
 * [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/firsttoapayohpri)
 * [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [SSOE SWN Wi-Fi Portal](https://portal.swn.moe.edu.sg/)
