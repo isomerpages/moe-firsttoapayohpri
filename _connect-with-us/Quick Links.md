@@ -149,8 +149,7 @@ description: ""
 
 
 
-* [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/firsttoapayohpri)
-* [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
 * [SSOE SWN Wi-Fi Portal](https://portal.swn.moe.edu.sg/)
 ## **Students**
 * [Student iCON mail](https://workspace.google.com/dashboard)
