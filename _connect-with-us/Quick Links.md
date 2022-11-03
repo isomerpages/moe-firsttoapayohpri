@@ -73,18 +73,18 @@ description: ""
 	</tr>	
 	<tr>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://schoolibrary.moe.edu.sg/firsttoapayohpri">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/OPAC.jpg"/>
 				</a>
 			</td>
 			<td width="25%">
-				<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				<a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SERR.jpg"/>
 				</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://go.gov.sg/stp">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/STP.jpg"/>
 			</a>	
 		</td>
 		<td width="25%">
