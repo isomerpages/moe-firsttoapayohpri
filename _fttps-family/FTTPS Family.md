@@ -7,7 +7,7 @@ description: ""
 	<tr>
 		<td width="25%">
 			<a href="/ftpps-family/school-management-committee">
-				<img src="/images/SCHOOL%20EXECUTIVE%20COMMITTEE.jpg"/>
+				<img src="/images/FTTPS%20Family/ExcoIcon.jpg"/>
 				<p align="center">• School Management Committee •</p>
 			</a>
 		</td>
