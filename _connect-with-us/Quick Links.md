@@ -118,7 +118,7 @@ description: ""
 </table>
 
 
-## **Student**
+## **Students**
 <table>
 		<tr>
 		<td width="25%">
