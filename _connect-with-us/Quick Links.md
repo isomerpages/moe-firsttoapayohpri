@@ -17,13 +17,13 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="https://ssoe2.moe.edu.sg/sp?id=index">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2.jpg"/>SSOE Service Portal
+			<a href="https://schoolcockpit.moe.gov.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/Schcockpit.jpg"/>School Cockpit
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/p3-outdoor-adventure-experience-2022">
-				<img src="/images/Logo%20P3%20Outdoor%20Adventure%20Experience%202022.jpg"/>
+			<a href="/https://scmobile.moe.edu.sg/login">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SC%20Mobile.jpg"/>SC Mobile
 			</a>
 		</td>
 	</tr>
