@@ -56,9 +56,13 @@ description: ""
 				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
 				</a>
 			</td>
-			<td>		</td>
-			<td>		</td>
-			<td>		</td>
+			<td width="25%">
+				<a href="/highlights/2022/ChildrensDay2022/">
+				<img src="/images/Highlights/2022/Children's%20Day%202022/Children's%20Day%202022.jpg"/>
+			</a>
+		</td>
+		<td>		</td>
+		<td>		</td>
 	</tr>	
 </table>
 
