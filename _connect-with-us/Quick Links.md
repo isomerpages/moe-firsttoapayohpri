@@ -158,19 +158,14 @@ description: ""
 				</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href="https://www.moe.gov.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOEWeb.jpg"/>
 			</a>	
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			<a href=https://www.schoolbag.edu.sg/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/Schoolbag.jpg"/>
 				</a>
 		</td>
 	</tr>
 </table>
-
-
-
-## **Parents**
-* [Parents Gateway Guide](/ftpps-family/parents-corner/parents-gateway)
