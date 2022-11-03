@@ -29,18 +29,18 @@ description: ""
 	</tr>
 	<tr>
 		<td width="25%">
-			<a href="/highlights/p4-sports-education-programme-2022">
-				<img src="/images/Logo%20P4%20Sports%20Education%20Programme%202022.jpg"/>
+			<a href="https://ssoe2.moe.edu.sg/sp?id=index">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2Portal.jpg"/>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/p5-sports-education-programme-2022">
-				<img src="/images/P5%20Sports%20Education%20Programme%202022.jpg"/>
+			<a href="https://vle.learning.moe.edu.sg/login">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SLS.jpg"/>
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/highlights/2022/P4-2D1N-OA-Camp-2022">
-				<img src="/images/Highlights/2022/P4%202D1N%20Outdoor%20Camp%202022/P4%202-Day%201-Night%20Outdoor%20Adventure%20Residential%20Camp%202022.jpg"/>
+			<a href="https://workspace.google.com/dashboard">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/iCON.jpg"/>
 			</a>
 		</td>
 		<td width="25%">
@@ -55,9 +55,21 @@ description: ""
 				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
 				</a>
 			</td>
-			<td>		</td>
-			<td>		</td>
-			<td>		</td>
+			<td width="25%">
+				<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+			</a>	
+		</td>
+		<td width="25%">
+			<a href="/highlights/2022/drama-extravaganza-2022/">
+				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg"/>
+				</a>
+		</td>
 	</tr>	
 </table>
 
@@ -65,11 +77,8 @@ description: ""
 
 ## **Teachers**
 
-* [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx) 
-* [MIMS Portal](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
+
 * [SSOE 2 Service Portal](https://ssoe2.moe.edu.sg/)
-* [School Cockpit](https://schoolcockpit.moe.gov.sg/)
-* [SC Mobile](https://scmobile.moe.edu.sg/login)
 * [Resource Booking System (RBS)](https://rbs.avero-tech.com/login.html)
 * [iCON Mail](https://workspace.google.com/dashboard)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
