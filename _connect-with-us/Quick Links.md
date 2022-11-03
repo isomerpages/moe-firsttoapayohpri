@@ -8,22 +8,22 @@ description: ""
 	<tr>
 		<td width="25%">
 			<a href="https://intranet.moe.gov.sg/">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png"/> MOE Intranet 
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE%20Intranet.jpg"/>
 			</a>
 		</td>
 		<td width="25%">
 			<a href="https://portal.mims.moe.gov.sg/idmdash/#/dashboard">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/pw_MIMS.png"/><br>MIMS Portal
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MIMS%20Portal.jpg"/>
 			</a>
 		</td>
 		<td width="25%">
 			<a href="https://schoolcockpit.moe.gov.sg/">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/Schcockpit.jpg"/>School Cockpit
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/Sch%20Cockpit.jpg"/>
 			</a>
 		</td>
 		<td width="25%">
 			<a href="/https://scmobile.moe.edu.sg/login">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SC%20Mobile.jpg"/>SC Mobile
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SCMobile.jpg"/>
 			</a>
 		</td>
 	</tr>
