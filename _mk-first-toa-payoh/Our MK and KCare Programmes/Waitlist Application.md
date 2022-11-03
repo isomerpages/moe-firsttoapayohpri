@@ -33,4 +33,6 @@ This application is only valid for 3 months. Please submit another application i
 
 To apply, please click [here](https://go.gov.sg/mkwaitlist) to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.
 
-<img src="/images/mk%20waitlist.png" style="width:50%"/>
+<a href="https://go.gov.sg/mkwaitlist">
+	<img src="/images/mk%20waitlist.png" style="width:50%"/>
+</a>
