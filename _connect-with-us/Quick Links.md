@@ -8,17 +8,17 @@ description: ""
 	<tr>
 		<td width="25%">
 			<a href="https://intranet.moe.gov.sg/">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png"/> <p align="center"/> MOE Intranet 
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/MOE.png"/> MOE Intranet 
 			</a>
 		</td>
 		<td width="25%">
 			<a href="https://portal.mims.moe.gov.sg/idmdash/#/dashboard">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/pw_MIMS.png"/> <br>MIMS Portal
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/pw_MIMS.png"/><br>MIMS Portal
 			</a>
 		</td>
 		<td width="25%">
 			<a href="https://ssoe2.moe.edu.sg/sp?id=index">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2.jpg"/> SSOE Service Portal
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SSOE2.jpg"/>SSOE Service Portal
 			</a>
 		</td>
 		<td width="25%">
