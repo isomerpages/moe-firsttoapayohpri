@@ -22,7 +22,7 @@ description: ""
 			</a>
 		</td>
 		<td width="25%">
-			<a href="/https://scmobile.moe.edu.sg/login">
+			<a href="https://scmobile.moe.edu.sg/login">
 				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SCMobile.jpg"/>
 			</a>
 		</td>
