@@ -142,6 +142,16 @@ description: ""
 				</a>
 			</td>
 	</tr>
+	<tr>
+		<td width="25%">
+			<a href="https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SERR.jpg"/>
+				</a>
+		</td>
+		<td>			</td>
+		<td>		  </td>
+		<td>			</td>
+	</tr>
 </table>
 
 ## **Parents**
