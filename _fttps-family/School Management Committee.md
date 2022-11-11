@@ -8,7 +8,8 @@ description: ""
 | **Principal** | CHUA CHOON GUAN (MR)<br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 | **Vice-Principal** | REMUND KOH PENG YEOW (MR) <br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 | **Vice-Principal (Admin)** | TAY YAM ENG (MS) <br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
-
+<br>
+<br>
 
 |  |  |
 | :---: | :---: |
