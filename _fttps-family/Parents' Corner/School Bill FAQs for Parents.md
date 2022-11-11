@@ -53,7 +53,7 @@ Edusave cannot be used for school charges, and so must be paid for using the cas
 Payment can be made via the following channels:
 
 *   SAM Mobile (Available on Apple App Store and Google Play)
-*   SAM Web ([www.mysam.sg](www.mysam.sg))
+*   SAM Web (http://www.mysam.sg/)
 *   SAM Kiosk 
 *   Cash/Cheque (to be given to the school)
 *   GIRO Option
