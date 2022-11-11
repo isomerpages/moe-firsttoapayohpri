@@ -52,7 +52,7 @@ Fax: +(65) 67460687
 <br>
 Email: [info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
 <br>
-Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases online at https://www.beauvoix.com.sg  or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.
+Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases [online](https://www.beauvoix.com.sg) or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.
 
   
 
