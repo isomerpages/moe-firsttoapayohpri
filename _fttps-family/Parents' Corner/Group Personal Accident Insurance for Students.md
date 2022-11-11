@@ -14,4 +14,4 @@ All students are covered under the Group Personal Accident (GPA) Insurance which
 
 | | | | 
 | --- | --- | --- |
-| **Click** <br> on <br> http://www.income.com.sg | **Call** our hotline at 6332 1133 <br> Mon - Fri <br> 8.30am to 8.30pm <br> Sat & Sun - Closed | **Zone Representatives** <br> South - Edmund Tan <br> 9667 3188 <br>[Edmund.tankh@income.com.sg](mailto:Edmund.tankh@income.com.sg) |
+| **Click** <br> on <br> [http://www.income.com.sg/](http://www.income.com.sg/) | **Call** our hotline at 6332 1133 <br> Mon - Fri <br> 8.30am to 8.30pm <br> Sat & Sun - Closed | **Zone Representatives** <br> South - Edmund Tan <br> 9667 3188 <br>[Edmund.tankh@income.com.sg](mailto:Edmund.tankh@income.com.sg) |
