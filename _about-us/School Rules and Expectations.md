@@ -8,7 +8,7 @@ description: ""
 
 #### 1\. Singing of the National Anthem and recitation of National Pledge
 
-1.1\* Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
+1.1 Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
 
   
 
@@ -16,25 +16,29 @@ description: ""
 
 2.1 Students are to be in school by 7.15 am on every school day. School starts at 7.30am. 
 <br>
-2.2 Students are to remain in school during school hours unless permission has been given to leave the school grounds.
+2.2 Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.
 <br>
-2.3 Students are to present a medical certificate if unwell.
+2.3 Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.
 <br>
-2.4 Students who are late will have their records taken by the security guards. 
+2.4 Students who are late will have their particulars recorded by the security guards. 
+<br>
+2.5 Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.
 
   
 
 #### 3\. Conduct
 
-3.1 Students are to walk quietly within the school premises.
+3.1 Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.
 <br>
 3.2 Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.
 <br>
 3.3 Students are to observe table manners when eating and keep the tables clean after eating.
 <br>
-3.4 Students are to queue in an orderly manner to board school bus and public transport.
+3.4 Students are to consume their food and drinks in the canteen only
 <br>
-3.5 Students are to demonstrate school values at all times.
+3.5 Students are to queue in an orderly manner to board school bus and public transport.
+<br>
+3.6 Students are to demonstrate school values at all times.
 
   
 
@@ -46,9 +50,13 @@ description: ""
 <br>
 4.3 Students are only allowed to wear their PE T-shirts on days with PE lessons.
 <br>
-4.4 Students are only allowed to put on track shoes and House T-shirts during Sports CCA and House Practice.
+4.4 Students are only allowed to wear their House T-shirts during CCA, PAL and House practice sessions (Fridays).
 <br>
-4.5 Students are to put on black socks and shoes. Shoes should not have trimmings of any other colour. Socks should cover the ankles.
+4.5 Students are to tuck their PE/House T-shirts at all times.
+<br>
+4.6 Students are allowed to change into their track shoes for CCAs but need to change back to school shoes once CCA is over.
+<br>
+4.7 Students are to put on black socks and shoes. Shoes should not have trimmings of any other colour. Socks should cover the ankles.
 
   
 
