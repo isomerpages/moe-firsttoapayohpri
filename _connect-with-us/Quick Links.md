@@ -115,6 +115,16 @@ description: ""
 				</a>
 		</td>
 	</tr>
+		<tr>
+		<td width="25%">
+			<a href="https://www.office.com/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/M365.jpg"/>
+				</a>
+		</td>
+		<td>			</td>
+		<td>		  </td>
+		<td>			</td>
+	</tr>
 </table>
 
 
@@ -137,10 +147,10 @@ description: ""
 			</a>	
 		</td>
 		<td width="25%">
-			<a href="https://schoolibrary.moe.edu.sg/firsttoapayohpri">
-				<img src="/images/CONNECT%20with%20Us/Quick%20Links/OPAC.jpg"/>
+			<a href="https://www.office.com/">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/M365.jpg"/>
 				</a>
-			</td>
+		</td>
 	</tr>
 	<tr>
 		<td width="25%">
@@ -148,7 +158,11 @@ description: ""
 				<img src="/images/CONNECT%20with%20Us/Quick%20Links/SERR.jpg"/>
 				</a>
 		</td>
-		<td>			</td>
+		<td width="25%">
+			<a href="https://schoolibrary.moe.edu.sg/firsttoapayohpri">
+				<img src="/images/CONNECT%20with%20Us/Quick%20Links/OPAC.jpg"/>
+				</a>
+			</td>
 		<td>		  </td>
 		<td>			</td>
 	</tr>
