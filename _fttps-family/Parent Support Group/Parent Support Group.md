@@ -73,4 +73,6 @@ The Parent Support Group with the School Staff Developer and Year Head (P1&P2)
 
 Don’t hesitate anymore! Join the PSG today! Scan the QR Code to register.
 
-<img src="/images/psg.jpg" style="width:50%"/>
+<a href="https://go.gov.sg/ftppspsg">
+              <img src="/images/psg.jpg" style="width:50%"/>
+</a>
