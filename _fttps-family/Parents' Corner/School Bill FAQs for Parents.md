@@ -41,7 +41,7 @@ Your school will update you on all bill adjustments (if any).
 You can authorise the Edusave Enrichment Programme Standing Order (EPSO) for the school to make withdrawals from your child’s/ward’s Edusave account to pay for enrichment programme charges. If your child’s Edusave funds are insufficient, or if you choose not to authorise the EPSO, cash payment can be made via the following channels:
 
 *   SAM Mobile (Available on Apple App Store and Google Play)
-*   SAM Web ([www.mysam.sg](www.mysam.sg))
+*   SAM Web (http://www.mysam.sg/)
 *   SAM Kiosk 
 *   Cash/Cheque (to be given to the school)
 *   GIRO Option
