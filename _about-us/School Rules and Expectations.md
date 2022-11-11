@@ -3,16 +3,16 @@ title: School Rules and Expectations
 permalink: /about-us/school-rules-and-expectations/
 description: ""
 ---
-#### School Rules and Expectations
+### School Rules and Expectations
 
 
-##### 1\. Singing of the National Anthem and recitation of National Pledge
+#### 1\. Singing of the National Anthem and recitation of National Pledge
 
 1.1\* Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
 
   
 
-##### 2\. Attendance in school
+#### 2\. Attendance in school
 
 2.1 Students are to be in school by 7.15 am on every school day. School starts at 7.30am. 
 <br>
@@ -24,7 +24,7 @@ description: ""
 
   
 
-##### 3\. Conduct
+#### 3\. Conduct
 
 3.1 Students are to walk quietly within the school premises.
 <br>
@@ -38,7 +38,7 @@ description: ""
 
   
 
-##### 4\. School Attire
+#### 4\. School Attire
 
 4.1\* Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.
 <br>
@@ -52,7 +52,7 @@ description: ""
 
   
 
-##### 5\. Grooming
+#### 5\. Grooming
 
 **5.1 Hairstyle**
 <br>
@@ -88,7 +88,7 @@ c. Female students are allowed to wear a pair of small identical ear studs. One 
 
   
 
-##### 7\. Use of electronic devices
+#### 7\. Use of electronic devices
 
 7.1 To minimise distraction and disruption to lessons, students are only allowed the use of mobile phone in the canteen and foyer during recess, lunchtime and after dismissal.
 <br>
@@ -110,7 +110,7 @@ c. Female students are allowed to wear a pair of small identical ear studs. One 
 
 
 
-##### 8\. Possessions of Weapons
+#### 8\. Possessions of Weapons
 
 \*All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  
 
@@ -176,8 +176,10 @@ Parents may communicate with the teachers regarding the child’s learning or be
 
 To ensure the safety and security of all our students and staff, all visitors to the school would be required to present their identity card in exchange for a visitor’s pass at the security post before proceeding to the General Office.
 <br>
+
 Please note that the area just outside the main entrance of the school is a non-stopping/ non-waiting area. In view of the safety of our students and in compliance to LTA traffic ruling, vehicles are prohibited to make U-turns in front of the school gate. Parents may drive into the school to drop off their children before 7.30am. After 7.30 am, parents may have their children alight either before the yellow box outside the main gate or near the canteen gate.
 <br>
+
 Teachers are stationed at the pedestrian crossing just outside the school to help ensure the safety of our students. We educate our students to observe road safety regulations at all times and seek the support and co-operation of parents in the use of the pedestrian crossing when walking with their children to and from school.
 
   
