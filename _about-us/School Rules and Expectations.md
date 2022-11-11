@@ -68,7 +68,9 @@ a. Students are not allowed to perm or dye their hair.
 <br>
 b. The use of gel or hair mousse is not allowed.
 <br>
-c.\*Male students must be neat in appearance, clean-shaven and no facial hair is allowed. 
+c. Male students must be neat in appearance, clean-shaven. No facial hair is allowed. 
+<br>
+d. Outlandish and unkempt hairstyles are not allowed.
 <br>
 e. Female students with long hair must have it plaited or tied up neatly. Hair accessories should be dark blue or black.
 <br>
@@ -82,9 +84,9 @@ b. Students should not apply nail polish. 
 
 **5.3 Accessories**
 <br>
-a. Students are not allowed to wear jewellery nor fashion accessories in school.  
+a. Students are not allowed to wear jewellery or fashion accessories in school.  
 <br>
-b. Students wearing chains for religious purposes should keep them under the school uniform.
+b. Students wearing accessories for religious purposes should conceal them under the school uniform.
 <br>
 c. Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.
 
