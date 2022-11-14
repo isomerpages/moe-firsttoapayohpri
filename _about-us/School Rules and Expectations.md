@@ -157,13 +157,15 @@ description: ""
 		<li>All other absences must also be supported by valid documents.</li>
 	</ul>
 <h4>Leaving school early</h4>
-
-Parents/ guardians must obtain permission from the Principal, Vice-Principal or teachers if they wish to take their children home because of sickness or other urgent matters.
-<br>
-Parents/ guardians must sign in the Student Leaving School Early’ book at the security guard post.
-
-  
-
+	<ul>
+		<li>Students are not allowed to leave school during school hours unless parents/guardians come personally and obtain permission from the Principal, Vice-Principal or Form Teacher. They are to sign out their child at the General Office before taking him/her home.</li>
+		<li>For the safety of our students, students who are unwell will not be allowed to go home on their own.</li>
+	</ul>
+<h4>Visitors to the School</h4>
+	<ul>
+		<li>In the interest of our students' safety and school security, parents/guardians will only be allowed into the school through the main gate</li>
+	</ul>
+	
 ##### Communication
 
 Parents may communicate with the teachers regarding the child’s learning or behaviour through this handbook.
