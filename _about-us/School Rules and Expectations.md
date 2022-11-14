@@ -13,24 +13,24 @@ description: ""
 </ol>
 <ol start="2">
 	<h3><li> Attendance in school</li></h3>
-		<ol style="list-style-type: lower-roman">
-			<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
-			<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
-			<li>Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
-			<li>Students who are late will have their particulars recorded by the security guards. </li>
-			<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
-		</ol>
+	<ol style="list-style-type: lower-roman">
+		<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
+		<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
+		<li>Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
+		<li>Students who are late will have their particulars recorded by the security guards. </li>
+		<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
+	</ol>
 </ol>
 <ol start="3">
 	<h3><li> Conduct</li></h3>
-	<ol style="list-style-type: lower-roman">
-		<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
-		<li>Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.</li>
-		<li>Students are to observe table manners when eating and keep the tables clean after eating.</li>
-		<li>Students are to consume their food and drinks in the canteen only.</li>
-		<li>Students are to queue in an orderly manner to board school bus and public transport.</li>
-		<li>Students are to demonstrate school values at all times.</li>
-	</ol>
+		<ol style="list-style-type: lower-roman">
+			<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
+			<li>Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.</li>
+			<li>Students are to observe table manners when eating and keep the tables clean after eating.</li>
+			<li>Students are to consume their food and drinks in the canteen only.</li>
+			<li>Students are to queue in an orderly manner to board school bus and public transport.</li>
+			<li>Students are to demonstrate school values at all times.</li>
+		</ol>
 </ol>
 <ol start="4">
 	<h3><li> School Attire</li></h3>
