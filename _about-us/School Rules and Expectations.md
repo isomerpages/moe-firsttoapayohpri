@@ -3,32 +3,25 @@ title: School Rules and Expectations
 permalink: /about-us/school-rules-and-expectations/
 description: ""
 ---
+
 ### School Rules and Expectations
 
-
-#### 1\. Singing of the National Anthem and recitation of National Pledge
-
-1.1 Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.
-
-  
-
-#### 2\. Attendance in school
-
-2.1 Students are to be in school by 7.15 am on every school day. School starts at 7.30am. 
-<br>
-2.2 Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.
-<br>
-2.3 Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.
-<br>
-2.4 Students who are late will have their particulars recorded by the security guards. 
-<br>
-2.5 Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.
-
-  
-
-#### 3\. Conduct
-
-3.1 Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.
+<ol>
+	<h4><li> Singing of the National Anthem and recitation of National Pledge</li></h4>
+	<ol style="list-style-type: lower-roman">
+		<li> Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.</li>
+	</ol>
+	<h4><li> Attendance in school</li></h4>
+	<ol style="list-style-type: lower-roman">
+		<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
+		<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
+		<li>2.3 Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
+		<li>2.4 Students who are late will have their particulars recorded by the security guards. </li>
+		<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
+	</ol>
+	<h4><li> Conduct</li></h4>
+	<ol style="list-style-type: lower-roman">
+		<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
 <br>
 3.2 Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.
 <br>
@@ -44,7 +37,7 @@ description: ""
 
 #### 4\. School Attire
 
-4.1\* Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.
+4.1 Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.
 <br>
 4.2 Students are to have their nametags displayed on the school uniform.
 <br>
@@ -100,7 +93,9 @@ c. Female students are allowed to wear a pair of small identical ear studs. One 
 
 #### 7\. Use of electronic devices
 
-7.1 To minimise distraction and disruption to lessons, students are only allowed the use of mobile phone in the canteen and foyer during recess, lunchtime and after dismissal.
+7.1 The use of mobile phones and/or personal electronic devices (PED) is for urgent communication with family members only. 
+<br>
+a To minimise distraction and disruption to lessons, students are only allowed the use of mobile phone in the canteen and foyer during recess, lunchtime and after dismissal.
 <br>
 7.2 Students are only allowed to use mobile phones in school for urgent communication. Playing of games and listening to music on the mobile phone is not allowed.
 <br>
