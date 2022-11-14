@@ -180,12 +180,11 @@ description: ""
 		<li>As the school has limited parking lots for cars, parents/guardians who drive are requested to park their vehicles at the public car park beside the school premises when visiting the school.</li>
 		<li>We educate our students to observe road safety regulations at all times and would like to seek the support and co-operation of parents in the use of the pedestrian crossing when crossing the roads outside the school premises.</li>
 	</ul>
-<h4>THE DESIRED OUTCOMES OF EDUCATION</h4>
-
-
-Our students will become
-
-*   a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively;
-*   a self-directed learner who takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning;
-*   an active contributor who is able to work effectively in teams, exercises initiative, takes calculated risks, is innovative and strives for excellence; and,
-*   a concerned citizen who is rooted to Singapore, has a strong civic consciousness, is informed, and takes an active role in bettering the lives of others around him.
+<h3>THE DESIRED OUTCOMES OF EDUCATION</h3>
+<strong>Our students will become</strong>
+<ul>
+	<li>a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively;</li>
+	<li>a self-directed learner who takes responsibility for his own learning, who questions, reflects and perseveres in the pursuit of learning;</li>
+	<li>an active contributor who is able to work effectively in teams, exercises initiative, takes calculated risks, is innovative and strives for excellence; and,</li>
+	<li>a concerned citizen who is rooted to Singapore, has a strong civic consciousness, is informed, and plays an active role in bettering the lives of others around him.</li>
+</ul>
