@@ -144,43 +144,43 @@ description: ""
 
 <h3>School Procedures</h3>
 <h4>Flag-Raising Ceremony</h4>
-	<ul>
-		<li>All students are to report to school before the Flag-raising Ceremony at 7.30am. Attendance at the flag-raising and pledge-taking ceremony is compulsory.</li>
-	</ul>
+<ul>
+	<li>All students are to report to school before the Flag-raising Ceremony at 7.30am. Attendance at the flag-raising and pledge-taking ceremony is compulsory.</li>
+</ul>
 <h4>Attendance</h4>
-	<ul>
-		<li>All students must attend school regularly and punctually during the school term.</li>
-		<li>Students who arrive late will have their particulars recorded by the security guards. Notification letters will be issued to parents id a student is repeatedly late for school despite counselling.</li>
-	</ul>
+<ul>
+	<li>All students must attend school regularly and punctually during the school term.</li>
+	<li>Students who arrive late will have their particulars recorded by the security guards. Notification letters will be issued to parents id a student is repeatedly late for school despite counselling.</li>
+</ul>
 <h4>Absence</h4>
-	<ul>
-		<li>If your child is unwell, he/she needs to consult a doctor and submit a Medical Certificate upon returning school after his/her absence.</li>
-		<li>All other absences must also be supported by valid documents.</li>
-	</ul>
+<ul>
+	<li>If your child is unwell, he/she needs to consult a doctor and submit a Medical Certificate upon returning school after his/her absence.</li>
+	<li>All other absences must also be supported by valid documents.</li>
+</ul>
 <h4>Leaving school early</h4>
-	<ul>
-		<li>Students are not allowed to leave school during school hours unless parents/guardians come personally and obtain permission from the Principal, Vice-Principal or Form Teacher. They are to sign out their child at the General Office before taking him/her home.</li>
-		<li>For the safety of our students, students who are unwell will not be allowed to go home on their own.</li>
-	</ul>
+<ul>
+	<li>Students are not allowed to leave school during school hours unless parents/guardians come personally and obtain permission from the Principal, Vice-Principal or Form Teacher. They are to sign out their child at the General Office before taking him/her home.</li>
+	<li>For the safety of our students, students who are unwell will not be allowed to go home on their own.</li>
+</ul>
 <h4>Visitors to the School</h4>
-	<ul>
-		<li>In the interest of our students' safety and school security, parents/guardians will only be allowed into the school through the main gate. The canteen gate and back gate are accessible to staff and students only.</li>
-		<li>Parents/caregivers are advised to make an appointment with the relevant teacher in advance prior to visiting the school. On arrival, please register with the security guards before proceeding to the General Office for assistance. Please bring along your NRIC or identification documents for registration purpose.</li>
-		<li>The "Visitor Pass" issued must be prominently displayed at all times.</li>
-		<li>The classroom blocks and canteen areas are out-of-bounds to school visitors.</li>
-	</ul>
+<ul>
+	<li>In the interest of our students' safety and school security, parents/guardians will only be allowed into the school through the main gate. The canteen gate and back gate are accessible to staff and students only.</li>
+	<li>Parents/caregivers are advised to make an appointment with the relevant teacher in advance prior to visiting the school. On arrival, please register with the security guards before proceeding to the General Office for assistance. Please bring along your NRIC or identification documents for registration purpose.</li>
+	<li>The "Visitor Pass" issued must be prominently displayed at all times.</li>
+	<li>The classroom blocks and canteen areas are out-of-bounds to school visitors.</li>
+</ul>
 <h4>Communication with Teachers</h4>
-	<ul>
-		<li>Parents/Guardians may communicate with the teachers regarding their child’s learning or behaviour through Student Handbook.</li>
+<ul>
+	<li>Parents/Guardians may communicate with the teachers regarding their child’s learning or behaviour through Student Handbook.</li>
 	<li>Please call the school or teachers for an appointment before you come as the teacher you would like to meet may not be available. You may also email your request or query to the teacher.</li>
-	</ul>
+</ul>
 <h4>Sending Children to School and Picking them from School</h4>
-	<ul>
-		<li>Please note that the area just outside the main entrance of the school is a non-stopping/ non-waiting area. In the interest of the safety of our students and in compliance to LTA traffic ruling, vehicles are prohibited to make U-turns in front of the school main gate. Parents may drive into the school to drop off their children before 7.30am. After 7.30 am, parents may let their children alight before the yellow box outside the main gate.</li>
-		<li>Teachers are stationed at the pedestrian crossing just outside the school to help ensure the safety of our student</li>
-		<li>As the school has limited parking lots for cars, parents/guardians who drive are requested to park their vehicles at the public car park beside the school premises when visiting the school.</li>
-		<li>We educate our students to observe road safety regulations at all times and would like to seek the support and co-operation of parents in the use of the pedestrian crossing when crossing the roads outside the school premises.</li>
-	</ul>
+<ul>
+	<li>Please note that the area just outside the main entrance of the school is a non-stopping/ non-waiting area. In the interest of the safety of our students and in compliance to LTA traffic ruling, vehicles are prohibited to make U-turns in front of the school main gate. Parents may drive into the school to drop off their children before 7.30am. After 7.30 am, parents may let their children alight before the yellow box outside the main gate.</li>
+	<li>Teachers are stationed at the pedestrian crossing just outside the school to help ensure the safety of our student</li>
+	<li>As the school has limited parking lots for cars, parents/guardians who drive are requested to park their vehicles at the public car park beside the school premises when visiting the school.</li>
+	<li>We educate our students to observe road safety regulations at all times and would like to seek the support and co-operation of parents in the use of the pedestrian crossing when crossing the roads outside the school premises.</li>
+</ul>
 <h3>THE DESIRED OUTCOMES OF EDUCATION</h3>
 <strong>Our students will become</strong>
 <ul>
