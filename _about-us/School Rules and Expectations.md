@@ -23,10 +23,10 @@ description: ""
 </ol>
 <ol start="3">
 	<h3><li> Conduct</li></h3>
-		<ol style="list-style-type: lower-roman">
-			<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
-			<li>Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.</li>
-			<li>Students are to observe table manners when eating and keep the tables clean after eating.</li>
+	<ol style="list-style-type: lower-roman">
+		<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
+		<li>Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.</li>
+		<li>Students are to observe table manners when eating and keep the tables clean after eating.</li>
 			<li>Students are to consume their food and drinks in the canteen only.</li>
 			<li>Students are to queue in an orderly manner to board school bus and public transport.</li>
 			<li>Students are to demonstrate school values at all times.</li>
