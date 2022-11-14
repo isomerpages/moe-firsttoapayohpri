@@ -81,7 +81,8 @@ description: ""
 			<ol style="list-style-type: lower-roman">
 				<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
 			</ol>
-	</ol>
+
+</ol>
 	
 <h4>School Uniform</h4>
 
