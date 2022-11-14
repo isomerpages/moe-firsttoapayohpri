@@ -194,7 +194,7 @@ description: ""
 	<li>As the school has limited parking lots for cars, parents/guardians who drive are requested to park their vehicles at the public car park beside the school premises when visiting the school.</li>
 	<li>We educate our students to observe road safety regulations at all times and would like to seek the support and co-operation of parents in the use of the pedestrian crossing when crossing the roads outside the school premises.</li>
 </ul>
-<h2>THE DESIRED OUTCOMES OF EDUCATION</h2>
+<h2>The Desired Outcomes of Education</h2>
 <strong>Our students will become</strong>
 <ul>
 	<li>a confident person who has a strong sense of right and wrong, is adaptable and resilient, knows himself, is discerning in judgment, thinks independently and critically, and communicates effectively;</li>
