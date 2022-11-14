@@ -14,8 +14,8 @@ description: ""
 	<ol style="list-style-type: lower-roman">
 		<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
 		<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
-		<li>2.3 Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
-		<li>2.4 Students who are late will have their particulars recorded by the security guards. </li>
+		<li>Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
+		<li>Students who are late will have their particulars recorded by the security guards. </li>
 		<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
 	</ol>
 	<h4><li> Conduct</li></h4>
