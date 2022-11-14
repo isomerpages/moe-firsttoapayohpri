@@ -39,7 +39,7 @@ description: ""
 	</ol>
 	<h4><li> Grooming</li></h4>
 	<ol style="list-style-type: lower-roman">
-		<strong><li>Hairstyle</strong></li>
+		<strong><li>Hairstyle</li></strong>
 			<ol style="list-style-type: lower-alpha">
 				<li>Students are not allowed to perm or dye their hair.</li>
 				<li>The use of gel or hair mousse is not allowed.</li>
@@ -48,19 +48,19 @@ description: ""
 				<li>Female students with long hair must have it plaited or tied up neatly. Hair accessories should be dark blue or black.</li>
 				<li>Female students should not have their fringes touch their eyebrows. If it is long, it should be pinned up neatly.</li>
 		</ol>
-	<strong><li>Nails</strong></li>
+	<strong><li>Nails</li></strong>
 		<ol style="list-style-type: lower-alpha">
 			<li>Students should have their nails trimmed and kept clean.</li>
 			<li>Students should not apply nail polish.</li>
 		</ol>
-	<strong><li>Accessories</strong></li>
+	<strong><li>Accessories</li></strong>
 		<ol style="list-style-type: lower-alpha">
 			<li>Students are not allowed to wear jewellery or fashion accessories in school.</li>
 			<li>Students wearing accessories for religious purposes should conceal them under the school uniform.</li>
 			<li>Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.</li>
 		</ol>
-	</ol>
-	<h4><li>  Care of property</li></h4>
+		</ol>
+		<h4><li>  Care of property</li></h4>
 		<ol style="list-style-type: lower-roman">
 			<li>Students are to be responsible and take good care of their belongings and school property.</li>
 		</ol>
