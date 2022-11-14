@@ -10,7 +10,9 @@ description: ""
 	<ol style="list-style-type: lower-roman">
 		<li> Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.</li>
 	</ol>
-	<h3><li> Attendance in school</li></h3>
+</ol>
+	<ol start="2">
+		<h3><li> Attendance in school</li></h3>
 	<ol style="list-style-type: lower-roman">
 		<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
 		<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
@@ -18,6 +20,8 @@ description: ""
 		<li>Students who are late will have their particulars recorded by the security guards. </li>
 		<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
 	</ol>
+</ol>
+<ol start="3">
 	<h3><li> Conduct</li></h3>
 	<ol style="list-style-type: lower-roman">
 		<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
@@ -27,6 +31,8 @@ description: ""
 		<li>Students are to queue in an orderly manner to board school bus and public transport.</li>
 		<li>Students are to demonstrate school values at all times.</li>
 	</ol>
+</ol>
+<ol start="4">
 	<h3><li> School Attire</li></h3>
 		<ol style="list-style-type: lower-roman">
 			<li>Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.</li>
@@ -37,6 +43,8 @@ description: ""
 			<li>Students are allowed to change into their track shoes for CCAs but need to change back to school shoes once CCA is over.</li>
 			<li>Students are to put on black socks and shoes. Shoes should not have trimmings of any other colour. Socks should cover the ankles.</li>
 	</ol>
+</ol>
+<ol start="5">
 	<h3><li> Grooming</li></h3>
 	<ol style="list-style-type: lower-roman">
 		<strong><li>Hairstyle</li></strong>
@@ -59,7 +67,8 @@ description: ""
 			<li>Students wearing accessories for religious purposes should conceal them under the school uniform.</li>
 			<li>Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.</li>
 		</ol>
-		</ol>
+	</ol>
+</ol>
 		<h3><li>  Care of property</li></h3>
 		<ol style="list-style-type: lower-roman">
 			<li>Students are to be responsible and take good care of their belongings and school property.</li>
