@@ -163,9 +163,17 @@ description: ""
 	</ul>
 <h4>Visitors to the School</h4>
 	<ul>
-		<li>In the interest of our students' safety and school security, parents/guardians will only be allowed into the school through the main gate</li>
+		<li>In the interest of our students' safety and school security, parents/guardians will only be allowed into the school through the main gate. The canteen gate and back gate are accessible to staff and students only.</li>
+		<li>Parents/caregivers are advised to make an appointment with the relevant teacher in advance prior to visiting the school. On arrival, please register with the security guards before proceeding to the General Office for assistance. Please bring along your NRIC or identification documents for registration purpose.</li>
+		<li>The "Visitor Pass" issued must be prominently displayed at all times.</li>
+		<li>The classroom blocks and canteen areas are out-of-bounds to school visitors.</li>
 	</ul>
-	
+<h4>Communication with Teachers</h4>
+	<ul>
+		<li>Parents/Guardians may communicate with the teachers regarding their child’s learning or behaviour through Student Handbook.</li>
+	<li></li>
+	</ul>
+
 ##### Communication
 
 Parents may communicate with the teachers regarding the child’s learning or behaviour through this handbook.
