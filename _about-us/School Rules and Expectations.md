@@ -81,30 +81,58 @@ description: ""
 			<ol style="list-style-type: lower-roman">
 			<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
 		</ol>
-
 <h4>School Uniform</h4>
 
 <table style="width:75%">
 	<tr>
 		<td>
-			<img src="/images/Front%20View%20(Girl).jpg" style="width:40%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/Front%20View%20(Girl).jpg" style="width:40%"/>
 			<br>
 			Front View (Girl)
 		</td>
 		<td>
-			<img src="/images/Front%20View%20(Boy).jpg" style="width:40%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/Front%20View%20(Boy).jpg" style="width:40%"/>
 			<br>
 			Front View (Boy)
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/Side%20View%20(Girl).jpg" style="width:40%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/Side%20View%20(Girl).jpg" style="width:40%"/>
 			<br>
 			Side View (Girl)
 		</td>
 		<td>
-			<img src="/images/Side%20View%20(Boy).jpg" style="width:40%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/Side%20View%20(Boy).jpg" style="width:40%"/>
+			<br>
+			Side View (Boy)
+		</td>
+	</tr>
+</table>
+
+<h4>PE Attire</h4>
+
+<table style="width:75%">
+	<tr>
+		<td>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Front%20View%20(Girl).jpg" style="width:38%"/>
+			<br>
+			Front View (Girl)
+		</td>
+		<td>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Front%20View%20(Boy).jpg" style="width:38%"/>
+			<br>
+			Front View (Boy)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Side%20View%20(Girl).jpg" style="width:38%"/>
+			<br>
+			Side View (Girl)
+		</td>
+		<td>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Side%20View%20(Boy).jpg" style="width:38%"/>
 			<br>
 			Side View (Boy)
 		</td>
