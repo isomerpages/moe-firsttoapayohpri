@@ -11,15 +11,15 @@ description: ""
 		<li> Students who are Singapore Citizens must sing the National Anthem and take the pledge. Students will take the Pledge with the right fist placed over the heart.</li>
 	</ol>
 </ol>
-	<ol start="2">
-		<h3><li> Attendance in school</li></h3>
-	<ol style="list-style-type: lower-roman">
-		<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
-		<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
-		<li>Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
-		<li>Students who are late will have their particulars recorded by the security guards. </li>
-		<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
-	</ol>
+<ol start="2">
+	<h3><li> Attendance in school</li></h3>
+		<ol style="list-style-type: lower-roman">
+			<li>Students are to be in school by 7.15 am on every school day. School starts at 7.30am. </li>
+			<li>Students are to remain in school during school hours and lunch break before remedial/supplementary lessons and CCA, unless permission has been given to leave the school grounds.</li>
+			<li>Students on sick leave are to produce a Medical Certificate or parent's letter upon returning to school.</li>
+			<li>Students who are late will have their particulars recorded by the security guards. </li>
+			<li>Students who are absent from examinations without a valid reason will be marked as being "Absent Without Valid Reason" in the School Cockpit System. Students will not be awarded any marks for the examination that they have missed without valid reason.</li>
+		</ol>
 </ol>
 <ol start="3">
 	<h3><li> Conduct</li></h3>
