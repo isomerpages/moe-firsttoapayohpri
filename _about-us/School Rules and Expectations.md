@@ -69,10 +69,13 @@ description: ""
 		</ol>
 	</ol>
 </ol>
-		<h3><li>  Care of property</li></h3>
-		<ol style="list-style-type: lower-roman">
-			<li>Students are to be responsible and take good care of their belongings and school property.</li>
-		</ol>
+<ol start="6">		
+<h3><li>  Care of property</li></h3>
+	<ol style="list-style-type: lower-roman">
+		<li>Students are to be responsible and take good care of their belongings and school property.</li>
+	</ol>
+</ol>
+<ol start="7">
 	<h3><li> Use of electronic devices</li></h3>
 		<ol style="list-style-type: lower-roman">
 			<li>The use of mobile phones and/or personal electronic devices (PED) is for urgent communication with family members only.</li>
@@ -86,11 +89,12 @@ description: ""
 					<li>Non-adherence to the above stated rules will result in the confiscation of the mobile phones/personal electronic devices. A parent must come to school to collect the confiscated item.</li>
 				</ol>
 			</ol>
-		<h3><li>Possessions of Weapons</li></h3>
-			<ol style="list-style-type: lower-roman">
-				<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
-			</ol>
-
+	</ol>
+<ol start="8">
+	<h3><li>Possessions of Weapons</li></h3>
+		<ol style="list-style-type: lower-roman">
+			<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
+		</ol>
 </ol>
 	
 <h3>School Uniform</h3>
