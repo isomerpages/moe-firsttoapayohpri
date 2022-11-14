@@ -143,9 +143,19 @@ description: ""
 
 <h3>School Procedures</h3>
 <h4>Flag-Raising Ceremony</h4>
-
-All students are to report to school before the Flag-raising Ceremony at 7.30am. Attendance at the flag-raising and pledge-taking ceremony is compulsory.
-
+	<ul>
+		<li>All students are to report to school before the Flag-raising Ceremony at 7.30am. Attendance at the flag-raising and pledge-taking ceremony is compulsory.</li>
+	</ul>
+<h4>Attendance</h4>
+	<ul>
+		<li>All students must attend school regularly and punctually during the school term.</li>
+		<li>Students who arrive late will have their particulars recorded by the security guards. Notification letters will be issued to parents id a student is repeatedly late for school despite counselling.</li>
+	</ul>
+<h4>Absence</h4>
+	<ul>
+		<li>If your child is unwell, he/she needs to consult a doctor and submit a Medical Certificate upon returning school after his/her absence.</li>
+		<li>All other absences must also be supported by valid documents.</li>
+	</ul>
 <h4>Leaving school early</h4>
 
 Parents/ guardians must obtain permission from the Principal, Vice-Principal or teachers if they wish to take their children home because of sickness or other urgent matters.
