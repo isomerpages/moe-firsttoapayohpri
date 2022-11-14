@@ -118,24 +118,24 @@ description: ""
 <table style="width:75%">
 	<tr>
 		<td>
-			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Front%20View%20(Girl).jpg" style="width:38%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Front%20View%20(Girl).jpg" style="width:40%"/>
 			<br>
 			Front View (Girl)
 		</td>
 		<td>
-			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Front%20View%20(Boy).jpg" style="width:38%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Front%20View%20(Boy).jpg" style="width:40%"/>
 			<br>
 			Front View (Boy)
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Side%20View%20(Girl).jpg" style="width:38%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Side%20View%20(Girl).jpg" style="width:40%"/>
 			<br>
 			Side View (Girl)
 		</td>
 		<td>
-			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Side%20View%20(Boy).jpg" style="width:38%"/>
+			<img src="/images/About%20US/School%20Uniform%20and%20PE%20Attire/PE%20Side%20View%20(Boy).jpg" style="width:40%"/>
 			<br>
 			Side View (Boy)
 		</td>
