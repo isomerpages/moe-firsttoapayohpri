@@ -3,7 +3,6 @@ title: School Rules and Expectations
 permalink: /about-us/school-rules-and-expectations/
 description: ""
 ---
-
 ### School Rules and Expectations
 
 <ol>
@@ -22,66 +21,43 @@ description: ""
 	<h4><li> Conduct</li></h4>
 	<ol style="list-style-type: lower-roman">
 		<li> Students are to walk quietly and in orderly manner within the school premises. Unsupervised running is not allowed.</li>
-<br>
-3.2 Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.
-<br>
-3.3 Students are to observe table manners when eating and keep the tables clean after eating.
-<br>
-3.4 Students are to consume their food and drinks in the canteen only
-<br>
-3.5 Students are to queue in an orderly manner to board school bus and public transport.
-<br>
-3.6 Students are to demonstrate school values at all times.
-
-  
-
-#### 4\. School Attire
-
-4.1 Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.
-<br>
-4.2 Students are to have their nametags displayed on the school uniform.
-<br>
-4.3 Students are only allowed to wear their PE T-shirts on days with PE lessons.
-<br>
-4.4 Students are only allowed to wear their House T-shirts during CCA, PAL and House practice sessions (Fridays).
-<br>
-4.5 Students are to tuck their PE/House T-shirts at all times.
-<br>
-4.6 Students are allowed to change into their track shoes for CCAs but need to change back to school shoes once CCA is over.
-<br>
-4.7 Students are to put on black socks and shoes. Shoes should not have trimmings of any other colour. Socks should cover the ankles.
-
-  
-
-#### 5\. Grooming
-
-**5.1 Hairstyle**
-<br>
-a. Students are not allowed to perm or dye their hair.
-<br>
-b. The use of gel or hair mousse is not allowed.
-<br>
-c. Male students must be neat in appearance, clean-shaven. No facial hair is allowed. 
-<br>
-d. Outlandish and unkempt hairstyles are not allowed.
-<br>
-e. Female students with long hair must have it plaited or tied up neatly. Hair accessories should be dark blue or black.
-<br>
-f. Female students should not have their fringes touch their eyebrows. If it is long, it should be pinned up neatly.
-
-**5.2 Nails**
-<br>
-a. Students should have their nails trimmed and kept clean.
-<br>
-b. Students should not apply nail polish. 
-
-**5.3 Accessories**
-<br>
-a. Students are not allowed to wear jewellery or fashion accessories in school.  
-<br>
-b. Students wearing accessories for religious purposes should conceal them under the school uniform.
-<br>
-c. Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.
+		<li>Students are to queue to buy food and drinks and return all cutlery and crockery to the correct basins provided.</li>
+		<li>Students are to observe table manners when eating and keep the tables clean after eating.</li>
+		<li>Students are to consume their food and drinks in the canteen only.</li>
+		<li>Students are to queue in an orderly manner to board school bus and public transport.</li>
+		<li>Students are to demonstrate school values at all times.</li>
+	</ol>
+	<h4><li> School Attire</li></h4>
+		<ol style="list-style-type: lower-roman">
+			<li>Students are to wear the prescribed school uniform. Modification to the school uniform is not allowed.</li>
+			<li>Students are to have their nametags displayed on the school uniform.</li>
+			<li>Students are only allowed to wear their PE T-shirts on days with PE lessons.</li>
+			<li>Students are only allowed to wear their House T-shirts during CCA, PAL and House practice sessions (Fridays).</li>
+			<li>Students are to tuck their PE/House T-shirts at all times.</li>
+			<li>Students are allowed to change into their track shoes for CCAs but need to change back to school shoes once CCA is over.</li>
+			<li>Students are to put on black socks and shoes. Shoes should not have trimmings of any other colour. Socks should cover the ankles.</li>
+	</ol>
+	<h4><li> Grooming</li></h4>
+	<ol style="list-style-type: lower-roman">
+		<strong><li>Hairstyle</strong></li>
+			<ol style="list-style-type: lower-alpha">
+				<li>Students are not allowed to perm or dye their hair.</li>
+				<li>The use of gel or hair mousse is not allowed.</li>
+				<li>Male students must be neat in appearance, clean-shaven. No facial hair is allowed.</li>
+				<li>Outlandish and unkempt hairstyles are not allowed.</li>
+				<li>Female students with long hair must have it plaited or tied up neatly. Hair accessories should be dark blue or black.</li>
+				<li>Female students should not have their fringes touch their eyebrows. If it is long, it should be pinned up neatly.</li>
+		</ol>
+	<strong><li>Nails</strong></li>
+		<ol style="list-style-type: lower-alpha">
+			<li>Students should have their nails trimmed and kept clean.</li>
+			<li>Students should not apply nail polish.</li>
+		</ol>
+	<strong><li>Accessories</strong></li>
+		<ol style="list-style-type: lower-alpha">
+			<li>Students are not allowed to wear jewellery or fashion accessories in school.</li>
+	<li>Students wearing accessories for religious purposes should conceal them under the school uniform.</li>
+	<li>Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.</li>
 
   
 
