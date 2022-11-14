@@ -77,10 +77,12 @@ description: ""
 					<li>Non-adherence to the above stated rules will result in the confiscation of the mobile phones/personal electronic devices. A parent must come to school to collect the confiscated item.</li>
 				</ol>
 			</ol>
-			<h4><li>Possessions of Weapons</li></h4>
+		<h4><li>Possessions of Weapons</li></h4>
 			<ol style="list-style-type: lower-roman">
-			<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
-		</ol>
+				<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
+			</ol>
+	</ol>
+	
 <h4>School Uniform</h4>
 
 <table style="width:75%">
@@ -142,11 +144,9 @@ description: ""
 <h3>School Procedures</h3>
 <h4>Flag-Raising Ceremony</h4>
 
-All students are expected to be seated at the Parade Square or hall by 7.15am and the ceremony will start promptly at 7.25 am. Kindly note that the attendance at the flag-raising and pledge-taking ceremony is compulsory for all students.
+All students are to report to school before the Flag-raising Ceremony at 7.30am. Attendance at the flag-raising and pledge-taking ceremony is compulsory.
 
-  
-
-##### Leaving school early
+<h4>Leaving school early</h4>
 
 Parents/ guardians must obtain permission from the Principal, Vice-Principal or teachers if they wish to take their children home because of sickness or other urgent matters.
 <br>
