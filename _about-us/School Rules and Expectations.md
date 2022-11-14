@@ -77,36 +77,12 @@ description: ""
 					<li>Non-adherence to the above stated rules will result in the confiscation of the mobile phones/personal electronic devices. A parent must come to school to collect the confiscated item.</li>
 				</ol>
 			</ol>
-					
-					
-<br>
-7.2 Students are only allowed to use mobile phones in school for urgent communication. Playing of games and listening to music on the mobile phone is not allowed.
-<br>
-7.3 Students must seek permission from teacher if he/she is: 
-<br>
-| a. taking photographs, video or audio recording;
-<br>
-| b. uploading any photographs, video or audio recording.
-<br>
-7.4 Students should power off their mobile phones during lessons or other school activities.
-<br>
-7.5 Students are not allowed to bring expensive items to school e.g. media players and electronic games.
-<br>
-7.6 Students are not allowed to bring mobile phones or any other electronic devices capable of storing and displaying visual and verbal information into the classrooms during examinations.
-<br>
-7.7 Students are responsible for their own electronic devices.
+			<h4><li>Possessions of Weapons</li></h4>
+			<ol style="list-style-type: lower-roman">
+			<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  </li>
+		</ol>
 
-
-
-#### 8\. Possessions of Weapons
-
-\*All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.  
-
-  
-
-  
-
-#### School Uniform
+<h4>School Uniform</h4>
 
 <table style="width:75%">
 	<tr>
