@@ -3,7 +3,7 @@ title: School Rules and Expectations
 permalink: /about-us/school-rules-and-expectations/
 description: ""
 ---
-### School Rules and Expectations
+<h3> School Rules and Expectations</h3>
 
 <ol>
 	<h4><li> Singing of the National Anthem and recitation of National Pledge</li></h4>
@@ -138,12 +138,9 @@ description: ""
 		</td>
 	</tr>
 </table>
-			
 
-#### School Procedures
-
-
-##### Flag-Raising Ceremony
+<h3>School Procedures</h3>
+<h4>Flag-Raising Ceremony</h4>
 
 All students are expected to be seated at the Parade Square or hall by 7.15am and the ceremony will start promptly at 7.25 am. Kindly note that the attendance at the flag-raising and pledge-taking ceremony is compulsory for all students.
 
