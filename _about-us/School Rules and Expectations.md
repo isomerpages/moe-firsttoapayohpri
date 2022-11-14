@@ -56,22 +56,29 @@ description: ""
 	<strong><li>Accessories</strong></li>
 		<ol style="list-style-type: lower-alpha">
 			<li>Students are not allowed to wear jewellery or fashion accessories in school.</li>
-	<li>Students wearing accessories for religious purposes should conceal them under the school uniform.</li>
-	<li>Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.</li>
-
-  
-
-##### 6\. Care of property
-
-6.1 Students are to be responsible and take good care of their belongings and school property.
-
-  
-
-#### 7\. Use of electronic devices
-
-7.1 The use of mobile phones and/or personal electronic devices (PED) is for urgent communication with family members only. 
-<br>
-a To minimise distraction and disruption to lessons, students are only allowed the use of mobile phone in the canteen and foyer during recess, lunchtime and after dismissal.
+			<li>Students wearing accessories for religious purposes should conceal them under the school uniform.</li>
+			<li>Female students are allowed to wear a pair of small identical ear studs. One ear stud per ear.</li>
+		</ol>
+	</ol>
+	<h4><li>  Care of property</li></h4>
+		<ol style="list-style-type: lower-roman">
+			<li>Students are to be responsible and take good care of their belongings and school property.</li>
+		</ol>
+	<h4><li> Use of electronic devices</li></h4>
+		<ol style="list-style-type: lower-roman">
+			<li>The use of mobile phones and/or personal electronic devices (PED) is for urgent communication with family members only.</li>
+				<ol style="list-style-type: lower-alpha">
+					<li>Students are allowed to use their mobile phones in the canteen and at the Student Interaction Area (SIA) during recess, lunchtime and after school hours.</li>
+					<li>Students have to switch off their mobile phones during lessons or any school activities.</li>
+					<li>Students are responsible for the safe-keeping of their own mobile phones and/or other personal electronic devices.</li>
+					<li>Students are not allowed to take photographs, video or audio recordings, unless supervised by school staff.</li>
+					<li>Playing of games and listening to music on mobile phones and PEDs are not allowed in school.</li>
+					<li>Should caregivers need to contact their child during school hours on urgent matters, they may call the General Office for assistance.</li>
+					<li>Non-adherence to the above stated rules will result in the confiscation of the mobile phones/personal electronic devices. A parent must come to school to collect the confiscated item.</li>
+				</ol>
+			</ol>
+					
+					
 <br>
 7.2 Students are only allowed to use mobile phones in school for urgent communication. Playing of games and listening to music on the mobile phone is not allowed.
 <br>
