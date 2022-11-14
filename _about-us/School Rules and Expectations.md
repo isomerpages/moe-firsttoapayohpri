@@ -171,14 +171,14 @@ description: ""
 <h4>Communication with Teachers</h4>
 	<ul>
 		<li>Parents/Guardians may communicate with the teachers regarding their child’s learning or behaviour through Student Handbook.</li>
-	<li></li>
+	<li>Please call the school or teachers for an appointment before you come as the teacher you would like to meet may not be available. You may also email your request or query to the teacher.</li>
 	</ul>
-
-##### Communication
-
-Parents may communicate with the teachers regarding the child’s learning or behaviour through this handbook.
-
-  
+<h4>Sending Children to School and Picking them from School</h4>
+	<ul>
+		<li>Please note that the area just outside the main entrance of the school is a non-stopping/ non-waiting area. In the interest of the safety of our students and in compliance to LTA traffic ruling, vehicles are prohibited to make U-turns in front of the school main gate. Parents may drive into the school to drop off their children before 7.30am. After 7.30 am, parents may let their children alight before the yellow box outside the main gate.</li>
+		<li></li>
+		<li></li>
+	</ul>
 
 #### School Safety Guidelines
 
