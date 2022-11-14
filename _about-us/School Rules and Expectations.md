@@ -176,24 +176,11 @@ description: ""
 <h4>Sending Children to School and Picking them from School</h4>
 	<ul>
 		<li>Please note that the area just outside the main entrance of the school is a non-stopping/ non-waiting area. In the interest of the safety of our students and in compliance to LTA traffic ruling, vehicles are prohibited to make U-turns in front of the school main gate. Parents may drive into the school to drop off their children before 7.30am. After 7.30 am, parents may let their children alight before the yellow box outside the main gate.</li>
-		<li></li>
-		<li></li>
+		<li>Teachers are stationed at the pedestrian crossing just outside the school to help ensure the safety of our student</li>
+		<li>As the school has limited parking lots for cars, parents/guardians who drive are requested to park their vehicles at the public car park beside the school premises when visiting the school.</li>
+		<li>We educate our students to observe road safety regulations at all times and would like to seek the support and co-operation of parents in the use of the pedestrian crossing when crossing the roads outside the school premises.</li>
 	</ul>
-
-#### School Safety Guidelines
-
-
-To ensure the safety and security of all our students and staff, all visitors to the school would be required to present their identity card in exchange for a visitor’s pass at the security post before proceeding to the General Office.
-<br>
-
-Please note that the area just outside the main entrance of the school is a non-stopping/ non-waiting area. In view of the safety of our students and in compliance to LTA traffic ruling, vehicles are prohibited to make U-turns in front of the school gate. Parents may drive into the school to drop off their children before 7.30am. After 7.30 am, parents may have their children alight either before the yellow box outside the main gate or near the canteen gate.
-<br>
-
-Teachers are stationed at the pedestrian crossing just outside the school to help ensure the safety of our students. We educate our students to observe road safety regulations at all times and seek the support and co-operation of parents in the use of the pedestrian crossing when walking with their children to and from school.
-
-  
-
-#### THE DESIRED OUTCOMES OF EDUCATION
+<h4>THE DESIRED OUTCOMES OF EDUCATION</h4>
 
 
 Our students will become
