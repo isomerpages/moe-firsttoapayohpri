@@ -4,14 +4,9 @@ permalink: /ftpps-family/parents-corner/p1-orientation-2022-2023/
 description: ""
 third_nav_title: Parents' Corner
 ---
-
-
-
-
 For more information, please click on the link below:  
-[P1 Orientation 2021/2022](/files/FTPPS_P1%20Orientation%202021_2022.pdf)
-#### FAQs
-[P1 Orientation 2021/2022 Q&A](/files/FTPPS%20P1%20Orientation%202021_2022_QA.pdf)
+
+**[P1 Orientation 2022-2023](https://drive.google.com/file/d/1FzGjeEUSsrsL4hVQc-22ZBP29mx4_0Ps/view?usp=sharing)**
 
 #### Related Videos
 
