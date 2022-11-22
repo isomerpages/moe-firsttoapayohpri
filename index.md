@@ -33,7 +33,7 @@ sections:
       title: P1 Orientation 2022-2023
       subtitle: News & Announcements
       button: more information
-      url: https://drive.google.com/file/d/1FzGjeEUSsrsL4hVQc-22ZBP29mx4_0Ps/view?usp=share_link
+      url: /ftpps-family/parents-corner/p1-orientation-2022-2023/
       image: /images/HOMEPAGE/P1 Orientation 2022-2023.jpg
       alt: Image alt text
   - infopic:
