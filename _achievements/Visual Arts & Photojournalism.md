@@ -5,6 +5,30 @@ description: ""
 ---
 #### 2022 Awards
 
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide2.jpg)
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide3.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide4.jpg)
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide5.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide6.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide7.jpg)
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide8.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide9.jpg)
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide10.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide11.jpg)
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide12.jpg)
+
+![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide13.jpg)
+
+
+
+
 #### 2020 Awards
 
 <img src="/images/OSOS%20Awards%202020%20for%20website_Page_1.jpg" style="width:100%"/>
