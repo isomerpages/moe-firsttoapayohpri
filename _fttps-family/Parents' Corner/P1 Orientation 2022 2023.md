@@ -12,8 +12,6 @@ For more information, please click on the link below:
 
 <iframe width="700" height="390" src="https://www.youtube.com/embed/IlsYkGqHfGo" title="FTPPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/S8y11KVON1Q" title="First Toa Payoh Primary Schhol (SMM @ FTPPS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <iframe width="700" height="390" src="https://www.youtube.com/embed/tW9jwyuovOo" title="Parents Gateway Onboarding video for Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="700" height="394" src="https://www.youtube.com/embed/9gzKTOypbQI" title="Our Foundation Years" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
