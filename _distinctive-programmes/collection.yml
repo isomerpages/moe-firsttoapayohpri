@@ -1,0 +1,9 @@
+collections:
+  distinctive-programmes:
+    output: true
+    order:
+      - Distinctive Programmes.md
+      - Applied Learning Programme (ALP).md
+      - Learning for Life Programme (LLP).md
+      - The Tinkerlution Programme.md
+      - Live, Learn, Lead.md

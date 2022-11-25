@@ -1,0 +1,12 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - Our Vision, Mission & Values.md
+      - School Logo, Song & Uniform.md
+      - Our Care Culture.md
+      - School Rules and Expectations.md
+      - School Corporate Video.md
+      - Privacy Statement.md
