@@ -2,6 +2,7 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
+      - Event/.keep
       - Our MK and KCare Programmes/Our MK and KCare Programmes.md
       - Our MK and KCare Programmes/Waitlist Application.md
       - Our MK and KCare Programmes/.keep
