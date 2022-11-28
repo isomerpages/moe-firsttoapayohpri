@@ -2,14 +2,14 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
-      - MOE Kindergarten (MK) Open House.md
-      - Event/Events.md
-      - Event/.keep
+      - Our MK and KCare Programmes/.keep
       - Our MK and KCare Programmes/Our MK and KCare Programmes.md
       - Our MK and KCare Programmes/Waitlist Application.md
-      - Our MK and KCare Programmes/.keep
       - Our Staff in MK@FY.md
       - See to Believe!.md
+      - MOE Kindergarten (MK) Open House.md
+      - Event/.keep
+      - Event/Events.md
       - Learning Experiences.md
       - K1 Orientation 2021.md
       - MK@First Toa Payoh Virtual Tour.md
