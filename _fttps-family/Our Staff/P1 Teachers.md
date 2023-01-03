@@ -7,9 +7,9 @@ third_nav_title: Our Staff
 |  |  |  |
 |---|---|---|
 | **P1 RESPECT** |  |  |
-|  Form Teachers |  JUNAINAH BINTE MD TAIB (MDM) |  [junainah_md_taib@moe.edu.sg](mailto:junainah_md_taib@moe.edu.sg) |
-|   |  GUI JEAN EE (MDM) |  [gui_jean_ee@moe.edu.sg](mailto:gui_jean_ee@moe.edu.sg) |
-|  |  AW YONG BI ZHU (MS) |  [aw_yong_bi_zhu@moe.edu.sg](mailto:aw_yong_bi_zhu@moe.edu.sg) |
+|  Form Teachers |  LEE HWEE KHENG (MDM) |  [lee_hwee_kheng@moe.edu.sg](mailto:lee_hwee_kheng@moe.edu.sg) |
+|   |  DIANA BINTE MOHAMED MAZLAN (MISS) |  [diana_mohamed_mazlan@moe.edu.sg](mailto:diana_mohamed_mazlan@moe.edu.sg) |
+|  |  LEE JO-ANNE (MS) |  [lee_jo-anne@moe.edu.sg](mailto:lee_jo-anne@moe.edu.sg) |
 |   |   |   |
 |  **P1 RESPONSIBILITY** |  |  |
 |  Form Teachers |  TAN AI CHOO PAMELA (MDM) |  [tan_ai_choo@moe.edu.sg](mailto:tan_ai_choo@moe.edu.sg) |
