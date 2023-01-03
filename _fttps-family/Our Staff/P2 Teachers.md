@@ -7,8 +7,8 @@ third_nav_title: Our Staff
 |  |  |  |
 |---|---|---|
 |  **P2 RESPECT** |  |  |
-|  Form Teachers |  SABRINA BTE SAINI (MDM) |  [sabrina_saini@moe.edu.sg](mailto:sabrina_saini@moe.edu.sg) |
-|   |  LOKE SHEN LING SERENE (MISS) |  [loke_shen_ling_serene@moe.edu.sg](mailto:loke_shen_ling_serene@moe.edu.sg) |
+|  Form Teachers |  JUNAINAH BINTE MD TAIB (MDM) |  [junainah_md_taib@moe.edu.sg](mailto:junainah_md_taib@moe.edu.sg) |
+|   |  BALARAMAN DEEPA (MDM) |  [deepa_balaraman@moe.edu.sg](mailto:deepa_balaraman@moe.edu.sg) |
 |  |  |  |
 |  **P2 RESPONSIBILITY** |  |  |
 |  Form Teachers |  LEE JO-ANNE (MS) |  [lee_jo-anne@moe.edu.sg](mailto:lee_jo-anne@moe.edu.sg) |
