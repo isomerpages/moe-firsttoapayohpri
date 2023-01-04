@@ -12,8 +12,8 @@ third_nav_title: Our Staff
 |   |  SITI MASKINAH BINTE MUZAKIR (MDM) |  [siti_maskinah_muzakir@moe.edu.sg](mailto:siti_maskinah_muzakir@moe.edu.sg) |
 |  |  |  |
 |  **P4 INTEGRITY** |  |  |
-|  Form Teachers |  WONG NGIAN KHEE IAIN (MR) |  [wong_ngian_khee@moe.edu.sg](mailto:wong_ngian_khee@moe.edu.sg) |
-|   |  SITI MASKINAH BINTE MUZAKIR (MDM) |  [siti_maskinah_muzakir@moe.edu.sg](mailto:siti_maskinah_muzakir@moe.edu.sg) |
+|  Form Teachers |  SENG SIOK KUAN ANNE (MISS) |  [seng_siok_kuan_anne@moe.edu.sg](mailto:seng_siok_kuan_anne@moe.edu.sg) |
+|   |  TAN JIA JUN JAKE (MR)) |  [tan_jia_jun_jake@moe.edu.sg](mailto:tan_jia_jun_jake@moe.edu.sg) |
 |  |   |   |
 |  **P4 PERSEVERANCE** |   |   |
 |  Form Teachers |  YEO KIRK BOONE (MR)  |  [yeo_kirk_boone@moe.edu.sg](mailto:yeo_kirk_boone@moe.edu.sg) |
