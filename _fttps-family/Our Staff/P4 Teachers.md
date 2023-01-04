@@ -16,6 +16,6 @@ third_nav_title: Our Staff
 |   |  TAN JIA JUN JAKE (MR)) |  [tan_jia_jun_jake@moe.edu.sg](mailto:tan_jia_jun_jake@moe.edu.sg) |
 |  |   |   |
 |  **P4 PERSEVERANCE** |   |   |
-|  Form Teachers |  YEO KIRK BOONE (MR)  |  [yeo_kirk_boone@moe.edu.sg](mailto:yeo_kirk_boone@moe.edu.sg) |
-|  |  HSU YU-HSUN (MISS) |  [hsu_yu_hsun@moe.edu.sg](mailto:hsu_yu_hsun@moe.edu.sg) |
+|  Form Teachers |  LAM LAI NGOR (MISS)  |  [lam_lai_ngor@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
+|  |  SIM YEOW SENG IVAN (MR) |  [sim_yeow_seng_ivan@moe.edu.sg](mailto:sim_yeow_seng_ivan@moe.edu.sg) |
 |  |  |  |
