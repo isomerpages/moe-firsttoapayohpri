@@ -19,7 +19,7 @@ third_nav_title: Our Staff
 |   |  TAN BOON HOCK EDWIN (MR) |  [tan_boon_hock_edwin@moe.edu.sg](mailto:tan_boon_hock_edwin@moe.edu.sg) |
 |   |   |   |
 |  **P5 INTEGRITY** |  |  |
-|  Form Teachers |  SNG SIN LIM CAROL (MDM) |  [sng_sin_lim@moe.edu.sg](mailto:sng_sin_lim@moe.edu.sg) |
-|   |  NG YING MINDY (MISS) |  [ng_ying_mindy@moe.edu.sg](mailto:ng_ying_mindy@moe.edu.sg) |
-|   |  MRS PANDIYAN |  [k_maanvili@moe.edu.sg](mailto:k_maanvili@moe.edu.sg) |
+|  Form Teachers |  JULIANA BTE ARIFFIN (MDM) |  [juliana_ariffin@moe.edu.sg](mailto:juliana_ariffin@moe.edu.sg) |
+|   |  JASMINE KOK (MISS) |  [jasmine_kok@moe.edu.sg](mailto:jasmine_kok@moe.edu.sg) |
+|   |  CHIN YING TING (MDM) |  [chin_ying_ting@moe.edu.sg](mailto:chin_ying_ting@moe.edu.sg) |
 |   |   |   |
