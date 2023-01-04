@@ -6,20 +6,16 @@ third_nav_title: Our Staff
 ---
 |  |  |  |
 |---|---|---|
-|  **P4 RESPECT** |  |  |
-|  Form Teachers |  TAN LAY CHENG (MISS) | [tan_lay_cheng_a@moe.edu.sg](mailto:tan_lay_cheng_a@moe.edu.sg) |
-|   |  ZHAO NA (MISS) | [zhao_na@moe.edu.sg](mailto:zhao_na@moe.edu.sg) |
-|   |   |   |
-|  **P4 RESPONSIBILITY** |   |   |
-|  Form Teachers |  JULIANA BTE ARIFFIN (MDM)  |  [juliana_ariffin@moe.edu.sg](mailto:juliana_ariffin@moe.edu.sg) |
-|   |  JASMINE KOK (MISS) | [jasmine_kok@moe.edu.sg](mailto:jasmine_kok@moe.edu.sg) |
-|   |  HAN HENG EE ADELYN (MDM) |  [han_heng_ee@moe.edu.sg](mailto:han_heng_ee@moe.edu.sg) |
-|   |   |   |
 |  **P4 LOVE** |   |   |
-|  Form Teachers |  YEO KIRK BOONE (MR)  |  [yeo_kirk_boone@moe.edu.sg](mailto:yeo_kirk_boone@moe.edu.sg) |
-|  |  HSU YU-HSUN (MISS) |  [hsu_yu_hsun@moe.edu.sg](mailto:hsu_yu_hsun@moe.edu.sg) |
+|  Form Teachers |  TEO CHWEE CHIN KATHERINE (MDM)  |  [teo_chwee_chin@moe.edu.sg](mailto:teo_chwee_chin@moe.edu.sg) |
+|  |  LOKE SHEN LING SERENE (MISS) |  [loke_shen_ling_serene@moe.edu.sg](mailto:loke_shen_ling_serene@moe.edu.sg) |
+|   |  SITI MASKINAH BINTE MUZAKIR (MDM) |  [siti_maskinah_muzakir@moe.edu.sg](mailto:siti_maskinah_muzakir@moe.edu.sg) |
 |  |  |  |
 |  **P4 INTEGRITY** |  |  |
-|  Form Teachers |  WONG NGIAN KHEE IAIN (MR) |  [wong_ngian_khee@moe.edu.sg](mailto:wong_ngian_khee@moe.edu.sg) |
-|   |  SITI MASKINAH BINTE MUZAKIR (MDM) |  [siti_maskinah_muzakir@moe.edu.sg](mailto:siti_maskinah_muzakir@moe.edu.sg) |
+|  Form Teachers |  SENG SIOK KUAN ANNE (MISS) |  [seng_siok_kuan_anne@moe.edu.sg](mailto:seng_siok_kuan_anne@moe.edu.sg) |
+|   |  TAN JIA JUN JAKE (MR)) |  [tan_jia_jun_jake@moe.edu.sg](mailto:tan_jia_jun_jake@moe.edu.sg) |
 |  |   |   |
+|  **P4 PERSEVERANCE** |   |   |
+|  Form Teachers |  LAM LAI NGOR (MISS)  |  [lam_lai_ngor@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
+|  |  SIM YEOW SENG IVAN (MR) |  [sim_yeow_seng_ivan@moe.edu.sg](mailto:sim_yeow_seng_ivan@moe.edu.sg) |
+|  |  |  |

@@ -7,24 +7,28 @@ third_nav_title: Our Staff
 |  |  |  |
 |---|---|---|
 |  **P2 RESPECT** |  |  |
-|  Form Teachers |  SABRINA BTE SAINI (MDM) |  [sabrina_saini@moe.edu.sg](mailto:sabrina_saini@moe.edu.sg) |
-|   |  LOKE SHEN LING SERENE (MISS) |  [loke_shen_ling_serene@moe.edu.sg](mailto:loke_shen_ling_serene@moe.edu.sg) |
+|  Form Teachers |  JUNAINAH BINTE MD TAIB (MDM) |  [junainah_md_taib@moe.edu.sg](mailto:junainah_md_taib@moe.edu.sg) |
+|   |  BALARAMAN DEEPA (MDM) |  [deepa_balaraman@moe.edu.sg](mailto:deepa_balaraman@moe.edu.sg) |
 |  |  |  |
 |  **P2 RESPONSIBILITY** |  |  |
-|  Form Teachers |  LEE JO-ANNE (MS) |  [lee_jo-anne@moe.edu.sg](mailto:lee_jo-anne@moe.edu.sg) |
-|  |  NURUL IRDINA BTE AGOS SADI (MISS) |  [nurul_irdina_agos_sadi@moe.edu.sg](mailto:nurul_irdina_agos_sadi@moe.edu.sg) |
-|  |  SOH-TAN LI LI (MRS)  |  [soh-tan_li_li@moe.edu.sg](mailto:soh-tan_li_li@moe.edu.sg) |
+|  Form Teachers |  TAN AI CHOO PAMELA (MDM) |  [tan_ai_choo@moe.edu.sg](mailto:tan_ai_choo@moe.edu.sg) |
+|  |  NOR IZAWATY BINTE MOHAMED NOOR (MISS)  |  [nor_izawaty_mohamed_noor@moe.edu.sg](mailto:nor_izawaty_mohamed_noor@moe.edu.sg) |
 |  |  |  |
 |  **P2 LOVE** |  |  |
-|  Form Teachers |  VERACHELVAN (MRS) |  [gomathi_verachelvan@moe.edu.sg](mailto:gomathi_verachelvan@moe.edu.sg) |
-|  |  LEO MAY LIN JEANNE (MDM)  |  [leo_may_lin@moe.edu.sg](mailto:leo_may_lin@moe.edu.sg) |
-|   |  CHIN YING TING (MDM)  |  [chin_ying_ting@moe.edu.sg](mailto:chin_ying_ting@moe.edu.sg) |
-|   |   |   |
+|  Form Teachers |  ABDUL AZEEZ NOORUNISA (MDM) |  [abdul_azeez_noorunisa@moe.edu.sg](mailto:abdul_azeez_noorunisa@moe.edu.sg) |
+|  |  LIM MING YUEK SHIRLEY (MDM) |  [lim_ming_yuek_shirley@moe.edu.sg](mailto:lim_ming_yuek_shirley@moe.edu.sg) |
+|  |  AW YONG BI ZHU (MS)  |  [aw_yong_bi_zhu@moe.edu.sg](mailto:aw_yong_bi_zhu@moe.edu.sg) |
+|  |  |  |
 |  **P2 INTEGRITY**  |   |   |
-|  Form Teachers |  TAN WAI MUN ALOYSIA (MISS) |  [tan_wai_mun_aloysia@moe.edu.sg](mailto:tan_wai_mun_aloysia@moe.edu.sg) |
-|   |  CHEONG KA LENG STEPHANIE (MDM) |  [cheong_ka_leng_stephanie@moe.edu.sg](mailto:cheong_ka_leng_stephanie@moe.edu.sg) |
+|  Form Teachers |  SHEN TIAN RONG (MRS)) |  [tan_tian_rong@moe.edu.sg](mailto:tan_tian_rong@moe.edu.sg) |
+|   |  NURUL IRDINA BTE AGOS SADI (MISS) |  [nurul_irdina_agos_sadi@moe.edu.sg](mailto:nurul_irdina_agos_sadi@moe.edu.sg) |
+|   |  SIM XIN YEE LYDIA (MRS)  |  [ng_xin_yee_lydia@moe.edu.sg](mailto:ng_xin_yee_lydia@moe.edu.sg) |
 |   |   |   |
 |  **P2 PERSEVERANCE** |   |   |
-|  Form Teachers  |  CHIA HUI SIANG (MISS) |  [chia_hui_siang@moe.edu.sg](mailto:chia_hui_siang@moe.edu.sg) |
-|   |  SEE MAY HUA MAYBELLINE (MRS)  |  [kong_may_hua_maybelline@moe.edu.sg](mailto:kong_may_hua_maybelline@moe.edu.sg) |
+|  Form Teachers  |  TAN JOO HUI EFFIE (MRS) |  [ho_joo_hui_effie@moe.edu.sg](mailto:ho_joo_hui_effie@moe.edu.sg) |
+|   |  GOWRI D/O DEVAKARAN (MDM)  |  [gowri_devakaran@moe.edu.sg](mailto:gowri_devakaran@moe.edu.sg) |
+|   |   |   |
+|  **P2 EXCELLENCE** |   |   |
+|  Form Teachers  |  TONG MENG LAN RACHEL (MDM) |  [tong_meng_lan@moe.edu.sg](mailto:tong_meng_lan@moe.edu.sg) |
+|   |  TAN HWA HWA ANDY (MR)  |  [tan_hwa_hwa_andy@moe.edu.sg](mailto:tan_hwa_hwa_andy@moe.edu.sg) |
 |   |   |   |

@@ -4,26 +4,8 @@ permalink: /ftpps-family/parents-corner/monthly-letters-to-parents/
 description: ""
 third_nav_title: Parents' Corner
 ---
-<h4><u>2022 Monthly Letter to Parents</u></h4>
+<h4><u>2023 Monthly Letter to Parents</u></h4>
 
-[Letter to Parents Pre-Sch Opening](/files/Letter%20to%20Parents%20Pre-Sch%20Opening%20%2030%20Dec%202021%20Final.pdf)
+
+[Letter to Parents - January 2023](/files%2FParents'%20Corner%2FLetter%20to%20Parents%2F2023/editMediaSettings/0123%20-%20Letter%20to%20Parents_Final.pdf)
 <br>
-[Letter to Parents - January 2022](/files/0122%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - February 2022](/files/0222%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - March 2022](/files/0322%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - April 2022](/files/0422%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - May 2022](/files/0522%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - July 2022](/files/Parents'%20Corner/Letter%20to%20Parents/2022/0722%20-%20Letter%20to%20Parents_Final.pdf)
-<br>
-[Letter to Parents - August 2022](/files/Parents'%20Corner/Letter%20to%20Parents/2022/0822%20-%20Letter%20to%20Parents_final.pdf)
-<br>
-[Letter to Parents - September 2022](/files/Parents'%20Corner/Letter%20to%20Parents/2022/0922%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - October 2022](/files/Parents'%20Corner/Letter%20to%20Parents/2022/1022%20-%20Letter%20to%20Parents%20Final.pdf)
-<br>
-[Letter to Parents - November 2022](/files/Parents'%20Corner/Letter%20to%20Parents/2022/1122%20-%20Letter%20to%20Parents%20Final.pdf)
