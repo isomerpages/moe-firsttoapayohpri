@@ -25,6 +25,10 @@ third_nav_title: Our Staff
 |   |  SIM XIN YEE LYDIA (MRS)  |  [ng_xin_yee_lydia@moe.edu.sg](mailto:ng_xin_yee_lydia@moe.edu.sg) |
 |   |   |   |
 |  **P2 PERSEVERANCE** |   |   |
-|  Form Teachers  |  CHIA HUI SIANG (MISS) |  [chia_hui_siang@moe.edu.sg](mailto:chia_hui_siang@moe.edu.sg) |
-|   |  SEE MAY HUA MAYBELLINE (MRS)  |  [kong_may_hua_maybelline@moe.edu.sg](mailto:kong_may_hua_maybelline@moe.edu.sg) |
+|  Form Teachers  |  TAN JOO HUI EFFIE (MRS) |  [ho_joo_hui_effie@moe.edu.sg](mailto:ho_joo_hui_effie@moe.edu.sg) |
+|   |  GOWRI D/O DEVAKARAN (MDM)  |  [gowri_devakaran@moe.edu.sg](mailto:gowri_devakaran@moe.edu.sg) |
+|   |   |   |
+|  **P2 EXCELLENCE** |   |   |
+|  Form Teachers  |  TONG MENG LAN RACHEL (MDM) |  [tong_meng_lan@moe.edu.sg](mailto:tong_meng_lan@moe.edu.sg) |
+|   |  TAN HWA HWA ANDY (MR)  |  [tan_hwa_hwa_andy@moe.edu.sg](mailto:tan_hwa_hwa_andy@moe.edu.sg) |
 |   |   |   |
