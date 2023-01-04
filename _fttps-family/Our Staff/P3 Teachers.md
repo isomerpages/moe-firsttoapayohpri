@@ -21,6 +21,6 @@ third_nav_title: Our Staff
 |   |   |   |
 |  **P3 PERSEVERANCE** |  |  |
 |  Form Teachers |  LEO MAY LIN JEANNE (MDM) |  [leo_may_lin@moe.edu.sg](mailto:leo_may_lin@moe.edu.sg) |
-|   |  TAN HWA HWA ANDY (MR) |  [tan_hwa_hwa_andy@moe.edu.sg](mailto:tan_hwa_hwa_andy@moe.edu.sg) |
-|  |  SIM YEOW SENG IVAN (MR) |  [sim_yeow_seng_ivan@moe.edu.sg](mailto:sim_yeow_seng_ivan@moe.edu.sg) |
+|   |  FIKIR AMIN BINTI MD SAID (MISS) |  [fikir_amin_md_said@moe.edu.sg](mailto:fikir_amin_md_said@moe.edu.sg) |
+|  |  MRS PANDIYAN |  [k_maanvili@moe.edu.sg](mailto:k_maanvili@moe.edu.sg) |
 |   |   |   |
