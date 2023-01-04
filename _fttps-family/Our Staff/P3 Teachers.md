@@ -11,8 +11,9 @@ third_nav_title: Our Staff
 |   |  CHEONG KA LENG STEPHANIE (MDM) |  [cheong_ka_leng_stephanie@moe.edu.sg](mailto:cheong_ka_leng_stephanie@moe.edu.sg) |
 |   |   |   |
 |  **P3 LOVE** |  |  |
-|  Form Teachers  |  TEO CHWEE CHIN KATHERINE (MDM) |  [teo_chwee_chin@moe.edu.sg](mailto:teo_chwee_chin@moe.edu.sg) |
-|   |  FARIDAH BINTE JAAFAR (MDM)  |  [faridah_jaafar@moe.edu.sg](mailto:faridah_jaafar@moe.edu.sg) |
+|  Form Teachers  |  TAN WAI MUN ALOYSIA (MISS) |  [tan_wai_mun_aloysia@moe.edu.sg](mailto:tan_wai_mun_aloysia@moe.edu.sg) |
+|   |  LEE CHUNG FANG (MISS)  |  [lee_chung_fang@moe.edu.sg](mailto:lee_chung_fang@moe.edu.sg) |
+|   |  HAN HENG EE ADELYN (MDM)  |  [han_heng_ee@moe.edu.sg](mailto:han_heng_ee@moe.edu.sg) |
 |  |  |  |
 |  **P3 INTEGRITY** |  |  |
 |  Form Teachers |  SENG SIOK KUAN ANNE (MISS) |  [seng_siok_kuan_anne@moe.edu.sg](mailto:seng_siok_kuan_anne@moe.edu.sg) |
