@@ -16,8 +16,8 @@ third_nav_title: Our Staff
 |   |  HAN HENG EE ADELYN (MDM)  |  [han_heng_ee@moe.edu.sg](mailto:han_heng_ee@moe.edu.sg) |
 |  |  |  |
 |  **P3 INTEGRITY** |  |  |
-|  Form Teachers |  SENG SIOK KUAN ANNE (MISS) |  [seng_siok_kuan_anne@moe.edu.sg](mailto:seng_siok_kuan_anne@moe.edu.sg) |
-|   |  TAN JIA JUN JAKE (MR) |  [tan_jia_jun_jake@moe.edu.sg](mailto:tan_jia_jun_jake@moe.edu.sg) |
+|  Form Teachers |  CHIA HUI SIANG (MISS) |  [chia_hui_siang@moe.edu.sg](mailto:chia_hui_siang@moe.edu.sg) |
+|   |  SEE MAY HUA MAYBELLINE (MRS) |  [kong_may_hua_maybelline@moe.edu.sg](mailto:kong_may_hua_maybelline@moe.edu.sg) |
 |   |   |   |
 |  **P3 PERSEVERANCE** |  |  |
 |  Form Teachers |  LAM LAI NGOR (MISS) |  [lam_lai_ngor@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
