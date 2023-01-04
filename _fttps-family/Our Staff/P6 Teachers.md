@@ -6,6 +6,10 @@ third_nav_title: Our Staff
 ---
 |  |  |  |
 |---|---|---|
+| **P6 RESPECT** |  |  |
+|  Form Teachers |  TAN KUI ING PEARLY (MDM) |  [tan_kui_ing_pearly@moe.edu.sg](mailto:tan_kui_ing_pearly@moe.edu.sg) |
+|   |  LIM TIEW LING (MDM) |  [lim_tiew_ling@moe.edu.sg](mailto:lim_tiew_ling@moe.edu.sg) |
+|  |  |  |
 | **P6 LOVE** |  |  |
 |  Form Teachers |  HO CHI CHIA BRENDA (MS) |  [ho_chi_chia_brenda@moe.edu.sg](mailto:ho_chi_chia_brenda@moe.edu.sg) |
 |   |  ANG MEI LING (MISS) |  [ang_mei_ling@moe.edu.sg](mailto:ang_mei_ling@moe.edu.sg) |
