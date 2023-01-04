@@ -6,6 +6,10 @@ third_nav_title: Our Staff
 ---
 |  |  |  |
 |---|---|---|
+|  **P3 RESPONSIBILITY** |  |  |
+|  Form Teachers |  WONG NGIAN KHEE IAIN (MR) |  [wong_ngian_khee@moe.edu.sg](mailto:wong_ngian_khee@moe.edu.sg) |
+|   |  CHEONG KA LENG STEPHANIE (MDM) |  [cheong_ka_leng_stephanie@moe.edu.sg](mailto:cheong_ka_leng_stephanie@moe.edu.sg) |
+|   |   |   |
 |  **P3 LOVE** |  |  |
 |  Form Teachers  |  TEO CHWEE CHIN KATHERINE (MDM) |  [teo_chwee_chin@moe.edu.sg](mailto:teo_chwee_chin@moe.edu.sg) |
 |   |  FARIDAH BINTE JAAFAR (MDM)  |  [faridah_jaafar@moe.edu.sg](mailto:faridah_jaafar@moe.edu.sg) |
