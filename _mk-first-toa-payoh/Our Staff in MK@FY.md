@@ -5,10 +5,10 @@ description: ""
 ---
 | Name of Staff | Designation | Email Address |
 |---|---|---|
-| Mdm Yu Yan Phin Yvonne | Centre Head | [Yu\_yan\_phin@schools.gov.sg](mailto:Yu_yan_phin@schools.gov.sg) |
-| Miss Ling Hui Kia | MKE / EL | [Ling\_hui\_kia@schools.gov.sg](mailto:Ling_hui_kia@moe.edu.sg) |
-| Miss Saleha Ahmadi Binte Mirza Quayam Ali | MKE / EL | [Saleha\_ahmadi\_MIRZA\_QUAYAM\_ALI@schools.gov.sg](mailto:Saleha_ahmadi_MIRZA_QUAYAM_ALI@schools.gov.sg) |
-| Ms Ashwini Prasad Pillai | MKE / EL | [Ashwini\_Prasad\_pillai@schools.gov.sg](mailto:Ashwini_Prasad_pillai@schools.gov.sg) |
+| Mdm Yu Yan Phin Yvonne | Centre Head | [yu_yan_phin@moe.edu.sg](mailto:yu_yan_phin@moe.edu.sg) |
+| Miss Ling Hui Kia | MKE / EL | [ling_hui_kia@moe.edu.sg](mailto:ling_hui_kia@moe.edu.sg) |
+| Miss Saleha Ahmadi Binte Mirza Quayam Ali | MKE / EL | [Saleha_ahmadi_MIRZA_QUAYAM_ALI@moe.edu.sg](mailto:Saleha_ahmadi_MIRZA_QUAYAM_ALI@moe.edu.sg) |
+| Ms Ashwini Prasad Pillai | MKE / EL | [Ashwini_Prasad_pillai@moe.edu.sg](mailto:Ashwini_Prasad_pillai@moe.edu.sg) |
 | Mdm Nurul’Ain Farhanah Abdul Halim  | MKE / EL | [Nurulain\_Farhanah\_Abdul\_Halim\_a@schools.gov.sg](mailto:Nurulain_Farhanah_Abdul_Halim_a@schools.gov.sg) |
 | Mdm Chiam Pick Ling Janet   | MKE / EL  | [Chiam\_Pick\_Ling\_Janet@moe.edu.sg](mailto:Chiam_Pick_Ling_Janet@moe.edu.sg) |
 | Mdm Han Xiaoni | MKE / CL | [Han\_xiaoni@schools.gov.sg](mailto:Han_xiaoni@schools.gov.sg) |
