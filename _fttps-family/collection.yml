@@ -2,7 +2,7 @@ collections:
   fttps-family:
     output: true
     order:
-      - FTTPS Family.md
+      - FTPPS Family.md
       - School Management Committee.md
       - Our Staff/Our Staff.md
       - Our Staff/P1 Teachers.md
