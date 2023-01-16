@@ -1,5 +1,5 @@
 collections:
-  fttps-family:
+  ftpps-family:
     output: true
     order:
       - FTPPS Family.md
