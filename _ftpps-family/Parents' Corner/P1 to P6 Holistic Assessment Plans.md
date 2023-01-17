@@ -4,7 +4,7 @@ permalink: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans/
 description: ""
 third_nav_title: Parents' Corner
 ---
-### P1 HA Plans
+<h3><b>P1 HA Plans</b></h3>
 
 
 [2023 P1 ASSESSMENT PLAN FOR ENGLISH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)
@@ -18,7 +18,7 @@ third_nav_title: Parents' Corner
 [2023 P1 ASSESSMENT PLAN FOR TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)
 
 
-### P2 HA Plans
+<h3><b>P2 HA Plans</b></h3>
 
 
 [2023 P2 ASSESSMENT PLAN FOR ENGLISH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)
@@ -31,7 +31,7 @@ third_nav_title: Parents' Corner
 <br>
 [2023 P2 ASSESSMENT PLAN FOR TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)
 
-### P3 HA Plans
+<h3><b>P3 HA Plans</b></h3>
 
 [2023 P3 ASSESSMENT PLAN FOR ENGLISH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P3/2023_P3_ASSESSMENT%20PLAN%20FOR_ENGLISH.pdf)
 <br>
@@ -45,7 +45,7 @@ third_nav_title: Parents' Corner
 <br>
 [2023 P3 ASSESSMENT PLAN FOR TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P3/2023_P3_ASSESSMENT%20PLAN%20FOR_TAMIL.pdf)
 
-### P4 HA Plans
+<h3><b>P4 HA Plans</b></h3>
 
 [2023 P4 ASSESSMENT PLAN FOR ENGLISH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P4/2023_P4_ASSESSMENT%20PLAN%20FOR_ENGLISH.pdf)
 <br>
@@ -59,7 +59,7 @@ third_nav_title: Parents' Corner
 <br>
 [2023 P4 ASSESSMENT PLAN FOR TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P4/2023_P4_ASSESSMENT%20PLAN%20FOR_TAMIL.pdf)
 
-### P5 HA Plans
+<h3><b>P5 HA Plans</b></h3>
 
 <h4><u> Standard Subjects  </u></h4>
 
@@ -97,7 +97,7 @@ third_nav_title: Parents' Corner
 <br>
 [2023_P5_ASSESSMENT PLAN FOR_HIGHER TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P5/Higher%20Mother%20Tongue%20Languages/2023_P5_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
 
-### P6 HA Plans
+<h3><b>P6 HA Plans</b></h3>
 
 
 <h4><u> Standard Subjects  </u></h4>
