@@ -6,11 +6,12 @@ third_nav_title: Parents' Corner
 ---
 ### P1 HA Plans
 
-[2023 P1 ASSESSMENT PLAN FOR CHINESE](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
-<br>
+
 [2023 P1 ASSESSMENT PLAN FOR ENGLISH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)
 <br>
 [2023 P1 ASSESSMENT PLAN FOR MATH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN_FOR_MATH.pdf)
+<br>
+[2023 P1 ASSESSMENT PLAN FOR CHINESE](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
 <br>
 [2023 P1 ASSESSMENT PLAN FOR MALAY](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P1/2023_P1_ASSESSMENT%20PLAN%20FOR_MALAY.pdf)
 <br>
@@ -20,17 +21,17 @@ third_nav_title: Parents' Corner
 ### P2 HA Plans
 
 
-[2023 P2 ASSESSMENT PLAN FOR CHINESE](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
-<br>
 [2023 P2 ASSESSMENT PLAN FOR ENGLISH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN_FOR_ENGLISH.pdf)
 <br>
 [2023 P2 ASSESSMENT PLAN FOR MATH](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN_FOR_MATH.pdf)
+<br>
+[2023 P2 ASSESSMENT PLAN FOR CHINESE](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
 <br>
 [2023 P2 ASSESSMENT PLAN FOR MALAY](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN_FOR_MALAY.pdf)
 <br>
 [2023 P2 ASSESSMENT PLAN FOR TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P2/2023_P2_ASSESSMENT%20PLAN_FOR_TAMIL.pdf)
 
-#### P3 HA Plans
+### P3 HA Plans
 
 [2022_P3_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P3_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
 <br>
