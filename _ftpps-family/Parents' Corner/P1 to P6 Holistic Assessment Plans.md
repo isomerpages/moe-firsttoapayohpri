@@ -130,9 +130,11 @@ third_nav_title: Parents' Corner
   
  <h4><u> Higher Mother Tongue </u></h4>
 
-[2022_P6_ASSESSMENT PLAN FOR_HIGHER CHINESE](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)
+[2023_P6_ASSESSMENT PLAN FOR_HIGHER CHINESE](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P6/Higher%20Mother%20Tongue%20Languages/2023_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)
 <br>
-[2022_P6_ASSESSMENT PLAN FOR_HIGHER TAMIL](/files/2022_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
+[2023_P6_ASSESSMENT PLAN FOR_HIGHER MALAY](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P6/Higher%20Mother%20Tongue%20Languages/2023_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20MALAY.pdf)
+<br>
+[2023_P6_ASSESSMENT PLAN FOR_HIGHER TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P6/Higher%20Mother%20Tongue%20Languages/2023_P6_ASSESSMENT%20PLAN%20FOR_HIGHER%20TAMIL.pdf)
 
 
 <br>
@@ -140,5 +142,5 @@ third_nav_title: Parents' Corner
 <br>
 
 <a href="/ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+	 <img src="/images/arrow-up.png" style="width:3%" align="center"/> Back to Top
 </a>
