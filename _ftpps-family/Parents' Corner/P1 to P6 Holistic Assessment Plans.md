@@ -59,9 +59,9 @@ third_nav_title: Parents' Corner
 <br>
 [2023 P4 ASSESSMENT PLAN FOR TAMIL](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P4/2023_P4_ASSESSMENT%20PLAN%20FOR_TAMIL.pdf)
 
-#### P5 HA Plans
+### P5 HA Plans
 
-<h6><u> Standard Subjects  </u></h6>
+<h4><u> Standard Subjects  </u></h4>
 
   [2022_P5_ASSESSMENT PLAN FOR_CHINESE](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_CHINESE.pdf)
 <br>
