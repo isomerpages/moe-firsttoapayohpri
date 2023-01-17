@@ -89,7 +89,7 @@ third_nav_title: Parents' Corner
 <br>
 [2023_P5_ASSESSMENT PLAN FOR_TAMIL (FOUNDATION)](/files/Parents'%20Corner/Holistic%20Assessment%20Plans/2023/P5/Foundation%20Subjects/2023_P5_ASSESSMENT%20PLAN%20FOR_TAMIL%20(FOUNDATION).pdf)
   
-<h6><u> Higher Mother Tongue  </u></h6>
+<h4><u> Higher Mother Tongue  </u></h4>
   
 [2022_P5_ASSESSMENT PLAN FOR_HIGHER CHINESE](/files/2022_P5_ASSESSMENT%20PLAN%20FOR_HIGHER%20CHINESE.pdf)
 <br>
