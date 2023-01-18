@@ -2,8 +2,6 @@ collections:
   mk-first-toa-payoh:
     output: true
     order:
-      - Learning Experiences/2022.md
-      - Learning Experiences/.keep
       - Our MK and KCare Programmes/.keep
       - Our MK and KCare Programmes/Our MK and KCare Programmes.md
       - Our MK and KCare Programmes/Waitlist Application.md
@@ -12,6 +10,8 @@ collections:
       - MOE Kindergarten (MK) Open House.md
       - Event/.keep
       - Event/2022.md
+      - Learning Experiences/.keep
+      - Learning Experiences/2022.md
       - K1 Orientation 2021.md
       - MK@First Toa Payoh Virtual Tour.md
       - Safe Management Measures.md
