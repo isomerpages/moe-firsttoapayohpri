@@ -29,5 +29,5 @@ For the first time in three years, our MKs will be holding a physical Open House
 
 | Time | Programme |
 |:---:|:---:|
-| 09:30am to 10am | Mass Live Session (via Zoom)<br><br>This session will provide interested parents an overview of MK, including curriculum and general information. There will be opportunities to ask a panel (comprising an MOE curriculum specialist, an MK Centre Head, and an MK parent representative) questions about MK. |
-| 10am to 11pm | Concurrent Sharing Sessions (via Zoom)<br><br>MK@First Toa Payoh will be sharing more about our centres' programmes, facilities and Kindergarten Care (KCare) services. |
+| 9:00 am | Welcome and Health Check |
+| 9.00 am to 10.00am | MOE Kindergarten Experience<br><br>1. K1 Classrooms Experience (Rooms 1 – 3) - To experience the different Learning Areas (English / Chinese / Tamil / Malay)<br><br>2. Outdoor Play - Learning through play and bonding with family members<br><br> |
