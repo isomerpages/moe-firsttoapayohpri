@@ -5,7 +5,7 @@ description: ""
 ---
 Please click on the link below for more information.  
 
-  
+![](/images/MK@First%20Toa%20Payoh/Open%20House/MK%20Open%20House%202023.jpg)  
 
 ### ON TO A STRONG START!
 <br>
