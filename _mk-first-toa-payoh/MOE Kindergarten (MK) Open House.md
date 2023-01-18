@@ -30,5 +30,8 @@ For the first time in three years, our MKs will be holding a physical Open House
 | Time | Programme |
 |:---:|:---:|
 | 9:00 am | <p align="left">Welcome and Health Check</p> |
-| 9.00 am to 10.00am | <p align="left">MOE Kindergarten Experience<br>1. K1 Classrooms Experience (Rooms 1 – 3) - To experience the different Learning Areas (English / Chinese / Tamil / Malay)<br>2. Outdoor Play - Learning through play and bonding with family members<br>3. Music Room Showcase of Starlight Big Books and a glimpse into MK Curriculum<br>4. K2 Classes Gallery</p> |
+| 9.00 am to 10.00am | <p align="left">MOE Kindergarten Experience<br><br>1. K1 Classrooms Experience (Rooms 1 – 3) <br>- To experience the different Learning Areas (English / Chinese / Tamil / Malay)<br>2. Outdoor Play <br>- Learning through play and bonding with family members<br>3. Music Room Showcase of Starlight Big Books and a glimpse into MK Curriculum<br>4. K2 Classes Gallery</p> |
 | 10:00 am to 11:00 am | <p align="left">Open House Address for Group 1 cum Guided Tour<br>An overview of MK, including curriculum and general information.</p> |
+| 11:00 am to 12:00 pm| <p align="left">Open House Address for Group 2 cum Guided Tour<br> An overview of MK, including curriculum and general information.</p> |
+| 12:00 pm to 1:00 pm| <p align="left">MOE Kindergarten Experience</p><br> |
+| 1:00 pm | <p align="left">Home Sweet Home</p> |
