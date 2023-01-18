@@ -3,7 +3,11 @@ title: See to Believe!
 permalink: /mk-at-first-toa-payoh/see-to-believe/
 description: ""
 ---
-<img src="/images/MK@First%20Toa%20Payoh/MK1.jpg" style="width:80%"/>
+<a href="https://www.moe.gov.sg/mk">
+              <img src="/images/MK@First%20Toa%20Payoh/MK1.jpg" style="width:80%"/>
+</a>
+
+
 
 Interested to learn more about MOE Kindergarten @ First Toa Payoh ?
 
