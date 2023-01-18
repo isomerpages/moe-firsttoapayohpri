@@ -25,7 +25,7 @@ For the first time in three years, our MKs will be holding a physical Open House
 
 [Sign up](https://go.gov.sg/mkopenhouse2023pmk) for the Open House. We look forward to seeing you!    
 
-<h5 align="center">MK VIRTUAL OPEN HOUSE PROGRAMME (29 January 2022)</h5>
+<h5 align="center">MK@FY OPEN HOUSE PROGRAMME 2023</h5>
 
 | Time | Programme |
 |:---:|:---:|
