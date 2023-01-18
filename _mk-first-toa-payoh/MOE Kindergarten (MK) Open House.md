@@ -19,11 +19,11 @@ Our curriculum is developed by MOE’s curriculum specialists and trained educat
 
 Should you require a full-day service for your child, we also offer Kindergarten Care (KCare) at all MKs. If you register, your child will be in KCare before and after the MK session, providing a full-day programme for your child within the same premises.
 
-For the first time in three years, our MKs will be holding a physical Open House for parents to tour the learning environment and speak to the MK educators in person. We warmly welcome you and your child to sign up for the **2023 MOE Kindergarten Open House on 18 February 2023 from 9.00am to 1.00pm**, to find out why MK is the quality preschool choice and how we ignite joy of learning in our children!
+For the first time in three years, our MKs will be holding a physical Open House for parents to tour the learning environment and speak to the MK educators in person. We warmly welcome you and your child to [sign up](https://go.gov.sg/mkopenhouse2023pmk) for the **2023 MOE Kindergarten Open House on 18 February 2023 from 9.00am to 1.00pm**, to find out why MK is the quality preschool choice and how we ignite joy of learning in our children!
 
 **Open House at MK@First Toa Payoh (MK@FY)** will be held on **18 Feb 2023, 9.00am to 1.00pm**.
 
-Sign up for the Virtual Open House. We look forward to seeing you!    
+[Sign up](https://go.gov.sg/mkopenhouse2023pmk) for the Open House. We look forward to seeing you!    
 
 <h5 align="center">MK VIRTUAL OPEN HOUSE PROGRAMME (29 January 2022)</h5>
 
