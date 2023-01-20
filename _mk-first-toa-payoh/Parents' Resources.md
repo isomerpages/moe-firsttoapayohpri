@@ -44,17 +44,17 @@ Sunday & PH              : Closed
 <br>
 **Beau Voix Uniform**
 <br>
-Blk 4012 Ang Mo Kio Ave 10
+2 Sims Close #03-08
 <br>
-#01-08/09 Techplace 1
+Gemini @ Sims
 <br>
-Singapore 569628
+Singapore 387298
 <br>
-Tel: 6456 3198
+Tel: 6743 6645
 <br>
-Email: [mk@jeepsinguniform.com](mailto:mk@jeepsinguniform.com)
+Email: [info@beauviox.com.sg](mailto:info@beauviox.com.sg)
 <br>
-Website: [www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
+Website: [www.beauvoix.com/preschool](http://www.beauvoix.com/preschool/)
 <br><b><u>Business Hours:</u></b>
 <br>
 Monday to Friday       : 10am to 6pm
