@@ -13,13 +13,10 @@ Email : [mk\_firsttoapayoh@moe.edu.sg](mailto:mk_firsttoapayoh@moe.edu.sg)
 
 <b><u>KINDERGARTEN CARE (K-CARE)</u></b>
 <br>
-**Nascans Pte Ltd**
+**Singapore EduSMART Learning Hub Pte Ltd**
 <br>
-Website: [https://www.nascans.com/](https://www.nascans.com/)
+Tel: 8031 9188
 <br>
-Tel: 9453 2793
-<br>
-Email: [ftpscc@nascans.com](mailto:ftpscc@nascans.com)
 
 <b><u>MK UNIFORM</u></b>
 <br>
@@ -36,17 +33,36 @@ Tel: 6456 3198
 Email: [mk@jeepsinguniform.com](mailto:mk@jeepsinguniform.com)
 <br>
 Website: [www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
-
-<b><u>Business Hours:</u></b>
+<br><b><u>Business Hours:</u></b>
 <br>
 Monday to Friday       : 10am to 6pm
 <br>
 Saturday                      : 10am to 2pm
 <br>
 Sunday & PH              : Closed
+<br>
+<br>
+**Beau Voix Uniform**
+<br>
+2 Sims Close #03-08
+<br>
+Gemini @ Sims
+<br>
+Singapore 387298
+<br>
+Tel: 6743 6645
+<br>
+Email: [info@beauviox.com.sg](mailto:info@beauviox.com.sg)
+<br>
+Website: [www.beauvoix.com/preschool](http://www.beauvoix.com/preschool/)
+<br><b><u>Business Hours:</u></b>
+<br>
+Monday to Friday                  : 09:30am to 05:30pm
+<br>
+Saturday, Sunday & PH         : 10am to 2pm
 
   
-Parents/ Guardians may purchase MK uniform from the School Bookshop during school term from Feb 2022 onwards. Alternatively, you may make your purchases at Jeep Sing Fashion’s warehouse at Blk 4012 Ang Mo Kio Ave 10, #01-08/09 Techplace 1, Singapore 569628.  
+Parents/ Guardians may purchase MK uniform from the School Bookshop during school term from Feb 2023 onwards. Alternatively, you may make prior appointment to visit the above-mentioned vendor's warehouse.  
 
 ##### First Flight Newsletter
 

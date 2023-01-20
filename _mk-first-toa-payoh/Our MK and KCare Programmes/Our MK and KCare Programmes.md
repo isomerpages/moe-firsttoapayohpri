@@ -6,7 +6,7 @@ third_nav_title: Our MK and KCare Programmes
 ---
 <table style="border: 1px solid grey">
 	<tr>
-		<td colspan="2" style="border: 1px solid grey"> <p align="center"> <b> From 2023 <br> K1 and K2 (4 - hour Programme)</b></p></td>
+		<td colspan="2" style="border: 1px solid grey"> <p align="center"> <b> From 2023 <br> K1 and K2 (4 - hour MK Programme)</b></p></td>
 	</tr>
 	<tr>
 		<td style="border: 1px solid grey"><p align="center"> AM Session </p></td>
