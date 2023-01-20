@@ -33,14 +33,36 @@ Tel: 6456 3198
 Email: [mk@jeepsinguniform.com](mailto:mk@jeepsinguniform.com)
 <br>
 Website: [www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
-
-<b><u>Business Hours:</u></b>
+<br><b><u>Business Hours:</u></b>
 <br>
 Monday to Friday       : 10am to 6pm
 <br>
 Saturday                      : 10am to 2pm
 <br>
 Sunday & PH              : Closed
+<br>
+<br>
+**Beau Voix Uniform**
+<br>
+Blk 4012 Ang Mo Kio Ave 10
+<br>
+#01-08/09 Techplace 1
+<br>
+Singapore 569628
+<br>
+Tel: 6456 3198
+<br>
+Email: [mk@jeepsinguniform.com](mailto:mk@jeepsinguniform.com)
+<br>
+Website: [www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
+<br><b><u>Business Hours:</u></b>
+<br>
+Monday to Friday       : 10am to 6pm
+<br>
+Saturday                      : 10am to 2pm
+<br>
+Sunday & PH              : Closed
+
 
   
 Parents/ Guardians may purchase MK uniform from the School Bookshop during school term from Feb 2022 onwards. Alternatively, you may make your purchases at Jeep Sing Fashion’s warehouse at Blk 4012 Ang Mo Kio Ave 10, #01-08/09 Techplace 1, Singapore 569628.  
