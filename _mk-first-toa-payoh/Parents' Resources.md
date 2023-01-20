@@ -13,13 +13,10 @@ Email : [mk\_firsttoapayoh@moe.edu.sg](mailto:mk_firsttoapayoh@moe.edu.sg)
 
 <b><u>KINDERGARTEN CARE (K-CARE)</u></b>
 <br>
-**Nascans Pte Ltd**
+**Singapore EduSMART Learning Hub Pte Ltd**
 <br>
-Website: [https://www.nascans.com/](https://www.nascans.com/)
+Tel: 8031 9188
 <br>
-Tel: 9453 2793
-<br>
-Email: [ftpscc@nascans.com](mailto:ftpscc@nascans.com)
 
 <b><u>MK UNIFORM</u></b>
 <br>
