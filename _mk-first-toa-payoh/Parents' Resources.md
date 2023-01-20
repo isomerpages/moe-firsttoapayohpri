@@ -62,7 +62,7 @@ Monday to Friday                  : 09:30am to 05:30pm
 Saturday, Sunday & PH         : 10am to 2pm
 
   
-Parents/ Guardians may purchase MK uniform from the School Bookshop during school term from Feb 2022 onwards. Alternatively, you may make your purchases at Jeep Sing Fashion’s warehouse at Blk 4012 Ang Mo Kio Ave 10, #01-08/09 Techplace 1, Singapore 569628.  
+Parents/ Guardians may purchase MK uniform from the School Bookshop during school term from Feb 2023 onwards. Alternatively, you may make prior appointment to visit the abovementioned vendor's warehouse.  
 
 ##### First Flight Newsletter
 
