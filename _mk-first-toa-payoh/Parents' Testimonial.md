@@ -6,11 +6,25 @@ description: ""
 #### **HEAR WHAT OUR PARENTS HAVE TO SAY ABOUT MOE KINDERGARTEN @ FIRST TOA PAYOH!**
 
 <br>
-
-<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AH1KcAGrBkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 <iframe width="320" height="560" src="https://www.youtube.com/embed/Hfmf_li4gRY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide2.jpg"/>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide3.jpg"/>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide4.jpg"/>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide5.jpg"/>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide6.jpg"/>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide7.jpg"/>
+<br>
+<img src="/images/MK%40First%20Toa%20Payoh/Parents'%20Testimonial/2022/Slide8.jpg"/>
+<br>
+<br>
 
 <br><br>
 
