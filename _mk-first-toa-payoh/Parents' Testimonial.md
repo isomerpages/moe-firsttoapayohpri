@@ -223,3 +223,5 @@ Amenities wise, MK@First Toa Payoh is clean, brightly lit and has interesting le
 I have friends and relatives whose kids enjoyed MK so much and turned out well so it bolstered my confidence to give MK a shot. I’m so happy we did. It’s the perfect school for our boy in terms of environment and learning style**_._**
 
 **_Parent of Reuben Asher, MOE Kindergarten @ First Toa Payoh_**
+
+<a href="/mk-at-first-toa-payoh/parents-testimonial#lo_main"> <img src="/images/arrow-up.png" style="width:3%" align="center"/> Back to Top </a>
