@@ -5,6 +5,13 @@ description: ""
 ---
 #### **HEAR WHAT OUR PARENTS HAVE TO SAY ABOUT MOE KINDERGARTEN @ FIRST TOA PAYOH!**
 
+<br>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AH1KcAGrBkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="320" height="560" src="https://www.youtube.com/embed/Hfmf_li4gRY" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Thank you for a wonderful 2 years with MOE kindergarten. Thea is already missing the teachers and school greatly. It is indeed a very well curated curriculum , the teachers are perfectly selected for their roles and are well train for their task. The center holistic approach to each child is very well balanced, from take great care of physical to emotional and mental well being of each child while inserting teachable moments throughout the day in school. The staffs exhibits a lot of geniune love, care and concern to every child. I sincerely hope all the kindness and love are equally given to the staffs in the center and are well compensated for their efforts to making this wonderful journey possible.
 
 You will all be missed
