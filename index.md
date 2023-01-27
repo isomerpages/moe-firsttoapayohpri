@@ -1,7 +1,10 @@
 ---
 layout: homepage
 title: First Toa Payoh Primary School
-description: Brief site description here
+description: First Toa Payoh Primary School started in 1968 in Toa Payoh ,
+  Lorong 1. On 2 January 2002 the school merged with Braddell, San Shan and
+  Westlake Primary School and was housed in the present premises at Toa Payoh
+  Lorong 8.
 image: /images/logo.png
 permalink: /
 notification: ""
@@ -43,3 +46,4 @@ sections:
       image: /images/HOMEPAGE/P1 Orientation 2022-2023_v3.jpg
       alt: Image alt text
 ---
+
