@@ -31,7 +31,7 @@ e) Marriage Certificate
 
 This application is only valid for 3 months. Please submit another application if you do not hear from us after 3 months.
 
-To apply, please click [here](https://go.gov.sg/mkwaitlist) to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.
+To apply, please click [here](https://go.gov.sg/mkfywaitlist2023) to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.
 
 <a href="https://go.gov.sg/mkwaitlist">
 	<img src="/images/mk%20waitlist.png" style="width:50%"/>
