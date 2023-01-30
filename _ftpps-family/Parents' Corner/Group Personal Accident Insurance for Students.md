@@ -6,7 +6,7 @@ third_nav_title: Parents' Corner
 ---
 All students are covered under the Group Personal Accident (GPA) Insurance which provides 24-hours worldwide accident coverage related to all school activities and / or Co-Curricular Activities (CCAs). Please click on the following link on the benefit / sum insured.
 
-[GPA Product Fact Sheet 2022](/files/GPA%20Product%20Fact%20Sheet%202022.pdf)
+[GPA Product Fact Sheet 2023](/files/Parents'%20Corner/GPA%20Product%20Fact%20Sheet%20(Year%202023).pdf)
 <br>
 [Group-Personal-Accident-(GPA)-Insurance-Plan-for-Students-Claim](/files/Group-Personal-Accident-(GPA)-Insurance-Plan-for-Students-Claim.pdf)
 
