@@ -21,3 +21,5 @@ With Smart Buddy, your child would now be able to enjoy a fuss free tap-and-pay 
 [Apply Now](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy-digibot?trigger=6f2bfba6-0e0a-462d-ad48-e3ea3e063048)
 <br><br>
 <h4>Get the Smart Buddy app</h3>
+<br><br>
+Download the app now to explore the full suite of features as a parent, or check out the user guide here. If your child has a smartphone, they can access limited functions with the child view.
