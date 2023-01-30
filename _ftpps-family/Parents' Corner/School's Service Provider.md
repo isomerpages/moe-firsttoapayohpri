@@ -6,13 +6,11 @@ third_nav_title: Parents' Corner
 ---
 <h4><u>SCHOOL-BASED STUDENT CARE SERVICES</u></h4>
 
-**Nascans Pte Ltd** 
+**Singapore EduSMART Learning Hub** 
 <br>
-Website: [https://www.nascans.com/](https://www.nascans.com/)
+Tel: 9653 1727 
 <br>
-Tel: 9172 4633 
-<br>
-Email: [ftpscc@nascans.com](mailto:ftpscc@nascans.com)  
+Email: [firsttp_scc@singaporeedusmart.com.sg](mailto:firsttp_scc@singaporeedusmart.com.sg)  
 
 Operating Hours (Mon - Fri): 
 <br>
