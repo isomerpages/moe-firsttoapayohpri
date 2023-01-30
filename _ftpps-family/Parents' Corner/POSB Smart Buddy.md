@@ -9,7 +9,7 @@ third_nav_title: Parents' Corner
 The POSB Smart Buddy card/ watch unlocks a world of contactless payments and financials for your child in a world that’s going cashless. We keep them safe by pairing it with a mobile app, that gives you control and oversight of their spending.
 <br><br>
 See POSB Smart Buddy works in action.
-<br>
+<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h-EjfXCy9ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br><br>
 <h3>Apply for Smart Buddy</h3><br>
@@ -28,3 +28,4 @@ Download the app now to explore the full suite of features as a parent, or [chec
 <br>
 [POSB Smart Buddy Website](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy?pid=sg-posb-pweb-deposits-smartbuddy-btn-keep-reading#why)
 <br>
+[Smart Buddy Registration Letter](/files/Parents'%20Corner/Smart%20Buddy%20Registration%20Letter.pdf)
