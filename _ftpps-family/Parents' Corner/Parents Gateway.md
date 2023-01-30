@@ -10,7 +10,7 @@ Developed by the Ministry of Education and GovTech, Parents Gateway is a one-sto
 
 We strongly encourage you to download the free Parents Gateway Mobile App on your mobile phone (available on iOS and Android platforms only) and perform a simple one-time onboarding process.
 
-From April 2019 onward, parents will receive all school notifications and consent forms via the mobile app. 
+Parents will receive all school notifications and consent forms via the mobile app. 
 
 ![](/images/1PG%20One-Time%20Onboarding%20Guide%20002_Page_1.jpg)
 
