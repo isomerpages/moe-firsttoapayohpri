@@ -17,5 +17,7 @@ See POSB Smart Buddy works in action.
 <br>
 With Smart Buddy, your child would now be able to enjoy a fuss free tap-and-pay experience both in school (at canteens and bookshops) and out of school (at any 
 [NETS retailers](https://www.nets.com.sg/nets-digital-payments-ready-merchants?pid=sg-posb-smartbuddy-nets-netsretailer)).
-<br>
+<br><br>
 [Apply Now](https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy-digibot?trigger=6f2bfba6-0e0a-462d-ad48-e3ea3e063048)
+<br><br>
+<h4>Get the Smart Buddy app</h3>
