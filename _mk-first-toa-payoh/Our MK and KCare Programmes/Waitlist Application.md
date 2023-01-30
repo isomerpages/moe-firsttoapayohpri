@@ -33,6 +33,6 @@ This application is only valid for 3 months. Please submit another application i
 
 To apply, please click [here](https://go.gov.sg/mkfywaitlist2023) to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.
 
-<a href="https://go.gov.sg/mkwaitlist">
-	<img src="/images/mk%20waitlist.png" style="width:50%"/>
+<a href="https://go.gov.sg/mkwaitlist2023">
+	<img src="/images/MK%40First%20Toa%20Payoh/mkfywaitlist2023.png" style="width:50%"/>
 </a>
