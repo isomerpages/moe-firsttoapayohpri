@@ -12,9 +12,7 @@ See POSB Smart Buddy works in action.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h-EjfXCy9ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ### Apply for Smart Buddy
-
 #### For parents of students from Smart Buddy enabled schools
 
 With Smart Buddy, your child would now be able to enjoy a fuss free tap-and-pay experience both in school (at canteens and bookshops) and out of school (at any 
