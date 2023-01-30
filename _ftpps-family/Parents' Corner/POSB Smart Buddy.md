@@ -14,8 +14,8 @@ See POSB Smart Buddy works in action.
 
 
 ### Apply for Smart Buddy
-#### For parents of students from Smart Buddy enabled schools
 
+#### For parents of students from Smart Buddy enabled schools
 
 With Smart Buddy, your child would now be able to enjoy a fuss free tap-and-pay experience both in school (at canteens and bookshops) and out of school (at any 
 [NETS retailers](https://www.nets.com.sg/nets-digital-payments-ready-merchants?pid=sg-posb-smartbuddy-nets-netsretailer)).
