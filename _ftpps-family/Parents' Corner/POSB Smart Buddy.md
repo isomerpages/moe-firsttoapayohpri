@@ -4,7 +4,7 @@ permalink: /ftpps-family/parents-corner/POSBSmartBuddy/
 description: ""
 third_nav_title: Parents' Corner
 ---
-<h2> POSB Smart Buddy Contactless Payment in School</h3>
+<h2> POSB Smart Buddy Contactless Payment in School</h2>
 <br>
 The POSB Smart Buddy card/ watch unlocks a world of contactless payments and financials for your child in a world that’s going cashless. We keep them safe by pairing it with a mobile app, that gives you control and oversight of their spending.
 <br><br>
