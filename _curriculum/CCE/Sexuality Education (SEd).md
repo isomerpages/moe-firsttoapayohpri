@@ -61,8 +61,8 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
     <td>Term 2 Week 10</td>
   </tr>
   <tr>
-    <td>Did You Know? <br> (30 min)</td>
-    <td>identify the stresses caused by physical and emotional changes during puberty<br><br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>describe the emotions caused by physical changes during puberty<br><br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td>Did You Know? <br> (60 min)</td>
+    <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. </td>
     <td>Term 2 Week 6</td>
   </tr>
   <tr>
