@@ -71,11 +71,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
     <td>Term 3 Week 3</td>
   </tr>
   <tr>
-    <td>Main Task<br>(30 min)</td>
-    <td>Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td>Term 3 Week 1</td>
-  </tr>
-  <tr>
     <td>Where I Belong</td>
     <td>What Are Families?<br>(30 min)<br></td>
     <td>know that there are different types of family structures<br>know that every family is unique<br><br>state that the three basic functions of families are to provide love, protection and guidance<br><br>identify the right sources of help to turn to when in need</td>
