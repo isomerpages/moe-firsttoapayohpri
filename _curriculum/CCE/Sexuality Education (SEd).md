@@ -55,13 +55,13 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 </thead>
 <tbody>
   <tr>
-    <td rowspan="4">Gosh! I Am Changing<br></td>
-    <td>What Is Happening To Me?<br>(30 min)</td>
-    <td>know what puberty is<br><br>identify the physical changes during puberty</td>
-    <td>Term 2 Week 6</td>
+    <td rowspan="4">Growing Years<br></td>
+    <td>The Changes in Me<br>(60 min)</td>
+    <td>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions</td>
+    <td>Term 2 Week 10</td>
   </tr>
   <tr>
-    <td>What Can I Do? (Part 1)<br> (30 min)</td>
+    <td>Did You Know? <br> (30 min)</td>
     <td>identify the stresses caused by physical and emotional changes during puberty<br><br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br><br>describe the emotions caused by physical changes during puberty<br><br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td>Term 2 Week 6</td>
   </tr>
