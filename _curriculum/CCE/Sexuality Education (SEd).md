@@ -70,29 +70,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
     <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td>Term 3 Week 3</td>
   </tr>
-  <tr>
-    <td>Where I Belong</td>
-    <td>What Are Families?<br>(30 min)<br></td>
-    <td>know that there are different types of family structures<br>know that every family is unique<br><br>state that the three basic functions of families are to provide love, protection and guidance<br><br>identify the right sources of help to turn to when in need</td>
-    <td>Term 4 Week 1</td>
-  </tr>
-  <tr>
-    <td>Where I Belong</td>
-    <td>What is My Role?<br> (30 min)</td>
-    <td>know that gender is about being male or female<br><br>choose not to stereotype by gender</td>
-    <td>Term 4 Week 1</td>
-  </tr>
-  <tr>
-    <td rowspan="2">How Do I Keep Myself Safe?</td>
-    <td>What is Safety?<br>(30 min)</td>
-    <td>know what sexual abuse is<br><br>know that there are laws in Singapore that can protect them from sexual abuse<br><br>know their rights in keeping themselves safe from sexual abuse</td>
-    <td>Term 4 Week 4</td>
-  </tr>
-  <tr>
-    <td>Stop It! Run! Tell!<br>(30 min)</td>
-    <td>protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br><br>know their responsibilities in minimising the risk of sexual harm</td>
-    <td>Term 4 Week 4</td>
-  </tr>
 </tbody>
 </table>
 
