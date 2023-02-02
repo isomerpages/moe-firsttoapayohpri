@@ -63,7 +63,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
   <tr>
     <td>Did You Know? <br> (60 min)</td>
     <td>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. </td>
-    <td>Term 2 Week 6</td>
+    <td>Term 3 Week 2</td>
   </tr>
   <tr>
     <td>What Can I Do? (Part 2)<br> (30 min)</td>
