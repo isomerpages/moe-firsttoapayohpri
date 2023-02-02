@@ -66,9 +66,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
     <td>Term 3 Week 2</td>
   </tr>
   <tr>
-    <td>What Can I Do? (Part 2)<br> (30 min)</td>
-    <td>identify the stresses caused by physical and emotional changes during puberty<br><br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br><br>describe the emotions caused by physical changes during puberty<br><br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td>Term 3 Week 1</td>
+    <td>Keeping Myself Safe<br> (60 min)</td>
+    <td>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td>Term 3 Week 3</td>
   </tr>
   <tr>
     <td>Main Task<br>(30 min)</td>
