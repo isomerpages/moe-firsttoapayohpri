@@ -78,9 +78,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 <table>
 <thead>
   <tr>
-    <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
-    <th>Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
+    <th>CCE(FTGP) THEME</th>
+    <th>LESSON TITLE / DURATION</th>
+    <th>LESSON OVERVIEW:</th>
     <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
