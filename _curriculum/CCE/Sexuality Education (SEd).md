@@ -116,8 +116,6 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 10\. Parents can contact the school at 6256 7822 or email the school at [ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
-11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
-
 <br>
 <br>
 <br>
