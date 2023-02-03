@@ -101,34 +101,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
     <td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
     <td>Term 2  Week 3</td>
   </tr>
-  <tr>
-    <td>Am I Falling In Love?<br>(30 min)</td>
-    <td>manage strong feelings arising from infatuation<br><br>identify ways to manage and cope with teasing from peers</td>
-    <td>Term 2 Week 4</td>
-  </tr>
-  <tr>
-    <td>Main Task<br> (30 min)</td>
-    <td>Description of the Main Task:<br><br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-    <td>Term 3 Week 3</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Friends or Foes?</td>
-    <td>Are You Really My Friend?<br>(30 min)</td>
-    <td>identify the pros and cons of forming relationships through social networking websites<br><br>know ways to keep themselves safe when using social networking websites</td>
-    <td>Term 3 Week 3</td>
-  </tr>
-  <tr>
-    <td>Is It All Safe?<br>(30 min)</td>
-    <td>know that some information (like pornography) received through the Internet may be harmful<br><br>know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td>Term 3 Week 9</td>
-  </tr>
-  <tr>
-    <td>Main Task<br> (30 min)</td>
-    <td>Description of the Main Task:<br><br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.<br></td>
-    <td>Term 3 Week 9</td>
-  </tr>
-</tbody>
+ </tbody>
 </table>
+
+<b>Please Note:<br>
+*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </b>
+
 
 #### Information for Parents
 
