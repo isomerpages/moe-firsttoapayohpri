@@ -80,7 +80,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
   <tr>
     <th>CCE(FTGP) THEME</th>
     <th>LESSON TITLE / DURATION</th>
-    <th>LESSON OVERVIEW:</th>
+    <th>LESSON OVERVIEW</th>
     <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
