@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: MK @ First Toa Payoh
           description: ""
-          url: /mk-at-first-toa-payoh/our-mk-and-kcare-programmes
+          url: /mk-at-first-toa-payoh/see-to-believe/
         - title: E-Open House 2022
           description: ""
           url: /e-open-house-2022
@@ -46,4 +46,3 @@ sections:
       image: /images/HOMEPAGE/P1 Orientation 2022-2023_v3.jpg
       alt: Image alt text
 ---
-
