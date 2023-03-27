@@ -14,10 +14,40 @@ third_nav_title: Aesthetics
 		<li>Cultivating a life-long enjoyment and involvement in music.</li>
 	</ol>
 </p>
-	
 
+<table>
+<thead>
+  <tr>
+    <th>Programmes</th>
+    <th>Level</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td> BoomWhackers</td>
+    <td>P1</td>
+  </tr>
+  <tr>
+    <td>Metallophones Programme</td>
+    <td>P2</td>
+  </tr>
+  <tr>
+    <td>Ukelele Programme</td>
+    <td>P3</td>
+  </tr>
+	<tr>
+    <td>Garageband Programme</td>
+    <td>P4</td>
+  </tr>
+	<tr>
+    <td>Percussion Programmee</td>
+    <td>P6</td>
+  </tr>
+</tbody>
+</table>
 
-
+The learning objectives, outcomes and approaches of the Music programme are closely aligned with that of the MOE Music Syllabus.<br><br>
+The students are provided with various opportunities to demonstrate what they have learned, such as performing together as a group during class, recess recitals, and school-wide events.<br><br>
 <a href="https://kuula.co/share/collection/7P6Ss?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1">
 	<img src="/images/Curriculum/Aesthetics/Music%20Gallery/Music%20Gallery.jpg"/>
 	</a>
