@@ -5,11 +5,11 @@ description: ""
 ---
 <b><u>MOE Kindergarten @ First Toa Payoh (MK@FY)</u></b>
 <br>
-Website : [https://firsttoapayohpri.moe.edu.sg/mk-at-first-toa-payoh](https://firsttoapayohpri.moe.edu.sg/mk-at-first-toa-payoh)
+Website :&nbsp;[https://firsttoapayohpri.moe.edu.sg/mk-at-first-toa-payoh](https://firsttoapayohpri.moe.edu.sg/mk-at-first-toa-payoh)
 <br>
 Tel : 6262 0331
 <br>
-Email : [mk\_firsttoapayoh@moe.edu.sg](mailto:mk_firsttoapayoh@moe.edu.sg)
+Email :&nbsp;[mk\_firsttoapayoh@moe.edu.sg](mailto:mk_firsttoapayoh@moe.edu.sg)
 
 <b><u>KINDERGARTEN CARE (K-CARE)</u></b>
 <br>
@@ -30,16 +30,16 @@ Singapore 569628
 <br>
 Tel: 6456 3198
 <br>
-Email: [mk@jeepsinguniform.com](mailto:mk@jeepsinguniform.com)
+Email:&nbsp;[mk@jeepsinguniform.com](mailto:mk@jeepsinguniform.com)
 <br>
-Website: [www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
+Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
 <br><b><u>Business Hours:</u></b>
 <br>
-Monday to Friday       : 10am to 6pm
+Monday to Friday &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 10am to 6pm
 <br>
-Saturday                      : 10am to 2pm
+Saturday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 10am to 2pm
 <br>
-Sunday & PH              : Closed
+Sunday &amp; PH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Closed
 <br>
 <br>
 **Beau Voix Uniform**
@@ -52,14 +52,14 @@ Singapore 387298
 <br>
 Tel: 6743 6645
 <br>
-Email: [info@beauviox.com.sg](mailto:info@beauviox.com.sg)
+Email:&nbsp;[info@beauviox.com.sg](mailto:info@beauviox.com.sg)
 <br>
-Website: [www.beauvoix.com/preschool](http://www.beauvoix.com/preschool/)
+Website:&nbsp;[www.beauvoix.com/preschool](http://www.beauvoix.com/preschool/)
 <br><b><u>Business Hours:</u></b>
 <br>
-Monday to Friday                  : 09:30am to 05:30pm
+Monday to Friday &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            : 09:30am to 05:30pm
 <br>
-Saturday, Sunday & PH         : 10am to 2pm
+Saturday, Sunday &amp; PH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 10am to 2pm
 
   
 Parents/ Guardians may purchase MK uniform from the School Bookshop during school term from Feb 2023 onwards. Alternatively, you may make prior appointment to visit the above-mentioned vendor's warehouse.  
@@ -67,19 +67,20 @@ Parents/ Guardians may purchase MK uniform from the School Bookshop during schoo
 ##### First Flight Newsletter
 
 
-[first-flight-9](/files/first-flight-9.pdf)<br>
-[first-flight-10](/files/first-flight-10.pdf)<br>
-[first-flight-11](/files/first-flight-11.pdf)<br>
-[first-flight-12](/files/first-flight-12.pdf)<br>
-[first-flight-13](/files/first-flight-13.pdf)<br>
-[first-flight-14](/files/first-flight-14.pdf)<br>
-[first-flight-15](/files/MK@First%20Toa%20Payoh/Parents’%20Resources/First%20Flight%20Newsletter/MK%20first-flight-15.pdf)<br>
+[first-flight-17](/files/MK@First%20Toa%20Payoh/Parents’%20Resources/First%20Flight%20Newsletter/first-flight-17.pdf)<br>
 [first-flight-16](/files/MK@First%20Toa%20Payoh/Parents’%20Resources/First%20Flight%20Newsletter/MK%20first-flight-16.pdf)<br>
+[first-flight-15](/files/MK@First%20Toa%20Payoh/Parents’%20Resources/First%20Flight%20Newsletter/MK%20first-flight-15.pdf)<br>
+[first-flight-14](/files/first-flight-14.pdf)<br>
+[first-flight-13](/files/first-flight-13.pdf)<br>
+[first-flight-12](/files/first-flight-12.pdf)<br>
+[first-flight-11](/files/first-flight-11.pdf)<br>
+[first-flight-10](/files/first-flight-10.pdf)<br>
+[first-flight-9](/files/first-flight-9.pdf)<br>
 
 <br>
 <br>
 <br>
 
 <a href="/mk-at-first-toa-payoh/parents-resources#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
+	 <img src="/images/arrow-up.png" style="width:3%" align="left"> Back to Top
 </a>
