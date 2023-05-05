@@ -16,11 +16,8 @@ Tel: 9755 8611 / 9382 4721
 **Telephone:**<br>
 9755 8611
 <br><br>
-
-
-
-
-
+<b>[Bus Fares](/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf)</b><br>
+Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.
 
 <h4><u>SCHOOL BOOKSHOP</u></h4>
 
