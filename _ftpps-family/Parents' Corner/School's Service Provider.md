@@ -16,14 +16,9 @@ Tel: 9755 8611 / 9382 4721
 **Telephone:**<br>
 9755 8611
 <br><br>
-**Bus Fares:**<br>
-Description: The bus fares listed below are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.
-<br><br>
-<u>Bus fares for daily school bus services by distance</u><br>
 
-| Distance | Up to 15 Seater | &gt;15-30 Seater | &gt; 30 Seater |
-| -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | Text     |
+
+
 
 
 
