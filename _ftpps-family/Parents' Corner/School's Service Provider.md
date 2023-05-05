@@ -8,13 +8,9 @@ third_nav_title: Parents' Corner
 
 **Chua Lee Kiang Bus Transport Service**
 <br>
-Tel: 9755 8611 / 9382 4721
-<br><br>
-**Address:**<br>
-5043 Ang Mo Kio Industrial Park 2, #01-523, Singapore 569546
-<br><br>
-**Telephone:**<br>
-9755 8611
+5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546
+<br>
+Tel: 9755 8611
 <br><br>
 <b>[Bus Fares](/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf)</b><br>
 Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.
