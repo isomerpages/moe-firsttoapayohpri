@@ -3,12 +3,10 @@ title: Infocomm Technology
 permalink: /curriculum/info-comm-technology/
 description: ""
 ---
-
-
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px"/>
+			<img src="/images/mission.jpg" style="height:75px; width:75px">
 		</td>
 		<td> 
 			<h5>Mission</h5>
@@ -17,20 +15,18 @@ description: ""
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px"/>
+			<img src="/images/vision.png" style="height:75px; width:75px">
 		</td>
 		<td> 
 			<h5>Vision</h5>
-			To equip students and staff with the necessary IT skills to allow them to be collaborative and independent learners in the ever-changing technological world.
-			<br><br>
-			To provide basic infrastructure to support the implementation of IT in teaching and learning
+			For students to become self-directed and connected learners who leverage technology for learning
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 #### Learning Approach 
 
-<img src="/images/1-ICT.png" style="width:70%"/>
+<img src="/images/1-ICT.png" style="width:70%">
 
 ##### 21st Century Competencies and Baseline ICT Skills
 
@@ -44,17 +40,17 @@ Our pupils are taught basic ICT skills like the use of word processors and data-
 
 ##### Cyber Wellness
 
-At FTPPS, we recognise that cyber wellness has become a critical part of education with the pervasive use of the Internet. 
+At FTPPS, we recognise that cyber wellness has become a critical part of education with the pervasive use of the Internet.&nbsp;
 
 As such, cyber wellness topics were mapped out for the different levels and aligned to the school's FTGP lessons and Sexuality Education. We also seek to raise awareness on issues pertaining to cyber wellness through talks, workshops and training of our cyber wellness monitors.
 
 **Skit Presentation**
 
-<img src="/images/4-ICT.png" style="width:70%"/>
+<img src="/images/4-ICT.png" style="width:70%">
 
 **Cyberwellness Ambassadors**
 
-<img src="/images/3-ICT.png" style="width:70%"/>
+<img src="/images/3-ICT.png" style="width:70%">
 
 ##### The focus for the respective levels is as follows:
 
