@@ -34,16 +34,23 @@ Mondays to Fridays
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">This is the 3rd accordion box</label>
+    <label for="accordion3">SCHOOL UNIFORM</label>
     <div>
       <p>
-        Type in what you want.</p>
+        <b>Beau Voix Uniform</b><br>
+2 Sims Close
+<br>
+#03-08 Gemini@Sims
+<br>
+Singapore 387298<br><br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a></p>
 
-<p>More info here....</p>
+<p>Tel: 67436645 / 67447084
+<br>
+Fax: +(65) 67460687
+<br>Email:<a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a><br><br>Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases <a href="https://www.beauvoix.com/">online</a> or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.</p>
     </div>
   </li>
-	
-	  
+		  
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">This is the 3rd accordion box</label>
