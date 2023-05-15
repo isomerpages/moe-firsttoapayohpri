@@ -68,12 +68,45 @@ School Holiday: 7.30 am to 7 pm<br></p>
 	
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">This is the 3rd accordion box</label>
+    <label for="accordion5">DENTAL SERVICE</label>
     <div>
       <p>
-        Type in what you want.</p>
+				<b>Dental Clinic</b><br>Please contact our buddy clinics at nearby schools for dental treatment (filling, cleaning and extractions).<br></p>
+			<p><table>
+							<tbody><tr>
+							<th>S/N</th>
+							<th>Buddy Clinic</th>
+							<th>Address</th>
+							<th>Telephone No</th>
+							</tr>
+			<tr>
+    <td>1</td>
+    <td>Pei Chun Public School</td>
+    <td> 16 Toa Payoh Lor 7, S(319320)</td>
+		<td>6258 2203</td>
+  </tr>
+			<tr><td>2</td>
+    <td>Kheng Cheng School</td>
+    <td> 15 Toa Payoh Lor 3, S(319580)</td>
+		<td>6256 5048</td>
+  </tr>
+			<tr><td>3</td>
+    <td>CHIJ Toa Payoh Primary</td>
+    <td> 628 Toa Payoh Lor 1, S(319765)</td>
+		<td>6259 1473</td>
+  </tr>
+	<tr><td>4</td>
+    <td>Mobile Dental Clinic (MDC 5)</td>
+    <td> Mini Referral Centre<br>(Call to confirm location)</td>
+		<td>9270 7796</td>
+  </tr>
+			</tbody></table>
+				</p>
 
-<p>More info here....</p>
+<p>For emergencies such as dental trauma, facial/gum swellings or toothaches, please call:<br><b>Health Promotion Board, School Dental Centre</b><br>
+3 Second Hospital Avenue, Level 4, Singapore 168937
+<br>
+Tel: 6435 3779 or 6435 3151</p>
     </div>
   </li>
 </ul>
