@@ -53,10 +53,10 @@ Fax: +(65) 67460687
 		  
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
+    <label for="accordion4"><h4>SCHOOL-BASED STUDENT CARE SERVICES</h4></label>
     <div>
       <p>
-        <b>Singapore EduSMART Learning Hub</b><br>Tel: 9653 1727<br>Email:<a href="mailto:firsttp_scc@singaporeedusmart.com.sg">firsttp_scc@singaporeedusmart.com.sg</a></p>
+        </p><h5><strong>Singapore EduSMART Learning Hub</strong></h5><br>Tel: 9653 1727<br>Email:<a href="mailto:firsttp_scc@singaporeedusmart.com.sg">firsttp_scc@singaporeedusmart.com.sg</a><p></p>
 
 <p>Operating Hours (Mon - Fri):
 <br>
@@ -68,10 +68,10 @@ School Holiday: 7.30 am to 7 pm<br></p>
 	
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">DENTAL SERVICE</label>
+    <label for="accordion5"><h4>DENTAL SERVICE</h4></label>
     <div>
       <p>
-				<b>Dental Clinic</b><br>Please contact our buddy clinics at nearby schools for dental treatment (filling, cleaning and extractions).<br></p>
+				</p><h5><strong>Dental Clinic</strong></h5><br>Please contact our buddy clinics at nearby schools for dental treatment (filling, cleaning and extractions).<br><p></p>
 			<p><table>
 							<tbody><tr>
 							<th>S/N</th>
