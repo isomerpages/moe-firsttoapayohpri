@@ -80,41 +80,6 @@ School Holiday: 7.30 am to 7 pm<br></p>
 
 
 
-<h4><u>SCHOOL UNIFORM</u></h4>
-
-**Beau Voix Uniform**
-<br>
-2 Sims Close&nbsp;
-<br>
-#03-08 Gemini@Sims
-<br>
-Singapore 387298&nbsp;
-<br>
-Website:&nbsp;[https://www.beauvoix.com/](https://www.beauvoix.com/)
-<br>
-Tel: 67436645 / 67447084
-<br>
-Fax: +(65) 67460687
-<br>
-Email:&nbsp;[info@beauvoix.com.sg](mailto:info@beauvoix.com.sg)
-<br>
-Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases [online](https://www.beauvoix.com.sg) or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.
-
-<h4><u>SCHOOL-BASED STUDENT CARE SERVICES</u></h4>
-
-**Singapore EduSMART Learning Hub** 
-<br>
-Tel: 9653 1727&nbsp;
-<br>
-Email:&nbsp;[firsttp_scc@singaporeedusmart.com.sg](mailto:firsttp_scc@singaporeedusmart.com.sg)  
-
-Operating Hours (Mon - Fri):&nbsp;
-<br>
-School Term: 1.30 pm to 7 pm
-<br>
-School Holiday: 7.30 am to 7 pm
-
-
 <h4><u>DENTAL SERVICE</u></h4>
 
 **Dental Clinic**&nbsp;
