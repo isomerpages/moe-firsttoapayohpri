@@ -4,7 +4,7 @@ permalink: /ftpps-family/parents-corner/school-s-service-provider/
 description: ""
 third_nav_title: Parents' Corner
 ---
-### My Accordion
+### School's Service Provider
 
 <ul class="jekyllcodex_accordion">
   <li>
