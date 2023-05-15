@@ -24,39 +24,19 @@ description: ""
 	</tr>
 </tbody></table>
 
-#### Learning Approach 
 
-<img src="/images/1-ICT.png" style="width:70%">
+##### The EdTech Learning Experience
 
-##### 21st Century Competencies and Baseline ICT Skills
+Aligned to MOE’s EdTech Plan, the infusion of ICT in daily lessons serves to help our students become future-ready digital learners who are self-directed, connected and collaborative.
 
-The infusion of ICT in daily lessons serves to help our pupils become self-directed and collaborative learners. It is aligned to the 21st century competencies and baseline ICT skills highlighted by MOE.
+The ICT department works closely with the other departments in the school to leverage on ICT to encourage ownership of learning in our students and to facilitate extension of our students’ learning. Online platforms like the Student Learning Space (SLS) is leveraged on to encourage discussion and reflection.
 
-The ICT department works closely with the other departments in the school to leverage on ICT to encourage ownership of learning in our pupils and to facilitate extension of our pupils’ learning.
-
-Our pupils are taught basic ICT skills like the use of word processors and data-capturing devices. They are also introduced to different tools and devices such as iPads and cameras to manage and extend their learning. Online platforms like the Student Learning Space (SLS) is leveraged on to encourage discussion and reflection.
-
-#### Programmes
+![Code for Fun](/images/Curriculum/ICT/code%20for%20fun.jpg)
 
 ##### Cyber Wellness
 
-At FTPPS, we recognise that cyber wellness has become a critical part of education with the pervasive use of the Internet.&nbsp;
+At FTPPS, we recognise that cyber wellness is a critical part of education with the pervasive use of the world wide web. 
 
-As such, cyber wellness topics were mapped out for the different levels and aligned to the school's FTGP lessons and Sexuality Education. We also seek to raise awareness on issues pertaining to cyber wellness through talks, workshops and training of our cyber wellness monitors.
+As such, cyber wellness topics were mapped out for the different levels and aligned to the school’s CCE FTGP lessons. We also seek to raise awareness on issues pertaining to cyber wellness through talks, workshops and training of our cyber wellness monitors.
 
-**Skit Presentation**
-
-<img src="/images/4-ICT.png" style="width:70%">
-
-**Cyberwellness Ambassadors**
-
-<img src="/images/3-ICT.png" style="width:70%">
-
-##### The focus for the respective levels is as follows:
-
-**Primary 1 - Gaming Addiction  <br>
-Primary 2 - Netiquette  <br>
-Primary 3 - Cyberbullying  <br>
-Primary 4 - Dangers with cyber contacts  <br>
-Primary 5 - Handling inappropriate content  <br>
-Primary 6 - Copyright**
+![Digital Citizenship Workshop](/images/Curriculum/ICT/digital%20citizenship%20workshop%20@%20school%20of%20science%20and%20technology.jpg)
