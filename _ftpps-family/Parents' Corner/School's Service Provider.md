@@ -53,10 +53,10 @@ Fax: +(65) 67460687
 		  
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">This is the 3rd accordion box</label>
+    <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        Type in what you want.</p>
+        <b>Singapore EduSMART Learning Hub</b></p>
 
 <p>More info here....</p>
     </div>
