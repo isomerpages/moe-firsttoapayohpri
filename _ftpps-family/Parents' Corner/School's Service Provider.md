@@ -47,7 +47,7 @@ Singapore 387298<br><br>Website: <a href="https://www.beauvoix.com/">https://www
 <p>Tel: 67436645 / 67447084
 <br>
 Fax: +(65) 67460687
-<br>Email:<a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a><br><br>Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases <a href="https://www.beauvoix.com/">online</a> or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.</p>
+<br>Email:<a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a><br><br>Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases <a href="https://www.beauvoix.com/">online</a> or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.<br></p>
     </div>
   </li>
 		  
@@ -56,13 +56,17 @@ Fax: +(65) 67460687
     <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        <b>Singapore EduSMART Learning Hub</b></p>
+        <b>Singapore EduSMART Learning Hub</b><br>Tel: 9653 1727<br>Email:<a href="mailto:firsttp_scc@singaporeedusmart.com.sg">firsttp_scc@singaporeedusmart.com.sg</a></p>
 
-<p>More info here....</p>
+<p>Operating Hours (Mon - Fri):
+<br>
+School Term: 1.30 pm to 7 pm
+<br>
+School Holiday: 7.30 am to 7 pm<br></p>
     </div>
   </li>
 	
-	 <li>
+<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">This is the 3rd accordion box</label>
     <div>
