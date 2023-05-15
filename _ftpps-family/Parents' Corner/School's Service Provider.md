@@ -4,25 +4,25 @@ permalink: /ftpps-family/parents-corner/school-s-service-provider/
 description: ""
 third_nav_title: Parents' Corner
 ---
-### School's Service Provider
+<h3> School's Service Provider</h3>
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">BUS OPERATOR</label>
+    <label for="accordion1"><h4>BUS OPERATOR</h4></label>
     <div>
-			<p><strong>Chua Lee Kiang Bus Transport Service</strong> <br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
+			<p></p><h5><strong>Chua Lee Kiang Bus Transport Service</strong></h5> <br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
 Tel: 9755 8611
-<br></p>
+<br><p></p>
 
 <p><a href="/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf"><b>Bus Fare </b></a><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.<br></p>
     </div>
 	</li>
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">SCHOOL BOOKSHOP </label>
+    <label for="accordion2"><h4>SCHOOL BOOKSHOP</h4></label>
     <div>
-			<p><b>The Continental Book Centre</b><br>Website: <a href="http://www.thecontinental.sg/">http://www.thecontinental.sg</a><br>Tel: 6247 8482</p>
+			<p></p><h5><strong>The Continental Book Centre</strong></h5><br>Website: <a href="http://www.thecontinental.sg/">http://www.thecontinental.sg</a><br>Tel: 6247 8482<p></p>
 
 <p>Operating Hours:
 <br>
@@ -34,15 +34,15 @@ Mondays to Fridays
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">SCHOOL UNIFORM</label>
+    <label for="accordion3"><h4>SCHOOL UNIFORM</h4></label>
     <div>
       <p>
-        <b>Beau Voix Uniform</b><br>
+        </p><h5><strong>Beau Voix Uniform</strong></h5><br>
 2 Sims Close
 <br>
 #03-08 Gemini@Sims
 <br>
-Singapore 387298<br><br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a></p>
+Singapore 387298<br><br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a><p></p>
 
 <p>Tel: 67436645 / 67447084
 <br>
