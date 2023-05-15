@@ -25,7 +25,7 @@ description: ""
 </tbody></table>
 
 
-#### The EdTech Learning Experience
+<h4><b>The EdTech Learning Experience</b></h4>
 
 Aligned to MOE’s EdTech Plan, the infusion of ICT in daily lessons serves to help our students become future-ready digital learners who are self-directed, connected and collaborative.
 
@@ -33,7 +33,7 @@ The ICT department works closely with the other departments in the school to lev
 
 ![Code for Fun](/images/Curriculum/ICT/code%20for%20fun.jpg)
 
-#### Cyber Wellness
+<h4><b> Cyber Wellness </b></h4>
 
 At FTPPS, we recognise that cyber wellness is a critical part of education with the pervasive use of the world wide web. 
 
