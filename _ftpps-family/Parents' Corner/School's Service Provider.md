@@ -15,16 +15,20 @@ third_nav_title: Parents' Corner
 Tel: 9755 8611
 <br></p>
 
-<p><a href="/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf"><b>Bus Fare </b></a><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.</p>
-    </div><a>
-	</a></li><a>  
+<p><a href="/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf"><b>Bus Fare </b></a><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.<br></p>
+    </div>
+	</li>
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Have you enabled the function? </label>
+    <label for="accordion2">SCHOOL BOOKSHOP </label>
     <div>
-		<p>	You should be able to see this if you enabled the function.</p>
+			<p><b>The Continental Book Centre</b><br>Website: <a href="http://www.thecontinental.sg/">http://www.thecontinental.sg</a><br>Tel: 6247 8482</p>
 
-<p>More details.</p>
+<p>Operating Hours:
+<br>
+Mondays to Fridays
+<br>
+9.00 am to 3.00 pm <br></p>
 
 </div>
   </li>
@@ -38,7 +42,7 @@ Tel: 9755 8611
 <p>More info here....</p>
     </div>
   </li>
-</a></ul><a>
+</ul><a>
 
 
 <h4><u>BUS OPERATOR</u></h4>
