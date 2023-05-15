@@ -42,7 +42,19 @@ Mondays to Fridays
 <p>More info here....</p>
     </div>
   </li>
-</ul><a>
+	
+	  
+  <li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">This is the 3rd accordion box</label>
+    <div>
+      <p>
+        Type in what you want.</p>
+
+<p>More info here....</p>
+    </div>
+  </li>
+</ul>
 
 
 <h4><u>BUS OPERATOR</u></h4>
@@ -124,4 +136,4 @@ For emergencies such as dental trauma, facial/gum swellings or toothaches, pleas
 <br>
 3 Second Hospital Avenue, Level 4, Singapore 168937
 <br>
-Tel: 6435 3779 or 6435 3151</a>
+Tel: 6435 3779 or 6435 3151
