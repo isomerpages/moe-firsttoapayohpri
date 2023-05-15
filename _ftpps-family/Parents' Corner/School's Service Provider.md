@@ -9,7 +9,7 @@ third_nav_title: Parents' Corner
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h4>BUS OPERATOR</h4></label>
+    <label for="accordion1">BUS OPERATOR</label>
     <div>
 			<p></p><h5><strong>Chua Lee Kiang Bus Transport Service</strong></h5><br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
 Tel: 9755 8611
@@ -20,7 +20,7 @@ Tel: 9755 8611
 	</li>
   <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h4>SCHOOL BOOKSHOP</h4></label>
+    <label for="accordion2">SCHOOL BOOKSHOP</label>
     <div>
 			<p></p><h5><strong>The Continental Book Centre</strong></h5><br>Website: <a href="http://www.thecontinental.sg/">http://www.thecontinental.sg</a><br>Tel: 6247 8482<p></p>
 
@@ -34,7 +34,7 @@ Mondays to Fridays
   </li>
   <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h4>SCHOOL UNIFORM</h4></label>
+    <label for="accordion3">SCHOOL UNIFORM</label>
     <div>
       <p>
         </p><h5><strong>Beau Voix Uniform</strong></h5><br>
@@ -53,7 +53,7 @@ Fax: +(65) 67460687
 		  
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4"><h4>SCHOOL-BASED STUDENT CARE SERVICES</h4></label>
+    <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
         </p><h5><strong>Singapore EduSMART Learning Hub</strong></h5><br>Tel: 9653 1727<br>Email:<a href="mailto:firsttp_scc@singaporeedusmart.com.sg">firsttp_scc@singaporeedusmart.com.sg</a><p></p>
@@ -68,7 +68,7 @@ School Holiday: 7.30 am to 7 pm<br></p>
 	
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5"><h4>DENTAL SERVICE</h4></label>
+    <label for="accordion5">&gt;DENTAL SERVICE</label>
     <div>
       <p>
 				</p><h5><strong>Dental Clinic</strong></h5><br>Please contact our buddy clinics at nearby schools for dental treatment (filling, cleaning and extractions).<br><p></p>
