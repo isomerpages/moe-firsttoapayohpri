@@ -9,7 +9,7 @@ description: ""
 			<img src="/images/mission.jpg" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Mission</h5>
+			<h5><b>Mission</b></h5>
 			To develop future-ready and responsible digital learners empowered with technology
 		</td>
 	</tr>
@@ -18,14 +18,14 @@ description: ""
 			<img src="/images/vision.png" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Vision</h5>
+			<h5><b>Vision</b></h5>
 			For students to become self-directed and connected learners who leverage technology for learning
 		</td>
 	</tr>
 </tbody></table>
 
 
-##### The EdTech Learning Experience
+#### The EdTech Learning Experience
 
 Aligned to MOE’s EdTech Plan, the infusion of ICT in daily lessons serves to help our students become future-ready digital learners who are self-directed, connected and collaborative.
 
@@ -33,7 +33,7 @@ The ICT department works closely with the other departments in the school to lev
 
 ![Code for Fun](/images/Curriculum/ICT/code%20for%20fun.jpg)
 
-##### Cyber Wellness
+#### Cyber Wellness
 
 At FTPPS, we recognise that cyber wellness is a critical part of education with the pervasive use of the world wide web. 
 
