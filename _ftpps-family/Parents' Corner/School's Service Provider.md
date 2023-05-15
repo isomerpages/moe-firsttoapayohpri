@@ -4,7 +4,6 @@ permalink: /ftpps-family/parents-corner/school-s-service-provider/
 description: ""
 third_nav_title: Parents' Corner
 ---
-
 <br>
 <ul class="jekyllcodex_accordion">
   <li>
@@ -68,7 +67,7 @@ School Holiday: 7.30 am to 7 pm<br></p>
 	
 <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">&gt;DENTAL SERVICE</label>
+    <label for="accordion5">DENTAL SERVICE</label>
     <div>
       <p>
 				</p><h5><strong>Dental Clinic</strong></h5><br>Please contact our buddy clinics at nearby schools for dental treatment (filling, cleaning and extractions).<br><p></p>
