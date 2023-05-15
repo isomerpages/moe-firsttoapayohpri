@@ -57,30 +57,6 @@ Mondays to Fridays
 </ul>
 
 
-<h4><u>BUS OPERATOR</u></h4>
-
-**Chua Lee Kiang Bus Transport Service**
-<br>
-5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546
-<br>
-Tel: 9755 8611
-<br><br>
-<b>[Bus Fares](/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf)</b><br>
-Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.
-
-<h4><u>SCHOOL BOOKSHOP</u></h4>
-
-**The Continental Book Centre**
-<br>
-Website:&nbsp;[http://www.thecontinental.sg](http://www.thecontinental.sg/)&nbsp;
-<br>
-Tel: 6247 8482&nbsp;
-
-Operating Hours:&nbsp;
-<br>
-Mondays to Fridays
-<br>
-9.00 am to 3.00 pm
 
 <h4><u>SCHOOL UNIFORM</u></h4>
 
