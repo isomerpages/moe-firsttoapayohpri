@@ -15,8 +15,8 @@ third_nav_title: Parents' Corner
 Tel: 9755 8611
 <br></p>
 
-<p><a><b>Bus Fare </b><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.</a></p><a>
-    </a></div><a>
+<p><a href="/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf"><b>Bus Fare </b></a><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.</p>
+    </div><a>
 	</a></li><a>  
   <li>
     <input type="checkbox" id="accordion2">
