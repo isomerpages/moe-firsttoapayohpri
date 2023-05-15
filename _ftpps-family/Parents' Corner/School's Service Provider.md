@@ -54,6 +54,17 @@ Mondays to Fridays
 <p>More info here....</p>
     </div>
   </li>
+	
+	 <li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">This is the 3rd accordion box</label>
+    <div>
+      <p>
+        Type in what you want.</p>
+
+<p>More info here....</p>
+    </div>
+  </li>
 </ul>
 
 
