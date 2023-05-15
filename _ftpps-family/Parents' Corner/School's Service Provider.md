@@ -110,26 +110,3 @@ Tel: 6435 3779 or 6435 3151</p>
     </div>
   </li>
 </ul>
-
-
-
-<h4><u>DENTAL SERVICE</u></h4>
-
-**Dental Clinic**&nbsp;
-<br>
-Please contact our buddy clinics at nearby schools for dental treatment (filling, cleaning and extractions).&nbsp;
-
-| S/N | Buddy Clinic | Address | Telephone No |
-|---|---|---|---|
-| 1 | Pei Chun Public School | 16 Toa Payoh Lor 7, S(319320) | 6258 2203 |
-| 2 | Kheng Cheng School | 15 Toa Payoh Lor 3, S(319580) | 6256 5048 |
-| 3 | CHIJ Toa Payoh Primary | 628 Toa Payoh Lor 1, S(319765) | 6259 1473 |
-| 4 | Mobile Dental Clinic (MDC 5) | Mini Referral Centre<br>(Call to confirm location) | 9270 7796 |
-
-For emergencies such as dental trauma, facial/gum swellings or toothaches, please call:
-<br>
-**Health Promotion Board, School Dental Centre**
-<br>
-3 Second Hospital Avenue, Level 4, Singapore 168937
-<br>
-Tel: 6435 3779 or 6435 3151
