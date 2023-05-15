@@ -4,6 +4,43 @@ permalink: /ftpps-family/parents-corner/school-s-service-provider/
 description: ""
 third_nav_title: Parents' Corner
 ---
+### My Accordion
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">BUS OPERATOR</label>
+    <div>
+			<p><strong>Chua Lee Kiang Bus Transport Service</strong> <br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
+Tel: 9755 8611
+<br></p>
+
+<p><a><b>Bus Fare </b><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.</a></p><a>
+    </a></div><a>
+	</a></li><a>  
+  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Have you enabled the function? </label>
+    <div>
+		<p>	You should be able to see this if you enabled the function.</p>
+
+<p>More details.</p>
+
+</div>
+  </li>
+  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">This is the 3rd accordion box</label>
+    <div>
+      <p>
+        Type in what you want.</p>
+
+<p>More info here....</p>
+    </div>
+  </li>
+</a></ul><a>
+
+
 <h4><u>BUS OPERATOR</u></h4>
 
 **Chua Lee Kiang Bus Transport Service**
@@ -83,4 +120,4 @@ For emergencies such as dental trauma, facial/gum swellings or toothaches, pleas
 <br>
 3 Second Hospital Avenue, Level 4, Singapore 168937
 <br>
-Tel: 6435 3779 or 6435 3151
+Tel: 6435 3779 or 6435 3151</a>
