@@ -57,7 +57,7 @@ You may need to submit supporting documents during registration. Schools may als
   </tr>
   <tr>
 		<td><b>PHASE 2B</b><br><br>For a child:<br><br>(a)  Whose parent has joined the primary school as a parent volunteer not later than 1 July of the year before P1 registration and has given at least 40 hours of voluntary service to the school by 30 June of the year of P1 registration.<br><br>(b)  Whose parent is a member endorsed by the church or clan directly connected with the primary school.<br><br>(c)  Whose parent is endorsed as an active community leader.<br><br><b><u>Note:</u></b><br><br>We will reserve 20 places in each primary school for Phase 2B to ensure continued access to all primary schools.<br><br></td>
-		<td><b><u>Registration</u></b><br><br>From: 9am on Tuesday, 19 July 2022<br>To: 4.30pm on Wednesday, 20 July 2022<br><br><b><u>Announcement of result</u></b><br>Tuesday, 26 July 2022</td>
+		<td><b><u>Registration</u></b><br><br>From: 9am on Monday, 24 July 2023<br>To: 4.30pm on Tuesday, 25 July 2023<br><br><b><u>Announcement of result</u></b><br>Monday, 31 July 2023</td>
   </tr>
   <tr>
 		<td><b>PHASE 2C</b><br><br>For a child who is not yet registered in a primary school.<br><br><b><u>How to Apply?</u></b><br><br>You should <a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register?pt=2C">register online</a> using the Primary One Internet System (P1-IS). If you are unable to use the P1-IS, please use the online form link provided in the P1-IS for registration.</td>
