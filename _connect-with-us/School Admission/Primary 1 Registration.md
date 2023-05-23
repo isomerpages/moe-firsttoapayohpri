@@ -4,15 +4,40 @@ permalink: /connect-with-us/school-admission/primary-1-registration/
 description: ""
 third_nav_title: School Admission
 ---
-#### Registration Phases for Academic Year of 2023
+#### Registration Phases for Academic Year of 2024
 
-<h5><u>OVERVIEW OF PHASES  </u></h5>
+<h5><u>OVERVIEW OF PHASES  </u></h5><br>
+<i><u>For Singapore Citizen (SC) and Permanent Resident (PR) Children</u></i>
 
-In line with the measures announced by the Government to further enhance safe distancing measures and ensure minimal contact among the public, there will be **no in-person registration** at schools for the 2022 P1 registration. You may register your child online in a phase as long as you fulfil at least one of the requirements for that phase.
+Parents of <b>Singapore Citizen (SC) and Permanent Resident (PR)</b> children can register through the [P1 Registration Portal](https://www.moe.gov.sg/primary/p1-registration/how-to-register) during Phase 1 to Phase 2C Supplementary.
 
-You can only register your child in one school at any phase. Multiple applications will **not** be accepted. If you have submitted your online application and wish to make an amendment during the same phase, you may submit a new application form within the same phase. In these situations, MOE will take your **latest** online application submitted during the stipulated registration period of the same registration phase.
+On the portal, you can:
+<ul>
+<li>View your child’s eligible registration phases and schools from 9am on Tuesday, 4 July 2023.</li>
+<li>Register your child during their eligible phases, from Phase 1 to 2C Supplementary.</li>
+<li>Check registration outcome on results announcement days. (You will also be notified of the results through SMS.)</li></ul>
 
-If you have secured a P1 place for your child in a previous registration phase, you will need to [withdraw your place](https://www.moe.gov.sg/primary/p1-registration/how-to-register?toggle-id=documents-for-withdrawal-from-school) from the school before registering in another school. **Unless you have withdrawn your place, MOE will not process any further online applications made for your child and your child will remain in the school that your child had earlier secured a place at.** You are to ensure that the child has been successfully withdrawn before submitting another online application.
+You need a valid Singpass with 2-Factor Authentication (Singpass2FA) to access the P1 Registration Portal.
+
+Only one parent is required to register. In the Registration Portal, you are required to declare that you have sought consent from the other parent to register your child for P1.
+
+In the P1 Registration Portal, you will be directed to register via an online form if:
+<ul>
+<li>You have a child due for P1 registration, whose name is not shown in the portal.</li>
+	<li>Your child is eligible for a phase or school that is not reflected in the portal.</li></ul>
+
+You may need to submit supporting documents during registration. Schools may also contact you for clarification or additional documents.
+
+<i><u>For International Students</u></i>
+
+<b>International students</b> must register through a 2-step process prior to registration in Phase 3. <br>
+<b><u>Step 1:</u></b> Submit an online ‘indication of interest' form via the MOE P1 website from 9am on Tuesday, 30 May 2023 to 4.30pm on Monday, 5 June 2023. 
+<br>
+Step 2: MOE will notify IS applicants who have indicated their interest via email in October 2023, as to whether their child can be offered a P1 place in a primary school. If a place is offered, the parent of the child will be informed of how to register with the designated school.
+
+You can only register your child in one school at any phase. Multiple applications will&nbsp;**not**&nbsp;be accepted. If you have submitted your online application and wish to make an amendment during the same phase, you may submit a new application form within the same phase. In these situations, MOE will take your&nbsp;**latest**&nbsp;online application submitted during the stipulated registration period of the same registration phase.
+
+If you have secured a P1 place for your child in a previous registration phase, you will need to&nbsp;[withdraw your place](https://www.moe.gov.sg/primary/p1-registration/how-to-register?toggle-id=documents-for-withdrawal-from-school)&nbsp;from the school before registering in another school.&nbsp;**Unless you have withdrawn your place, MOE will&nbsp;not process any further online applications made for your child and your child will remain in the school that your child had earlier secured a place at.**&nbsp;You are to ensure that the child has been successfully withdrawn before submitting another online application.
 
 <h5><u>Registration Phases for Academic Year of 2023  </u></h5>
 
@@ -43,7 +68,7 @@ If you have secured a P1 place for your child in a previous registration phase, 
 		<td><b><u>Registration via P1-Internet System (P1-IS)</u></b><br><br>From: 9am on Wednesday, 27 July 2022<br>To: 4.30pm on Friday, 29 July 2022<br><br><b><u>Announcement of result</u></b><br>Wednesday, 10 August 2022</td>
   </tr>
   <tr>
-			<td><b>PHASE 2C SUPPLEMENTARY</b><br><br>For a child who is not yet registered in a primary school after Phase 2C<br><br><b><u>How to Apply?</u></b><Br><br>You should <a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register?pt=2C%20Supplementary">register online</a> using the Primary One Internet System (P1-IS). If you are unable to use the P1-IS, please use the online form link provided in the P1-IS for registration.</td>
+			<td><b>PHASE 2C SUPPLEMENTARY</b><br><br>For a child who is not yet registered in a primary school after Phase 2C<br><br><b><u>How to Apply?</u></b><br><br>You should <a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register?pt=2C%20Supplementary">register online</a> using the Primary One Internet System (P1-IS). If you are unable to use the P1-IS, please use the online form link provided in the P1-IS for registration.</td>
 		<td><b><u>Registration via P1-Internet System (P1-IS)</u></b><br><br>From: 9am on Monday, 15 August 2022<br>To: 4.30pm on Tuesday, 16 August 2022<br><br><b><u>Announcement of result</u></b><br>Monday, 25 August 2022</td>
   </tr>
   <tr>
@@ -60,4 +85,4 @@ If you have secured a P1 place for your child in a previous registration phase, 
 
 *   If you require assistance with your online registration, please refer to the guide or contact us via email ([ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg)) or telephone (6256 7822). Do expect delays as we may experience higher than normal call and email volumes during P1 Registration days. We will contact you in due course upon receipt of your email.
 
-URL: [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
+URL:&nbsp;[https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration)
