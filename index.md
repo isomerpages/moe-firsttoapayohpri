@@ -15,9 +15,9 @@ sections:
         - title: MK @ First Toa Payoh
           description: ""
           url: /mk-at-first-toa-payoh/see-to-believe/
-        - title: E-Open House 2022
+        - title: Open House 2023
           description: ""
-          url: /e-open-house-2022
+          url: /open-house-2023/
         - title: Virtual Tour
           description: ""
           url: /FTPPS-virtual-tour
