@@ -33,13 +33,9 @@ You may need to submit supporting documents during registration. Schools may als
 <b>International students</b> must register through a 2-step process prior to registration in Phase 3. <br>
 <b><u>Step 1:</u></b> Submit an online ‘indication of interest' form via the MOE P1 website from 9am on Tuesday, 30 May 2023 to 4.30pm on Monday, 5 June 2023. 
 <br>
-Step 2: MOE will notify IS applicants who have indicated their interest via email in October 2023, as to whether their child can be offered a P1 place in a primary school. If a place is offered, the parent of the child will be informed of how to register with the designated school.
+<b><u>Step 2: </u></b> MOE will notify IS applicants who have indicated their interest via email in October 2023, as to whether their child can be offered a P1 place in a primary school. If a place is offered, the parent of the child will be informed of how to register with the designated school.
 
-You can only register your child in one school at any phase. Multiple applications will&nbsp;**not**&nbsp;be accepted. If you have submitted your online application and wish to make an amendment during the same phase, you may submit a new application form within the same phase. In these situations, MOE will take your&nbsp;**latest**&nbsp;online application submitted during the stipulated registration period of the same registration phase.
-
-If you have secured a P1 place for your child in a previous registration phase, you will need to&nbsp;[withdraw your place](https://www.moe.gov.sg/primary/p1-registration/how-to-register?toggle-id=documents-for-withdrawal-from-school)&nbsp;from the school before registering in another school.&nbsp;**Unless you have withdrawn your place, MOE will&nbsp;not process any further online applications made for your child and your child will remain in the school that your child had earlier secured a place at.**&nbsp;You are to ensure that the child has been successfully withdrawn before submitting another online application.
-
-<h5><u>Registration Phases for Academic Year of 2023  </u></h5>
+<h5><u>Registration Phases for Academic Year of 2024  </u></h5>
 
 <table>
 <thead>
