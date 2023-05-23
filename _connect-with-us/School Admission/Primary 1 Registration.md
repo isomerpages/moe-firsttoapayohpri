@@ -4,9 +4,9 @@ permalink: /connect-with-us/school-admission/primary-1-registration/
 description: ""
 third_nav_title: School Admission
 ---
-#### Registration Phases for Academic Year of 2024
+### Registration Phases for Academic Year of 2024
 
-<h5><u>OVERVIEW OF PHASES  </u></h5><br>
+<h4><u>OVERVIEW OF PHASES  </u></h4><br>
 <i><u>For Singapore Citizen (SC) and Permanent Resident (PR) Children</u></i>
 
 Parents of <b>Singapore Citizen (SC) and Permanent Resident (PR)</b> children can register through the [P1 Registration Portal](https://www.moe.gov.sg/primary/p1-registration/how-to-register) during Phase 1 to Phase 2C Supplementary.
@@ -30,7 +30,7 @@ You may need to submit supporting documents during registration. Schools may als
 
 <i><u>For International Students</u></i>
 
-<b>International students</b> must register through a 2-step process prior to registration in Phase 3. <br>
+<b>International students</b> must register through a 2-step process prior to registration in Phase 3. <br><br>
 <b><u>Step 1:</u></b> Submit an online ‘indication of interest' form via the MOE P1 website from 9am on Tuesday, 30 May 2023 to 4.30pm on Monday, 5 June 2023. 
 <br>
 <b><u>Step 2: </u></b> MOE will notify IS applicants who have indicated their interest via email in October 2023, as to whether their child can be offered a P1 place in a primary school. If a place is offered, the parent of the child will be informed of how to register with the designated school.
