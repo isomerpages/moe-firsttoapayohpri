@@ -32,9 +32,9 @@ You may need to submit supporting documents during registration. Schools may als
 
 <b>International students</b> must register through a 2-step process prior to registration in Phase 3. <br><br>
 <b><u>Step 1:</u></b> Submit an online ‘indication of interest' form via the MOE P1 website from 9am on Tuesday, 30 May 2023 to 4.30pm on Monday, 5 June 2023. 
-<br>
+<br><br>
 <b><u>Step 2: </u></b> MOE will notify IS applicants who have indicated their interest via email in October 2023, as to whether their child can be offered a P1 place in a primary school. If a place is offered, the parent of the child will be informed of how to register with the designated school.
-
+<br><br><br>
 <h5><u>Registration Phases for Academic Year of 2024  </u></h5>
 
 <table>
