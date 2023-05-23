@@ -49,7 +49,7 @@ You may need to submit supporting documents during registration. Schools may als
   <tr>
 		<td rowspan="5"><b>For children who are Singapore Citizens or Singapore Permanent Residents</b></td>
 		<td><b>PHASE 1</b><br><br>For a child who has a sibling studying in the primary school.<br><br><b><u>Note:</u></b><br><br>All eligible Phase 1 applicants will be offered a place.</td>
-		<td><b><u>Registration</u></b><br><br>From: 9am on Tuesday, 4 July 2023<br>To: 4.30pm on Wednesday, 5 July 2023<br><br><b><u>Announcement of result</u></b><br>Tuesday, 11 July 2023</td>
+		<td><b><u>Registration</u></b><br><br>From: 9am on Tuesday, 4 July 2023<br>To: 4.30pm on Wednesday, 5 July 2023<br><br><b><u>Announcement of result</u></b><br>Tuesday, 11 July 2023<br><br></td>
   </tr>
   <tr>
     <td><b>PHASE 2A</b><br><br>For a child:<br><br>(a)  Whose parent or sibling is a former student of the primary school, including those who have joined the alumni association of the primary school as a member.<br><br>(b)  Whose parent is a member of the School Advisory or Management Committee. <br><br>(c)  Whose parent is a staff member of the primary school. <br><br>(d)  From the MOE Kindergarten under the purview of and located within the primary school. <br><br></td>
