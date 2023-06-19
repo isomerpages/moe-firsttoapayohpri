@@ -9,6 +9,7 @@ third_nav_title: Our Staff
 | **P6 RESPECT** |  |  |
 |  Form Teachers |  TAN KUI ING PEARLY (MDM) |  [tan_kui_ing_pearly@moe.edu.sg](mailto:tan_kui_ing_pearly@moe.edu.sg) |
 |   |  LIM TIEW LING (MDM) |  [lim_tiew_ling@moe.edu.sg](mailto:lim_tiew_ling@moe.edu.sg) |
+|   | ANG TZE YIN (MS) |  [ang_tze_yin@moe.edu.sg](mailto:ang_tze_yin@moe.edu.sg) |
 |  |  |  |
 | **P6 LOVE** |  |  |
 |  Form Teachers |  JOEL PRATHIEV VINSON (MR) |  [joel_prathiev_vinson@moe.edu.sg](mailto:joel_prathiev_vinson@moe.edu.sg) |
