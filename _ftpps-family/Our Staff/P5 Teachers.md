@@ -23,5 +23,5 @@ third_nav_title: Our Staff
 |  **P5 INTEGRITY** |  |  |
 |  Form Teachers |  JULIANA BTE ARIFFIN (MDM) |  [juliana_ariffin@moe.edu.sg](mailto:juliana_ariffin@moe.edu.sg) |
 |   |  JASMINE KOK (MISS) |  [jasmine_kok@moe.edu.sg](mailto:jasmine_kok@moe.edu.sg) |
-|   |  CHIN YING TING (MDM) |  [chin_ying_ting@moe.edu.sg](mailto:chin_ying_ting@moe.edu.sg) |
+|   |  CHIN YING TING (MISS) |  [chin_ying_ting@moe.edu.sg](mailto:chin_ying_ting@moe.edu.sg) |
 |   |   |   |
