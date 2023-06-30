@@ -9,7 +9,7 @@ description: ""
 			<img src="/images/mission.jpg" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Mission</h5>
+			<h5><b>Mission</b></h5>
 			To develop confident users of the English language through developing listening, speaking, writing and reading skills
 		</td>
 	</tr>
@@ -18,7 +18,7 @@ description: ""
 		   <img src="/images/vision.png" style="height:75px; width:75px">
      </td>
      <td> 
-			 <h5>Vision</h5>
+			 <h5><b>Vision</b></h5>
 	     Effective and Confident Communicators
        </td>
 	</tr>
