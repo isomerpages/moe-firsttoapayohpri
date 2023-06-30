@@ -9,7 +9,7 @@ description: ""
 			<img src="/images/mission.jpg" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Mission</h5>
+			<h5><b>Mission</b></h5>
 			Improve Every Child’s Accessibility to Books
 			<br>
 			Develop a Reading Child
@@ -20,7 +20,7 @@ description: ""
 			<img src="/images/vision.png" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Vision</h5>
+			<h5><b>Vision</b></h5>
 			To develop the joy of reading in our FTPPS students.
 		</td>
 	</tr>
