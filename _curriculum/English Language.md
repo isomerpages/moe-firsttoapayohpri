@@ -50,23 +50,23 @@ Students develop confidence in speaking through a spiral approach to cultivate a
 	<li><b>Seek and Speak (P5 and P6)</b></li>Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice. 
 </ul>
 
-#### Speech and Drama
+<h4><b>Speech and Drama</b></h4>
 
 This programme aims to develop confident students through Speech and Drama sessions in preparation for the Drama Extravaganza held annually where they showcase what they have learnt. Be sure to catch them in action!
 
 ![Drama Extravaganza](/images/Curriculum/English%20Language/drama%20extravaganza.jpg)
 
-#### Literacy Through Photojournalism
+<h4><b>Literacy Through Photojournalism</b></h4>
 
 Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
 
 ![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
 
-#### Story Spark Programme
+<h4><b>Story Spark Programme</b></h4>
 
 The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
 
-#### Support Programmes
+<h4><b>Support Programmes</b></h4>
 
 <ul>
 	<li><b>Learning Support Programme (LSP)</b></li>Students are given the support to bridge gaps in reading and writing to cope in English lessons.<br><br>
@@ -78,7 +78,7 @@ The Story Spark Programme aims to develop a joy of independent reading among stu
 ![kidsREAD Programme](/images/Curriculum/English%20Language/kidsread%20programme.jpg)
 
 
-#### Talent Development Programme
+<h4><b>Talent Development Programme</b></h4>
 
 Students who have shown aptitude and flair for the language are given the opportunity to further develop their talent and cultivate a greater love for the language through Book Studies (Literature) and Debating. 
 
