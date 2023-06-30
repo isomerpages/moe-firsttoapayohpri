@@ -32,29 +32,12 @@ description: ""
 <br>
 ![Media Resource Library Goals](/images/Curriculum/Media%20Resource%20Library/mrl%20goals.jpg)
 
-#### Programmes
+<h3><b> Programmes</b></h3><br>
+<h4><b>Accessibility to Books</b></h4>
 
-##### Accessibility to Books
+<h5><b>Molly Bus (A collaboration with National Library Board)</b></h5>
+![](/images/Curriculum/Media%20Resource%20Library/molly%20bus%20logo.png)
 
-* **Collaboration with NLB** 
-<br><img src="/images/image007.jpg" style="width:30%" align="left">
-<table>
-	<tbody><tr>
-		<td width="55%">
-			<img src="/images/4%20(4).jpg">
-		</td>
-		<td>
-			<img src="/images/6%20(4).jpg">
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="/images/5%20(4).jpg" style="width:50%">
-		</td>
-	</tr>
-</tbody></table>
-
-\* *Students are to bring their student card or library card to borrow books from NLB*
 
 **Class Bulk Loan**
 <br>
