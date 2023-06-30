@@ -81,43 +81,6 @@ Student librarians play an active role in promoting the facilities of the KIP Hu
 <br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JxqXwQX7JO0" height="315" width="560"></iframe>
 <p align="center"><i>Book Reading of Anthony Browne’s “Gorilla” by Mikaella Erinn</i></p>
-
-Our student librarians promote the love of reading by sharing their book reviews on Ipads. They also go on an annual Learning Journey to an external library.
-
-<table>
-	<tbody><tr>
-		<td width="62%">
-			<img src="/images/19.jpg">
-		</td>
-		<td>
-			<img src="/images/20.jpg" style="padding:0px 50px 0px 0px">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/21.jpg">
-		</td>
-		<td>
-			<img src="/images/22.jpg">
-		</td>
-	</tr>
-</tbody></table>
-
-<p align="center"><b>Visit to Sports Hub Library: Librarians learn how books are catalogued.</b></p>
-
-<table>
-	<tbody><tr>
-		<td width="47.5%">
-			<img src="/images/23.jpg">
-		</td>
-		<td>
-			<img src="/images/24.jpg">
-		</td>
-	</tr>
-</tbody></table>
-
-<p align="center">
-	<b>Book Promotion Project:</b>
-	<br>
-	Librarians promoting their favourite reads with the use of iPads and video clips.
-</p>
+<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TJsQtNtXqJ8" height="315" width="560"></iframe>
+<p align="center"><i>Vlog – A tour around the KIP Hub</i></p>
