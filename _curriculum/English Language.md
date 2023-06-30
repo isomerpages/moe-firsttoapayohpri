@@ -77,7 +77,12 @@ The Story Spark Programme aims to develop a joy of independent reading among stu
 
 ![kidsREAD Programme](/images/Curriculum/English%20Language/kidsread%20programme.jpg)
 
-The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
+
+#### Talent Development Programme
+
+Students who have shown aptitude and flair for the language are given the opportunity to further develop their talent and cultivate a greater love for the language through Book Studies (Literature) and Debating. 
+
+![Talent Development Programme](/images/Curriculum/English%20Language/talent%20development%20programme.jpg)
 
 <table>
 	<tbody><tr>
