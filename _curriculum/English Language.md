@@ -62,9 +62,20 @@ Students undergo basic photography training during Art lessons and follow up wit
 
 ![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
 
-#### Speech and Drama
+#### Story Spark Programme
 
-This programme is aligned to MOE’s Curriculum C2015 initiatives to develop confident pupils and the Primary Education Review &amp; Implementation (PERI) recommendation to use engaging teaching pedagogies. All P1 &amp; P2 students undergo 12 sessions of drama training in preparation for the Drama Extravaganza held twice a year. Be sure to catch them in action!
+The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
+
+#### Support Programmes
+
+<ul>
+	<li>Learning Support Programme (LSP)</li>Students are given the support to bridge gaps in reading and writing to cope in English lessons.
+	<li>School-based Dyslexia Remediation (SDR)</li>The SDR programme aims to assist students with dyslexia in decoding words through syllabication and an understanding of phonics. Through rigorous cycles of 60 min lessons, it monitors the development of students across 2 years. 
+	<li>•	Reading Remediation Programme (RRP)</li>RRP identifies students who are below the appropriate developmental reading age and guides them to decode monosyllabic and multi-syllabic words with consideration of their meanings as part of a sentence. Through biweekly sessions and progress monitoring cycles, it tracks the development of students across 2 years. As students progress, they will also be taught reading comprehension skills. 
+	<li>•	kidsREAD Programme</li>A collaboration with the National Library Board (NLB) and Raffles Girls’ School (RGS), kidsREAD aims to promote the love of reading and cultivate good reading habits among young students. The kidsREAD sessions are conducted by our teachers, as well as the RGS student volunteers trained by NLB in basic storytelling skills.
+</ul>
+
+The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
 
 <table>
 	<tbody><tr>
