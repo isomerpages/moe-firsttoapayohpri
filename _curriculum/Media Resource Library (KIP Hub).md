@@ -35,12 +35,11 @@ description: ""
 <h3><b> Programmes</b></h3><br>
 <h4><b>Accessibility to Books</b></h4>
 
-<h5><b>Molly Bus (A collaboration with National Library Board)</b></h5>
-
+<b>Molly Bus (A collaboration with National Library Board)</b>
 ![Molly Bus](/images/Curriculum/Media%20Resource%20Library/molly%20bus%20logo.png)
+Every year, Molly Bus by NLB will visit FTPPS. Students get a chance to have a glimpse of various book genres found in the national libraries. 
 
-
-**Class Bulk Loan**
+<b>Class Bulk Loan</b>
 <br>
 Every class is given a library class bulk loan for students to have access to books in class and to read the books during the Uninterrupted Sustained Silent Reading programme.
 
