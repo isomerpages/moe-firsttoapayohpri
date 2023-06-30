@@ -24,24 +24,24 @@ description: ""
 	</tr>
 </tbody></table>
 
-### Stellar
+<h3><b>Stellar</b></h3>
 
 The STELLAR framework guides the teaching and learning of English language in seeking to develop students’ listening, speaking, reading and writing competencies. Apart from developing students who love reading and have a strong foundation in English Language, we also develop multiple competencies in our students to capitalise on the rich opportunities of the digital age. Language is taught in meaningful contexts, through integrating the different areas of language learning and introducing language skills and strategies in an explicit and systematic way. 
 
-#### Lower Primary
+<h4><b>Lower Primary</b></h4>
 <br>
 Students experience the Shared Book Approach (SBA), Modified Language Experience (MLEA) writing, Extensive Reading and Differentiated Focus Lessons (DFL) to learn skills related to “learning to read”, writing, speaking and listening. 
 
-#### Upper Primary
+<h4><b>Upper Primary</b></h4>
 <br>
 Students are taught progressive skills of Sustained Silent Reading, Supported Reading, KWL and Retelling. They also have Differentiated Focus Lessons (DFL) and language activities, as well as Extensive Reading. They engage in the Writing Process Cycle where they read, write and rewrite drafts in exploring language use.
 <br>
 
 ![P1 &amp; P2 Learning Journeys](/images/Curriculum/English%20Language/p1%20&amp;%20p2%20learning%20journeys.jpg)
 
-### Programmes
+<h3><b> Programmes</b></h3>
 
-#### Speaking Programmes
+<h4><b>Speaking Programmes</b></h4>
 Students develop confidence in speaking through a spiral approach to cultivate appropriate intonation, expression and pronunciation. 
 
 <ul>
