@@ -41,85 +41,47 @@ Every year, Molly Bus by NLB will visit FTPPS. Students get a chance to have a g
 
 <b>Class Bulk Loan</b>
 <br>
-Every class is given a library class bulk loan for students to have access to books in class and to read the books during the Uninterrupted Sustained Silent Reading programme.
+Every class has a class library consisting of a bulk loan from the school library for students to have access to books in class and to read during Pre-assembly Silent Reading time or during reading periods.
 
-**Read and Response Books**
+<b>Read and Response Books</b>
 <br>
-Every class will read the same titled book and all the students will be able to respond to the teachers’ questions and participate in the post-reading activities.
+Students will read the same titled book in class. Thereafter, students will respond to their teachers’ questions and participate in the post-reading activities.
 
-**Library Period**
+<b>Story Spark Programme</b>
 <br>
-The P1 to P3 students are scheduled to go to the library once a week to either borrow books or have reading-related activities in the library. English periods are scheduled during the even weeks and Mother Tongue periods are scheduled during the odd weeks.
+The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
 
-##### Promoting the Library 
-
-**Monthly Library Activities**
+<b>Library Period</b>
 <br>
-Every year, interesting themes are lined up in conjunction with NE Core Events or popular genres. During these CIVICA Library activities there are thematic book displays, competitions, games and book-related activities during recess. Prizes are given out monthly! One of their favourite games is the Amazing Race where students look for the books once given their call numbers. The first group to match the books with the call numbers will be declared the winner.
+P1 to P3 students are scheduled to go to the library once a week to either borrow books or have reading-related activities in the library. English periods are scheduled during the odd weeks and Mother Tongue periods are scheduled during even weeks.
 
-<table>
-	<tbody><tr>
-		<td width="46%">
-			<img src="/images/7%20(3).jpg">
-			<p align="center"><b>Know the Library</b></p>
-		</td>
-		<td>
-			<img src="/images/8%20(1).jpg">
-			<p align="center"><b>Learn from Life Stories</b></p>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="/images/9%20(1).jpg" style="width:70%">
-			<p align="center"><b>Library is alive @ Recess!</b></p>
-		</td>
-	</tr>
-</tbody></table>
+<h5><b>Promoting the Library</b></h5>
 
-**Book Display**
+<b>Monthly Library Activities</b>
 <br>
-Based on popular themes or authors, students are encouraged to borrow or read the books on display. Book displays are carried out at least once a month.
+Every year, interesting themes are lined up in conjunction with National Education core events (e.g. Total Defence Day, National Day etc.) or popular genres for monthly library activities. There will be thematic book displays, competitions, games and book-related activities held at the KIP Hub during recess. Students stand to win attractive prizes for the game or competition they participate in! An all-time favourite game includes the Kahoot! Game on “Know Your Library”. The top three scorers who managed to answer the questions correctly (and quickly!) will be the winners of the game.
 
-<table>
-	<tbody><tr>
-		<td>
-			<img src="/images/image011.jpg">
-		</td>
-		<td width="42%">
-			<img src="/images/10%20(1).jpg">
-		</td>
-	</tr>
-</tbody></table>
+![Library Activities](/images/Curriculum/Media%20Resource%20Library/monthly%20library%20activities.jpg)
 
-**Magic School Bus Book Display**
-<table>
-	<tbody><tr>
-		<td width="45%">
-			<img src="/images/11%20(1).jpg">
-		</td>
-		<td>
-			<img src="/images/12%20(1).jpg">
-		</td>
-	</tr>
-</tbody></table>
-
-<p align="center">Top picks based on animals in art book displays. A collaboration with the Art Department.</p>
-
-**Audio Stories**
+<b>Book Display</b>
 <br>
-Every Thursday, during recess, audio stories would be played for students to listen and enjoy. This is to encourage our reluctant readers to enjoy reading and eventually cultivate a love for reading.
+Book displays based on various themes or featured authors will be put up at the KIP Hub at least once a month. Based on the popular themes or featured authors, students are encouraged to pick up the books on display to read or borrow. 
 
-<img src="/images/13%20(1).jpg" style="width:60%">
+![Book Display](/images/Curriculum/Media%20Resource%20Library/book%20display.jpg)
 
-##### Developing Student Librarians
+<b>Audio Stories</b>
+<br>
+During recess, audio stories would also be played for students to listen to and enjoy. This is to encourage reluctant readers to enjoy reading and eventually cultivate the love for reading.
 
-Workshops are conducted to equip our student librarians with the leadership skills to promote the love of reading in class and assist their English teachers to build a reading culture in class. They are also scheduled to help out at the school library during recess.
+<h5><b>Developing Student Librarians</b></h5>
 
-Student librarians will also share stories during recess and play an active role in promoting the love of reading.
+Our student librarians are equipped with the leadership skills to promote the love for reading and assist their English teachers to build a reading culture in class. 
 
-<img src="/images/image012.jpg" style="width:60%">
+Student librarians play an active role in promoting the facilities of the KIP Hub, as well as the love for reading through book readings and sharing of their favourite reads. The videos below show our librarians in action. Enjoy!
 
-<p align="center">Student Librarians attending the Mass Leadership Training Workshop</p>
+
+
+<p align="center"><i>Book Reading of Anthony Browne’s “Gorilla” by Mikaella Erinn</i></p>
 
 Our student librarians promote the love of reading by sharing their book reviews on Ipads. They also go on an annual Learning Journey to an external library.
 
