@@ -58,7 +58,9 @@ This programme aims to develop confident students through Speech and Drama sessi
 
 #### Literacy Through Photojournalism
 
-Students engage in discussion on photographs taken by peers in this unique programme. Through the thinking routine ‘I SEE, I THINK, I WONDER’, students learn to articulate their observations of the shot composition, the emotions the photograph portrays, and their opinions on environmental messages and issues captured in the shots. Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to talk about the photographs. They will eventually use these skills to compose their photojournal to share their message with their audience.
+Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
+
+![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
 
 #### Speech and Drama
 
