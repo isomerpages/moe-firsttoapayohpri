@@ -50,23 +50,11 @@ Students develop confidence in speaking through a spiral approach to cultivate a
 	<li>Seek and Speak (P5 and P6)</li>Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice. 
 </ul>
 
-##### Lower Primary (P1 and P2)
+#### Speech and Drama
 
-**Show and Tell**
+This programme aims to develop confident students through Speech and Drama sessions in preparation for the Drama Extravaganza held annually where they showcase what they have learnt. Be sure to catch them in action!
 
-Students talk about an artefact they bring to school with their classmates and answer questions raised by them.
-
-##### Middle Primary (P3 and P4)
-
-**One Minute of Fame**
-
-Students are given the opportunity to present on a topic of their interest or passion to their classmates.
-
-##### Upper Primary (P5 and P6)
-
-**Seek and Speak**
-
-Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice.&nbsp;
+![Drama Extravaganza](/images/Curriculum/English%20Language/drama%20extravaganza.jpg)
 
 #### Literacy Through Photojournalism
 
