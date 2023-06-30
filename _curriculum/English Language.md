@@ -69,10 +69,10 @@ The Story Spark Programme aims to develop a joy of independent reading among stu
 #### Support Programmes
 
 <ul>
-	<li>Learning Support Programme (LSP)</li>Students are given the support to bridge gaps in reading and writing to cope in English lessons.
-	<li>School-based Dyslexia Remediation (SDR)</li>The SDR programme aims to assist students with dyslexia in decoding words through syllabication and an understanding of phonics. Through rigorous cycles of 60 min lessons, it monitors the development of students across 2 years. 
-	<li>•	Reading Remediation Programme (RRP)</li>RRP identifies students who are below the appropriate developmental reading age and guides them to decode monosyllabic and multi-syllabic words with consideration of their meanings as part of a sentence. Through biweekly sessions and progress monitoring cycles, it tracks the development of students across 2 years. As students progress, they will also be taught reading comprehension skills. 
-	<li>•	kidsREAD Programme</li>A collaboration with the National Library Board (NLB) and Raffles Girls’ School (RGS), kidsREAD aims to promote the love of reading and cultivate good reading habits among young students. The kidsREAD sessions are conducted by our teachers, as well as the RGS student volunteers trained by NLB in basic storytelling skills.
+	<li><b>Learning Support Programme (LSP)</b></li>Students are given the support to bridge gaps in reading and writing to cope in English lessons.<br><br>
+	<li><b>School-based Dyslexia Remediation (SDR)</b></li>The SDR programme aims to assist students with dyslexia in decoding words through syllabication and an understanding of phonics. Through rigorous cycles of 60 min lessons, it monitors the development of students across 2 years. .<br><br>
+	<li><b>Reading Remediation Programme (RRP)</b></li>RRP identifies students who are below the appropriate developmental reading age and guides them to decode monosyllabic and multi-syllabic words with consideration of their meanings as part of a sentence. Through biweekly sessions and progress monitoring cycles, it tracks the development of students across 2 years. As students progress, they will also be taught reading comprehension skills. .<br><br>
+	<li><b>kidsREAD Programme</b></li> A collaboration with the National Library Board (NLB) and Raffles Girls’ School (RGS), kidsREAD aims to promote the love of reading and cultivate good reading habits among young students. The kidsREAD sessions are conducted by our teachers, as well as the RGS student volunteers trained by NLB in basic storytelling skills..<br><br>
 </ul>
 
 The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
