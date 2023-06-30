@@ -45,9 +45,9 @@ Students are taught progressive skills of Sustained Silent Reading, Supported Re
 Students develop confidence in speaking through a spiral approach to cultivate appropriate intonation, expression and pronunciation. 
 
 <ul>
-	<li>Show and Tell / Pick and Tell (P1 and P2)</li>Students talk about an artefact (brought to school or selected from a box of objects) and answer questions raised by their audience.<br><br>
-	<li>One Minute of Fame (P3 and P4)</li>Students are given the opportunity to present on a topic of their interest or passion to their classmates.<br><br>
-	<li>Seek and Speak (P5 and P6)</li>Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice. 
+	<li><b>Show and Tell / Pick and Tell (P1 and P2)</b></li>Students talk about an artefact (brought to school or selected from a box of objects) and answer questions raised by their audience.<br><br>
+	<li><b>One Minute of Fame (P3 and P4)</b></li>Students are given the opportunity to present on a topic of their interest or passion to their classmates.<br><br>
+	<li><b>Seek and Speak (P5 and P6)</b></li>Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice. 
 </ul>
 
 #### Speech and Drama
