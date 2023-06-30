@@ -78,8 +78,8 @@ During recess, audio stories would also be played for students to listen to and 
 Our student librarians are equipped with the leadership skills to promote the love for reading and assist their English teachers to build a reading culture in class. 
 
 Student librarians play an active role in promoting the facilities of the KIP Hub, as well as the love for reading through book readings and sharing of their favourite reads. The videos below show our librarians in action. Enjoy!
-
-
+<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JxqXwQX7JO0" height="315" width="560"></iframe>
 
 <p align="center"><i>Book Reading of Anthony Browne’s “Gorilla” by Mikaella Erinn</i></p>
 
