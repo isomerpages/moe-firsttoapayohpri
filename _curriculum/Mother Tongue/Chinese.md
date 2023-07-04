@@ -80,13 +80,13 @@ The SLS is an online learning portal providing equal access to quality curriculu
 
 <h5><b>Dudu Town</b></h5>
 
-<a href="https://dudu.town"><img align="left" style="width:35%" src="/images/Curriculum/Mother%20Tongue/Chinese/dudu%20town.png"></a><br><br>
+<a href="https://dudu.town"><img align="left" style="width:30%" src="/images/Curriculum/Mother%20Tongue/Chinese/dudu%20town.png"></a><br><br>
 <br>
 In support of our reading programme, P1 to P5 students are subscribed to Dudu Town. Dudu is an online environment for self-paced and personalised learning of the Chinese language. It is an adaptive Chinese reading programme that recommends eBooks according to each student’s reading ability, in order to allow the student to improve his/her command of the Chinese language through reading.
 
 <h5><b>E-Zhishi</b></h5>
 
-<a href="https://www.ezhishi.net"><img align="left" style="width:35%" src="/images/Curriculum/Mother%20Tongue/Chinese/ezhishi.png"></a><br><br>
+<a href="https://www.ezhishi.net"><img align="left" style="width:30%" src="/images/Curriculum/Mother%20Tongue/Chinese/ezhishi.png"></a><br><br>
 
 All P1-P6 students subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to logon and learn at their own pace. The various activities such as stories, games and exercises found on the Portal are closely linked to the Chinese syllabus. Teachers would also assign E-learning assignments to the students through the Portal.
 <br><br><br>
