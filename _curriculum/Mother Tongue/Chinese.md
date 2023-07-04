@@ -51,3 +51,38 @@ The CCM Programme is introduced to P3 and P4 students. The aims of introducing C
 
 To enrich learning and arouse the interest of students in learning Chinese, First Toa Payoh Primary complements the use of textbooks with appropriate picture books to help students consolidate the knowledge and language skills learned through engaging and creative activities.<br><br>
 Interesting picture books with Chinese cultural elements are also used in conjunction with the Mother Tongue Language Fortnight to enhance students’ understanding of the Chinese culture.
+
+![MTLS_1](/images/Curriculum/Mother%20Tongue/Chinese/mtls_ftpps_page_1_resize.jpg)
+
+![MTLS_2](/images/Curriculum/Mother%20Tongue/Chinese/mtls_ftpps_page_2_resize.jpg)
+
+<h5><b>Mother Tongue Languages Fortnight (MTLFN) and Language &amp; Cultural Camps</b></h5>
+
+The MTL Fortnight activities and Language &amp; Cultural Camps provide enriching and meaningful learning experiences for students to actively learn MTL and the associated culture to experience MTL as ‘a living language’. The activities provide authentic opportunities for students to use MTL and experience the culture. By providing an immersive environment for students to learn and use MTL in a more in-depth manner, students are able to better appreciate their respective mother tongue languages and cultures.
+
+<h5><b>Chinese Language Enrichment Module (CLEM)</b></h5>
+
+The CLEM Programme for Chinese Language aims to nurture selected P1 &amp; P2 students who demonstrate interest in learning the Chinese Language and have the capability to manage the Chinese Language at a higher level to attain a high level of language proficiency and enhance their understanding of the Chinese Language. Students are exposed to extended reading, which helps to build their vocabulary and language skills, and develop in them a deeper appreciation for the language and culture.
+
+<h5><b>P3 &amp; P4 Higher Chinese Language Programme</b></h5>
+
+The programme is designed to enthuse selected P3 and P4 students who demonstrate the ability and interest to develop higher levels of MTL language proficiency and cultural knowledge.
+
+<h5><b>Mother Tongue Support Programme (MTSP)</b></h5>
+
+Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pedagogy to teach P3 and P4 MTL learners who require additional help, using a set of customised resources. It is a customised programme where students get more individualised attention while more opportunities will be provided to use MTL to experience success in varying degrees.
+
+<h4><b>Chinese E-Learning Platforms</b></h4>
+
+<h5><b>Student Learning Space (SLS)</b></h5>
+
+The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Chinese Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Teachers will also Students can log on to Student Learning Space (SLS) with their account to access the resources.
+
+<h5><b>Dudu Town</b></h5>
+
+<a href="https://dudu.town"><img align="left" style="width:35%" src="/images/Curriculum/Mother%20Tongue/Chinese/dudu%20town.png"></a><br><br>
+
+In support of our reading programme, P1 to P5 students are subscribed to Dudu Town. Dudu is an online environment for self-paced and personalised learning of the Chinese language. It is an adaptive Chinese reading programme that recommends eBooks according to each student’s reading ability, in order to allow the student to improve his/her command of the Chinese language through reading.
+
+<h5><b>E-Zhishi</b></h5>
+
