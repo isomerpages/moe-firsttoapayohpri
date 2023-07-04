@@ -47,23 +47,7 @@ The CCM Programme is introduced to P3 and P4 students. The aims of introducing C
 		</li><li style="list-style-type:lower-alpha">to enable Singaporeans to have some grounding in the language so that they could more easily  pick up the language should they need it for economic or other reasons in adult life. </li>
 </ol>
 <br>
-<h5 href="menu1">Conversational Chinese/Malay Programme (CCM) for P3 &amp; P4 students.</h5>
+<h5><b>School-Based Programme: Liven Up Learning of Chinese Language Through the Use of Picture Books</b></h5>
 
-**The aims of introducing CCM programme are two-fold:**
-<br>
-a) to strengthen social cohesion among the races in Singapore; and
-<br>
-b) to enable Singaporeans to have some grounding in the language so that they could more&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;easily&nbsp; pick up the language should they need it for economic or other reasons in adult life.&nbsp;&nbsp;
-
-<h5> Cultural Performance Exposure Scheme (P1-P6)</h5>
-
-Cultural Performance Exposure Scheme (CPES) aims to expose school students to Chinese language-related cultural performance by local and foreign performing arts groups, through providing schools with the necessary funding and support.&nbsp;
-
-<h5 href="menu2"> Other Chinese E-Learning Portals</h5>
-
-![](/images/ezhishi.jpg)**P1-P6 Ezhishi.Net Portal　易华文• 知识网**
-
-  
-[Go to Website &gt;](http://www.ezhishi.net/)
-
-All P1-P6 students subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to logon and learn at their own pace. The various activities such as stories, games and exercises found on the Portal are closely linked to the Chinese syllabus. The teachers could also assign E-learning assignments to the students through the Portal.
+To enrich learning and arouse the interest of students in learning Chinese, First Toa Payoh Primary complements the use of textbooks with appropriate picture books to help students consolidate the knowledge and language skills learned through engaging and creative activities.<br><br>
+Interesting picture books with Chinese cultural elements are also used in conjunction with the Mother Tongue Language Fortnight to enhance students’ understanding of the Chinese culture.
