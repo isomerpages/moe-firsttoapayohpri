@@ -60,6 +60,8 @@ Interesting picture books with Chinese cultural elements are also used in conjun
 
 The MTL Fortnight activities and Language &amp; Cultural Camps provide enriching and meaningful learning experiences for students to actively learn MTL and the associated culture to experience MTL as ‘a living language’. The activities provide authentic opportunities for students to use MTL and experience the culture. By providing an immersive environment for students to learn and use MTL in a more in-depth manner, students are able to better appreciate their respective mother tongue languages and cultures.
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BSqFoIp7F_k" height="468" width="832"></iframe>
+
 <h5><b>Chinese Language Enrichment Module (CLEM)</b></h5>
 
 The CLEM Programme for Chinese Language aims to nurture selected P1 &amp; P2 students who demonstrate interest in learning the Chinese Language and have the capability to manage the Chinese Language at a higher level to attain a high level of language proficiency and enhance their understanding of the Chinese Language. Students are exposed to extended reading, which helps to build their vocabulary and language skills, and develop in them a deeper appreciation for the language and culture.
