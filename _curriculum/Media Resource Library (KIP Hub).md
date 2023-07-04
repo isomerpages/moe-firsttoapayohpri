@@ -21,7 +21,7 @@ description: ""
 		</td>
 		<td> 
 			<h5><b>Vision</b></h5>
-			To develop the joy of reading in our FTPPS students.
+			To develop the joy of reading in our FTPPS students
 		</td>
 	</tr>
 </tbody></table>
