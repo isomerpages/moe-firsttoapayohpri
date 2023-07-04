@@ -46,7 +46,7 @@ The CCM Programme is introduced to P3 and P4 students. The aims of introducing C
 	<li style="list-style-type:lower-alpha">to strengthen social cohesion among the races in Singapore; and
 		</li><li style="list-style-type:lower-alpha">to enable Singaporeans to have some grounding in the language so that they could more easily  pick up the language should they need it for economic or other reasons in adult life. </li>
 </ol>
-<br>
+
 <h5><b>School-Based Programme: Liven Up Learning of Chinese Language Through the Use of Picture Books</b></h5>
 
 To enrich learning and arouse the interest of students in learning Chinese, First Toa Payoh Primary complements the use of textbooks with appropriate picture books to help students consolidate the knowledge and language skills learned through engaging and creative activities.<br><br>
