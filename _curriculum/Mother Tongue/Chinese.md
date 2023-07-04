@@ -76,7 +76,7 @@ Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pe
 
 <h5><b>Student Learning Space (SLS)</b></h5>
 
-The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Chinese Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Teachers will also Students can log on to Student Learning Space (SLS) with their account to access the resources.
+The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Chinese Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
 
 <h5><b>Dudu Town</b></h5>
 
@@ -97,7 +97,7 @@ In support of our reading programme, P1 to P5 students are subscribed to Dudu To
 
 <a href="https://www.ezhishi.net"><img align="left" style="width:30%" src="/images/Curriculum/Mother%20Tongue/Chinese/ezhishi.png"></a><br><br>
 
-All P1-P6 students subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to logon and learn at their own pace. The various activities such as stories, games and exercises found on the Portal are closely linked to the Chinese syllabus. Teachers would also assign E-learning assignments to the students through the Portal.
+All P1-P6 students are subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to logon and learn at their own pace. The various activities such as stories, games and exercises found on the Portal are closely linked to the Chinese syllabus. Teachers would also assign E-learning assignments to the students through the portal.
 <br><br><br>
 <a href="/curriculum/mother-tongue/chinese#lo_main">
 		 <img align="center" style="width:3%" src="/images/arrow-up.png"> Back to Top 
