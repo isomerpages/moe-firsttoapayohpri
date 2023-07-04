@@ -63,11 +63,11 @@ Every year, interesting themes are lined up in conjunction with National Educati
 
 ![Library Activities](/images/Curriculum/Media%20Resource%20Library/monthly%20library%20activities.jpg)
 
-<b>Book Display</b>
+<b>Book Displays</b>
 <br>
 Book displays based on various themes or featured authors will be put up at the KIP Hub at least once a month. Based on the popular themes or featured authors, students are encouraged to pick up the books on display to read or borrow. 
 
-![Book Display](/images/Curriculum/Media%20Resource%20Library/book%20display.jpg)
+![Book Displays](/images/Curriculum/Media%20Resource%20Library/book%20display.jpg)
 
 <b>Audio Stories</b>
 <br>
