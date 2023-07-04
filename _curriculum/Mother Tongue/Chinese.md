@@ -10,7 +10,7 @@ third_nav_title: Mother Tongue
 			<img style="height:75px; width:75px" src="/images/mission.jpg">
 		</td>
 		<td> 
-			<h5>Mission</h5>
+			<h5><b>Mission</b></h5>
 			To develop confident and independent learners of the Mother Tongue&nbsp;Languages through developing listening, speaking, writing and reading&nbsp;skills.
 		</td>
 	</tr>
@@ -19,13 +19,13 @@ third_nav_title: Mother Tongue
 		   <img style="height:75px; width:75px" src="/images/vision.png">
      </td>
      <td> 
-			 <h5>Vision</h5>
+			 <h5><b>Vision</b></h5>
 	     Achieving Excellence in Learning and Developing Good Character.
        </td>
 	</tr>
 </tbody></table>
 
-#### Learning Approach
+<h4><b>Learning Approach</b></h4>
 
 To instil the interest and enjoy the learning of Chinese Language, Chinese Department make use of the advancements in Information &amp; Communication Technology (ICT) as an invaluable tool for enhancing the ways our teachers and students teach and learn.
 
@@ -33,70 +33,72 @@ We will also continue to expose students to culture and values through MTL learn
 
 We also take into consideration different students’ learning needs, and help students develop essential 21st century competencies such as self-directed and collaborative learning.
 
-#### Signature Programmes
+<h4><b>Signature Programmes</b></h4>
 
-##### Mother Tongue Fortnight Programme  
-  
+<h5><b>Cultural Performance Exposure Scheme (CPES)</b></h5>
 
-**母语双周活动简介**
+Cultural Performance Exposure Scheme (CPES) aims to expose school students to Chinese language-related cultural performance by local and foreign performing arts groups, through providing schools with the necessary funding and support.
 
-配合学校的教学理念——通过快乐学习的方式激发学生的无限潜能，一年一度的母语双周活动又来了。今年的母语双周有好玩的手工制作活动，也有特别的传统文化表演！小一，小三和小六的学生分别有机会制作手偶，团扇绘画或者竹简，进一步了解传统的手工文化。小二，小四和小五的同学则通过学习快板和腰鼓，认识到华族的才艺表演。除此之外，各年级的学生还进行了不同的比赛项目，例如儿歌朗诵，朗读古诗，唱歌表演及硬笔书法，作文创作比赛等等。看着学生们认真地学习、积极参与在活动当中，他们的学习过程是欢愉、享受的。不管是手工制作或才艺表演，相信学生皆能从趣味的活动中学习到新知识与新技能，对华文及华族文化的认识也有进一步的认识与了解。我们也通过此次的文化活动，发掘了学生们不一样的潜能！相信他们跟我们一样，开始倒数明年母语双周的到来。母语双周明年见啦！&nbsp;&nbsp;
+<h5><b>Conversational Chinese/ Malay Programme (CCM)</b></h5>
 
-This year’s Mother Tongue Fortnight promises an infusion of joyful learning experiences that seek to enthuse and unleash the potential of our students. Primary 1, 3 and 6 students made hand puppets, round fan paintings and decorated bamboo clips to gain hands-on experience in traditional handcrafts. The students from Primary 2, 4 and 5 immersed themselves in the performing arts such as recitation using bamboo clappers and playing on the waist drum. In addition, students of all levels also took part in different literary competitions, such as poetry recitation, Chinese songs singing and penmanship. Our students learn and appreciate their cultures through the cultural activities and instill the interest in the learning of the Chinese Language.
+The CCM Programme is introduced to P3 and P4 students. The aims of introducing CCM programme are two-fold:<br>
+<ol>
+	<li style="list-style-type:lower-alpha">to strengthen social cohesion among the races in Singapore; and
+		</li><li style="list-style-type:lower-alpha">to enable Singaporeans to have some grounding in the language so that they could more easily  pick up the language should they need it for economic or other reasons in adult life. </li>
+</ol>
+
+<h5><b>School-Based Programme: Liven Up Learning of Chinese Language Through the Use of Picture Books</b></h5>
+
+To enrich learning and arouse the interest of students in learning Chinese, First Toa Payoh Primary complements the use of textbooks with appropriate picture books to help students consolidate the knowledge and language skills learned through engaging and creative activities.<br><br>
+Interesting picture books with Chinese cultural elements are also used in conjunction with the Mother Tongue Language Fortnight to enhance students’ understanding of the Chinese culture.
+
+![MTLS_1](/images/Curriculum/Mother%20Tongue/Chinese/mtls_ftpps_page_1_resize.jpg)
+
+![MTLS_2](/images/Curriculum/Mother%20Tongue/Chinese/mtls_ftpps_page_2_resize.jpg)
+
+<h5><b>Mother Tongue Languages Fortnight (MTLFN) and Language &amp; Cultural Camps</b></h5>
+
+The MTL Fortnight activities and Language &amp; Cultural Camps provide enriching and meaningful learning experiences for students to actively learn MTL and the associated culture to experience MTL as ‘a living language’. The activities provide authentic opportunities for students to use MTL and experience the culture. By providing an immersive environment for students to learn and use MTL in a more in-depth manner, students are able to better appreciate their respective mother tongue languages and cultures.
+
+<h5><b>Chinese Language Enrichment Module (CLEM)</b></h5>
+
+The CLEM Programme for Chinese Language aims to nurture selected P1 &amp; P2 students who demonstrate interest in learning the Chinese Language and have the capability to manage the Chinese Language at a higher level to attain a high level of language proficiency and enhance their understanding of the Chinese Language. Students are exposed to extended reading, which helps to build their vocabulary and language skills, and develop in them a deeper appreciation for the language and culture.
+
+<h5><b>P3 &amp; P4 Higher Chinese Language Programme</b></h5>
+
+The programme is designed to enthuse selected P3 and P4 students who demonstrate the ability and interest to develop higher levels of MTL language proficiency and cultural knowledge.
+
+<h5><b>Mother Tongue Support Programme (MTSP)</b></h5>
+
+Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pedagogy to teach P3 and P4 MTL learners who require additional help, using a set of customised resources. It is a customised programme where students get more individualised attention while more opportunities will be provided to use MTL to experience success in varying degrees.
+
+<h4><b>Chinese E-Learning Platforms</b></h4>
+
+<h5><b>Student Learning Space (SLS)</b></h5>
+
+The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Chinese Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
+
+<h5><b>Dudu Town</b></h5>
 
 <table>
-	<tbody><tr>
-		<td width="45%"><img src="/images/20190716_085120.jpg"></td>
-		<td><img src="/images/20190716_124052.jpg"></td>
-		<td><img src="/images/20190716_125907.jpg"></td>
+		<tbody><tr>
+		<td width="35%">
+			<a href="https://dudu.town">
+				<img src="/images/Curriculum/Mother%20Tongue/Chinese/dudu%20town.png">
+				</a>
+			</td>
+			<td></td>
 	</tr>
-	<tr>
-		<td colspan="3">
-			<img style="width:70%" src="/images/20190716_130710.jpg">
-		</td>
-	</tr>
-</tbody></table>
+	</tbody></table>
 
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6nrmfhLuJzp6rOOjcCtpDcNWwRWpIlMO2Zi3hK8ElD6l1sucRhABKMxccBsqgmUNYn0TeiXk3Y_AT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+In support of our reading programme, P1 to P5 students are subscribed to Dudu Town. Dudu is an online environment for self-paced and personalised learning of the Chinese language. It is an adaptive Chinese reading programme that recommends eBooks according to each student’s reading ability, in order to allow the student to improve his/her command of the Chinese language through reading.
 
-##### CNY Celebration
+<h5><b>E-Zhishi</b></h5>
 
-![](/images/Chinese%20New%20Year%20Celebration%20FTPPS.jpg)
+<a href="https://www.ezhishi.net"><img align="left" style="width:30%" src="/images/Curriculum/Mother%20Tongue/Chinese/ezhishi.png"></a><br><br>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese New Year greetings from FTPPS" src="https://www.youtube.com/embed/hbi_Hrf4srs" height="362" width="646"></iframe>
-<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese New Year performance by students" src="https://www.youtube.com/embed/DnXWRR12wE8" height="370" width="656"></iframe>
-
-*   [P1 to P2 Programmes](/curriculum/mother-tongue/chinese#home)
-*   [P3 to P6 Programmes](/curriculum/mother-tongue/chinese#menu1)
-*   [Other Chinese E-Learning Portals](/curriculum/mother-tongue/chinese#menu2)
-
-<h5 href="home"> Chinese Language Enrichment Module (CLEM) </h5>
-
-P1 CLEM was implemented in July 2017. It allows&nbsp;students with the interest and ability in Chinese&nbsp;to learn the language at a higher level in their early foundation years. It develop students into proficient language users who can communicate in a confident, effective and meaningful way in real-life situations. Competent in 4 language skills of listening, speaking, reading and writing, as well as, spoken interaction and written interaction skills. It also develops in students a deeper knowledge and understanding of Chinese Culture.
-
-<h5> Cultural Performance Exposure Scheme (P1-P6) </h5>
-
-Cultural Performance Exposure Scheme (CPES) aims to expose school students to Chinese language-related cultural performance by local and foreign performing arts groups, through providing schools with the necessary funding and support.&nbsp;  
-
-<br><br>
-<h5 href="menu1">Conversational Chinese/Malay Programme (CCM) for P3 &amp; P4 students.</h5>
-
-**The aims of introducing CCM programme are two-fold:**
-<br>
-a) to strengthen social cohesion among the races in Singapore; and
-<br>
-b) to enable Singaporeans to have some grounding in the language so that they could more&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;easily&nbsp; pick up the language should they need it for economic or other reasons in adult life.&nbsp;&nbsp;
-
-<h5> Cultural Performance Exposure Scheme (P1-P6)</h5>
-
-Cultural Performance Exposure Scheme (CPES) aims to expose school students to Chinese language-related cultural performance by local and foreign performing arts groups, through providing schools with the necessary funding and support.&nbsp;
-
-<h5 href="menu2"> Other Chinese E-Learning Portals</h5>
-
-![](/images/ezhishi.jpg)**P1-P6 Ezhishi.Net Portal　易华文• 知识网**
-
-  
-[Go to Website &gt;](http://www.ezhishi.net/)
-
-All P1-P6 students subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to logon and learn at their own pace. The various activities such as stories, games and exercises found on the Portal are closely linked to the Chinese syllabus. The teachers could also assign E-learning assignments to the students through the Portal.
+All P1-P6 students are subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to log on and learn at their own pace. The various activities such as stories, games and exercises found on the portal are closely linked to the Chinese syllabus. Teachers would also assign e-learning assignments to the students through the portal.
+<br><br><br>
+<a href="/curriculum/mother-tongue/chinese#lo_main">
+		 <img align="center" style="width:3%" src="/images/arrow-up.png"> Back to Top 
+</a>
