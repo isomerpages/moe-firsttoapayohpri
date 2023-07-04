@@ -90,6 +90,6 @@ In support of our reading programme, P1 to P5 students are subscribed to Dudu To
 
 All P1-P6 students subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to logon and learn at their own pace. The various activities such as stories, games and exercises found on the Portal are closely linked to the Chinese syllabus. Teachers would also assign E-learning assignments to the students through the Portal.
 <br><br><br>
-<a href="/curriculum/mother-tongue/chinese/#lo_main">
+<a href="/curriculum/mother-tongue/chinese#lo_main">
 		 <img align="center" style="width:3%" src="/images/arrow-up.png"> Back to Top 
 </a>
