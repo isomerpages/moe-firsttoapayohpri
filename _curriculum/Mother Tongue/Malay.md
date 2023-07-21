@@ -73,5 +73,19 @@ The objective of this language workshop is to engage students in interactive act
 
 <h5><b>P5 Language Camp </b></h5>
 
-P5 students attended creative writing workshop during P5 Language Camp. The objective of this creative writing workshop is to inspire and empower students to explore their creativity, develop their writing skills, and express themselves through various forms of creative writing. The invited presenter had students to discuss the elements of compelling characters and captivating settings in storytelling. There were also interactive exercises to help students create believable characters and vivid settings. The workshop also highlighted the importance of descriptive writing and how it enhances the reader's experience. 
+P5 students attended creative writing workshop during P5 Language Camp. The objective of this creative writing workshop is to inspire and empower students to explore their creativity, develop their writing skills, and express themselves through various forms of creative writing. The invited presenter had students to discuss the elements of compelling characters and captivating settings in storytelling. There were also interactive exercises to help students create believable characters and vivid settings. The workshop also highlighted the importance of descriptive writing and how it enhances the reader's experience.
+
+![P5 Language Camp ](/images/Curriculum/Mother%20Tongue/Malay/p5%20mtl%20language%20camp%20%20(1).jpg)
+
+<h5><b>Hari Raya Concert</b></h5>
+
+For the first time in three years, the Hari Raya concert this year was conducted in the school auditorium, making it a day to remember. Through skit presentations and performances, teachers and students got the opportunity to join together and learn about the significance of Hari Raya as well as its traditions and customs. Additionally, students engaged in activities and watched teachers perform in our very own FTPPS Raya music video. With Mr. Ketupat making a special appearance, it was undoubtedly a happy event!
+
+![Hari Raya Concert](/images/Curriculum/Mother%20Tongue/Malay/hari%20raya%202023.jpg)
+
+<h5><b>Fiesta Bahasa 2023</b></h5>
+
+A Malay Language Fiesta would be a festive event specifically focused on celebrating the Malay Language. The objectives of the 2023 Language Fiesta are to encourage the younger generation to use the Malay language confidently through creative expression and performance an cultivating the fun of learning Bahasa Malay through innovative and imaginative minds. Our school took great pride in hosting an exhibit booth on "Ayuh! Reka Cerita Menggunakan Storyjumper" at the Fiesta Bahasa 2023 event held at OnePunggol on July 8, 2023.  We had an encouraging number of students as well as parents who participated in engaging activity created for them. Besides that, our students who participated in the event had a meaningful time learning from other school’s exhibits. 
+
+![Fiesta Bahasa 2023](/images/Curriculum/Mother%20Tongue/Malay/fiesta%20bahasa%202023.jpg)
 
