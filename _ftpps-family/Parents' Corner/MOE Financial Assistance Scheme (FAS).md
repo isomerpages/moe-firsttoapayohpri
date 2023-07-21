@@ -8,4 +8,4 @@ From 1 January 2023, Singapore Citizen students from households with gross month
 
 MOE FAS recipients are not required to pay school fees and standard miscellaneous fees. Those in primary and secondary schools are also eligible for free textbooks, school attire, meals and transport subsidies.
 
-You can submit your application online via this website: https://go.gov.sg/moe-efas if you are eligible and wish to apply for the MOE FAS.
+You can submit your application online via this website: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas) if you are eligible and wish to apply for the MOE FAS.
