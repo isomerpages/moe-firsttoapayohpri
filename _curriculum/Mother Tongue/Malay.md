@@ -88,4 +88,7 @@ For the first time in three years, the Hari Raya concert this year was conducted
 A Malay Language Fiesta would be a festive event specifically focused on celebrating the Malay Language. The objectives of the 2023 Language Fiesta are to encourage the younger generation to use the Malay language confidently through creative expression and performance an cultivating the fun of learning Bahasa Malay through innovative and imaginative minds. Our school took great pride in hosting an exhibit booth on "Ayuh! Reka Cerita Menggunakan Storyjumper" at the Fiesta Bahasa 2023 event held at OnePunggol on July 8, 2023.  We had an encouraging number of students as well as parents who participated in engaging activity created for them. Besides that, our students who participated in the event had a meaningful time learning from other school’s exhibits. 
 
 ![Fiesta Bahasa 2023](/images/Curriculum/Mother%20Tongue/Malay/fiesta%20bahasa%202023.jpg)
-
+<br><br><br>
+<a href="/curriculum/mother-tongue/malay#lo_main">
+		 <img align="center" style="width:3%" src="/images/arrow-up.png"> Back to Top 
+</a>
