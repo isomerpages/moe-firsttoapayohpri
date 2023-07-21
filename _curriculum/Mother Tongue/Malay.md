@@ -48,3 +48,20 @@ The MTL Fortnight activities and Language &amp; Cultural Camps provide enriching
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BSqFoIp7F_k" height="468" width="832"></iframe>
 
 <h5><b>P3 &amp; P4 Higher Malay Language Programme</b></h5>
+
+The programme is designed to enthuse selected P3 and P4 students who demonstrate the ability and interest to develop higher levels of MTL language proficiency and cultural knowledge.
+
+<h5><b>Mother Tongue Support Programme (MTSP)</b></h5>
+
+Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pedagogy to teach P3 and P4 MTL learners who require additional help, using a set of customised resources. It is a customised programme where students get more individualised attention while more opportunities will be provided to use MTL to experience success in varying degrees.
+
+<h5><b>Student Learning Space (SLS)</b></h5>
+
+The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Malay Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
+
+<h5><b> Cultural Quest </b></h5>
+
+Our FTPPS and Pei Chun Public School (PCPS) students were finally able to join together for our Cultural Quest 2022 after a two-year break! The quest aims to give them an authentic opportunity to immerse themselves in cultural activities. Here is a peek at the fun activities the students did during the quest. They attended a ‘wedding event’ and made Bunga Rampai, otherwise known as potpourri, which is usually distributed at a Malay solemnisation ceremony. They also played traditional Malay games – Five Stones (Batu Seremban) and Congkak. They were definitely entertained! The students were also ‘flown to the moon’ during the Mooncake Making activity. They learnt about the legend of Chang Er and how the tradition of mooncake making came about. Undoubtedly, the students left the quest rich in cultural immersion and looking forward to Cultural Quest 2023!
+
+![Cultural Quest](/images/Curriculum/Mother%20Tongue/Malay/cultural%20quest.jpg)
+
