@@ -65,3 +65,13 @@ Our FTPPS and Pei Chun Public School (PCPS) students were finally able to join t
 
 ![Cultural Quest](/images/Curriculum/Mother%20Tongue/Malay/cultural%20quest.jpg)
 
+<h5><b>Bengkel Bestari for P5 &amp; P6 students</b></h5>
+
+The objective of this language workshop is to engage students in interactive activities and exercises that promote language learning, improve their communication skills, and foster cultural awareness. Our ML teachers rotate to conduct the different language component workshops for the student in P5 and P6 during supplementary class over several sessions.
+
+![Bengkel Bestari](/images/Curriculum/Mother%20Tongue/Malay/bengkel%20bestari%20p5%20&amp;%20p6%20(2).jpg)
+
+<h5><b>P5 Language Camp </b></h5>
+
+P5 students attended creative writing workshop during P5 Language Camp. The objective of this creative writing workshop is to inspire and empower students to explore their creativity, develop their writing skills, and express themselves through various forms of creative writing. The invited presenter had students to discuss the elements of compelling characters and captivating settings in storytelling. There were also interactive exercises to help students create believable characters and vivid settings. The workshop also highlighted the importance of descriptive writing and how it enhances the reader's experience. 
+
