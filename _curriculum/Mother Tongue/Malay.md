@@ -5,183 +5,90 @@ description: ""
 third_nav_title: Mother Tongue
 ---
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px"/>
+			<img src="/images/mission.jpg" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Mission</h5>
-			textTo develop confident and independent learners of the Mother Tongue Languages through developing listening, speaking, writing and reading skills.
+			<h5><b>Mission</b></h5>
+			To develop confident and independent learners of the Mother Tongue Languages through developing listening, speaking, writing and reading skills.
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px"/>
+			<img src="/images/vision.png" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Vision</h5>
+			<h5><b>Vision</b></h5>
 			Achieving Excellence in Learning and Developing Good Character
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-#### Learning Approach
+<h4><b> Learning Approach</b></h4>
 
 The Malay Language Department aims to achieve quality results through quality teaching and learning.  
 
 *   We inculcate co-operative learning skills in our classroom teaching.
 *   We hope to achieve academic excellence in a non-threatening learning environment.
 
-#### Signature Programmes
+<h4><b> Signature Programmes</b></h4>
+<h5><b> Conversational Chinese/ Malay Programme (CCM)  </b></h5>
 
-##### Mother Tongue Fortnight Programme  
-  
+The CCM Programme is introduced to P3 and P4 students. The aims of introducing CCM programme are two-fold:
 
-Every year, our ML students went through Mt fortnight as part of their learning and love for the language and culture. The students did various activities for the different levels.
+<ol style="list-style-type:lower-alpha">
+	<li> to strengthen social cohesion among the races in Singapore; and</li>
+	<li> to enable Singaporeans to have some grounding in the language so that they could more easily  pick up the language should they need it for economic or other reasons in adult life.</li>
+	</ol>
+<h5><b>Mother Tongue Languages Fortnight (MTLFN) and Language &amp; Cultural Camps</b></h5>
 
-<h6><u>P1: Traditional Games</u></h6>
+The MTL Fortnight activities and Language &amp; Cultural Camps provide enriching and meaningful learning experiences for students to actively learn MTL and the associated culture to experience MTL as ‘a living language’. The activities provide authentic opportunities for students to use MTL and experience the culture. By providing an immersive environment for students to learn and use MTL in a more in-depth manner, students are able to better appreciate their respective mother tongue languages and cultures.
 
-P1 students had fun playing Malay traditional games such as ‘Tarik Upih’, ‘Lereng’ and ‘Bola Tin’. They also learn how to play as a team and help one another.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BSqFoIp7F_k" height="468" width="832"></iframe>
 
-<table>
-	<tr>
-		<td>
-			<img src="/images/P1_1.jpg"/>
-		</td>
-		<td>
-			<img src="/images/P1_2.jpg"/>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<img src="/images/P1_3.jpg" style="width:60%"/>
-		</td>
-	</tr>
-</table>
+<h5><b>P3 &amp; P4 Higher Malay Language Programme</b></h5>
 
-<p align="center"><b><em>"Saya berasa seronok dapat bermain Tarik Upih bersama kawan saya." - Eshan , 1 RY</em></b></p>
+The programme is designed to enthuse selected P3 and P4 students who demonstrate the ability and interest to develop higher levels of MTL language proficiency and cultural knowledge.
 
-<h6><u>P2: Speech & Drama</u></h6>
+<h5><b>Mother Tongue Support Programme (MTSP)</b></h5>
 
-Our P2 students had a speech & drama session. The children enjoyed learning from the trainer. They explored movement in drama and speak confidently.
+Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pedagogy to teach P3 and P4 MTL learners who require additional help, using a set of customised resources. It is a customised programme where students get more individualised attention while more opportunities will be provided to use MTL to experience success in varying degrees.
 
-<table>
-	<tr>
-		<td colspan="2">
-			<img src="/images/P2_1.jpg" style="width:70%"/>
-		</td>
-	</tr>
-	<tr>
-		<td width="50.7%">
-			<img src="/images/P2_3.jpg"/>
-		</td>
-		<td>
-			<img src="/images/P2_2.jpg"/>
-		</td>
-	</tr>
-</table>
+<h5><b>Student Learning Space (SLS)</b></h5>
 
-<p align="center"><b><em>"Saya belajar banyak perkara tentang aktiviti ini." - Umairah, 2LO</em></b></p>
+The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Malay Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
 
-<h6><u>P3: Silat</u></h6>
+<h5><b> Cultural Quest </b></h5>
 
-P3 students got the opportunity to learn Malay Martial Arts, Silat. The students listened and followed instructions closely to ensure that they were doing the actions correctly.
+Our FTPPS and Pei Chun Public School (PCPS) students were finally able to join together for our Cultural Quest 2022 after a two-year break! The quest aims to give them an authentic opportunity to immerse themselves in cultural activities. Here is a peek at the fun activities the students did during the quest. They attended a ‘wedding event’ and made Bunga Rampai, otherwise known as potpourri, which is usually distributed at a Malay solemnisation ceremony. They also played traditional Malay games – Five Stones (Batu Seremban) and Congkak. They were definitely entertained! The students were also ‘flown to the moon’ during the Mooncake Making activity. They learnt about the legend of Chang Er and how the tradition of mooncake making came about. Undoubtedly, the students left the quest rich in cultural immersion and looking forward to Cultural Quest 2023!
 
-| | |
-| --- | --- |
-| ![](/images/P3_1.jpg) | ![](/images/P3_2.jpg) |
+![Cultural Quest](/images/Curriculum/Mother%20Tongue/Malay/cultural%20quest.jpg)
 
-<p align="center"><b><em>"I learnt how to defend and protect myself." - Aliya, 3RT
-<br>
-"I learnt how to punch and kick properly." - Elias, 3RT</em></b></p>
+<h5><b>Bengkel Bestari for P5 &amp; P6 students</b></h5>
 
-<h6><u>P4: Kompang</u></h6>
+The objective of this language workshop is to engage students in interactive activities and exercises that promote language learning, improve their communication skills, and foster cultural awareness. Our ML teachers rotate to conduct the different language component workshops for the student in P5 and P6 during supplementary class over several sessions.
 
-P4 students learnt how to play Malay traditional musical instrument called the Kompang. Generally, kompang is played in weddings and official ceremony. The students learnt to play the kompang beats.
+![Bengkel Bestari](/images/Curriculum/Mother%20Tongue/Malay/bengkel%20bestari%20p5%20&amp;%20p6%20(2).jpg)
 
-<table>
-	<tr>
-		<td>
-			<img src="/images/P4_1.jpg"/>
-		</td>
-		<td>
-			<img src="/images/P4_2.jpg"/>
-		</td>
-	</tr>
-</table>
+<h5><b>P5 Language Camp </b></h5>
 
-<p align="center"><b><em>"I find playing kompang in different ways is interesting."- Noorsalizah, 4RY
-<br>
-"I found it interesting that it is more difficult to hold the kompang while standing than sitting down." - Leann, 4RT</em></b></p>
+P5 students attended creative writing workshop during P5 Language Camp. The objective of this creative writing workshop is to inspire and empower students to explore their creativity, develop their writing skills, and express themselves through various forms of creative writing. The invited presenter had students to discuss the elements of compelling characters and captivating settings in storytelling. There were also interactive exercises to help students create believable characters and vivid settings. The workshop also highlighted the importance of descriptive writing and how it enhances the reader's experience.
 
-<h6><u>P5: Dikir Barat</u></h6>
+![P5 Language Camp ](/images/Curriculum/Mother%20Tongue/Malay/p5%20mtl%20language%20camp%20%20(1).jpg)
 
-P5 students were excited to know more about dikir barat and performed it. Students were taught the correct techniques for dikir barat such as clapping and voice projection. They even had the opportunity to wear a vest and a headgear called tanjak.They performed Wayu Bulan, accompanied by Rebana beats.
+<h5><b>Hari Raya Concert</b></h5>
 
-<table>
-	<tr>
-		<td width="61%">
-			<img src="/images/P5_1.jpg"/>
-		</td>
-		<td>
-			<img src="/images/P5_2.jpg"/>
-		</td>
-	</tr>
-</table>
+For the first time in three years, the Hari Raya concert this year was conducted in the school auditorium, making it a day to remember. Through skit presentations and performances, teachers and students got the opportunity to join together and learn about the significance of Hari Raya as well as its traditions and customs. Additionally, students engaged in activities and watched teachers perform in our very own FTPPS Raya music video. With Mr. Ketupat making a special appearance, it was undoubtedly a happy event!
 
-<p align="center"><b><em>"I learnt how to sing loudly, clap, move my hands and project my voice all at the same time." - Alysya, 5RY
-<br>
-"I learnt the beats of Rebana Ibu and how to do the dikir barat actions." - Mateen, 5IN</em></b></p>
+![Hari Raya Concert](/images/Curriculum/Mother%20Tongue/Malay/hari%20raya%202023.jpg)
 
-<h6><u>P6: Seni Khat</u></h6>
+<h5><b>Fiesta Bahasa 2023</b></h5>
 
-P6 students learnt Jawi writing, an old Malay form of writing. They were fascinated to be able to write their name on a cloth pencil case for keepsake. Besides that, students learnt about the history of Jawi and the correct technique of writing.
+A Malay Language Fiesta would be a festive event specifically focused on celebrating the Malay Language. The objectives of the 2023 Language Fiesta are to encourage the younger generation to use the Malay language confidently through creative expression and performance an cultivating the fun of learning Bahasa Malay through innovative and imaginative minds. Our school took great pride in hosting an exhibit booth on "Ayuh! Reka Cerita Menggunakan Storyjumper" at the Fiesta Bahasa 2023 event held at OnePunggol on July 8, 2023.  We had an encouraging number of students as well as parents who participated in engaging activity created for them. Besides that, our students who participated in the event had a meaningful time learning from other school’s exhibits. 
 
-<table>
-	<tr>
-		<td width="32%">
-			<img src="/images/P6_1.jpg"/>
-		</td>
-		<td width="35%">
-			<img src="/images/P6_2.jpg"/>
-		</td>
-		<td width="32%">
-			<img src="/images/P6_3.jpg"/>
-		</td>
-	</tr>
-</table>
-
-<p align="center"><b><em>"I learnt the different types of Jawi letters & when the writing started.- Nabilah, 6IN
-<br>
-"I like when we get to write our name in Jawi." - Delisha, 6PE</em></b></p>
-
---------------------
-
-*   [P1 to P2 Programmes](/curriculum/mother-tongue/malay#p1p2)
-*   [P3 to P4 Programmes](/curriculum/mother-tongue/malay#p3p4)
-*   [P5 to P6 Programmes](/curriculum/mother-tongue/malay#p5p6)
-
-<h5><a id="p1p2">P1 to P2 Programme</a></h5>
-
-1\.  **Show & Tell** <br>
-Students share an artefact with their classmates and answer questions.<br>
-2\.  **Reading**  <br>
-		*   Buddy Reading Programme<br>
-		*   Reading Logs & Badges<br>
-		*   10 minutes Reading<br>
-3\.  **ICT – 10CMT**
-
-<h5><a id="p3p4"> P3 to P4 Programmes</a></h5>
-
-*   Stretch and Support Programme
-*   10 mins Reading session every day
-*   MT Fortnight Activity : Bunga Manggar & Lukisan Batik
-*   IMTL for P4
-
-<h5><a id="p5p6">P5 to P6 Programmes</a></h5>
-
-*   Mass Lectures during Supplementary lessons for 1 term
-*   MT Fortnight Activities : Kite making & Nasi Ambeng
-*   Language & Cultural trail
-*   iMTL Portal
-*   10 mis reading sessions everyday
+![Fiesta Bahasa 2023](/images/Curriculum/Mother%20Tongue/Malay/fiesta%20bahasa%202023.jpg)
+<br><br><br>
+<a href="/curriculum/mother-tongue/malay#lo_main">
+		 <img align="center" style="width:3%" src="/images/arrow-up.png"> Back to Top 
+</a>
