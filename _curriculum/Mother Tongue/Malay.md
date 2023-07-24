@@ -57,7 +57,7 @@ Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pe
 
 <h5><b>Student Learning Space (SLS)</b></h5>
 
-The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Malay Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
+The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Malay Language curriculum, the Malay Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
 
 <h5><b> Cultural Quest </b></h5>
 
@@ -67,7 +67,7 @@ Our FTPPS and Pei Chun Public School (PCPS) students were finally able to join t
 
 <h5><b>Bengkel Bestari for P5 &amp; P6 students</b></h5>
 
-The objective of this language workshop is to engage students in interactive activities and exercises that promote language learning, improve their communication skills, and foster cultural awareness. Our ML teachers rotate to conduct the different language component workshops for the student in P5 and P6 during supplementary class over several sessions.
+The objective of this language workshop is to engage students in interactive activities and exercises that promote language learning, improve their communication skills, and foster cultural awareness. Our ML teachers conduct the different language component workshops for the student in P5 and P6 during supplementary class for 8 sessions.
 
 ![Bengkel Bestari](/images/Curriculum/Mother%20Tongue/Malay/bengkel%20bestari%20p5%20&amp;%20p6%20(2).jpg)
 
