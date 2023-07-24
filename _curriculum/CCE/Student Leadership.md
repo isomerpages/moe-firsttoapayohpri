@@ -7,7 +7,6 @@ third_nav_title: CCE
 ![Every Child A Leader](/images/Curriculum/CCE/Student%20Leadership/everychildaleader.jpg)
 ![Learn](/images/Curriculum/CCE/Student%20Leadership/livelearnlead.jpg)
 
-#### Mass Student Leadership Training
 
 ##### Every Child, A Leader
 
