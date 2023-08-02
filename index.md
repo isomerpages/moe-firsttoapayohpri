@@ -32,13 +32,6 @@ sections:
       image: /images/HOMEPAGE/ftpps_adv.jpg
       alt: Image alt text
   - infopic:
-      title: P1 to P6 Holistic Assessment Plans 2023
-      subtitle: News & Announcements
-      button: More Information
-      url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans
-      image: /images/HOMEPAGE/HA.jpg
-      alt: Image alt text
-  - infopic:
       title: e-Briefing for Parents 2023
       subtitle: NEWS & ANNOUNCEMENTS
       button: More Information
@@ -51,5 +44,12 @@ sections:
       button: more information
       url: /ftpps-family/parents-corner/p1-orientation-2022-2023/
       image: /images/HOMEPAGE/P1 Orientation 2022-2023_v3.jpg
+      alt: Image alt text
+  - infopic:
+      title: P1 to P6 Holistic Assessment Plans 2023
+      subtitle: News & Announcements
+      button: More Information
+      url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans
+      image: /images/HOMEPAGE/HA.jpg
       alt: Image alt text
 ---
