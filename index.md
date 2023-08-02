@@ -25,6 +25,13 @@ sections:
           description: ""
           url: /highlights
   - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/HOMEPAGE/ftpps_adv.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 to P6 Holistic Assessment Plans 2023
       subtitle: News & Announcements
       button: More Information
