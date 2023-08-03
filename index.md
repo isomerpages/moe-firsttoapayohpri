@@ -25,13 +25,6 @@ sections:
           description: ""
           url: /highlights
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/HOMEPAGE/ftpps_adv.jpg
-      alt: Image alt text
-  - infopic:
       title: e-Briefing for Parents 2023
       subtitle: NEWS & ANNOUNCEMENTS
       button: More Information
