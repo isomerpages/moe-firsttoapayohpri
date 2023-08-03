@@ -3,6 +3,9 @@ title: Applied Learning Programme (ALP)
 permalink: /distinctive-programmes/applied-learning-programme-alp/
 description: ""
 ---
+
+![](/images/HOMEPAGE/ftpps_adv.jpg)
+
 ![](/images/1%20(3).jpg)
 ![](/images/2%20(3).jpg)
 ![](/images/3%20(3).jpg)
@@ -26,5 +29,5 @@ description: ""
 <br>
 
 <a href="/distinctive-programmes/applied-learning-programme-alp#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="center"/> Back to Top
+	 <img src="/images/arrow-up.png" style="width:3%" align="center"> Back to Top
 </a>
