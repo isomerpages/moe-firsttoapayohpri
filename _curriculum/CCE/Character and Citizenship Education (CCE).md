@@ -31,6 +31,7 @@ With CCE 2021, we aim to develop in our students:
 	<li><strong>Good character:</strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence</dt></li><br>
 	<li><strong>Resilience and social-emotional well-being:</strong><dt> Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation</dt></li><br>
 	<li><strong>Future readiness: </strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence.</dt></li><br>
+		<li><strong>Active citizenship: </strong><dt>Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.</dt></li><br>
 
 
 #### Subject / Learning Approach
