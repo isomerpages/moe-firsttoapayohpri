@@ -5,37 +5,37 @@ description: ""
 third_nav_title: CCE
 ---
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px"/>
+			<img src="/images/mission.jpg" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Mission</h5>
+			<h5><b>Mission</b></h5>
 			Empowering every child to be a responsible citizen who serves his community with love, respect and integrity.
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px"/>
+			<img src="/images/vision.png" style="height:75px; width:75px">
 		</td>
 		<td> 
-			<h5>Vision</h5>
+			<h5><b>Vision</b></h5>
 			To nurture students of good character
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 #### Subject / Learning Approach
 
-Central to Character and Citizenship Education, we believe in the inculcation of values in our students and developing in them the sense of rootedness and love for our nation. The teaching of values is explicit through the **‘Values of the Month’**, with the **‘Focus of the Week’** clearly articulated.  Through the Form Teacher Guidance Period, we strive to nurture strong Teacher-Student Relationship and the socio-emotional competencies in our students.
+Central to Character and Citizenship Education, we believe in the inculcation of values in our students and developing in them the sense of rootedness and love for our nation. The teaching of values is explicit through the&nbsp;**‘Values of the Month’**, with the&nbsp;**‘Focus of the Week’**&nbsp;clearly articulated.&nbsp; Through the Form Teacher Guidance Period, we strive to nurture strong Teacher-Student Relationship and the socio-emotional competencies in our students.
 
-Through our National Education, we strive to develop national cohesion and instil in our students, confidence in our future. Firstly, through social studies, students develop an awareness of facts, circumstances and opportunities facing Singapore. Secondly, we **“engage the hearts and minds"** and, develop a sense of emotional belonging and commitment to Singapore through the commemoration of key events. 
+Through our National Education, we strive to develop national cohesion and instil in our students, confidence in our future. Firstly, through social studies, students develop an awareness of facts, circumstances and opportunities facing Singapore. Secondly, we&nbsp;**“engage the hearts and minds"**&nbsp;and, develop a sense of emotional belonging and commitment to Singapore through the commemoration of key events.&nbsp;
 
 #### Programmes
 
 ##### Values-In-Action Programme
 
-Through our Values-in-Action (VIA) programme, we strive to engage our students in authentic experiences and to enable them reflect and learn. Leveraging the expanding environment approach to maximise learning impact, the programme allows students to learn progressively from first contributing to their homes, then to the school, and finally to the community and beyond.
+Through our Values-in-Action (VIA)&nbsp;programme, we strive to&nbsp;engage our students in authentic experiences and to enable them reflect and learn. Leveraging the expanding environment approach to maximise learning impact, the&nbsp;programme&nbsp;allows students to learn progressively from first contributing to their homes, then to the school, and finally to the community and beyond.
 
 ##### Let's Clean Up! Programme  
   
