@@ -24,6 +24,12 @@ third_nav_title: CCE
 		</td>
 	</tr>
 </tbody></table>
+<br><br>
+With CCE 2021, we aim to develop in our students:
+<br>
+<ol style="list-style-type: lower-alpha">
+	<li><strong>Good character:</strong><dd> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence.</dd></li>
+
 
 #### Subject / Learning Approach
 
@@ -39,4 +45,4 @@ Through our Values-in-Action (VIA)&nbsp;programme, we strive to&nbsp;engage our 
 
 ##### Let's Clean Up! Programme  
   
-In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.
+In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.</ol>
