@@ -84,8 +84,29 @@ Character and Citizenship Education involves addressing our students’ developm
 <h5><b>Value of the Month / Focus of the Week</b></h5>
 <br>
 Anchored by the school values and concepts in The Leader In the Me (TLIM), Value of the Month/Focus of the Week articulates and provides a focus for the teaching and learning of values and social-emotional skills across the curriculum. Students present Focus of the Week to the school through stories and role-play every month.
+<br><br>
+<table>
+	<tbody>
+		<tr>
+			<td width="100px">
+			<img src="/images/mission.jpg" style="height:75px; width:75px">
+		</td>
+		<td> 
+			<h5><b>Mission</b></h5>
+			Empowering every child to be a responsible citizen who serves his community with love, respect and integrity.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/vision.png" style="height:75px; width:75px">
+		</td>
+		<td> 
+			<h5><b>Vision</b></h5>
+			To nurture students of good character
+		</td>
+	</tr>
+</tbody></table>
 <br>
-
 <h5><b>Let's Clean Up! Programme</b></h5>
   
 In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.
