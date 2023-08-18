@@ -33,6 +33,9 @@ With CCE 2021, we aim to develop in our students:
 	<li><strong>Future readiness: </strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence.</dt></li><br>
 		<li><strong>Active citizenship: </strong><dt>Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.</dt></li><br>
 </ol>
+<br>
+Character and Citizenship Education involves addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions. This is done in tandem with establishing a caring and enabling school environment where students’ well-being and learning are cared for and supported by teachers and peers. <br>
+
 
 
 #### Subject / Learning Approach
