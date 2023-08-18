@@ -25,13 +25,14 @@ third_nav_title: CCE
 	</tr>
 </tbody></table>
 <br><br>
-With CCE 2021, we aim to develop in our students:
+<h6>With CCE 2021, we aim to develop in our students:</h6>
 <br>
 <ol style="list-style-type: lower-alpha">
 	<li><strong>Good character:</strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence</dt></li><br>
 	<li><strong>Resilience and social-emotional well-being:</strong><dt> Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation</dt></li><br>
 	<li><strong>Future readiness: </strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence.</dt></li><br>
 		<li><strong>Active citizenship: </strong><dt>Develop a strong national identity based on a sense of belonging to the nation, a sense of hope in themselves and the future, an awareness of the reality of Singapore’s vulnerabilities and constraints, and the will to act on improving the lives of others, and building a future for our nation.</dt></li><br>
+</ol>
 
 
 #### Subject / Learning Approach
@@ -48,4 +49,4 @@ Through our Values-in-Action (VIA)&nbsp;programme, we strive to&nbsp;engage our 
 
 ##### Let's Clean Up! Programme  
   
-In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.</ol>
+In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.
