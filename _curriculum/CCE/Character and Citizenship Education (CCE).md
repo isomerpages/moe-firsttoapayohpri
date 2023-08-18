@@ -25,7 +25,7 @@ third_nav_title: CCE
 	</tr>
 </tbody></table>
 <br><br>
-<h6>With CCE 2021, we aim to develop in our students:</h6>
+With CCE 2021, we aim to develop in our students:
 <br>
 <ol style="list-style-type: lower-alpha">
 	<li><strong>Good character:</strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence</dt></li><br>
