@@ -53,7 +53,7 @@ Character and Citizenship Education involves addressing our students’ developm
     <td>
 		<ul>
 				<li>Cohort Learning Journeys (LJs)</li>
-				<li>Education and Career Guidance (ECG) </li>
+				<li>Education and Career Guidance (ECG)</li>
 				<li>National Education (NE) Commemorative Days</li>
 				<li>Outdoor Adventure Learning (OAL) Cohort Camps</li>
 				<li>Student Leadership Development (SLD) Programmes</li>
@@ -63,24 +63,29 @@ Character and Citizenship Education involves addressing our students’ developm
 		</td>
   </tr>
 	<tr>
-    <td><strong>Cell C</strong></td>
-    <td>Cell D</td>
+    <td><strong>School-based Initiatives</strong></td>
+    <td>
+		<ul>
+				<li>Value of the Month / Focus of the Week</li>
+				<li>Start-It-Right</li>
+				<li>Social skills</li>
+				<li>FaceTime</li>
+				<li>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</li>
+				<li>Gift of Love</li>
+				<li>Student Suggestion Scheme</li>
+				<li>Caught Doing Right</li>
+			</ul>
+		</td>
   </tr>
 </tbody></table>
+<br><br>
 
+<h4><b>Programmes</b></h4>
 
-#### Subject / Learning Approach
-
-Central to Character and Citizenship Education, we believe in the inculcation of values in our students and developing in them the sense of rootedness and love for our nation. The teaching of values is explicit through the&nbsp;**‘Values of the Month’**, with the&nbsp;**‘Focus of the Week’**&nbsp;clearly articulated.&nbsp; Through the Form Teacher Guidance Period, we strive to nurture strong Teacher-Student Relationship and the socio-emotional competencies in our students.
-
-Through our National Education, we strive to develop national cohesion and instil in our students, confidence in our future. Firstly, through social studies, students develop an awareness of facts, circumstances and opportunities facing Singapore. Secondly, we&nbsp;**“engage the hearts and minds"**&nbsp;and, develop a sense of emotional belonging and commitment to Singapore through the commemoration of key events.&nbsp;
-
-#### Programmes
-
-##### Values-In-Action Programme
+<h5><b>Values-In-Action Programme</b></h5>
 
 Through our Values-in-Action (VIA)&nbsp;programme, we strive to&nbsp;engage our students in authentic experiences and to enable them reflect and learn. Leveraging the expanding environment approach to maximise learning impact, the&nbsp;programme&nbsp;allows students to learn progressively from first contributing to their homes, then to the school, and finally to the community and beyond.
 
-##### Let's Clean Up! Programme  
+<h5><b>Let's Clean Up! Programme</b></h5>
   
 In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.
