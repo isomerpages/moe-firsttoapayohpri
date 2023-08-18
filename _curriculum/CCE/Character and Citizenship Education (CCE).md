@@ -49,8 +49,18 @@ Character and Citizenship Education involves addressing our students’ developm
 		</td>
   </tr>
   <tr>
-    <td><strong>Cell C</strong></td>
-    <td>Cell D</td>
+    <td><strong>Key Student Development Experiences (SDEs)</strong></td>
+    <td>
+		<ul>
+				<li>Cohort Learning Journeys (LJs)</li>
+				<li>CCE (Mother Tongue Language) or CCE (MTL) </li>
+				<li>Programme for Active Learning (PAL)</li>
+				<li></li>
+				<li></li>
+				<li></li>
+				<li></li>
+			</ul>
+		</td>
   </tr>
 	<tr>
     <td><strong>Cell C</strong></td>
