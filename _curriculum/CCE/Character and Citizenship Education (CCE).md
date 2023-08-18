@@ -79,12 +79,12 @@ Character and Citizenship Education involves addressing our students’ developm
   </tr>
 </tbody></table>
 <br><br>
-
 <h4><b>Programmes</b></h4>
-
-<h5><b>Values-In-Action Programme</b></h5>
-
-Through our Values-in-Action (VIA)&nbsp;programme, we strive to&nbsp;engage our students in authentic experiences and to enable them reflect and learn. Leveraging the expanding environment approach to maximise learning impact, the&nbsp;programme&nbsp;allows students to learn progressively from first contributing to their homes, then to the school, and finally to the community and beyond.
+<br>
+<h5><b>Value of the Month / Focus of the Week</b></h5>
+<br>
+Anchored by the school values and concepts in The Leader In the Me (TLIM), Value of the Month/Focus of the Week articulates and provides a focus for the teaching and learning of values and social-emotional skills across the curriculum. Students present Focus of the Week to the school through stories and role-play every month.
+<br>
 
 <h5><b>Let's Clean Up! Programme</b></h5>
   
