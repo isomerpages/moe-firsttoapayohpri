@@ -28,7 +28,9 @@ third_nav_title: CCE
 With CCE 2021, we aim to develop in our students:
 <br>
 <ol style="list-style-type: lower-alpha">
-	<li><strong>Good character:</strong><dd> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence.</dd></li>
+	<li><strong>Good character:</strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence</dt></li><br>
+	<li><strong>Resilience and social-emotional well-being:</strong><dt> Have a balanced sense of self, form healthy relationships, be resilient when faced with challenges, find meaning in life, and have a sense of gratitude and appreciation</dt></li><br>
+	<li><strong>Future readiness: </strong><dt> Have a sound moral compass and a strong sense of right and wrong, think critically and ethically, be discerning in judgment, take responsibility for choices and actions, be caring towards others and strive for excellence.</dt></li><br>
 
 
 #### Subject / Learning Approach
