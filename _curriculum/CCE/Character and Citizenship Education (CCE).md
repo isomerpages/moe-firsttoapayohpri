@@ -43,7 +43,7 @@ Character and Citizenship Education involves addressing our students’ developm
     <td>
 			<ul>
 				<li>CCE (Form Teacher Guidance Period) or CCE (FTGP)</li>
-				<li>CCE (Mother Tongue Language) or CCE (MTL) </li>
+				<li>CCE (Mother Tongue Language) or CCE (MTL)</li>
 				<li>Programme for Active Learning (PAL)</li>
 			</ul>
 		</td>
@@ -53,12 +53,12 @@ Character and Citizenship Education involves addressing our students’ developm
     <td>
 		<ul>
 				<li>Cohort Learning Journeys (LJs)</li>
-				<li>CCE (Mother Tongue Language) or CCE (MTL) </li>
-				<li>Programme for Active Learning (PAL)</li>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
+				<li>Education and Career Guidance (ECG) </li>
+				<li>National Education (NE) Commemorative Days</li>
+				<li>Outdoor Adventure Learning (OAL) Cohort Camps</li>
+				<li>Student Leadership Development (SLD) Programmes</li>
+				<li>Co-Curricular Activities (CCA)</li>
+				<li>Values in Action (VIA)</li>
 			</ul>
 		</td>
   </tr>
