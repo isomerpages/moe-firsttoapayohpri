@@ -35,7 +35,28 @@ With CCE 2021, we aim to develop in our students:
 </ol>
 <br>
 Character and Citizenship Education involves addressing our students’ development of values, character, social-emotional well-being, and citizenship dispositions. This is done in tandem with establishing a caring and enabling school environment where students’ well-being and learning are cared for and supported by teachers and peers. <br>
-
+<h5><b>Learning platforms in the implementation of CCE include:</b></h5>
+<br>
+<table>
+  <tbody><tr>
+    <td><strong>CCE Lessons</strong></td>
+    <td>
+			<ul>
+				<li>CCE (Form Teacher Guidance Period) or CCE (FTGP)</li>
+				<li>CCE (Mother Tongue Language) or CCE (MTL) </li>
+				<li>Programme for Active Learning (PAL)</li>
+			</ul>
+		</td>
+  </tr>
+  <tr>
+    <td><strong>Cell C</strong></td>
+    <td>Cell D</td>
+  </tr>
+	<tr>
+    <td><strong>Cell C</strong></td>
+    <td>Cell D</td>
+  </tr>
+</tbody></table>
 
 
 #### Subject / Learning Approach
