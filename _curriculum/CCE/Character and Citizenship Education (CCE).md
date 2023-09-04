@@ -88,25 +88,16 @@ Anchored by the school values and concepts in The Leader In the Me (TLIM), Value
 <table>
 	<tbody>
 		<tr>
-			<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px">
+			<td>
+			<img style="width:50vw" src="/images/Curriculum/CCE/Value%20of%20the%20Month/value%20of%20the%20month_1.jpg">
 		</td>
 		<td> 
-			<h5><b>Mission</b></h5>
-			Empowering every child to be a responsible citizen who serves his community with love, respect and integrity.
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5><b>Vision</b></h5>
-			To nurture students of good character
+			<img style="width:50vw" src="/images/Curriculum/CCE/Value%20of%20the%20Month/value%20of%20the%20month_2.jpg">
 		</td>
 	</tr>
 </tbody></table>
-<br>
-<h5><b>Let's Clean Up! Programme</b></h5>
+<img style="width:50vw" src="/images/Curriculum/CCE/Value%20of%20the%20Month/value%20of%20the%20month_3.jpg">
+<p><i></i></p><center><i>Presenting Value of the Month and Focus of the Week in different ways</i></center><p>
+</p><h5><b>Let's Clean Up! Programme</b></h5>
   
 In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.
