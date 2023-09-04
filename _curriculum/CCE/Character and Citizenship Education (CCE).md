@@ -100,7 +100,7 @@ Anchored by the school values and concepts in The Leader In the Me (TLIM), Value
 <p><i></i></p><center><i>Presenting Value of the Month and Focus of the Week in different ways</i></center><p></p>
 <br><br>
 <h5><b>Social Skills</b></h5>
-  
+<br>
 Key social skills are highlighted and explicitly taught to provide a common language in addressing teacher-student relations, peer relations and discipline in the school. By taking a positive and proactive approach, students learn skills and replacement behaviour which are important in developing life-long social and emotional competence. 
 <br>
 <table>
@@ -115,3 +115,4 @@ Key social skills are highlighted and explicitly taught to provide a common lang
 	</tr>
 </tbody></table>
 <p><i></i></p><center><i>Social skills - Using appropriate voice levels and Greeting appropriately</i></center><p></p>
+<br><br>
