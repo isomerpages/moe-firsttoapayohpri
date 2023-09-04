@@ -106,15 +106,31 @@ Key social skills are highlighted and explicitly taught to provide a common lang
 		<tr>
 			<td>
 			<img style="width:50vw" src="/images/Curriculum/CCE/Social%20Skills/social%20skills_picture1.jpg">
-		</td>
-		<td> 
+			</td>
+			<td> 
 			<img style="width:55vw" src="/images/Curriculum/CCE/Social%20Skills/social%20skills_picture2.jpg">
-		</td>
-	</tr>
-</tbody></table>
+			</td>
+		</tr>
+	</tbody>
+</table>
 <p><i></i></p><center><i>Social skills - Using appropriate voice levels and Greeting appropriately</i></center><p></p>
 <br><br>
 <h5><b>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</b></h5>
 <br>
 Students take responsibility for their own and shared spaces through daily cleaning of their classroom and the canteen. The cleanliness of these spaces are monitored and tracked. Classes who have done well are highlighted and invited to share their good practices.
+<br>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<img style="width:50vw" src="/images/Curriculum/CCE/Lets%20Clean%20Up/lets%20clean%20up_1.jpg">
+			</td>
+			<td> 
+			<img style="width:100vw" src="/images/Curriculum/CCE/Lets%20Clean%20Up/lets%20clean%20up_picture2.jpg">
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br><br>
+<h5><b>Gift of Love</b></h5>
 <br>
