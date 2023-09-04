@@ -97,7 +97,21 @@ Anchored by the school values and concepts in The Leader In the Me (TLIM), Value
 	</tr>
 </tbody></table>
 <img style="width:50vw" src="/images/Curriculum/CCE/Value%20of%20the%20Month/value%20of%20the%20month_3.jpg">
-<p><i></i></p><center><i>Presenting Value of the Month and Focus of the Week in different ways</i></center><p>
-</p><h5><b>Let's Clean Up! Programme</b></h5>
+<p><i></i></p><center><i>Presenting Value of the Month and Focus of the Week in different ways</i></center><p></p>
+<br><br>
+<h5><b>Social Skills</b></h5>
   
-In a bid to instil the value of personal responsibility in our students, the school has embarked on the “**Let’s Clean Up!**’ Programme. Every day, the students will take part in a cleaning routine simultaneously. They also assume the personal responsibility of keeping their classroom and canteen areas clean and to take ownership to clear up after use.
+Key social skills are highlighted and explicitly taught to provide a common language in addressing teacher-student relations, peer relations and discipline in the school. By taking a positive and proactive approach, students learn skills and replacement behaviour which are important in developing life-long social and emotional competence. 
+<br>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<img style="width:50vw" src="/images/Curriculum/CCE/Social%20Skills/social%20skills_picture1.jpg">
+		</td>
+		<td> 
+			<img style="width:55vw" src="/images/Curriculum/CCE/Social%20Skills/social%20skills_picture2.jpg">
+		</td>
+	</tr>
+</tbody></table>
+<p><i></i></p><center><i>Social skills - Using appropriate voice levels and Greeting appropriately</i></center><p></p>
