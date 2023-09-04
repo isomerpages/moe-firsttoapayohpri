@@ -140,10 +140,10 @@ Students show love and gratitude by taking time to reflect and write notes of en
 	<tbody>
 		<tr>
 			<td>
-			<img style="width:50vw" src="/images/Curriculum/CCE/Lets%20Clean%20Up/lets%20clean%20up_1.jpg">
+			<img style="width:50vw" src="/images/">
 			</td>
 			<td> 
-			<img style="width:100vw" src="/images/Curriculum/CCE/Lets%20Clean%20Up/lets%20clean%20up_picture2.jpg">
+			<img style="width:100vw" src="/images/">
 			</td>
 		</tr>
 	</tbody>
