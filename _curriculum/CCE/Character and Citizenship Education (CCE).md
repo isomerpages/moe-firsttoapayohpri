@@ -96,7 +96,7 @@ Anchored by the school values and concepts in The Leader In the Me (TLIM), Value
 </tbody></table>
 <img style="width:50vw" src="/images/Curriculum/CCE/Value%20of%20the%20Month/value%20of%20the%20month_3.jpg">
 <p><i></i></p><center><i>Presenting Value of the Month and Focus of the Week in different ways</i></center><p></p>
-<br><br>
+<br>
 <h5><b>Social Skills</b></h5>
 <br>
 Key social skills are highlighted and explicitly taught to provide a common language in addressing teacher-student relations, peer relations and discipline in the school. By taking a positive and proactive approach, students learn skills and replacement behaviour which are important in developing life-long social and emotional competence. 
@@ -114,7 +114,7 @@ Key social skills are highlighted and explicitly taught to provide a common lang
 	</tbody>
 </table>
 <p><i></i></p><center><i>Social skills - Using appropriate voice levels and Greeting appropriately</i></center><p></p>
-<br><br>
+<br>
 <h5><b>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</b></h5>
 <br>
 Students take responsibility for their own and shared spaces through daily cleaning of their classroom and the canteen. The cleanliness of these spaces are monitored and tracked. Classes who have done well are highlighted and invited to share their good practices.
@@ -131,6 +131,21 @@ Students take responsibility for their own and shared spaces through daily clean
 		</tr>
 	</tbody>
 </table>
-<br><br>
+<br>
 <h5><b>Gift of Love</b></h5>
+<br>
+Students show love and gratitude by taking time to reflect and write notes of encouragement, compliment, well wishes or affirmation to people at home, in the school community and the wider community.
+<br>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<img style="width:50vw" src="/images/Curriculum/CCE/Lets%20Clean%20Up/lets%20clean%20up_1.jpg">
+			</td>
+			<td> 
+			<img style="width:100vw" src="/images/Curriculum/CCE/Lets%20Clean%20Up/lets%20clean%20up_picture2.jpg">
+			</td>
+		</tr>
+	</tbody>
+</table>
 <br>
