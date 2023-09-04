@@ -80,9 +80,7 @@ Character and Citizenship Education involves addressing our students’ developm
 </tbody></table>
 <br><br>
 <h4><b>Programmes</b></h4>
-<br>
 <h5><b>Value of the Month / Focus of the Week</b></h5>
-<br>
 Anchored by the school values and concepts in The Leader In the Me (TLIM), Value of the Month/Focus of the Week articulates and provides a focus for the teaching and learning of values and social-emotional skills across the curriculum. Students present Focus of the Week to the school through stories and role-play every month.
 <br><br>
 <table>
