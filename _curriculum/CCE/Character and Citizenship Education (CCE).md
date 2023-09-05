@@ -144,14 +144,13 @@ Students show love and gratitude by taking time to reflect and write notes of en
 <br>
 <h5><b><strong>Values in Action (VIA)</strong></b></h5>
 Through VIA, students are involved in meaningful authentic experiences which provide the opportunity for them to develop social emotional skills to be a concerned citizen and active contributor. Learning experiences for VIA are designed in the following ways:
-<ol>  
-&nbsp;&nbsp;<b><li><u>Everyday Responsibilities</u></li></b>
+<ol>
+	<b><li><u>Everyday Responsibilities</u></li></b>
 		<ul>
 			<li>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</li>
 			<li>Termly recycling drives</li>
 			</ul>
-&nbsp;&nbsp;<b><li><u>Activities/Projects</u></li>
+	<b><li><u>Activities/Projects</u></li>
 		VIA Lessons in CCE (FTGP)</b>
-	<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture1.jpg">
-&nbsp;&nbsp;<li>Milk</li>  
+	<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture1.jpg">  
 </ol>
