@@ -154,22 +154,22 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 		VIA Lessons in CCE (FTGP)</b>
 	<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture1.jpg">  
 </ol><br>
-    <table>
-    <thead>
-      <tr>
-        <th style="text-align:center;"><b>School Initiatives</b></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><ul>
-					<li>Home Helper Programme</li>
-					<li>Kindness Ambassadors (with Friend of Singa- FOS)</li>
-					<li>Project Buddy Clean</li>
-					<li>Sparkling Toilet project</li>
-					<li>School improvement projects arising from Student Suggestion Scheme </li>
-					<li>Working with community partners and organisations to support their needs</li>
-					</ul></td>
-      </tr>
-    </tbody>
-    </table>
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:center;"><b>School Initiatives</b></th>
+  </tr>
+  </thead>
+   <tbody>
+  <tr>
+   <td><ul>
+			<li>Home Helper Programme</li>
+			<li>Kindness Ambassadors (with Friend of Singa- FOS)</li>
+			<li>Project Buddy Clean</li>
+			<li>Sparkling Toilet project</li>
+			<li>School improvement projects arising from Student Suggestion Scheme</li>
+			<li>Working with community partners and organisations to support their needs</li>
+		</ul></td>
+  </tr>
+ </tbody>
+</table>
