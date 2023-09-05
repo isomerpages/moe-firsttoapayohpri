@@ -21,3 +21,4 @@ third_nav_title: Parents' Corner
 <br>
 [Letter to Parents - August 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/0823%20-%20letter%20to%20parents%20(final).pdf)
 <br>
+[Letter to Parents -September 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/0923%20-%20letter%20to%20parents%20(final).pdf)
