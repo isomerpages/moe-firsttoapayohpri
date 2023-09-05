@@ -133,7 +133,7 @@ Students show love and gratitude by taking time to reflect and write notes of en
 	<tbody>
 		<tr>
 			<td>
-			<img style="width:80vw" src="/images/Curriculum/CCE/Gift%20of%20Love/picture1.jpg">
+			<img style="width:50vw" src="/images/Curriculum/CCE/Gift%20of%20Love/picture1.jpg">
 			</td>
 			<td> 
 			<img style="width:50vw" src="/images/Curriculum/CCE/Gift%20of%20Love/picture2.jpg">
