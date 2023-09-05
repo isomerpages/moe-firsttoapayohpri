@@ -173,3 +173,16 @@ Through VIA, students are involved in meaningful authentic experiences which pro
   </tr>
  </tbody>
 </table>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<img style="width:55vw" src="/images/Curriculum/CCE/VIA/picture3.jpg">
+			</td>
+			<td> 
+			<img style="width:60vw" src="/images/Curriculum/CCE/VIA/picture4.jpg">
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p></p><center><em>Social skills - Using appropriate voice levels and Greeting appropriately</em></center><p></p>
