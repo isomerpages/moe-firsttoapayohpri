@@ -185,4 +185,4 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 		</tr>
 	</tbody>
 </table>
-<p></p><center><em>Social skills - Using appropriate voice levels and Greeting appropriately</em></center><p></p>
+<p></p><center><em>Students learn responsibility in keeping the school clean through Project Buddy Clean</em></center><p></p>
