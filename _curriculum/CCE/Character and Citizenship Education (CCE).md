@@ -157,7 +157,7 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 <table>
  <thead>
   <tr>
-   <th style="text-align:center;"><b>School Initiatives</b></th>
+   <th style="text-align:center;"><h5>School Initiatives</h5></th>
   </tr>
   </thead>
    <tbody>
