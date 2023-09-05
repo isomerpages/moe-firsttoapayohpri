@@ -153,4 +153,16 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 	<b><li><u>Activities/Projects</u></li>
 		VIA Lessons in CCE (FTGP)</b>
 	<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture1.jpg">  
-</ol>
+</ol><br>
+    <table>
+    <thead>
+      <tr>
+        <th style="text-align:center;"><b>School Initiatives</b></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+      </tr>
+    </tbody>
+    </table>
