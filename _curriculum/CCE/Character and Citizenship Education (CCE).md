@@ -79,8 +79,8 @@ Character and Citizenship Education involves addressing our students’ developm
   </tr>
 </tbody></table>
 <br>
-<h4><b>Programmes</b></h4>
-<h5><b>Value of the Month / Focus of the Week</b></h5>
+<h4><b><strong>Programmes</strong></b></h4>
+<h5><b><strong>Value of the Month / Focus of the Week</strong></b></h5>
 Anchored by the school values and concepts in The Leader In the Me (TLIM), Value of the Month/Focus of the Week articulates and provides a focus for the teaching and learning of values and social-emotional skills across the curriculum. Students present Focus of the Week to the school through stories and role-play every month.
 <table>
 	<tbody>
@@ -94,9 +94,9 @@ Anchored by the school values and concepts in The Leader In the Me (TLIM), Value
 	</tr>
 </tbody></table>
 <img style="width:50vw" src="/images/Curriculum/CCE/Value%20of%20the%20Month/value%20of%20the%20month_3.jpg">
-<p><i></i></p><center><i>Presenting Value of the Month and Focus of the Week in different ways</i></center><p></p>
+<p></p><center><em>Presenting Value of the Month and Focus of the Week in different ways</em></center><p></p>
 <br>
-<h5><b>Social Skills</b></h5>
+<h5><b><strong>Social Skills</strong></b></h5>
 Key social skills are highlighted and explicitly taught to provide a common language in addressing teacher-student relations, peer relations and discipline in the school. By taking a positive and proactive approach, students learn skills and replacement behaviour which are important in developing life-long social and emotional competence. 
 <table>
 	<tbody>
@@ -110,9 +110,9 @@ Key social skills are highlighted and explicitly taught to provide a common lang
 		</tr>
 	</tbody>
 </table>
-<p><i></i></p><center><i>Social skills - Using appropriate voice levels and Greeting appropriately</i></center><p></p>
+<p></p><center><em>Social skills - Using appropriate voice levels and Greeting appropriately</em></center><p></p>
 <br>
-<h5><b>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</b></h5>
+<h5><b><strong>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</strong></b></h5>
 Students take responsibility for their own and shared spaces through daily cleaning of their classroom and the canteen. The cleanliness of these spaces are monitored and tracked. Classes who have done well are highlighted and invited to share their good practices.
 <table>
 	<tbody>
@@ -127,7 +127,7 @@ Students take responsibility for their own and shared spaces through daily clean
 	</tbody>
 </table>
 <br>
-<h5><b>Gift of Love</b></h5>
+<h5><b><strong>Gift of Love</strong></b></h5>
 Students show love and gratitude by taking time to reflect and write notes of encouragement, compliment, well wishes or affirmation to people at home, in the school community and the wider community.
 <table>
 	<tbody>
@@ -142,6 +142,16 @@ Students show love and gratitude by taking time to reflect and write notes of en
 	</tbody>
 </table>
 <br>
-<h5><b>Values in Action (VIA)</b></h5>
+<h5><b><strong>Values in Action (VIA)</strong></b></h5>
 Through VIA, students are involved in meaningful authentic experiences which provide the opportunity for them to develop social emotional skills to be a concerned citizen and active contributor. Learning experiences for VIA are designed in the following ways:
-<br>
+<ol>  
+&nbsp;&nbsp;<b><li><u>Everyday Responsibilities</u></li></b>
+		<ul>
+			<li>Let’s Clean Up! – Sparkling Classroom and Sparkling Canteen</li>
+			<li>Termly recycling drives</li>
+			</ul>
+&nbsp;&nbsp;<b><li><u>Activities/Projects</u></li>
+		VIA Lessons in CCE (FTGP)</b>
+	<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture1.jpg">
+&nbsp;&nbsp;<li>Milk</li>  
+</ol>
