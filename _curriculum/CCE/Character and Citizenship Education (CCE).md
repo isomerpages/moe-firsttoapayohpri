@@ -186,3 +186,15 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 	</tbody>
 </table>
 <p></p><center><em>Students learn responsibility in keeping the school clean through Project Buddy Clean</em></center><p></p>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture5.jpg">
+			</td>
+			<td> 
+			<img style="width:50vw" src="/images/Curriculum/CCE/VIA/picture6.jpg">
+			</td>
+		</tr>
+	</tbody>
+</table>
