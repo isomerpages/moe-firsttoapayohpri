@@ -140,12 +140,16 @@ Students show love and gratitude by taking time to reflect and write notes of en
 	<tbody>
 		<tr>
 			<td>
-			<img style="width:50vw" src="/images/">
+			<img style="width:80vw" src="/images/Curriculum/CCE/Gift%20of%20Love/picture1.jpg">
 			</td>
 			<td> 
-			<img style="width:100vw" src="/images/">
+			<img style="width:50vw" src="/images/Curriculum/CCE/Gift%20of%20Love/picture2.jpg">
 			</td>
 		</tr>
 	</tbody>
 </table>
+<br>
+<h5><b>Values in Action (VIA)</b></h5>
+<br>
+Through VIA, students are involved in meaningful authentic experiences which provide the opportunity for them to develop social emotional skills to be a concerned citizen and active contributor. Learning experiences for VIA are designed in the following ways:
 <br>
