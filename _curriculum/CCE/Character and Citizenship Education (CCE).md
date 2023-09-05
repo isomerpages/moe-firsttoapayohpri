@@ -162,7 +162,14 @@ Through VIA, students are involved in meaningful authentic experiences which pro
     </thead>
     <tbody>
       <tr>
-        <td></td>
+        <td><ul>
+					<li>Home Helper Programme</li>
+					<li>Kindness Ambassadors (with Friend of Singa- FOS)</li>
+					<li>Project Buddy Clean</li>
+					<li>Sparkling Toilet project</li>
+					<li>School improvement projects arising from Student Suggestion Scheme </li>
+					<li>Working with community partners and organisations to support their needs</li>
+					</ul></td>
       </tr>
     </tbody>
     </table>
