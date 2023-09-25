@@ -8,7 +8,8 @@ description: ""
 **Vice Chairman: Dr Lim Tit Meng**
 <br>
 <b><u>Members</u></b>
-* Mr Loh Yong Cheng
-* Mr Michael Ma
-* Mr Joseph Ang
 * Ms Yeo Gek Wah Annie
+* Mr Joseph Ang
+* Mr Michael Ma
+* Mr Loh Yong Cheng
+* Ms Esther Foong-Tan
