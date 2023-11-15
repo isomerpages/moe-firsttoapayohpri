@@ -3,6 +3,7 @@ title: P4 Teachers
 permalink: /ftpps-family/our-staff/p4-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 |  |  |  |
 |---|---|---|
@@ -14,7 +15,7 @@ third_nav_title: Our Staff
 |  **P4 INTEGRITY** |  |  |
 |  Form Teachers |  SENG SIOK KUAN ANNE (MISS) |  [seng_siok_kuan_anne@moe.edu.sg](mailto:seng_siok_kuan_anne@moe.edu.sg) |
 |   |  TAN JIA JUN JAKE (MR) |  [tan_jia_jun_jake@moe.edu.sg](mailto:tan_jia_jun_jake@moe.edu.sg) |
-|   |  LEK XINTIAN AMANDA (MS) |  [lek_xintian_amanda@moe.edu.sg](mailto:lek_xintian_amanda@moe.edu.sg) |
+|   |  LIM XINTIAN AMANDA (MRS) |  [lek_xintian_amanda@moe.edu.sg](mailto:lek_xintian_amanda@moe.edu.sg) |
 |  |   |   |
 |  **P4 PERSEVERANCE** |   |   |
 |  Form Teachers |  LAM LAI NGOR (MISS)  |  [lam_lai_ngor@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
