@@ -11,7 +11,7 @@ variant: markdown
 	<tr>
 		<td width="25%">
 			<a href="/highlights/2022/drama-extravaganza-2022/">
-				<img src="/images/Highlights/2022/Drama%20Extravaganza%202022/Drama%20Extravaganza%202022%20Pic%20Link.jpg">
+				<img src="/images/Highlights/2023/Drama_Extravaganza_2023.jpg">
 				</a>
 			</td>
 		<td>		</td>
