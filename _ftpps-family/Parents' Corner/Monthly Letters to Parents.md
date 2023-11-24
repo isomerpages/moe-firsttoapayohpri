@@ -3,6 +3,7 @@ title: Monthly Letters to Parents
 permalink: /ftpps-family/parents-corner/monthly-letters-to-parents/
 description: ""
 third_nav_title: Parents' Corner
+variant: markdown
 ---
 <h4><u>2023 Monthly Letter to Parents</u></h4>
 
@@ -21,4 +22,9 @@ third_nav_title: Parents' Corner
 <br>
 [Letter to Parents - August 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/0823%20-%20letter%20to%20parents%20(final).pdf)
 <br>
-[Letter to Parents -September 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/0923%20-%20letter%20to%20parents%20(final).pdf)
+[Letter to Parents - September 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/0923%20-%20letter%20to%20parents%20(final).pdf)
+<br>
+[Letter to Parents - October 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/1023___Letter_to_Parents__Final_.pdf)
+<br>
+[Letter to Parents - November 2023](/files/Parents'%20Corner/Letter%20to%20Parents/2023/1123___Letter_to_Parents__Final_.pdf)
+<br>

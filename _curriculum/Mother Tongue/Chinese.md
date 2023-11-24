@@ -3,6 +3,7 @@ title: Chinese
 permalink: /curriculum/mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -80,26 +81,6 @@ Mother Tongue Support Programme (MTSP) incorporates a systematic approach and pe
 
 The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of 21st Century Competencies (21CC). Aligned to the Primary School Chinese Language curriculum, the Chinese Language resources on SLS focuses on developing students’ skills in listening, speaking, reading and writing in a fun way. Students can log on to Student Learning Space (SLS) with their account to access the resources.
 
-<h5><b>Dudu Town</b></h5>
-
-<table>
-		<tbody><tr>
-		<td width="35%">
-			<a href="https://dudu.town">
-				<img src="/images/Curriculum/Mother%20Tongue/Chinese/dudu%20town.png">
-				</a>
-			</td>
-			<td></td>
-	</tr>
-	</tbody></table>
-
-In support of our reading programme, P1 to P5 students are subscribed to Dudu Town. Dudu is an online environment for self-paced and personalised learning of the Chinese language. It is an adaptive Chinese reading programme that recommends eBooks according to each student’s reading ability, in order to allow the student to improve his/her command of the Chinese language through reading.
-
-<h5><b>E-Zhishi</b></h5>
-
-<a href="https://www.ezhishi.net"><img align="left" style="width:30%" src="/images/Curriculum/Mother%20Tongue/Chinese/ezhishi.png"></a><br><br>
-
-All P1-P6 students are subscribed to Ezhishi.net, a Chinese E-learning portal which enabled students to log on and learn at their own pace. The various activities such as stories, games and exercises found on the portal are closely linked to the Chinese syllabus. Teachers would also assign e-learning assignments to the students through the portal.
 <br><br><br>
 <a href="/curriculum/mother-tongue/chinese#lo_main">
 		 <img align="center" style="width:3%" src="/images/arrow-up.png"> Back to Top 
