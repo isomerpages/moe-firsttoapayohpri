@@ -13,6 +13,6 @@ third_nav_title: "2023"
 ![Drama_Extravaganza_2023_Page_6](/images/Highlights/2023/Drama_Extravaganza_2023_Website_Page_6.jpg)
 ![Drama_Extravaganza_2023_Page_7](/images/Highlights/2023/Drama_Extravaganza_2023_Website_Page_7.jpg)
 <br>
-<a href="/highlights/2023/dramaextravaganza#lo\_main">
+<a href="/highlights/2023/dramaextravaganza2023/#lo\_main">
 	<img src="/images/arrow-up.png" style="width:3%" align="center"> Back to Top
 </a>
