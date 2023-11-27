@@ -10,7 +10,7 @@ variant: markdown
 	<tbody>
 	<tr>
 		<td width="25%">
-			<a href="/highlights/2023/dramaextravaganza">
+			<a href="/highlights/2023/dramaextravaganza2023/">
 				<img src="/images/Highlights/2023/Drama_Extravaganza_2023.jpg">
 				</a>
 			</td>
