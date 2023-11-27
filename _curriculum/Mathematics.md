@@ -82,7 +82,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 <table>
 	<tbody><tr>
 		<td width="50%">
-			<h6> P1 AND P2 EXPERIENTAL LEARNING</h6>
+			<h6><b> P1 AND P2 EXPERIENTAL LEARNING</b></h6>
 			In the lower primary, students are equipped with a learning kit that focuses on helping students strengthen their numeracy skills – focusing on numbers and the four operations (+, -, x, ÷), applying these to solving word problem types, as well as allowing them to explore math even out of the classroom – from measurement topics to reinforcing numeracy skills that they learnt in school. Students use the learning aids in this kit to help them in improving their working memory. Here are some of the learning items in the learning kit: Digit Cards, Ten Frames, Clocks with adjustable hands and Measuring Tape
 		</td>
 		<td>
@@ -92,7 +92,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 	</tr>
 	<tr>
 		<td>
-			<h6>LEARNING SUPPORT FOR MATHEMATICS (LSM)</h6>
+			<h6><b>LEARNING SUPPORT FOR MATHEMATICS (LSM)</b></h6>
 			The LSM programme is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. Identified students will be supported by Math Teachers especially trained in LSM Teachers. In LSM classrooms, students experience the joy of learning through activity-based lessons focusing on small successes to build on their motivation.
 		</td>
 		<td>
@@ -105,7 +105,7 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 <table>
 	<tbody><tr>
 		<td width="50%">
-			<h6> P1 Maths Fun Day</h6>
+			<h6><b>P1 MATHS FUN DAY</b></h6>
 			Selected P3 and P4 prefects were coached to facilitate specially designed games based on mathematics concepts for the P1 students on the first week of Term 2, Term 3 and Term 4. The various game station were proposed and created by these prefects for the P1 students to revise the concepts learnt in the previous term so as to foster the joy of learning.<br><br>
 In the post-activity reflection forms, the prefects expressed that they had learnt to be very patient with the P1 students, especially when they were explaining the rules before playing the games. Their greatest takeaway was the sense of satisfaction they felt when they managed to guide their juniors in playing the addition and subtraction games. 
 		</td>
