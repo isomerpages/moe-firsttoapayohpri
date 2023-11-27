@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2023/Drama Extravaganza.md
       - 2023/.keep
       - Highlights.md
       - 2022/Children's Day 2022.md
