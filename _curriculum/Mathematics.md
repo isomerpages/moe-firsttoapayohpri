@@ -126,7 +126,7 @@ In the post-activity reflection forms, the prefects expressed that they had lear
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
-###### P3 AND P4 EXPERIENTIAL LEARNING
+<h6><b>P3 AND P4 EXPERIENTIAL LEARNING</b></h6>
 
 Since the 2021 CATalytics Project with SEAB research team, students learn through a series of lessons which involved procuring and customising day-to-day items (eg: 1 kg of rice, 650 g of flour, 1 kg 400 g of red beans, etc) and setting up learning stations in the hall, taking into much consideration prevailing SMM requirements. All students of varying academic progress benefit very much from the experiential and authentic hands-on experiences on the topic Measurement, especially the sub-topic Mass. The students’ learning experiences increase their motivation to explore real life objects, and heighten the relevance of Math to everyday activities.
 
@@ -155,7 +155,7 @@ Since the 2021 CATalytics Project with SEAB research team, students learn throug
 	</tr>
 </tbody></table>
 
-###### IMPROVING CONFIDENCE AND ACHIEVEMENT IN NUMERACY (ICAN)
+<h6><b>IMPROVING CONFIDENCE AND ACHIEVEMENT IN NUMERACY (ICAN)</b></h6>
 
 The ICAN programme is a collaboration between schools and MOE to support low progress learners students using intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.
 
@@ -166,7 +166,7 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 
 <h5><a id="menu3">P5 to P6 Programmes</a></h5>
 
-###### MATHEMATICS OLYMPIAD TRAINING PROGRAMME
+<h6><b>MATHEMATICS OLYMPIAD TRAINING PROGRAMME</b></h6>
 
 In line with the school’s continual emphasis on enriching and developing students’ potential to their fullest, identified students from P5 and P6 will go through the training programme to be equipped with the necessary Mathematical knowledge and repertoire of problem-solving and visual-thinking skills to tackle higher-order and non-routine problems. Some of the competitions these students will take part include:
 
@@ -174,6 +174,6 @@ In line with the school’s continual emphasis on enriching and developing stude
 *   Primary School Mathematics Challenge (PSMC)
 *   National Mathematical Olympiad Singapore (NMOS)
 
-###### ASPIRE PROGRAMME  
+<h6><b>ASPIRE PROGRAMME</b></h6>
 
 Every year, the P5 and P6 level will attend a problem solving workshop targeting on the areas of concerns for the respective levels. The course focuses on mathematical problems solving with emphasis on the development of concepts, skills and its underlying processes. In the process, the students will also be engaged in developing and using good thinking habits to approach problem solving and to evaluate their solutions. They will be guided to be aware of their metacognition, to think flexibly, to strive for accuracy and to manage their impulsivity.
