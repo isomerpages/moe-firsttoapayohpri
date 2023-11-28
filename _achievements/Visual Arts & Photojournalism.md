@@ -19,11 +19,11 @@ variant: markdown
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide8.jpg"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide9.jpg">
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide10.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide11.jpg">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide12.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide13.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide14.jpg">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide15.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
