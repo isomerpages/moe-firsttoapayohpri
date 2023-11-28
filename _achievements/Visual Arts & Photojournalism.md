@@ -15,25 +15,12 @@ variant: markdown
 			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OpQrgWgQhwk?si=Y0nt2Xxkcm3aKIea" height="315" width="560"></iframe><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide6.JPG"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide7.JPG">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide8.JPG.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide9.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide10.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide11.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide12.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide13.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide14.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide15.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide16.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide17.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide18.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide19.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide20.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide21.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide22.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide23.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide24.jpg"><br>
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide25.jpg">
-			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide26.jpg"><br>			
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide8.JPG.jpg">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide9.JPG"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide10.JPG"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide11.JPG">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide12.JPG">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide13.JPG"><br>
 			</p>
 		</div>
   </li>
