@@ -5,7 +5,20 @@ description: ""
 variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
-	
+	  <li>
+    <input id="accordion3" type="checkbox">
+    <label for="accordion3">2020 Awards </label>
+    <div>
+		<p>	<img src="/images/website_photo1.jpg"><br>
+			<img src="/images/1%20(5).jpg">
+			<img src="/images/2%20(6).jpg">
+			<img src="/images/3%20(5).jpg">
+			<img src="/images/4%20(5).jpg">
+			<img src="/images/5%20(5).jpg">
+			<img src="/images/5_Photojournalism.jpg"><br>
+			</p>
+		</div>
+  </li>
   <li>
     <input id="accordion2" type="checkbox">
     <label for="accordion2">2019 Awards </label>
