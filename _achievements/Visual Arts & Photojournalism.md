@@ -2,7 +2,25 @@
 title: Visual Arts & Photojournalism
 permalink: /achievements/visual-arts-photojournalism/
 description: ""
+variant: markdown
 ---
+<ul class="jekyllcodex_accordion">
+		
+  <li>
+    <input id="accordion1" type="checkbox">
+    <label for="accordion1">2018 Awards </label>
+    <div>
+		<p>	<img src="/images/website_photo1.jpg"><br>
+			<img src="/images/1%20(5).jpg">
+			<img src="/images/2%20(6).jpg">
+			<img src="/images/3%20(5).jpg">
+			<img src="/images/4%20(5).jpg">
+			<img src="/images/5%20(5).jpg">
+			</p>
+		</div>
+  </li>
+</ul>
+
 #### 2022 Awards
 
 ![](/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg)
@@ -48,36 +66,36 @@ description: ""
 <br>
 #### 2020 Awards
 
-<img src="/images/OSOS%20Awards%202020%20for%20website_Page_1.jpg" style="width:100%"/>
+<img src="/images/OSOS%20Awards%202020%20for%20website_Page_1.jpg" style="width:100%">
 <br>
-<img src="/images/OSOS%20Awards%202020%20for%20website_Page_2.jpg" style="width:100%"/>
+<img src="/images/OSOS%20Awards%202020%20for%20website_Page_2.jpg" style="width:100%">
 <br>
-<img src="/images/OSOS%20Awards%202020%20for%20website_Page_3.jpg" style="width:100%"/>
+<img src="/images/OSOS%20Awards%202020%20for%20website_Page_3.jpg" style="width:100%">
 <br>
-<img src="/images/OSOS%20Awards%202020%20for%20website_Page_4.jpg" style="width:100%"/>
+<img src="/images/OSOS%20Awards%202020%20for%20website_Page_4.jpg" style="width:100%">
 <br>
-<img src="/images/OSOS%20Awards%202020%20for%20website_Page_5.jpg" style="width:100%"/>
+<img src="/images/OSOS%20Awards%202020%20for%20website_Page_5.jpg" style="width:100%">
 <br>
-<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg" style="width:100%"/>
+<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg" style="width:100%">
 
 <br> <br> <br>
 
 #### 2019 Awards
 
-<img src= "/images/SYF1.jpg" style="width:80%"/>
-<img src= "/images/SYF2.jpg" style="width:80%"/>
+<img src="/images/SYF1.jpg" style="width:80%">
+<img src="/images/SYF2.jpg" style="width:80%">
 <br> <br>
-<img src="/images/1_Photojournalism.jpg" style="width:80%"/> 
-<img src="/images/2_Photojournalism.jpg" style="width:80%"/> 
-<img src="/images/3_Photojournalism.jpg" style="width:80%"/> 
-<img src="/images/4_Photojournalism.jpg" style="width:80%"/> 
-<img src="/images/5_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/1_Photojournalism.jpg" style="width:80%"> 
+<img src="/images/2_Photojournalism.jpg" style="width:80%"> 
+<img src="/images/3_Photojournalism.jpg" style="width:80%"> 
+<img src="/images/4_Photojournalism.jpg" style="width:80%"> 
+<img src="/images/5_Photojournalism.jpg" style="width:80%"> 
 <br> <br>
-<img src="/images/6_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/6_Photojournalism.jpg" style="width:80%"> 
 <br> <br>
-<img src="/images/7_Photojournalism.jpg" style="width:80%"/> 
+<img src="/images/7_Photojournalism.jpg" style="width:80%"> 
 <br> <br>
-<img src="/images/8_Photojournalism.jpg" style="width:80%"/>
+<img src="/images/8_Photojournalism.jpg" style="width:80%">
 <br> <br>
 
 ![](/images/Achievements/Visual%20Arts_Photojournalism/PUB%20Conservation%20Award%202019/PUB%20Conservation%20Photography%20Competition%20award%20p2_resize.jpg)
@@ -92,14 +110,14 @@ description: ""
  <br> 
 #### 2018 Awards
 
-<img src="/images/website_photo1.jpg" style="width:80%"/>
+<img src="/images/website_photo1.jpg" style="width:80%">
 <br> <br>
-<img src="/images/1%20(5).jpg" style="width:80%"/>
-<img src="/images/2%20(6).jpg" style="width:80%"/>
-<img src="/images/3%20(5).jpg" style="width:80%"/>
-<img src="/images/4%20(5).jpg" style="width:80%"/>
-<img src="/images/5%20(5).jpg" style="width:80%"/>
+<img src="/images/1%20(5).jpg" style="width:80%">
+<img src="/images/2%20(6).jpg" style="width:80%">
+<img src="/images/3%20(5).jpg" style="width:80%">
+<img src="/images/4%20(5).jpg" style="width:80%">
+<img src="/images/5%20(5).jpg" style="width:80%">
 
 <a href="/achievements/visual-arts-photojournalism#lo\_main">
-	<img src="/images/arrow-up.png" style="width:3%" align="center"/> Back to Top
+	<img src="/images/arrow-up.png" style="width:3%" align="center"> Back to Top
 </a>
