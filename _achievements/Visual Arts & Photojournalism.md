@@ -13,7 +13,7 @@ variant: markdown
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide3.JPG"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide4.JPG">
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide5.JPG">
-			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OpQrgWgQhwk?si=Y0nt2Xxkcm3aKIea" height="315" width="560"></iframe><br>
+			<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OpQrgWgQhwk?si=Y0nt2Xxkcm3aKIea" height="468" width="832"></iframe><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide6.JPG"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide7.JPG">
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/Slide8.JPG">
