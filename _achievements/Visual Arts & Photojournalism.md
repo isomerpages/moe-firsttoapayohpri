@@ -9,16 +9,16 @@ variant: markdown
     <input id="accordion4" type="checkbox">
     <label for="accordion4">2022 Awards </label>
     <div>
-		<p>	<img src="images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg"><br>
+		<p>	<img src="/ images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide2.jpg">
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide3.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_4.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_5.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
-			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide4.jpg">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide5.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide6.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide7.jpg">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide8.jpg"><br>
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide9.jpg">
+			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide10.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
