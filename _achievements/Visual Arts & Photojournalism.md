@@ -29,7 +29,7 @@ variant: markdown
     <input id="accordion4" type="checkbox">
     <label for="accordion4">2022 Awards </label>
     <div>
-		<p>	<img src="/ images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg"><br>
+		<p>	<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide2.jpg">
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide3.jpg"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide4.jpg">
