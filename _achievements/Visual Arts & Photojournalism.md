@@ -9,13 +9,12 @@ variant: markdown
     <input id="accordion3" type="checkbox">
     <label for="accordion3">2020 Awards </label>
     <div>
-		<p>	<img src="/images/website_photo1.jpg"><br>
-			<img src="/images/1%20(5).jpg">
-			<img src="/images/2%20(6).jpg">
-			<img src="/images/3%20(5).jpg">
-			<img src="/images/4%20(5).jpg">
-			<img src="/images/5%20(5).jpg">
-			<img src="/images/5_Photojournalism.jpg"><br>
+		<p>	<img src="/images/OSOS%20Awards%202020%20for%20website_Page_1.jpg"><br>
+			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_2.jpg"><br>
+			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_3.jpg"><br>
+			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_4.jpg"><br>
+			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_5.jpg"><br>
+			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_7.jpg"><br>
 			</p>
 		</div>
   </li>
