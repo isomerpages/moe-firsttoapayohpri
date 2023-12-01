@@ -13,3 +13,7 @@ third_nav_title: Yearbook
 ![MK Yearbook 2023_6](/images/MK@First%20Toa%20Payoh/MK%20Yearbook/YB6.jpg)
 ![MK Yearbook 2023_7](/images/MK@First%20Toa%20Payoh/MK%20Yearbook/YB7.jpg)
 ![MK Yearbook 2023_7](/images/MK@First%20Toa%20Payoh/MK%20Yearbook/YB8.jpg)
+<br>
+<a href="/mk-first-toa-payoh/yearbook/2023#lo_main">
+	 <img src="/images/arrow-up.png" style="width:3%" align="center"> Back to Top
+</a>
