@@ -31,4 +31,12 @@ sections:
       url: /ftpps-family/parents-corner/p1-orientation-2023-2024/
       image: /images/HOMEPAGE/P1 Orientation 2022-2023_v3.jpg
       alt: Image alt text
+  - infopic:
+      title: K1 Orientation 2023
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: more information
+      url: /mk-at-first-toa-payoh/k1-orientation-2023/
+      image: /images/MK@First Toa Payoh/K1 Orientation/MK_Orientation.jpg
+      alt: Image alt text
 ---
