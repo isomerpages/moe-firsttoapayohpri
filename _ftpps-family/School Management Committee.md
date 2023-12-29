@@ -28,4 +28,3 @@ variant: markdown
 | **HOD/ INFORMATION &amp; COMMUNICATION TECHNOLOGY** | TAN JOO HUI EFFIE (MRS)<br>[ho\_joo\_hui\_effie@moe.edu.sg](mailto:ho_joo_hui_effie@moe.edu.sg)|
 |  **LH/ MATHEMATICS** | SEE MAY HUA MAYBELLINE (MRS)<br>[kong_may_hua_maybelline.moe.edu.sg](mailto:kong_may_hua_maybelline.moe.edu.sg)  |
 | **SH/ AESTHETICS** | ANDY TAN (MR)<br>[tan_hwa_hwa_andy@moe.edu.sg](mailto:tan_hwa_hwa_andy@moe.edu.sg) |
-(mailto:leo_may_lin@moe.edu.sg) |
