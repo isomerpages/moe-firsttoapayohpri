@@ -6,7 +6,7 @@ variant: markdown
 ---
 |  |  |
 |:---:|:---:|
-| **Principal** | CHUA CHOON GUAN (MR)<br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
+| **Principal** | JENNIFER CHOY (MRS)<br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 | **Vice-Principal** | REMUND KOH PENG YEOW (MR) <br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 | **Vice-Principal (Admin)** | TAY YAM ENG (MS) <br>[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) |
 
@@ -26,7 +26,5 @@ variant: markdown
 | **HOD/ DISCIPLINE &amp; CO-CURRICULAR ACTIVITIES** | JOEL PRATHIEV VINSON (MR)<br>[joel\_prathiev\_vinson@moe.edu.sg](mailto:joel_prathiev_vinson@moe.edu.sg) |
 | **HOD/ MOTHER TONGUE LANGUAGES** | HAN HENG EE ADELYN (MDM)    <br>&nbsp;[han\_heng\_ee@moe.edu.sg](mailto:han_heng_ee@moe.edu.sg) |
 | **HOD/ INFORMATION &amp; COMMUNICATION TECHNOLOGY** | TAN JOO HUI EFFIE (MRS)<br>[ho\_joo\_hui\_effie@moe.edu.sg](mailto:ho_joo_hui_effie@moe.edu.sg)|
-|  **LH/ ENGLISH AND MEDIA RESOURCE LIBRARY** | TAN WAI MUN ALOYSIA (MISS)<br>[tan\_wai\_mun\_aloysia@moe.edu.sg](mailto:tan_wai_mun_aloysia@moe.edu.sg)  |
 |  **LH/ MATHEMATICS** | SEE MAY HUA MAYBELLINE (MRS)<br>[kong_may_hua_maybelline.moe.edu.sg](mailto:kong_may_hua_maybelline.moe.edu.sg)  |
 | **SH/ AESTHETICS** | ANDY TAN (MR)<br>[tan_hwa_hwa_andy@moe.edu.sg](mailto:tan_hwa_hwa_andy@moe.edu.sg) |
-| **SH/ STUDENT WELL-BEING &amp; STUDENT LEADERSHIP** | LEO MAY LIN JEANNE (MDM)<br>[leo\_may\_lin@moe.edu.sg](mailto:leo_may_lin@moe.edu.sg) |
