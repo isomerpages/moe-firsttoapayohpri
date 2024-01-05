@@ -128,8 +128,23 @@ The Numeracy Programme operates in collaboration with esteemed partners, includi
 By intertwining fun and learning, The Numeracy Programme aims to create an environment where students feel motivated and confident in their mathematical abilities. The incorporation of games not only adds an element of enjoyment but also provides a hands-on approach to understanding mathematical concepts, making them more tangible and accessible.<br><br>
 By infusing play into the learning process, the Numeracy Programme strives to create a generation of students who not only excel in numeracy but also approach mathematical challenges with enthusiasm and confidence.
 
-<h6><b>MATHS FUN DAY</b></h6>
-<i>Building Foundations for Joyful Learning</i><br><br>
+<h6><b>MASS FUN DAY</b></h6>
+<i>A Hands-on Learning Experience</i><br><br>
+In an exploration of the world of Mass, our P2 students engaged in a Mass Fun Day that not only made learning tangible but also left a lasting impression on their understanding of this fundamental concept.<br><br>
+One of the key highlights of the day was the opportunity for students to work collaboratively in groups, delving into hands-on experiences in measuring mass. Each group embarked on the exciting journey of measuring the mass of various objects. This interactive activity not only honed their practical skills but also encouraged them to articulate their choices of units: grams or kilograms, providing a deeper insight into the measurement process. 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/Curriculum/Math/12.jpg)     | ![](/images/Curriculum/Math/13.jpg)     | ![](/images/Curriculum/Math/14.jpg)     |
+
+The exploration didn't stop there; students eagerly gathered around balance scales and weighing scales to compare the masses of different objects, particularly various fruits. This practical application allowed them to witness firsthand how the concept of mass is applied in real-world scenarios, fostering a more intuitive understanding.<br><br>
+To further solidify their learning, everyday examples were ingeniously incorporated. Students had the opportunity to develop a sense of how heavy    1 kg or 1 g feels by interacting with common household items. Packets of sugar, flour, rice, paper, and even a rubber band served as tangible examples, connecting theoretical knowledge with the tangible weight of everyday objects.<br><br>
+The Mass Fun Day not only made learning about mass an exciting adventure but also laid the groundwork for a more profound comprehension of this fundamental scientific concept. Through practical engagement and real-world examples, students not only measured mass but also measured the fun and excitement in their learning journey.
+
+
+
+<h6><b>MASS FUN DAY</b></h6>
+<i>A Hands-on Learning Experience</i><br><br>
 
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
