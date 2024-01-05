@@ -143,7 +143,7 @@ The exploration didn't stop there; students eagerly gathered around balance scal
 To further solidify their learning, everyday examples were ingeniously incorporated. Students had the opportunity to develop a sense of how heavy    1 kg or 1 g feels by interacting with common household items. Packets of sugar, flour, rice, paper, and even a rubber band served as tangible examples, connecting theoretical knowledge with the tangible weight of everyday objects.<br><br>
 The Mass Fun Day not only made learning about mass an exciting adventure but also laid the groundwork for a more profound comprehension of this fundamental scientific concept. Through practical engagement and real-world examples, students not only measured mass but also measured the fun and excitement in their learning journey.
 
-
+<img style="width:40%" src="/images/Curriculum/Math/15.jpg">
 
 <h6><b>MASS FUN DAY</b></h6>
 <i>A Hands-on Learning Experience</i><br><br>
