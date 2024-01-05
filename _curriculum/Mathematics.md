@@ -108,24 +108,11 @@ In the first week of Term 2, Term 3, and Term 4, selected P3 and P4 prefects too
 The game stations were proposed and developed by the prefects, providing an engaging platform for P1 students to revise essential mathematical concepts. The aim was to make learning enjoyable while reinforcing their understanding.<br><br>
 In their post-activity reflection forms, the prefects shared that this experience taught them valuable lessons in patience, particularly when explaining the rules before the games commenced. They expressed a deep sense of satisfaction in successfully guiding their younger peers through activities centred around addition and subtraction.<br><br>
 This initiative not only served as an educational platform but also fostered a sense of mentorship and camaraderie among students of different levels.<br><br>
-<table>
-	<tbody><tr>
-		<td width="50%">
-				<img src="/images/Curriculum/Math/1.jpeg">
-		</td>
-		<td>
-			<img src="/images/Curriculum/Math/2.jpeg">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/Curriculum/Math/3.jpeg">
-		</td>
-		<td>
-			<img src="/images/Curriculum/Math/3.jpeg">
-		</td>
-	</tr>
-</tbody></table>
+
+| ![](/images/Curriculum/Math/1.jpeg) | ![](/images/Curriculum/Math/2.jpeg) |
+| --- | --- |
+| ![](/images/Curriculum/Math/3.jpeg) | ![](/images/Curriculum/Math/4.jpg) |
+![](/images/Curriculum/Math/5.jpg) 
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
