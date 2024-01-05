@@ -111,7 +111,7 @@ This initiative not only served as an educational platform but also fostered a s
 
 <img style="width:40%" src="/images/Curriculum/Math/1.jpeg">
 
-|  |    |
+|     |     |
 | --- | --- |
 | ![](/images/Curriculum/Math/3.jpeg) |![](/images/Curriculum/Math/2.jpeg) |
 | ![](/images/Curriculum/Math/4.jpg) | ![](/images/Curriculum/Math/5.jpg) |
