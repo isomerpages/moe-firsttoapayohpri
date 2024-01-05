@@ -111,7 +111,7 @@ This initiative not only served as an educational platform but also fostered a s
 
 | ![](/images/Curriculum/Math/1.jpeg) |  |
 | --- | --- |
-| ![](/images/Curriculum/Math/3.jpeg) |![](/images/Curriculum/Math/2.jpeg)   |
+| ![](/images/Curriculum/Math/3.jpeg) |![](/images/Curriculum/Math/2.jpeg) |
 | ![](/images/Curriculum/Math/4.jpg) | ![](/images/Curriculum/Math/5.jpg) |
 <p></p><center><em>Training selected Prefects to teach their young juniors </em></center><p></p>
 
@@ -128,7 +128,8 @@ The Numeracy Programme operates in collaboration with esteemed partners, includi
 By intertwining fun and learning, The Numeracy Programme aims to create an environment where students feel motivated and confident in their mathematical abilities. The incorporation of games not only adds an element of enjoyment but also provides a hands-on approach to understanding mathematical concepts, making them more tangible and accessible.<br><br>
 By infusing play into the learning process, the Numeracy Programme strives to create a generation of students who not only excel in numeracy but also approach mathematical challenges with enthusiasm and confidence.
 
-
+<h6><b>MATHS FUN DAY</b></h6>
+<i>Building Foundations for Joyful Learning</i><br><br>
 
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
