@@ -109,15 +109,6 @@ The game stations were proposed and developed by the prefects, providing an enga
 In their post-activity reflection forms, the prefects shared that this experience taught them valuable lessons in patience, particularly when explaining the rules before the games commenced. They expressed a deep sense of satisfaction in successfully guiding their younger peers through activities centred around addition and subtraction.<br><br>
 This initiative not only served as an educational platform but also fostered a sense of mentorship and camaraderie among students of different levels.<br><br>
 <table>
-	<tbody>
-		<tr>
-			<td>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table>
 	<tbody><tr>
 		<td width="50%">
 				<img src="/images/Curriculum/Math/1.jpeg">
