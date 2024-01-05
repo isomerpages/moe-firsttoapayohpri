@@ -170,7 +170,9 @@ Armed with shopping lists and trolleys, student shoppers navigate the challenge 
 
 Students employ play money, making mindful choices and completing transactions. This interactive activity deepens their understanding of financial transactions and cultivates responsibility in resource management.
 The adventure extends as students creatively make up amounts of money using play notes and coins, enhancing their understanding of numerical combinations. They articulate these amounts in various ways, refining their ability to express financial values using different notations. Beyond the shopping challenge, students engage in exercises making different amounts of money, honing skills in addition and subtraction.
-
+|  |  |
+| -------- | -------- |
+| ![](/images/Curriculum/Math/18.jpg)     | ![](/images/Curriculum/Math/19.jpg)     |
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
