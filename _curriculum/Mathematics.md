@@ -111,10 +111,24 @@ This initiative not only served as an educational platform but also fostered a s
 
 <img style="width:40%" src="/images/Curriculum/Math/1.jpeg">
 
-|     |     |
-| --- | --- |
-| ![](/images/Curriculum/Math/3.jpeg) |![](/images/Curriculum/Math/2.jpeg) |
-| ![](/images/Curriculum/Math/4.jpg) | ![](/images/Curriculum/Math/5.jpg) |
+<table>
+	<tbody><tr>
+		<td>
+			<img src="/images/Curriculum/Math/2.jpeg">
+		</td>
+		<td>
+			<img src="/images/Curriculum/Math/3.jpeg">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/Curriculum/Math/4.jpg">
+		</td>
+		<td>
+			<img src="/images/Curriculum/Math/5.jpg">
+		</td>
+	</tr>
+	</tbody></table>
 <p></p><center><em>Training selected Prefects to teach their young juniors </em></center><p></p>
 
 <h6><b>THE NUMERACY PROGRAMME</b></h6>
