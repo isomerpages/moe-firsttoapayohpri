@@ -124,6 +124,11 @@ At the heart of The Numeracy Programme lies the belief that learning can be both
 | -------- | -------- | -------- |
 |  ![](/images/Curriculum/Math/9.png)     |  ![](/images/Curriculum/Math/10.png)     |  ![](/images/Curriculum/Math/11.png)     |
 
+The Numeracy Programme operates in collaboration with esteemed partners, including SINDA and RSVP Singapore, creating a partnership focused on enhancing the learning journey. The objective of Learning through Games forms the cornerstone of this partnership, emphasizing the use of interactive and engaging activities to reinforce numeracy skills. <br><br>
+By intertwining fun and learning, The Numeracy Programme aims to create an environment where students feel motivated and confident in their mathematical abilities. The incorporation of games not only adds an element of enjoyment but also provides a hands-on approach to understanding mathematical concepts, making them more tangible and accessible.<br><br>
+By infusing play into the learning process, the Numeracy Programme strives to create a generation of students who not only excel in numeracy but also approach mathematical challenges with enthusiasm and confidence.
+
+
 
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
