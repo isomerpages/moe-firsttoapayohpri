@@ -102,21 +102,33 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 	</tr>
 </tbody></table>
 
+<h6><b>MATHS FUN DAY</b></h6>
+<i>Building Foundations for Joyful Learning</i><br><br>
+In the first week of Term 2, Term 3, and Term 4, selected P3 and P4 prefects took on the role of facilitators for specially designed mathematics-based games, exclusively crafted for the P1 students. These games were strategically co-created by the prefects and the teachers to help the P1 students reinforce concepts learned in the previous term and, more importantly, to cultivate a joyful approach to learning.<br><br>
+The game stations were proposed and developed by the prefects, providing an engaging platform for P1 students to revise essential mathematical concepts. The aim was to make learning enjoyable while reinforcing their understanding.<br><br>
+In their post-activity reflection forms, the prefects shared that this experience taught them valuable lessons in patience, particularly when explaining the rules before the games commenced. They expressed a deep sense of satisfaction in successfully guiding their younger peers through activities centred around addition and subtraction.<br><br>
+This initiative not only served as an educational platform but also fostered a sense of mentorship and camaraderie among students of different levels.<br><br>
+<table>
+	<tbody>
+		<tr>
+			<td>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 <table>
 	<tbody><tr>
 		<td width="50%">
-			<h6><b>P1 MATHS FUN DAY</b></h6>
-			Selected P3 and P4 prefects were coached to facilitate specially designed games based on mathematics concepts for the P1 students on the first week of Term 2, Term 3 and Term 4. The various game station were proposed and created by these prefects for the P1 students to revise the concepts learnt in the previous term so as to foster the joy of learning.<br><br>
-In the post-activity reflection forms, the prefects expressed that they had learnt to be very patient with the P1 students, especially when they were explaining the rules before playing the games. Their greatest takeaway was the sense of satisfaction they felt when they managed to guide their juniors in playing the addition and subtraction games. 
+				<img src="/images/Curriculum/Math/1.jpeg">
 		</td>
 		<td>
-			<br><br><br><br><br>
-			<img src="/images/Curriculum/Math/1.jpeg">
+			<img src="/images/Curriculum/Math/2.jpeg">
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="/images/Curriculum/Math/2.jpeg">
+			<img src="/images/Curriculum/Math/3.jpeg">
 		</td>
 		<td>
 			<img src="/images/Curriculum/Math/3.jpeg">
