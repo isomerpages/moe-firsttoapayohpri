@@ -115,6 +115,48 @@ This initiative not only served as an educational platform but also fostered a s
 | ![](/images/Curriculum/Math/4.jpg) | ![](/images/Curriculum/Math/5.jpg) |
 <p></p><center><em>Training selected Prefects to teach their young juniors </em></center><p></p>
 
+<h6><b>THE NUMERACY PROGRAMME</b></h6>
+<i>Nurturing Confidence and Learning Through Play</i><br><br>
+The Numeracy Programme stands as a beacon of innovation, designed not only to reinforce fundamental numeracy concepts but also to instil motivation and confidence in young learners. This enrichment initiative, driven by a commitment to providing positive learning experiences, prevents math anxieties among students.<br><br>
+At the heart of The Numeracy Programme lies the belief that learning can be both enjoyable and effective. Through a strategic integration of play and numeracy, students are not only introduced to essential mathematical concepts but are also encouraged to build a positive relationship with the subject. This approach aligns with the broader mission of fostering a love for learning that extends beyond the classroom.<br><br>
+
+<table>
+	<tbody><tr>
+		<td>
+			<img src="/images/Curriculum/Math/6.jpg">
+		</td>
+		<td>
+			<img src="/images/Curriculum/Math/7.png">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/P3P4_3.jpg">
+		</td>
+		<td>
+			<img src="/images/P3P4_4.jpg">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/P3P4_5.jpeg">
+		</td>
+		<td></td>
+	</tr>
+</tbody></table>
+
+
+
+| ![](/images/Curriculum/Math/6.jpg) | ![](/images/Curriculum/Math/7.png) |  ![](/images/Curriculum/Math/8.png)|
+| -------- | -------- | -------- |
+|  ![](/images/Curriculum/Math/9.png)     |  ![](/images/Curriculum/Math/10.png)     |  ![](/images/Curriculum/Math/11.png)     |
+
+| ![]((/images/Curriculum/Math/6.jpg) | ![](/images/Curriculum/Math/7.png) |
+| --- | --- |
+| ![](/images/Curriculum/Math/8.png) | ![](/images/Curriculum/Math/9.png) |
+
+
+
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
 <h6><b>P3 AND P4 EXPERIENTIAL LEARNING</b></h6>
