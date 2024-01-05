@@ -3,27 +3,27 @@ title: P3 Teachers
 permalink: /ftpps-family/our-staff/p3-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 |  |  |  |
 |---|---|---|
-|  **P3 RESPONSIBILITY** |  |  |
-|  Form Teachers |  WONG NGIAN KHEE IAIN (MR) |  [wong_ngian_khee@moe.edu.sg](mailto:wong_ngian_khee@moe.edu.sg) |
-|   |  CHEONG KA LENG STEPHANIE (MDM) |  [cheong_ka_leng_stephanie@moe.edu.sg](mailto:cheong_ka_leng_stephanie@moe.edu.sg) |
-|   |  CHOW ZHAOYU JADEN (MR) |  [chow_zhaoyu_jaden@moe.edu.sg](mailto:chow_zhaoyu_jaden@moe.edu.sg) |
+|  **P3 RESPECT** |  |  |
+|  Form Teachers  |  LAM LAI NGOR (MISS) |  [lam_lai_ngor@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
+|   |  GOH KAI YANG, TIMOTHY (MR)   |  [goh_kai_yang_timothy@moe.edu.sg](mailto:goh_kai_yang_timothy@moe.edu.sg) |
 |   |   |   |
-|  **P3 LOVE** |  |  |
-|  Form Teachers  |  TAN WAI MUN ALOYSIA (MISS) |  [tan_wai_mun_aloysia@moe.edu.sg](mailto:tan_wai_mun_aloysia@moe.edu.sg) |
-|   |  LEE CHUNG FANG (MISS)  |  [lee_chung_fang@moe.edu.sg](mailto:lee_chung_fang@moe.edu.sg) |
+|  **P3 RESPONSIBILITY** |  |  |
+|  Form Teachers |  TAN AI CHOO PAMELA (MDM) |  [tan_ai_choo@moe.edu.sg](mailto:tan_ai_choo@moe.edu.sg) |
 |   |  HAN HENG EE ADELYN (MDM)  |  [han_heng_ee@moe.edu.sg](mailto:han_heng_ee@moe.edu.sg) |
-|  |  |  |
+|   |   |   |
 |  **P3 INTEGRITY** |  |  |
-|  Form Teachers |  CHIA HUI SIANG (MISS) |  [chia_hui_siang@moe.edu.sg](mailto:chia_hui_siang@moe.edu.sg) |
-|   |  SEE MAY HUA MAYBELLINE (MRS) |  [kong_may_hua_maybelline@moe.edu.sg](mailto:kong_may_hua_maybelline@moe.edu.sg) |
-|   |  AW YONG BI ZHU NANCY (MS) |  [aw_yong_bi_zhu@moe.edu.sg](mailto:aw_yong_bi_zhu@moe.edu.sg) |
+|  Form Teachers  |  CHOW ZHAOYU JADEN (MR) |  [chow_zhaoyu_jaden@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
+|   |  SNG SIN LIM CAROL (MDM)  |  [sng_sin_lim@moe.edu.sg](mailto:sng_sin_lim@moe.edu.sg) |
+|  |  |  |
+|  **P3 LOVE** |  |  |
+|  Form Teachers |  TEO CHWEE CHIN KATHERINE (MDM) |  [teo_chwee_chin@moe.edu.sg](mailto:teo_chwee_chin@moe.edu.sg) |
+|   |  SITI NUR RADHIAHTUN (MDM) |  [siti_nur_radhiatun_ms@moe.edu.sg](mailto:siti_nur_radhiatun_ms@moe.edu.sg) |
 |   |   |   |
 |  **P3 PERSEVERANCE** |  |  |
-|  Form Teachers |  LEO MAY LIN JEANNE (MDM) |  [leo_may_lin@moe.edu.sg](mailto:leo_may_lin@moe.edu.sg) |
-|   |  GOH JIA XUAN (MISS) |  [goh_jia_xuan_a@moe.edu.sg](mailto:goh_jia_xuan_a@moe.edu.sg) |
-|  |  MRS PANDIYAN |  [k_maanvili@moe.edu.sg](mailto:k_maanvili@moe.edu.sg) |
-|   |  FIKIR AMIN BINTI MD SAID (MDM) |  [fikir_amin_md_said@moe.edu.sg](mailto:fikir_amin_md_said@moe.edu.sg) |
+|  Form Teachers |  LIM XINTIAN AMANDA (MRS) |  [lek_xintian_amanda@moe.edu.sg](mailto:lek_xintian_amanda@moe.edu.sg) |
+|   |  NOR IZAWATY BINTE MOHAMED NOOR (MISS) |  [nor_izawaty_mohamed_noor@moe.edu.sg](mailto:nor_izawaty_mohamed_noor@moe.edu.sg) |
 |   |   |   |
