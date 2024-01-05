@@ -120,40 +120,9 @@ This initiative not only served as an educational platform but also fostered a s
 The Numeracy Programme stands as a beacon of innovation, designed not only to reinforce fundamental numeracy concepts but also to instil motivation and confidence in young learners. This enrichment initiative, driven by a commitment to providing positive learning experiences, prevents math anxieties among students.<br><br>
 At the heart of The Numeracy Programme lies the belief that learning can be both enjoyable and effective. Through a strategic integration of play and numeracy, students are not only introduced to essential mathematical concepts but are also encouraged to build a positive relationship with the subject. This approach aligns with the broader mission of fostering a love for learning that extends beyond the classroom.<br><br>
 
-<table>
-	<tbody><tr>
-		<td>
-			<img src="/images/Curriculum/Math/6.jpg">
-		</td>
-		<td>
-			<img src="/images/Curriculum/Math/7.png">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/P3P4_3.jpg">
-		</td>
-		<td>
-			<img src="/images/P3P4_4.jpg">
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/P3P4_5.jpeg">
-		</td>
-		<td></td>
-	</tr>
-</tbody></table>
-
-
-
 | ![](/images/Curriculum/Math/6.jpg) | ![](/images/Curriculum/Math/7.png) |  ![](/images/Curriculum/Math/8.png)|
 | -------- | -------- | -------- |
 |  ![](/images/Curriculum/Math/9.png)     |  ![](/images/Curriculum/Math/10.png)     |  ![](/images/Curriculum/Math/11.png)     |
-
-| ![]((/images/Curriculum/Math/6.jpg) | ![](/images/Curriculum/Math/7.png) |
-| --- | --- |
-| ![](/images/Curriculum/Math/8.png) | ![](/images/Curriculum/Math/9.png) |
 
 
 
