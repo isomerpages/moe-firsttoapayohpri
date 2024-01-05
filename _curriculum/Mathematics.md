@@ -174,6 +174,9 @@ The adventure extends as students creatively make up amounts of money using play
 | -------- | -------- |
 | ![](/images/Curriculum/Math/18.jpg)     | ![](/images/Curriculum/Math/19.jpg)     |
 
+Shopping Adventure is a holistic, engaging approach to teaching money concepts. As students embark on this journey, they become adept at handling money and develop skills crucial for broader financial literacy.
+
+
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
 <h6><b>P3 AND P4 EXPERIENTIAL LEARNING</b></h6>
