@@ -145,8 +145,17 @@ The Mass Fun Day not only made learning about mass an exciting adventure but als
 
 <img style="width:40%" src="/images/Curriculum/Math/15.jpg">
 
-<h6><b>MASS FUN DAY</b></h6>
-<i>A Hands-on Learning Experience</i><br><br>
+<h6><b>SHOPPING ADVENTURE</b></h6>
+<i>Embarking on a Financial Literacy Experience</i><br><br>
+In the course of financial learning, Shopping Adventure stands as a dynamic exploration, bridging theory with practical skills. This initiative immerses students in a simulated supermarket, transforming the complexities of currency into hands-on experiences.<br><br>
+Armed with shopping lists and trolleys, student shoppers navigate the challenge with enthusiasm. Within this engaging atmosphere, some students adopt pivotal roles—cashiers with toy cashier registers and price checkers aiding shoppers in decision-making. This role-play not only adds realism but fosters collaborative learning.
+
+|  |  |
+| -------- | -------- |
+| ![](/images/Curriculum/16.jpg)     | ![](/images/Curriculum/17.jpg)     |
+
+Students employ play money, making mindful choices and completing transactions. This interactive activity deepens their understanding of financial transactions and cultivates responsibility in resource management.
+The adventure extends as students creatively make up amounts of money using play notes and coins, enhancing their understanding of numerical combinations. They articulate these amounts in various ways, refining their ability to express financial values using different notations. Beyond the shopping challenge, students engage in exercises making different amounts of money, honing skills in addition and subtraction.
 
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
