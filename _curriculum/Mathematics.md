@@ -102,19 +102,17 @@ Embedding games into the concrete-pictorial-abstract approach in Mathematics is 
 	</tr>
 </tbody></table>
 
+<h6><b>MATHS FUN DAY</b></h6>
+<i>Building Foundations for Joyful Learning</i><br><br>
+In the first week of Term 2, Term 3, and Term 4, selected P3 and P4 prefects took on the role of facilitators for specially designed mathematics-based games, exclusively crafted for the P1 students. These games were strategically co-created by the prefects and the teachers to help the P1 students reinforce concepts learned in the previous term and, more importantly, to cultivate a joyful approach to learning.<br><br>
+The game stations were proposed and developed by the prefects, providing an engaging platform for P1 students to revise essential mathematical concepts. The aim was to make learning enjoyable while reinforcing their understanding.<br><br>
+In their post-activity reflection forms, the prefects shared that this experience taught them valuable lessons in patience, particularly when explaining the rules before the games commenced. They expressed a deep sense of satisfaction in successfully guiding their younger peers through activities centred around addition and subtraction.<br><br>
+This initiative not only served as an educational platform but also fostered a sense of mentorship and camaraderie among students of different levels.<br><br>
+
+<img style="width:40%" src="/images/Curriculum/Math/1.jpeg">
+
 <table>
 	<tbody><tr>
-		<td width="50%">
-			<h6><b>P1 MATHS FUN DAY</b></h6>
-			Selected P3 and P4 prefects were coached to facilitate specially designed games based on mathematics concepts for the P1 students on the first week of Term 2, Term 3 and Term 4. The various game station were proposed and created by these prefects for the P1 students to revise the concepts learnt in the previous term so as to foster the joy of learning.<br><br>
-In the post-activity reflection forms, the prefects expressed that they had learnt to be very patient with the P1 students, especially when they were explaining the rules before playing the games. Their greatest takeaway was the sense of satisfaction they felt when they managed to guide their juniors in playing the addition and subtraction games. 
-		</td>
-		<td>
-			<br><br><br><br><br>
-			<img src="/images/Curriculum/Math/1.jpeg">
-		</td>
-	</tr>
-	<tr>
 		<td>
 			<img src="/images/Curriculum/Math/2.jpeg">
 		</td>
@@ -122,7 +120,62 @@ In the post-activity reflection forms, the prefects expressed that they had lear
 			<img src="/images/Curriculum/Math/3.jpeg">
 		</td>
 	</tr>
-</tbody></table>
+	<tr>
+		<td>
+			<img src="/images/Curriculum/Math/4.jpg">
+		</td>
+		<td>
+			<img src="/images/Curriculum/Math/5.jpg">
+		</td>
+	</tr>
+	</tbody></table>
+<p></p><center><em>Training selected Prefects to teach their young juniors </em></center><p></p>
+
+<h6><b>THE NUMERACY PROGRAMME</b></h6>
+<i>Nurturing Confidence and Learning Through Play</i><br><br>
+The Numeracy Programme stands as a beacon of innovation, designed not only to reinforce fundamental numeracy concepts but also to instil motivation and confidence in young learners. This enrichment initiative, driven by a commitment to providing positive learning experiences, prevents math anxieties among students.<br><br>
+At the heart of The Numeracy Programme lies the belief that learning can be both enjoyable and effective. Through a strategic integration of play and numeracy, students are not only introduced to essential mathematical concepts but are also encouraged to build a positive relationship with the subject. This approach aligns with the broader mission of fostering a love for learning that extends beyond the classroom.<br><br>
+
+| ![](/images/Curriculum/Math/6.jpg) | ![](/images/Curriculum/Math/7.png) |  ![](/images/Curriculum/Math/8.png)|
+| -------- | -------- | -------- |
+|  ![](/images/Curriculum/Math/9.png)     |  ![](/images/Curriculum/Math/10.png)     |  ![](/images/Curriculum/Math/11.png)     |
+
+The Numeracy Programme operates in collaboration with esteemed partners, including SINDA and RSVP Singapore, creating a partnership focused on enhancing the learning journey. The objective of Learning through Games forms the cornerstone of this partnership, emphasizing the use of interactive and engaging activities to reinforce numeracy skills. <br><br>
+By intertwining fun and learning, The Numeracy Programme aims to create an environment where students feel motivated and confident in their mathematical abilities. The incorporation of games not only adds an element of enjoyment but also provides a hands-on approach to understanding mathematical concepts, making them more tangible and accessible.<br><br>
+By infusing play into the learning process, the Numeracy Programme strives to create a generation of students who not only excel in numeracy but also approach mathematical challenges with enthusiasm and confidence.
+
+<h6><b>MASS FUN DAY</b></h6>
+<i>A Hands-on Learning Experience</i><br><br>
+In an exploration of the world of Mass, our P2 students engaged in a Mass Fun Day that not only made learning tangible but also left a lasting impression on their understanding of this fundamental concept.<br><br>
+One of the key highlights of the day was the opportunity for students to work collaboratively in groups, delving into hands-on experiences in measuring mass. Each group embarked on the exciting journey of measuring the mass of various objects. This interactive activity not only honed their practical skills but also encouraged them to articulate their choices of units: grams or kilograms, providing a deeper insight into the measurement process. 
+
+|  |  |  |
+| -------- | -------- | -------- |
+| ![](/images/Curriculum/Math/12.jpg)     | ![](/images/Curriculum/Math/13.jpg)     | ![](/images/Curriculum/Math/14.jpg)     |
+
+The exploration didn't stop there; students eagerly gathered around balance scales and weighing scales to compare the masses of different objects, particularly various fruits. This practical application allowed them to witness firsthand how the concept of mass is applied in real-world scenarios, fostering a more intuitive understanding.<br><br>
+To further solidify their learning, everyday examples were ingeniously incorporated. Students had the opportunity to develop a sense of how heavy    1 kg or 1 g feels by interacting with common household items. Packets of sugar, flour, rice, paper, and even a rubber band served as tangible examples, connecting theoretical knowledge with the tangible weight of everyday objects.<br><br>
+The Mass Fun Day not only made learning about mass an exciting adventure but also laid the groundwork for a more profound comprehension of this fundamental scientific concept. Through practical engagement and real-world examples, students not only measured mass but also measured the fun and excitement in their learning journey.
+
+<img style="width:40%" src="/images/Curriculum/Math/15.jpg">
+
+<h6><b>SHOPPING ADVENTURE</b></h6>
+<i>Embarking on a Financial Literacy Experience</i><br><br>
+In the course of financial learning, Shopping Adventure stands as a dynamic exploration, bridging theory with practical skills. This initiative immerses students in a simulated supermarket, transforming the complexities of currency into hands-on experiences.<br><br>
+Armed with shopping lists and trolleys, student shoppers navigate the challenge with enthusiasm. Within this engaging atmosphere, some students adopt pivotal roles—cashiers with toy cashier registers and price checkers aiding shoppers in decision-making. This role-play not only adds realism but fosters collaborative learning.
+
+|  |  |
+| -------- | -------- |
+| ![](/images/Curriculum/16.jpg)     | ![](/images/Curriculum/17.jpg)     |
+
+Students employ play money, making mindful choices and completing transactions. This interactive activity deepens their understanding of financial transactions and cultivates responsibility in resource management.
+The adventure extends as students creatively make up amounts of money using play notes and coins, enhancing their understanding of numerical combinations. They articulate these amounts in various ways, refining their ability to express financial values using different notations. Beyond the shopping challenge, students engage in exercises making different amounts of money, honing skills in addition and subtraction.
+
+| ![](/images/Curriculum/Math/18.jpg) | ![](/images/Curriculum/Math/19.jpg) |
+| --- | --- |
+|  |  |
+
+Shopping Adventure is a holistic, engaging approach to teaching money concepts. As students embark on this journey, they become adept at handling money and develop skills crucial for broader financial literacy.
 
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
@@ -163,6 +216,25 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 | --- | --- |
 | ![](/images/2%20(5).jpg) | ![](/images/3%20(4).jpg) |
 
+<h6><b>LEARNING MULTIPLICATION SONGS</b></h6>
+<i>A Harmonious Approach to Mathematical Confidence</i><br><br>
+Our dedicated Math Teacher, Mr Ivan Sim, has orchestrated an innovative and melodious journey through the introduction of customised resources — The Multiplication Songs. This initiative has elevated the learning experiences of our students across various levels, spreading the joy of learning mathematics.<br><br>
+Inspired by our creative Math Head Mrs Maybelline See, Mr Sim embarked on the journey of adapting these multiplication songs. These songs, carefully tailored to engage young minds, bring an element of joy to the learning process, making mathematical concepts more accessible and enjoyable.<br><br>
+The multiplication songs are more than a teaching tool; they are a testament to the power of creative and engaging methods in education. The songs have not only added a musical dimension to mathematical learning but has also fostered a positive attitude towards the subject, setting the stage for a lifelong appreciation of the beauty of numbers.
+<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vx480C7JjRc?si=ZDjbjgSMiKc0jDIp" height="315" width="560"></iframe>
+<br>
+
+<h6><b>E2K MATH</b></h6>
+<i>Nurturing Mathematical Minds</i><br><br>
+E2K Mathematics Programme is an innovative journey, guiding students to master mathematical concepts with depth. Embracing an inquiry approach, the program focuses on developing mathematical reasoning skills.<br><br>
+At the core of E2K Math is the encouragement of independent and collaborative exploration. Students engage with puzzles, games, and tailored mathematical explorations, fostering curiosity and active participation in mathematical thinking.<br><br>
+Going beyond conventional methods, the program aims to instil not only mathematical proficiency but also the attitudes of seasoned mathematicians. Through hands-on challenges, students develop resilience and creativity, cultivating a mindset aligned with true mathematical scholarship.<br><br>
+Crucially, E2K recognizes 21st-century demands, aligning objectives with the development of critical thinking, invention thinking, and effective communication skills. These competencies prepare students for academic challenges and future endeavours.
+
+| ![](/images/Curriculum/Math/P3_1.jpg) | ![](/images/Curriculum/Math/P3_2.jpg) |  ![](/images/Curriculum/Math/P3_3.jpg)|
+| -------- | -------- | -------- |
+|       |      |       |
 
 <h5><a id="menu3">P5 to P6 Programmes</a></h5>
 
@@ -177,3 +249,10 @@ In line with the school’s continual emphasis on enriching and developing stude
 <h6><b>ASPIRE PROGRAMME</b></h6>
 
 Every year, the P5 and P6 level will attend a problem solving workshop targeting on the areas of concerns for the respective levels. The course focuses on mathematical problems solving with emphasis on the development of concepts, skills and its underlying processes. In the process, the students will also be engaged in developing and using good thinking habits to approach problem solving and to evaluate their solutions. They will be guided to be aware of their metacognition, to think flexibly, to strive for accuracy and to manage their impulsivity.
+
+<h6><b>P5 CATALYTICS</b></h6>
+<i>Towards Adaptive Learning</i><br><br>
+In the digital era, P5 students recently undertook the SEAB CATalytics assessment, a computer-based tool evaluating core knowledge and skills in Primary Mathematics. CATalytics not only gauges overall performance but also guides tailored learning strategies.<br><br>
+Participating in CATalytics is a leap forward in leveraging technology for an enhanced learning journey. It becomes a dynamic feedback loop, offering insights into students’ learning journey. Understanding strengths and areas for growth equips them to navigate challenges, fostering a sense of ownership in learning.<br><br>
+As we navigate 21st-century education, tools like CATalytics assess academic prowess and catalyse a responsive, student-centric approach. It reflects our commitment to evolving education alongside the needs of the digital era.<br><br>
+<img style="width:50%" src="/images/Curriculum/Math/P5.jpg">

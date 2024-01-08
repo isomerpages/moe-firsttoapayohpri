@@ -2,12 +2,13 @@
 title: School Canteen Advertisement
 permalink: /connect-with-us/schoolcanteenadvertisement/
 description: ""
+variant: markdown
 ---
 ### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Chinese Rice     | 31 August 2023     | Chinese Mixed Rice.    |
+|      |      |    |
 | |  | |
 
 #### **Application Procedure**

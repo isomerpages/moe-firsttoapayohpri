@@ -3,22 +3,25 @@ title: P6 Teachers
 permalink: /ftpps-family/our-staff/p6-teachers/
 description: ""
 third_nav_title: Our Staff
+variant: markdown
 ---
 |  |  |  |
 |---|---|---|
 | **P6 RESPECT** |  |  |
-|  Form Teachers |  TAN KUI ING PEARLY (MDM) |  [tan_kui_ing_pearly@moe.edu.sg](mailto:tan_kui_ing_pearly@moe.edu.sg) |
-|   |  LIM TIEW LING (MDM) |  [lim_tiew_ling@moe.edu.sg](mailto:lim_tiew_ling@moe.edu.sg) |
-|   | ANG TZE YIN (MS) |  [ang_tze_yin@moe.edu.sg](mailto:ang_tze_yin@moe.edu.sg) |
+|  Form Teachers |  ANG MEI LING (MISS)  |  [ang_mei_ling@moe.edu.sg](mailto:ang_mei_ling@moe.edu.sg) |
+|   |  DIANA BINTE MOHAMED MAZLAN (MISS)  |  [diana_mohamed_mazlan@moe.edu.sg](mailto:diana_mohamed_mazlan@moe.edu.sg) |
 |  |  |  |
-| **P6 LOVE** |  |  |
-|  Form Teachers |  JOEL PRATHIEV VINSON (MR) |  [joel_prathiev_vinson@moe.edu.sg](mailto:joel_prathiev_vinson@moe.edu.sg) |
-|   | YEO KIRK BOONE (MR) |  [yeo_kirk_boone@moe.edu.sg](mailto:yeo_kirk_boone@moe.edu.sg) |
-|  |  ABRAHAM ABE (MR) |  [abraham_abe@moe.edu.sg](mailto:abraham_abe@moe.edu.sg) |
-|  |  STEPHANIE TOH BAO ZHEN (MDM) |  [stephanie_toh_bao_zhen@moe.edu.sg](mailto:stephanie_toh_bao_zhen@moe.edu.sg) |
+| **P6 RESPONSIBILITY** |  |  |
+|  Form Teachers |  ZULKARNA'IN BIN BUNIRAN (MR) |  [zulkarnain_b_buniran@moe.edu.sg](mailto:zulkarnain_b_buniran@moe.edu.sg) |
+|   |  GOH SHIH HUI GLENICE (MS) |  [goh_shih_hui@moe.edu.sg](mailto:goh_shih_hui@moe.edu.sg) |
 |  |  |  |
 | **P6 INTEGRITY** |  |  |
-|  Form Teachers | SNG SIN LIM CAROL (MDM) |  [sng_sin_lim@moe.edu.sg](mailto:sng_sin_lim@moe.edu.sg) |
-|   |  NG YING MINDY (MISS) |  [ng_ying_mindy@moe.edu.sg](mailto:ng_ying_mindy@moe.edu.sg) |
-|   |  GUI JEAN EE (MDM)  |  [gui_jean_ee@moe.edu.sg](mailto:gui_jean_ee@moe.edu.sg)  |
+|  Form Teachers |  JULIANA BTE ARIFFIN (MDM)  |  [juliana_ariffin@moe.edu.sg](mailto:juliana_ariffin@moe.edu.sg) |
+|   | LIM MING YUEK SHIRLEY (MDM) |  [lim_ming_yuek_shirley@moe.edu.sg](mailto:lim_ming_yuek_shirley@moe.edu.sg) |
+|  |  JASMINE KOK (MISS) |  [jasmine_kok@moe.edu.sg](mailto:jasmine_kok@moe.edu.sg) |
+|  |  |  |
+| **P6 LOVE** |  |  |
+|  Form Teachers | HO AI LING RINA (MRS) |  [whey_ai_ling_rina@moe.edu.sg](mailto:whey_ai_ling_rina@moe.edu.sg) |
+|   |  TAN BOON HOCK EDWIN (MR) |  [tan_boon_hock_edwin@moe.edu.sg](mailto:tan_boon_hock_edwin@moe.edu.sg) |
+|   |  JOEL PRATHIEV VINSON (MR)  |  [joel_prathiev_vinson@moe.edu.sg](mailto:joel_prathiev_vinson@moe.edu.sg)  |
 |   |   |   |

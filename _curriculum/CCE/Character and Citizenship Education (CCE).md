@@ -3,6 +3,7 @@ title: Character and Citizenship Education (CCE)
 permalink: /curriculum/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -198,3 +199,12 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Curriculum/CCE/CCE1.jpg)
+
+![](/images/Curriculum/CCE/CCE2.jpg)
+
+Click on the links below to see our students in action with the seniors:<br>
+•[https://www.facebook.com/xinyuancomcareltd/videos/568472608756273/](https://www.facebook.com/xinyuancomcareltd/videos/568472608756273/)
+<br><br>
+•[https://www.facebook.com/100064809033633/posts/pfbid02ktPfKbmncuvFX7uFaqELbywH3dCAt7bMau6i4Wpfs5s1Nctk7RVnGmiucARd1DyMl/?mibextid=Na33Lf](https://www.facebook.com/100064809033633/posts/pfbid02ktPfKbmncuvFX7uFaqELbywH3dCAt7bMau6i4Wpfs5s1Nctk7RVnGmiucARd1DyMl/?mibextid=Na33Lf)
