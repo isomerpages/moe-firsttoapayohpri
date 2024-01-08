@@ -224,6 +224,18 @@ The multiplication songs are more than a teaching tool; they are a testament to 
 <br><br>
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vx480C7JjRc?si=ZDjbjgSMiKc0jDIp" height="315" width="560"></iframe>
 <br>
+
+<h6><b>E2K MATH</b></h6>
+<i>Nurturing Mathematical Minds</i><br><br>
+E2K Mathematics Programme is an innovative journey, guiding students to master mathematical concepts with depth. Embracing an inquiry approach, the program focuses on developing mathematical reasoning skills.<br><br>
+At the core of E2K Math is the encouragement of independent and collaborative exploration. Students engage with puzzles, games, and tailored mathematical explorations, fostering curiosity and active participation in mathematical thinking.<br><br>
+Going beyond conventional methods, the program aims to instil not only mathematical proficiency but also the attitudes of seasoned mathematicians. Through hands-on challenges, students develop resilience and creativity, cultivating a mindset aligned with true mathematical scholarship.<br><br>
+Crucially, E2K recognizes 21st-century demands, aligning objectives with the development of critical thinking, invention thinking, and effective communication skills. These competencies prepare students for academic challenges and future endeavours.
+
+| ![](/images/Curriculum/Math/P3_1.jpg) | ![](/images/Curriculum/Math/P3_2.jpg) |  ![](/images/Curriculum/Math/P3_3.jpg)|
+| -------- | -------- | -------- |
+|       |      |       |
+
 <h5><a id="menu3">P5 to P6 Programmes</a></h5>
 
 <h6><b>MATHEMATICS OLYMPIAD TRAINING PROGRAMME</b></h6>
