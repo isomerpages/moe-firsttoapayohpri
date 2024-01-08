@@ -3,6 +3,7 @@ title: Character and Citizenship Education (CCE)
 permalink: /curriculum/character-and-citizenship-education-cce/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 <table>
 	<tbody><tr>
@@ -198,3 +199,7 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 		</tr>
 	</tbody>
 </table>
+
+![](/images/Curriculum/CCE/CCE1.jpg)
+
+![](/images/Curriculum/CCE/CCE2.jpg)
