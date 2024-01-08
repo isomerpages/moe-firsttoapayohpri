@@ -170,9 +170,11 @@ Armed with shopping lists and trolleys, student shoppers navigate the challenge 
 
 Students employ play money, making mindful choices and completing transactions. This interactive activity deepens their understanding of financial transactions and cultivates responsibility in resource management.
 The adventure extends as students creatively make up amounts of money using play notes and coins, enhancing their understanding of numerical combinations. They articulate these amounts in various ways, refining their ability to express financial values using different notations. Beyond the shopping challenge, students engage in exercises making different amounts of money, honing skills in addition and subtraction.
+
+| ![](/images/Curriculum/18.jpg) | ![](/images/Curriculum/19.jpg) |
+| --- | --- |
 |  |  |
-| -------- | -------- |
-| ![](/images/Curriculum/Math/18.jpg)     | ![](/images/Curriculum/Math/19.jpg)     |
+
 
 Shopping Adventure is a holistic, engaging approach to teaching money concepts. As students embark on this journey, they become adept at handling money and develop skills crucial for broader financial literacy.
 
