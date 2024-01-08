@@ -221,9 +221,9 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 Our dedicated Math Teacher, Mr Ivan Sim, has orchestrated an innovative and melodious journey through the introduction of customised resources — The Multiplication Songs. This initiative has elevated the learning experiences of our students across various levels, spreading the joy of learning mathematics.<br><br>
 Inspired by our creative Math Head Mrs Maybelline See, Mr Sim embarked on the journey of adapting these multiplication songs. These songs, carefully tailored to engage young minds, bring an element of joy to the learning process, making mathematical concepts more accessible and enjoyable.<br><br>
 The multiplication songs are more than a teaching tool; they are a testament to the power of creative and engaging methods in education. The songs have not only added a musical dimension to mathematical learning but has also fostered a positive attitude towards the subject, setting the stage for a lifelong appreciation of the beauty of numbers.
-
-
-
+<br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vx480C7JjRc?si=ZDjbjgSMiKc0jDIp" height="315" width="560"></iframe>
+<br>
 <h5><a id="menu3">P5 to P6 Programmes</a></h5>
 
 <h6><b>MATHEMATICS OLYMPIAD TRAINING PROGRAMME</b></h6>
