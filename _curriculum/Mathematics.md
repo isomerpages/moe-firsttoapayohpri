@@ -177,7 +177,6 @@ The adventure extends as students creatively make up amounts of money using play
 
 Shopping Adventure is a holistic, engaging approach to teaching money concepts. As students embark on this journey, they become adept at handling money and develop skills crucial for broader financial literacy.
 
-
 <h5><a id="menu2">P3 to P4 Programmes</a></h5>
 
 <h6><b>P3 AND P4 EXPERIENTIAL LEARNING</b></h6>
@@ -216,6 +215,13 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 | | |
 | --- | --- |
 | ![](/images/2%20(5).jpg) | ![](/images/3%20(4).jpg) |
+
+<h6><b>LEARNING MULTIPLICATION SONGS</b></h6>
+<i>A Harmonious Approach to Mathematical Confidence</i><br><br>
+Our dedicated Math Teacher, Mr Ivan Sim, has orchestrated an innovative and melodious journey through the introduction of customised resources — The Multiplication Songs. This initiative has elevated the learning experiences of our students across various levels, spreading the joy of learning mathematics.<br><br>
+Inspired by our creative Math Head Mrs Maybelline See, Mr Sim embarked on the journey of adapting these multiplication songs. These songs, carefully tailored to engage young minds, bring an element of joy to the learning process, making mathematical concepts more accessible and enjoyable.<br><br>
+The multiplication songs are more than a teaching tool; they are a testament to the power of creative and engaging methods in education. The songs have not only added a musical dimension to mathematical learning but has also fostered a positive attitude towards the subject, setting the stage for a lifelong appreciation of the beauty of numbers.
+
 
 
 <h5><a id="menu3">P5 to P6 Programmes</a></h5>
