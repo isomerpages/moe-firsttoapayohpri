@@ -249,3 +249,10 @@ In line with the school’s continual emphasis on enriching and developing stude
 <h6><b>ASPIRE PROGRAMME</b></h6>
 
 Every year, the P5 and P6 level will attend a problem solving workshop targeting on the areas of concerns for the respective levels. The course focuses on mathematical problems solving with emphasis on the development of concepts, skills and its underlying processes. In the process, the students will also be engaged in developing and using good thinking habits to approach problem solving and to evaluate their solutions. They will be guided to be aware of their metacognition, to think flexibly, to strive for accuracy and to manage their impulsivity.
+
+<h6><b>P5 CATALYTICS</b></h6>
+<i>Towards Adaptive Learning</i><br><br>
+In the digital era, P5 students recently undertook the SEAB CATalytics assessment, a computer-based tool evaluating core knowledge and skills in Primary Mathematics. CATalytics not only gauges overall performance but also guides tailored learning strategies.<br><br>
+Participating in CATalytics is a leap forward in leveraging technology for an enhanced learning journey. It becomes a dynamic feedback loop, offering insights into students’ learning journey. Understanding strengths and areas for growth equips them to navigate challenges, fostering a sense of ownership in learning.<br><br>
+As we navigate 21st-century education, tools like CATalytics assess academic prowess and catalyse a responsive, student-centric approach. It reflects our commitment to evolving education alongside the needs of the digital era.<br><br>
+<img style="width:50%" src="/images/Curriculum/Math/P5.jpg">
