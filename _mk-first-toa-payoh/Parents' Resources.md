@@ -2,6 +2,7 @@
 title: Parents' Resources
 permalink: /mk-at-first-toa-payoh/parents-resources/
 description: ""
+variant: markdown
 ---
 <b><u>MOE Kindergarten @ First Toa Payoh (MK@FY)</u></b>
 <br>
@@ -24,7 +25,7 @@ Tel: 8031 9188
 <br>
 Blk 4012 Ang Mo Kio Ave 10
 <br>
-#01-08/09 Techplace 1
+#01-09/06B* Techplace 1
 <br>
 Singapore 569628
 <br>
@@ -36,6 +37,8 @@ Website:&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/)
 <br><b><u>Business Hours:</u></b>
 <br>
 Monday to Friday &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 10am to 6pm
+<br>
+<i>CLOSED for Lunch break and Sanitising of Store – 1pm to 2pm</i>
 <br>
 Saturday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 10am to 2pm
 <br>
