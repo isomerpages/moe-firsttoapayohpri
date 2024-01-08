@@ -205,6 +205,6 @@ Through VIA, students are involved in meaningful authentic experiences which pro
 ![](/images/Curriculum/CCE/CCE2.jpg)
 
 Click on the links below to see our students in action with the seniors:<br>
-•	https://www.facebook.com/xinyuancomcareltd/videos/568472608756273/
+•[https://www.facebook.com/xinyuancomcareltd/videos/568472608756273/](https://www.facebook.com/xinyuancomcareltd/videos/568472608756273/)
 <br>
-•https://www.facebook.com/100064809033633/posts/pfbid02ktPfKbmncuvFX7uFaqELbywH3dCAt7bMau6i4Wpfs5s1Nctk7RVnGmiucARd1DyMl/?mibextid=Na33Lf
+•[https://www.facebook.com/100064809033633/posts/pfbid02ktPfKbmncuvFX7uFaqELbywH3dCAt7bMau6i4Wpfs5s1Nctk7RVnGmiucARd1DyMl/?mibextid=Na33Lf](https://www.facebook.com/100064809033633/posts/pfbid02ktPfKbmncuvFX7uFaqELbywH3dCAt7bMau6i4Wpfs5s1Nctk7RVnGmiucARd1DyMl/?mibextid=Na33Lf)
