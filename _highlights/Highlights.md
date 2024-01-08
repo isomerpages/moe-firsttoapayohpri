@@ -14,7 +14,11 @@ variant: markdown
 				<img src="/images/Highlights/2023/Drama_Extravaganza_2023.jpg">
 				</a>
 			</td>
-		<td>		</td>
+		<td width="25%">
+				<a href="/highlights/2023/mathsfunday/">
+				<img src="/images/Highlights/2023/MathsFunDay.png">
+				</a>
+			</td>
 		<td>		</td>
 		<td>		</td>
 	</tr>	
