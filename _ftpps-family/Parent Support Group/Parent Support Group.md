@@ -3,6 +3,7 @@ title: Parent Support Group
 permalink: /ftpps-family/parent-support-group/
 description: ""
 third_nav_title: Parent Support Group
+variant: markdown
 ---
 <h4><u>Introduction</u></h4>
 
@@ -20,11 +21,11 @@ To fully support the school in nurturing every child to his or her best.
 
 **Respect**
 <br>
-We trust and respect one another, regardless of race, language and religion    
+We trust and respect one another, regardless of race, language and religion&nbsp;&nbsp; &nbsp;
 
 **Responsibility**
 <br>
-We take pride in serving and show enthusiasm and initiative in all that we do   
+We take pride in serving and show enthusiasm and initiative in all that we do&nbsp;&nbsp; 
 
 **Love**
 <br>
@@ -68,11 +69,11 @@ Join us in our learning journeys, camps and enrichment programmes.
 Family Science Club – Our Collaboration with Science Centre Singapore  
 
 ![](/images/PSG2.jpg)
-The Parent Support Group with the School Staff Developer and Year Head (P1&P2)  
+The Parent Support Group with the School Staff Developer and Year Head (P1&amp;P2)  
 
 
 Don’t hesitate anymore! Join the PSG today! Scan the QR Code to register.
 
-<a href="https://go.gov.sg/ftppspsg">
-              <img src="/images/psg.jpg" style="width:50%"/>
+<a href="https://form.gov.sg/6425a76469125a001122daa5">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/FTTPS%20Family/FTPPS_PSG_Registraion_Form_QR_Code.jpg" style="width:50%">
 </a>
