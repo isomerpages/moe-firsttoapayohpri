@@ -8,7 +8,7 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|      |      |    |
+| Halal Western Food     | 8 March 2024     | First Toa Payoh Primary School has a stall vacancy for Western Food (Halal).    |
 | |  | |
 
 #### **Application Procedure**
