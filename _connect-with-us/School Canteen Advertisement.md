@@ -25,7 +25,6 @@ variant: markdown
 * Relevant experience in a school canteen or catering experience.
 * Successful applicant will then be required to apply for a food stall license from Singapore Food Agency (SFA). 
 <br><br>
-
 ##### **How to apply?**
 Interested applicant is required to submit the completed [application form](/files/CONNECT%20with%20Us/School%20Advertisement/appcanteenstallexistingsch.pdf) and the following documents by closing date to email: ftpps@moe.edu.sg OR to the school’s General Office.
 
@@ -33,6 +32,6 @@ Interested applicant is required to submit the completed [application form](/fil
 * One photocopy of applicant's NRIC (front &amp; back)
 * Proposed menu list and prices
 * Photocopies of relevant certificates such as Basic Food Hygiene, etc.
-
+<br><br>
 ##### **Interview and Food Tasting**
 Please note that only shortlisted applicants will be invited for an interview and may be required to provide food sampling (at applicant’s own expense).
