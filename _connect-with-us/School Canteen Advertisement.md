@@ -26,7 +26,7 @@ variant: markdown
 * Successful applicant will then be required to apply for a food stall license from Singapore Food Agency (SFA). 
 <br><br>
 ##### **How to apply?**
-Interested applicant is required to submit the completed [application form](/files/CONNECT%20with%20Us/School%20Advertisement/appcanteenstallexistingsch.pdf) and the following documents by closing date to email: ftpps@moe.edu.sg OR to the school’s General Office.
+Interested applicant is required to submit the completed [application form](/files/CONNECT%20with%20Us/School%20Advertisement/appcanteenstallexistingsch.pdf) and the following documents by closing date to email: [ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) | OR to the school’s General Office.
 
 * One recent passport-sized photograph
 * One photocopy of applicant's NRIC (front &amp; back)
