@@ -12,6 +12,21 @@ variant: markdown
 | |  | |
 
 #### **Application Procedure**
+
+**Interest applicants must meet the following criteria:**
+* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
+* Able to provide good service and quality food at reasonable prices (to be determined in consultation with the school).
+* Must be in personal attendance at the stall during operating hours.
+* Healthy and fit to operate the stall.
+<br><br>
+**Applicants should preferably fulfil the following criteria:**
+* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
+* Relevant experience in a school canteen or catering experience.
+* Successful applicant will then be required to apply for a food stall license from Singapore Food Agency (SFA). 
+<br><br>
+
+
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.<br>
 [Application form](/files/CONNECT%20with%20Us/School%20Advertisement/appcanteenstallexistingsch.pdf)
 <br><br>
@@ -29,17 +44,5 @@ variant: markdown
 **How to get there?**
 * Nearest MRT: Braddell MRT (NS18 line), Toa Payoh MRT (NS19 line) 
 * Bus number: 157, 153, 105, 159, 88, 238
-<br><br>
-**Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide good service and quality food with prices determined in consultation with the school.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-* Able to maintain high standard of food safety and personal hygiene.
-* Healthy and fit to operate the stall.
-<br><br>
-**Applicants should preferably fulfil the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Possess catering experience or experience operating in a school environment.
-* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA). 
 <br><br>
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*
