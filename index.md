@@ -25,6 +25,14 @@ sections:
           description: ""
           url: /highlights
   - infopic:
+      title: Parents' Briefing 2024
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: MORE INFORMATION
+      url: /ftpps-family/parents-corner/parents-briefing-2024
+      image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation 2023-2024
       subtitle: News & Announcements
       button: more information
