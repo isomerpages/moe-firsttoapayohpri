@@ -1,0 +1,40 @@
+collections:
+  ftpps-family:
+    output: true
+    order:
+      - FTPPS Family.md
+      - School Advisory Committee.md
+      - School Management Committee.md
+      - Our Staff/.keep
+      - Our Staff/Our Staff.md
+      - Our Staff/P1 Teachers.md
+      - Our Staff/P2 Teachers.md
+      - Our Staff/P3 Teachers.md
+      - Our Staff/P4 Teachers.md
+      - Our Staff/P5 Teachers.md
+      - Our Staff/P6 Teachers.md
+      - Our Staff/SEN Officer and School Counsellor.md
+      - Our Staff/Non Teaching Staff.md
+      - Parent Support Group/.keep
+      - Parent Support Group/Parent Support Group.md
+      - Parent Support Group/Parent Support Group (PSG) Registration Form.md
+      - Parent Support Group/Parent Support Group (PSG) Meeting.md
+      - Parents' Corner/.keep
+      - Parents' Corner/Monthly Letters to Parents.md
+      - Parents' Corner/Parents Gateway.md
+      - Parents' Corner/School Bill FAQs for Parents.md
+      - Parents' Corner/Group Personal Accident Insurance for Students.md
+      - Parents' Corner/School's Service Provider.md
+      - Parents' Corner/MOE Financial Assistance Scheme (FAS).md
+      - Parents' Corner/POSB Smart Buddy.md
+      - Parents' Corner/HBL Resource Kit.md
+      - Parents' Corner/ICT Newsletter.md
+      - Parents' Corner/Parents' Briefing 2024.md
+      - Parents' Corner/P1 to P6 Holistic Assessment Plans.md
+      - Parents' Corner/P1 Orientation 2023 2024.md
+      - Parents' Corner/Outdoor Adventure Camp Briefing Slides 2023.md
+      - Students' Corner/.keep
+      - Students' Corner/Students' Corner.md
+      - Students' Corner/SLS (Student Learning Space) Guide.md
+      - Students' Corner/Student iCON Guide.md
+      - Students' Corner/Student ZOOM Account Guide.md

@@ -1,0 +1,6 @@
+collections:
+  ict-newsletter:
+    output: true
+    order:
+      - ICT Matters.md
+      - Using Screen Time Without Guilt.md

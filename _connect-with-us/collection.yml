@@ -1,0 +1,16 @@
+collections:
+  connect-with-us:
+    output: true
+    order:
+      - CONNECT with Us.md
+      - Inspiring Moments.md
+      - FTPPS in the News.md
+      - Letters of Appreciation.md
+      - School Admission/.keep
+      - School Admission/School Admission.md
+      - School Admission/Primary 1 Registration.md
+      - School Admission/Waitlist Application.md
+      - School Admission/Leave of Absence (LOA).md
+      - School Canteen Advertisement.md
+      - Contact Us.md
+      - Quick Links.md

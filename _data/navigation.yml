@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Ftpps Family
+    collection: ftpps-family
+  - title: Distinctive Programmes
+    collection: distinctive-programmes
+  - title: Curriculum
+    collection: curriculum
+  - title: Achievements
+    collection: achievements
+  - title: CONNECT with Us
+    collection: connect-with-us
