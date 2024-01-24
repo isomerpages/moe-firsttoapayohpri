@@ -33,18 +33,18 @@ sections:
       image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
       alt: Image alt text
   - infopic:
+      title: MOE Kindergarten (MK) Open House 2024
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: more information
+      url: /mk-at-first-toa-payoh/moe-kindergarten-mk-open-house/
+      image: /images/MK@First Toa Payoh/Open House/MOE_2023_web_banner2_02.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation 2023-2024
       subtitle: News & Announcements
       button: more information
       url: /ftpps-family/parents-corner/p1-orientation-2023-2024/
       image: /images/HOMEPAGE/P1 Orientation 2022-2023_v3.jpg
-      alt: Image alt text
-  - infopic:
-      title: K1 Orientation 2023
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      button: more information
-      url: /mk-at-first-toa-payoh/k1-orientation-2023/
-      image: /images/MK@First Toa Payoh/K1 Orientation/MK_Orientation.jpg
       alt: Image alt text
 ---
