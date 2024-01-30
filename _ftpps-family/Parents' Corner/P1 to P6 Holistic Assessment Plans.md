@@ -36,4 +36,5 @@ variant: tiptap
 <br>
 <br>
 </p><a class="isomer-image-wrapper" href="/ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans#lo\_main"><img style="width:3%" height="auto" width="100%" src="/images/arrow-up.png"></a>
-<p>Back to Top</p>
+<p><a href="/ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans#lo\_main" rel="noopener noreferrer nofollow" target="_blank">Back to Top</a>
+</p>
