@@ -25,14 +25,14 @@ sections:
           description: ""
           url: /highlights
   - infopic:
-      title: First Toa Payoh Primary School Facebook Page
+      title: FTPPS Official Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
       description: Looking for the latest happenings in FTPPS? Drop by our FTPPS
         Official Facebook page to find out more.
       button: Click here
       url: https://www.facebook.com/ftppsofficial/
-      image: /images/HOMEPAGE/Facebook_cover.png
+      image: /images/HOMEPAGE/fb_screenshot.jpeg
       alt: Image alt text
   - infopic:
       title: MOE Kindergarten (MK) Open House 2024
