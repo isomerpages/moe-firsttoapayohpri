@@ -25,11 +25,12 @@ sections:
           description: ""
           url: /highlights
   - infopic:
-      title: Infopic
+      title: First Toa Payoh Primary School Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
-      description: Infopic description
-      button: more information
+      description: Looking for the latest happenings in FTPPS? Drop by our FTPPS
+        Official Facebook page to find out more.
+      button: Click here
       url: https://www.facebook.com/ftppsofficial/
       image: /images/HOMEPAGE/Facebook_cover.png
       alt: Image alt text
