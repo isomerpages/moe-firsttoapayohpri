@@ -25,6 +25,15 @@ sections:
           description: ""
           url: /highlights
   - infopic:
+      title: Infopic
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      description: Infopic description
+      button: more information
+      url: https://www.facebook.com/ftppsofficial/
+      image: /images/HOMEPAGE/Facebook_cover.png
+      alt: Image alt text
+  - infopic:
       title: Holistic Assessment Plans (Term 1)
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
