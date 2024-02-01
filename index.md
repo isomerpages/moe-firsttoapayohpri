@@ -25,12 +25,14 @@ sections:
           description: ""
           url: /highlights
   - infopic:
-      title: Holistic Assessment Plans (Term 1)
+      title: FTPPS Official Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
-      button: more information
-      url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans/
-      image: /images/HOMEPAGE/HA.jpg
+      description: Looking for the latest happenings in FTPPS? Drop by our FTPPS
+        Official Facebook page to find out more.
+      button: Click here
+      url: https://www.facebook.com/ftppsofficial/
+      image: /images/HOMEPAGE/fb_screenshot.jpeg
       alt: Image alt text
   - infopic:
       title: MOE Kindergarten (MK) Open House 2024
@@ -41,18 +43,19 @@ sections:
       image: /images/MK@First Toa Payoh/Open House/MOE_2023_web_banner2_02.jpg
       alt: Image alt text
   - infopic:
+      title: Holistic Assessment Plans (Term 1)
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: more information
+      url: /ftpps-family/parents-corner/p1-to-p6-holistic-assessment-plans/
+      image: /images/HOMEPAGE/HA.jpg
+      alt: Image alt text
+  - infopic:
       title: Parents' Briefing 2024
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
       button: MORE INFORMATION
       url: /ftpps-family/parents-corner/parents-briefing-2024
       image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
-      alt: Image alt text
-  - infopic:
-      title: P1 Orientation 2023-2024
-      subtitle: News & Announcements
-      button: more information
-      url: /ftpps-family/parents-corner/p1-orientation-2023-2024/
-      image: /images/HOMEPAGE/P1 Orientation 2022-2023_v3.jpg
       alt: Image alt text
 ---
