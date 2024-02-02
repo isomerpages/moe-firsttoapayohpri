@@ -35,6 +35,7 @@ be held on Saturday, <strong>3 February 2024 , 8.30 am to 12.30 pm.</strong>
 <p><strong><a href="https://go.gov.sg/mkoh2024" rel="noopener noreferrer nofollow" target="_blank">Sign up</a></strong> for
 the Open House. Please find below our programme for the Open House 2024.</p>
 <p>We look forward to seeing you!&nbsp;&nbsp;</p>
+<p></p>
 <hr>
 <h4><strong>MK@FY OPEN HOUSE PROGRAMME 2024</strong></h4>
 <p></p>
@@ -63,7 +64,7 @@ the Open House. Please find below our programme for the Open House 2024.</p>
 <p>8:30 am to 10.00 am</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MOE Kindergarten Experience</strong>
+<p><strong>MOE Kindergarten Experience</strong> 
 <br>
 <br>1. K1 Classrooms Experience (Rooms 1 – 3)
 <br>- To experience the different Learning Areas
@@ -105,8 +106,7 @@ the Open House. Please find below our programme for the Open House 2024.</p>
 </tr>
 </tbody>
 </table>
-<p>Click here for <a href="/files/MK@First Toa Payoh/MKOH_2024_updated__24_January__3_.pdf" rel="noopener noreferrer nofollow" target="_blank">MK@FY Open House 2024 Slides</a>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First%20Toa%20Payoh/Open%20House/MK%20Open%20House%202023%20no%20parking.jpg">
 </div>
