@@ -36,8 +36,6 @@ be held on Saturday, <strong>3 February 2024 , 8.30 am to 12.30 pm.</strong>
 the Open House. Please find below our programme for the Open House 2024.</p>
 <p>We look forward to seeing you!&nbsp;&nbsp;</p>
 <p></p>
-<p>Please click here for <a href="/files/MK@First Toa Payoh/MKOH_2024_updated__24_January__3_.pdf" rel="noopener noreferrer nofollow" target="_blank">MK Open House slides</a>
-</p>
 <hr>
 <h4><strong>MK@FY OPEN HOUSE PROGRAMME 2024</strong></h4>
 <p></p>
