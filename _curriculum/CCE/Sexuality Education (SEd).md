@@ -93,30 +93,21 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education) for more in
     <td rowspan="5">Growing Years</td>
     <td>Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
     <td>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
-    <td>Term 2 Week 4</td>
+    <td>Term 2 Week 3</td>
   </tr>
   <tr>
     <td>Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
     <td>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
     <td>Term 2 Week 5</td>
   </tr>
-  <tr>
-    <td>Did You Know? *<br>(60 min)</td>
-    <td>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td>Term 2  Week 3</td>
-  </tr>
- </tbody>
+  </tbody>
 </table>
-
-<b>Please Note:<br>
-*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort. </b>
-
-
+	
 #### Information for Parents
 
-8\. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+<li>Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form in [FormSG](https://form.gov.sg/63da28b10447a00011e66ff2) by <u>28 February 2023</u>. This form is also downloadable [here](/files/CURRICULUM/CCE/Sexuality%20Education%20(SEd)/PARENT%20OPT-OUT%20FORM.pdf). If you choose to opt out using the hard copy of the form, please sign and submit the completed form to your child’s Form Teacher by <u>28 February 2023</u>.
+</li><li>Parents who wish to opt their children out of the Sexuality Education lessons need to complete an  <a href="https://form.gov.sg/65bc9b1dbb98e09d5705f51f">opt-out form in FormSG</a> by <u>29 February 2024</u>. This form will be communicated  to parents at the start of the year and is also downloadable <a href="/files/CURRICULUM/CCE/Sexuality%20Education%20(SEd)/051_2024_Sexuality_Education_Letter_to_Parents_optoutform.pdf">here</a>. If you choose to opt out using the hard copy of the form, please sign and submit the completed form to your child’s Form Teacher by <u>28 February 2023</u>.
 
 10\. Parents can contact the school at&nbsp;6256 7822 or email the school at&nbsp;[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
@@ -126,4 +117,4 @@ You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education) for more in
 
 <a href="/curriculum/character-and-citizenship-education-cce/sexuality-education-sed#lo_main">
 	 <img src="/images/arrow-up.png" style="width:3%" align="left"> Back to Top
-</a></ol>
+</a></li></ol>
