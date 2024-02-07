@@ -3,34 +3,38 @@ title: Sexuality Education (SEd)
 permalink: /curriculum/character-and-citizenship-education-cce/sexuality-education-sed/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 ##### MOE SEXUALITY EDUCATION IN SCHOOLS
+<br>
+<ol>
+	<li>Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.</li><br>
+	<li>The <b>Goals</b> of Sexuality Education are:
+<ol style="list-style-type:lower-alpha">
+	<li>Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.</li>
+	<li>Guide students to make wise, informed and responsible decisions on sexuality matters.</li>
+	<li>(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. </li><br>
+	</ol>
+	</li><li> The <b>Key Messages</b> of Sexuality Education are: 
+		<ol style="list-style-type:lower-alpha">
+			<li>Love and respect yourself as you love and respect others;</li>
+			<li>Build positive relationships based on love and respect (which are the foundation for strong families);</li>
+			<li>Make responsible decisions for yourself, your family and society; and</li>
+			<li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
+		</ol>
 
-1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education..
 
-2\. The **Goals** of Sexuality Education are:<br>
-(a)	To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate  <u>knowledge</u> on human sexuality and the consequences of sexual activity;<br>
-(b)	To help students know themselves and build healthy and rewarding relationships through the acquisition of  <u>social and emotional skills</u> of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and<br>
-(c)	To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <u>positive mainstream values and attitudes</u> about sexuality.
-
-3\. The **Key Messages** of Sexuality Education are: <br>
-(a)	Love and respect yourself as you love and respect others;<br>
-(b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
-(c)	Make responsible decisions for yourself, your family and society; and<br>
-(d)	Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
-
-You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education..
-
-#### Overview of First Toa Payoh Primary School’s Sexuality Education Programme for 2023
+#### Overview of First Toa Payoh Primary School’s Sexuality Education Programme for 2024
 
 
-4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 5\. The subjects that incorporate topics on sexuality include:
 		<br>
-    a. Science 
+&nbsp;&nbsp; &nbsp;a. Science&nbsp;
 		<br>
-    b. Character and Citizenship Education (CCE)
+&nbsp;&nbsp; &nbsp;b. Character and Citizenship Education (CCE)
 
   
 
@@ -40,7 +44,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 7\. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
-##### At  First Toa Payoh Primary School, the following Sexuality Education lessons will be taught in 2023:
+##### At&nbsp; First Toa Payoh Primary School, the following Sexuality Education lessons will be taught in 2023:
 
 #### Primary 5
 
@@ -114,12 +118,12 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more inform
 
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form in [FormSG](https://form.gov.sg/63da28b10447a00011e66ff2) by <u>28 February 2023</u>. This form is also downloadable [here](/files/CURRICULUM/CCE/Sexuality%20Education%20(SEd)/PARENT%20OPT-OUT%20FORM.pdf). If you choose to opt out using the hard copy of the form, please sign and submit the completed form to your child’s Form Teacher by <u>28 February 2023</u>.
 
-10\. Parents can contact the school at 6256 7822 or email the school at [ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+10\. Parents can contact the school at&nbsp;6256 7822 or email the school at&nbsp;[ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
 <br>
 <br>
 <br>
 
 <a href="/curriculum/character-and-citizenship-education-cce/sexuality-education-sed#lo_main">
-	 <img src="/images/arrow-up.png" style="width:3%" align="left"/> Back to Top
-</a>
+	 <img src="/images/arrow-up.png" style="width:3%" align="left"> Back to Top
+</a></li></ol>
