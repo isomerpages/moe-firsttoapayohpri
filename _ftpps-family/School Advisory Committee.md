@@ -9,10 +9,10 @@ variant: markdown
 **Vice Chairman: Dr Lim Tit Meng**
 <br>
 <b><u>Members</u></b>
-* Ms Yeo Gek Wah Annie
-* Mr Joseph Ang
 * Mr Michael Ma
+* Mr Joseph Ang
 * Mr Loh Yong Cheng
+* Ms Yeo Gek Wah Annie
 * Ms Esther Foong-Tan<br>
 
 <b>Secretary: Mrs Jennifer Choy</b>
