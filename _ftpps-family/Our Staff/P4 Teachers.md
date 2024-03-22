@@ -18,7 +18,7 @@ variant: markdown
 |   |  TAN JIA HAO CLEMENT (MR) |  [tan_jiahao_clement@moe.edu.sg](mailto:tan_jiahao_clement@moe.edu.sg) |
 |  |  |  |
 |  **P4 LOVE** |  |  |
-|  Form Teachers |  YEO KIRK BOONE (MR)  |  [yeo_kirk_boone@moe.edu.sg](mailto:yeo_kirk_boone@moe.edu.sg) |
+|  Form Teachers |  IGNATIUS MARIO DOLI SENTOSA (MR)  |  [ignatius_mario_doli_sentosa@moe.edu.sg](mailto:ignatius_mario_doli_sentosa@moe.edu.sg) |
 |   |  LEE CHUNG FANG (MISS) |  [lee_chung_fang@moe.edu.sg](mailto:lee_chung_fang@moe.edu.sg) |
 |  |   |   |
 |  **P4 PERSEVERANCE** |   |   |
