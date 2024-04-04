@@ -14,3 +14,4 @@ variant: markdown
 <br>
 [Letter to Parents - March 2024](/files/Parents'%20Corner/Letter%20to%20Parents/2024/0324___Letter_to_Parents__Final_.pdf)
 <br>
+[Letter to Parents - April 2024](/files/Parents'%20Corner/Letter%20to%20Parents/2024/0424__Letter_to_Parents.pdf)
