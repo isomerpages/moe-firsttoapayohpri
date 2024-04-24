@@ -14,5 +14,6 @@ variant: markdown
 * Mr Loh Yong Cheng
 * Ms Yeo Gek Wah Annie
 * Ms Esther Foong-Tan<br>
+* Mr Goh Chong Jin Junasis
 
 <b>Secretary: Mrs Jennifer Choy</b>
