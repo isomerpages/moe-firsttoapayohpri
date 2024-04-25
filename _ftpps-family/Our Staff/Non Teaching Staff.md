@@ -7,7 +7,7 @@ variant: markdown
 ---
 |  |  |
 | :---: | :---: |
-| |
+| **Administration Manager**  |  NOEL GOH GUAN HOCK (MR) <br>[noel_goh@moe.edu.sg](mailto:noel_goh@moe.edu.sg) |
 | **Operations Manager**  |  TEH CHENG MENG (MR) <br>[teh\_cheng\_meng@moe.edu.sg](mailto:teh_cheng_meng@moe.edu.sg)<br><br> YEO SIEK KAR ERIC (MR)<br>[yeo_siek_kar_eric@moe.edu.sg](mailto:yeo_siek_kar_eric@moe.edu.sg)  |
 | **ICT Manager** | TAN XIAO HUI (MISS)<br>[tan\_xiao\_hui@moe.edu.sg](mailto:tan_xiao_hui@moe.edu.sg) |
 | **Admin Executive** |  SALAWATI BTE SARIE (MDM)<br>[salawati\_sarie@moe.edu.sg](mailto:salawati_sarie@moe.edu.sg)<br><br>CHANG CHIOU LIAN SHIRIN (MDM) <br>[chang\_chiou\_lian@moe.edu.sg](mailto:chang_chiou_lian@moe.edu.sg)<br> |
