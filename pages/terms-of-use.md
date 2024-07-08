@@ -24,7 +24,8 @@ and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by First Toa Payoh
 Primary School.</p>
 <h4><strong>Privacy Policy</strong></h4>
-<p>5. Click here to review this Web Site Privacy Statement.</p>
+<p>5. Click <a href="https://www.firsttoapayohpri.moe.edu.sg/about-us/privacy-statement/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this Web Site Privacy Statement.</p>
 <p></p>
 <h4><strong>Restrictions on Use of Materials</strong></h4>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
