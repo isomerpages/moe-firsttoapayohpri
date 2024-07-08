@@ -19,6 +19,7 @@ variant: markdown
 |  Form Teachers |  ABDUL AZEEZ NOORUNISA (MDM) |  [abdul_azeez_noorunisa@moe.edu.sg](mailto:abdul_azeez_noorunisa@moe.edu.sg) |
 |   | CHUA SHEN LING SERENE (MRS)  |  [loke_shen_ling_serene@moe.edu.sg](mailto:loke_shen_ling_serene@moe.edu.sg) |
 |   | TONG MENG LAN RACHEL (MDM)  |  [tong_meng_lan@moe.edu.sg](mailto:tong_meng_lan@moe.edu.sg) |
+|   | CHARISSA ZI XIN (MDM)  |  [charissa_zi_xin@moe.edu.sg](mailto:charissa_zi_xin@moe.edu.sg) |
 |   |   |   |
 |  **P1 INTEGRITY** |  |  |
 |  Form Teachers |  JUNAINAH BINTE MD TAIB (MDM) |  [junainah_md_taib@moe.edu.sg](mailto:junainah_md_taib@moe.edu.sg) |
