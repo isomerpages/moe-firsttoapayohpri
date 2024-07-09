@@ -1,8 +1,8 @@
 ---
 title: Privacy Statement
-permalink: /about-us/privacy-statement/
-description: ""
+permalink: /privacy/
 variant: tiptap
+description: ""
 ---
 <h3><strong>FIRST TOA PAYOH PRIMARY SCHOOL PRIVACY STATEMENT</strong></h3>
 <p></p>

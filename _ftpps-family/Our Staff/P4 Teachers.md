@@ -15,6 +15,7 @@ variant: markdown
 |  **P4 INTEGRITY** |   |   |
 |  Form Teachers |  CHIA HUI SIANG (MISS) |  [chia_hui_siang@moe.edu.sg](mailto:chia_hui_siang@moe.edu.sg) |
 |  |  SEE MAY HUA MAYBELLINE (MRS)  |  [kong_may_hua_maybelline@moe.edu.sg](mailto:kong_may_hua_maybelline@moe.edu.sg) |
+|   |  LIM CHEE KNG (MR) |  [lim_chee_kng@moe.edu.sg](mailto:lim_chee_kng@moe.edu.sg) |
 |   |  TAN JIA HAO CLEMENT (MR) |  [tan_jiahao_clement@moe.edu.sg](mailto:tan_jiahao_clement@moe.edu.sg) |
 |  |  |  |
 |  **P4 LOVE** |  |  |
