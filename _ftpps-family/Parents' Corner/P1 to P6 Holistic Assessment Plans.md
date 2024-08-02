@@ -5,38 +5,30 @@ description: ""
 third_nav_title: Parents' Corner
 variant: tiptap
 ---
-<h3>Term 2</h3>
+<h3>Term 3</h3>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P1 HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTTPS Family/HA Plan/2024_Holistic_Assessment_Plans_Term_3_Page_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTTPS Family/HA Plan/2024_Holistic_Assessment_Plans_Term_3_Page_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTTPS Family/HA Plan/2024_Holistic_Assessment_Plans_Term_3_Page_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P2 HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTTPS Family/HA Plan/2024_Holistic_Assessment_Plans_Term_3_Page_4.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTTPS Family/HA Plan/2024_Holistic_Assessment_Plans_Term_3_Page_5.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P3 HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P3.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P4 HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/p4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 STANDARD HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P5_S.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P5 FOUNDATION HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P5_F.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P6 STANDARD HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P6_S.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="P6 FOUNDATION HOLISTIC ASSESSMENT PLAN (TERM 2)" src="/images/FTTPS Family/HA Plan/P6_F.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FTTPS Family/HA Plan/2024_Holistic_Assessment_Plans_Term_3_Page_6.jpg">
 </div>
 <p>
 <br>
