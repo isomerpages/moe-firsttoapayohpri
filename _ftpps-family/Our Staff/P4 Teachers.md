@@ -16,7 +16,6 @@ variant: markdown
 |  Form Teachers |  CHIA HUI SIANG (MISS) |  [chia_hui_siang@moe.edu.sg](mailto:chia_hui_siang@moe.edu.sg) |
 |  |  SEE MAY HUA MAYBELLINE (MRS)  |  [kong_may_hua_maybelline@moe.edu.sg](mailto:kong_may_hua_maybelline@moe.edu.sg) |
 |   |  LIM CHEE KNG (MR) |  [lim_chee_kng@moe.edu.sg](mailto:lim_chee_kng@moe.edu.sg) |
-|   |  TAN JIA HAO CLEMENT (MR) |  [tan_jiahao_clement@moe.edu.sg](mailto:tan_jiahao_clement@moe.edu.sg) |
 |  |  |  |
 |  **P4 LOVE** |  |  |
 |  Form Teachers |  IGNATIUS MARIO DOLI SENTOSA (MR)  |  [ignatius_mario_doli_sentosa@moe.edu.sg](mailto:ignatius_mario_doli_sentosa@moe.edu.sg) |
