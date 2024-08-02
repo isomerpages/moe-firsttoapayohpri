@@ -35,7 +35,7 @@ sections:
       image: /images/HOMEPAGE/fb_screenshot.jpeg
       alt: Image alt text
   - infopic:
-      title: Holistic Assessment Plans (Term 2)
+      title: Holistic Assessment Plans (Term 3)
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
       button: more information
