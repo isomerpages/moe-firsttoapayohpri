@@ -8,12 +8,14 @@ variant: markdown
 <br>
 **Vice Chairman: Dr Lim Tit Meng**
 <br>
+<b>Secretary: Mrs Jennifer Choy (Principal)</b>
+<br>
 <b><u>Members</u></b>
 * Mr Michael Ma
 * Mr Joseph Ang
 * Mr Loh Yong Cheng
 * Ms Yeo Gek Wah Annie
-* Ms Esther Foong-Tan<br>
+* Ms Esther Foong-Tan
 * Mr Goh Chong Jin Junasis
+* Ms Lin Suling
 
-<b>Secretary: Mrs Jennifer Choy</b>
