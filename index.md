@@ -26,7 +26,6 @@ sections:
           url: /highlights
   - infopic:
       title: HOME-BASED LEARNING 2024
-      subtitle: Add an image and text
       id: infopic
       button: more information
       url: /home-based-learning-2024/
