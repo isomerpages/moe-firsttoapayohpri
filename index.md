@@ -25,6 +25,14 @@ sections:
           description: ""
           url: /highlights
   - infopic:
+      title: HOME-BASED LEARNING 2024
+      subtitle: Add an image and text
+      id: infopic
+      button: more information
+      url: /home-based-learning-2024/
+      image: /images/FTTPS Family/HBL 2024/Slide1.jpg
+      alt: Image alt text
+  - infopic:
       title: FTPPS Official Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
