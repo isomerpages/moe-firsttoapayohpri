@@ -28,9 +28,9 @@ sections:
       title: President’s Award for Teachers 2025
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
-      description: Do you know educators who have made outstanding contributions in
-        moulding the future of our nation? We invite you to nominate them PAT
-        2025.
+      description: Do you know teachers who have made outstanding contributions in
+        moulding the future of our nation? We invite you to nominate them for
+        PAT!
       button: Nominate here
       url: https://go.gov.sg/pat2025
       image: /images/HOMEPAGE/Slide1.jpg
@@ -39,9 +39,9 @@ sections:
       title: Outstanding Youth in Education Award 2025
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
-      description: The Outstanding Youth in Education Award (OYEA) recognises young
-        teachers, aged 35 and below, who are inspiring role models for the
-        teaching profession.
+      description: Do you know a passionate young teacher (aged 35 and below) who
+        inspires students and peers? We invite you to nominate our inspiring
+        young teachers for the OYCA!
       button: Nominate here
       url: https://go.gov.sg/oyea2025
       image: /images/HOMEPAGE/Slide2.jpg
