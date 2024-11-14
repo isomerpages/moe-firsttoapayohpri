@@ -7,7 +7,6 @@ variant: markdown
 ---
 For more information, please click on the link below:  
 
-**[P1 Orientation 2023-2024](https://drive.google.com/file/d/1gM8IAw9T7VH6npXQKQo_T269wHpfVkAH/view?usp=sharing)**
 
 #### Related Videos
 
