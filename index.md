@@ -25,6 +25,14 @@ sections:
           description: ""
           url: /highlights
   - infopic:
+      title: Primary 1 Admin Briefing
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: more information
+      url: /p1-admin-briefing/
+      image: /images/HOMEPAGE/P1__1920_x_1080_px_.jpg
+      alt: Image alt text
+  - infopic:
       title: President’s Award for Teachers 2025
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
