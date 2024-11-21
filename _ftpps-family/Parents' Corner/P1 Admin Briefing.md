@@ -20,9 +20,9 @@ two resources from our recent Primary 1 Administrative Briefing:</p>
 important dates, and answers to frequently asked questions.</p>
 <p>You can now download both resources directly from this page.</p>
 <p>Click on the links below:</p>
-<p><a href="/files/Parents' Corner/P1_Admin_Briefing__Updated__for_school_website.pdf" rel="noopener nofollow" target="_blank">P1 Admin Briefing Slides</a>
+<p><a href="/files/Parents' Corner/P1 Admin Briefing/P1_Admin_Briefing__Updated__for_school_website.pdf" rel="noopener nofollow" target="_blank">P1 Admin Briefing Slides</a>
 </p>
-<p><a href="/files/Parents' Corner/P1_Admin_Briefing_2024_Q_A_Session.pdf" rel="noopener nofollow" target="_blank">Webinar Q&amp;A</a>
+<p><a href="/files/Parents' Corner/P1 Admin Briefing/P1_Admin_Briefing_2024_Q_A_Session.pdf" rel="noopener nofollow" target="_blank">Webinar Q&amp;A</a>
 </p>
 <p>We encourage you to review these materials as they will help you prepare
 for your child's entry into primary school.</p>
