@@ -2,36 +2,105 @@
 title: School Canteen Advertisement
 permalink: /connect-with-us/schoolcanteenadvertisement/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### School Canteen Advertisement
-
-| Type of Stall | Closing Date | Requirements |
-| -------- | -------- | -------- |
-|       |       |      |
-| |  | |
-
-#### **Application Procedure**
-
-##### **Interest applicants must meet the following criteria:**
-* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
-* Able to provide good service and quality food at reasonable prices (to be determined in consultation with the school).
-* Must be in personal attendance at the stall during operating hours.
-* Healthy and fit to operate the stall.
-<br><br>
-##### **Applicants should preferably fulfil the following criteria:**
-* Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-* Relevant experience in a school canteen or catering experience.
-* Successful applicant will then be required to apply for a food stall license from Singapore Food Agency (SFA). 
-<br><br>
-##### **How to apply?**
-Interested applicant is required to submit the completed [application form](/files/CONNECT%20with%20Us/School%20Advertisement/appcanteenstallexistingsch.pdf) and the following documents by closing date to email: [ftpps@moe.edu.sg](mailto:ftpps@moe.edu.sg) | OR to the school’s General Office.
-
-* One recent passport-sized photograph
-* One photocopy of applicant's NRIC (front &amp; back)
-* Proposed menu list and prices
-* Photocopies of relevant certificates such as Basic Food Hygiene, etc.
-<br><br>
-##### **Interview and Food Tasting**
-Please note that only shortlisted applicants will be invited for an interview and may be required to provide food sampling (at applicant’s own expense).
+<h3>School Canteen Advertisement</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Type of Stall</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Closing Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Requirements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Noodle Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Non-Halal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Application Procedure</strong></h4>
+<h5><strong>Interest applicants must meet the following criteria:</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Citizen or Singapore Permanent Resident for stallholder and
+stall assistant.</p>
+</li>
+<li>
+<p>Able to provide food that meet the health/ nutritional standards set by
+the Health Promotion Board (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>);</p>
+</li>
+<li>
+<p>Able to provide good service and quality food at reasonable prices (to
+be determined in consultation with the school);</p>
+</li>
+<li>
+<p>Must be in personal attendance at the stall during operating hours;</p>
+</li>
+<li>
+<p>Healthy and fit to operate the stall.</p>
+</li>
+</ul>
+<h5><strong>Applicants should preferably fulfil the following criteria:</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate</p>
+</li>
+<li>
+<p>Relevant experience in a school canteen or catering experience</p>
+</li>
+<li>
+<p>Successful applicant will then be required to apply for a food stall license
+from Singapore Food Agency (SFA).</p>
+</li>
+</ul>
+<h5><strong>How to apply?</strong></h5>
+<p>Interested applicant is required to submit the completed application form
+and the following documents by closing date to email: <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> OR
+to the school’s General Office.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One recent passport-sized photograph</p>
+</li>
+<li>
+<p>One photocopy of applicant's NRIC (front &amp; back)</p>
+</li>
+<li>
+<p>Proposed menu list and prices</p>
+</li>
+<li>
+<p>Photocopies of relevant certificates such as Basic Food Hygiene, etc.</p>
+</li>
+</ul>
+<h5><strong>Interview and Food Tasting</strong></h5>
+<p>Please note that only shortlisted applicants will be invited for an interview
+and may be required to provide food sampling (at applicant’s own expense).</p>
