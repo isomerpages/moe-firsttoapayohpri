@@ -1,6 +1,6 @@
 title: First Toa Payoh Primary School
 url: https://firsttoapayohpri.moe.edu.sg
-favicon: /images/logo.png
+favicon: /images/Main/Revised_School_Crest_on_clear_background__Full_Colour_.png
 colors:
   primary-color: "#245796"
   secondary-color: "#da472b"
@@ -54,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d24yuqlzky3ymo.amplifyapp.com
 prod: https://master.d24yuqlzky3ymo.amplifyapp.com
-shareicon: /images/logo.png
+shareicon: /images/Main/Revised_School_Crest_on_clear_background__Full_Colour_.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
