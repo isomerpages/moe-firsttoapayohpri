@@ -2,14 +2,19 @@
 title: School Logo, Song & Uniform
 permalink: /about-us/school-logo-song-n-uniform/
 description: ""
+variant: markdown
 ---
 #### SCHOOL LOGO
 
-<img src="/images/logo.png" style="width:25%;"/>
+<img src="/images/Main/Revised_School_Crest_on_clear_background__Full_Colour_.png" style="width:60%;">
 
-The School Logo consists of each of the first letters of the school name, FTPP, that converge on a target. The different shading of the letters represents the four schools that have come together to form our new school, ‘S’ shown in the centre.  
+The acronym of the school’s name “FTPPS” are strategically positioned to point at a compass. This symbolic representation signifies the school’s commitment to guide, mould and nurture our students to become better individuals, making responsible choices as they navigate life’s challenges. 
 
-The words of the motto, “MAKING IMPACT” also converge on the target centre to symbolize our focus on achieving success and excellence in our school. From the target centre, the motto and school letters radiate outwards to symbolize our mission to impact on the lives of not only our children but their families, community and beyond.
+At its core is a compass embraced by the school motto which serves as a beacon, guiding students towards a future where they can positively impact and contribute to the nation as concerned and useful citizens. 
+
+The colour yellow represents the bright, promising future ahead for the students in our care.
+The colour blue symbolises calmness and stability, mirroring the supportive environment we provide to nurture students with diverse needs and talents. We show our students every concern for their well-being, giving them every support and encouragement to achieve their personal best.
+
 
 
 
@@ -60,7 +65,7 @@ The words of the motto, “MAKING IMPACT” also converge on the target centre t
 
 <small><b> Composed by Clement Chow </b></small>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I3NpCmi8E4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I3NpCmi8E4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### School Uniform
 
