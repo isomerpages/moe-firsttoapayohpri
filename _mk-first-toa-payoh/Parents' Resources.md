@@ -36,7 +36,7 @@ variant: tiptap
 <br>Singapore 387298
 <br>Tel: 6743 6645
 <br>Email:&nbsp;<a href="mailto:info@beauviox.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@beauviox.com.sg</a> 
-<br>Website:&nbsp;<a href="http://www.beauvoix.com/preschool/" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com/preschool</a> 
+<br>Website:&nbsp;<a href="https://www.beauvoix.com/" rel="noopener noreferrer nofollow" target="_blank">www.beauvoix.com</a>
 <br><strong><u>Business Hours:</u></strong> 
 <br>Monday to Friday &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : 09:30am to 05:30pm
 <br>Saturday, Sunday &amp; PH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
