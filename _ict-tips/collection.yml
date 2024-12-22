@@ -1,5 +1,5 @@
 collections:
-  ict-newsletter:
+  ict-tips:
     output: true
     order:
       - ICT Matters.md
