@@ -2,29 +2,16 @@
 title: English Language
 permalink: /curriculum/english-language/
 description: ""
+variant: markdown
 ---
-<table>
-	<tbody><tr>
-		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5><b>Mission</b></h5>
-			To develop confident users of the English language through developing listening, speaking, writing and reading skills
-		</td>
-	</tr>
-	<tr>
-     <td>
-		   <img src="/images/vision.png" style="height:75px; width:75px">
-     </td>
-     <td> 
-			 <h5><b>Vision</b></h5>
-	     Effective and Confident Communicators
-       </td>
-	</tr>
-</tbody></table>
+<h4><b>Literacy Through Photojournalism</b></h4>
 
-<h3><b>Stellar</b></h3>
+Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
+
+![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
+
+
+<h3><b>STELLAR</b></h3>
 
 The STELLAR framework guides the teaching and learning of English language in seeking to develop students’ listening, speaking, reading and writing competencies. Apart from developing students who love reading and have a strong foundation in English Language, we also develop multiple competencies in our students to capitalise on the rich opportunities of the digital age. Language is taught in meaningful contexts, through integrating the different areas of language learning and introducing language skills and strategies in an explicit and systematic way. 
 
@@ -39,8 +26,6 @@ Students are taught progressive skills of Sustained Silent Reading, Supported Re
 
 ![P1 &amp; P2 Learning Journeys](/images/Curriculum/English%20Language/p1%20&amp;%20p2%20learning%20journeys.jpg)
 
-<h3><b> Programmes</b></h3>
-
 <h4><b>Speaking Programmes</b></h4>
 Students develop confidence in speaking through a spiral approach to cultivate appropriate intonation, expression and pronunciation. 
 
@@ -50,21 +35,11 @@ Students develop confidence in speaking through a spiral approach to cultivate a
 	<li><b>Seek and Speak (P5 and P6)</b></li>Students develop confidence in speaking face to face with an adult by engaging a teacher in a conversation on a topic of their choice. 
 </ul>
 
-<h4><b>Speech and Drama</b></h4>
-
-This programme aims to develop confident students through Speech and Drama sessions in preparation for the Drama Extravaganza held annually where they showcase what they have learnt. Be sure to catch them in action!
-
-![Drama Extravaganza](/images/Curriculum/English%20Language/drama%20extravaganza.jpg)
-
-<h4><b>Literacy Through Photojournalism</b></h4>
-
-Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
-
-![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
-
 <h4><b>Story Spark Programme</b></h4>
 
 The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
+
+![](/images/Curriculum/English%20Language/myON_resize.png)
 
 <h4><b>Support Programmes</b></h4>
 
@@ -77,9 +52,3 @@ The Story Spark Programme aims to develop a joy of independent reading among stu
 
 ![kidsREAD Programme](/images/Curriculum/English%20Language/kidsread%20programme.jpg)
 
-
-<h4><b>Talent Development Programme</b></h4>
-
-Students who have shown aptitude and flair for the language are given the opportunity to further develop their talent and cultivate a greater love for the language through Book Studies (Literature) and Debating. 
-
-![Talent Development Programme](/images/Curriculum/English%20Language/talent%20development%20programme.jpg)
