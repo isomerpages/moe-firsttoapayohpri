@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h4><b>Literacy Through Photojournalism</b></h4>
 
-![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
+<img src="/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg">
 Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
 
 <h3><b>STELLAR</b></h3>
@@ -15,8 +15,8 @@ The STELLAR framework guides the teaching and learning of English language in se
 
 <h4><b>Lower Primary</b></h4>
 <br>
+<img src="/images/Curriculum/English%20Language/p1%20&amp;%20p2%20learning%20journeys.jpg">
 
-![P1 &amp; P2 Learning Journeys](/images/Curriculum/English%20Language/p1%20&amp;%20p2%20learning%20journeys.jpg)
 Students experience the Shared Book Approach (SBA), Modified Language Experience (MLEA) writing, Extensive Reading and Differentiated Focus Lessons (DFL) to learn skills related to “learning to read”, writing, speaking and listening. 
 
 <h4><b>Upper Primary</b></h4>
@@ -34,8 +34,7 @@ Students develop confidence in speaking through a spiral approach to cultivate a
 </ul>
 
 <h4><b>Story Spark Programme</b></h4>
-
-![](/images/Curriculum/English%20Language/myON_resize.png)
+<img src="/images/Curriculum/English%20Language/myON_resize.png">
 The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
 
 <h4><b>Support Programmes</b></h4>
@@ -47,4 +46,3 @@ The Story Spark Programme aims to develop a joy of independent reading among stu
 	<li><b>kidsREAD Programme</b></li> <img src="/images/Curriculum/English%20Language/kidsread%20programme.jpg">
 	A collaboration with the National Library Board (NLB) and Raffles Girls’ School (RGS), kidsREAD aims to promote the love of reading and cultivate good reading habits among young students. The kidsREAD sessions are conducted by our teachers, as well as the RGS student volunteers trained by NLB in basic storytelling skills.<br><br>
 </ul>
-
