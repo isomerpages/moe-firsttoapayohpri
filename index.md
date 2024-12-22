@@ -59,6 +59,6 @@ sections:
         Official Facebook page to find out more.
       button: Click here
       url: https://www.facebook.com/ftppsofficial/
-      image: /images/HOMEPAGE/fb_screenshot.jpeg
+      image: /images/Main/Screenshot_2024_12_22_224254.png
       alt: Image alt text
 ---
