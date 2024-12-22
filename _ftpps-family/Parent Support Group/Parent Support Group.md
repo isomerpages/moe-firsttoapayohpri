@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-
 ![](/images/FTTPS%20Family/PSG/PSG_EXCOs.png)
 
 <h4><b>Benefits of Joining the PSG</b></h4>
