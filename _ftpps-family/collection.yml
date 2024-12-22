@@ -2,7 +2,6 @@ collections:
   ftpps-family:
     output: true
     order:
-      - FTPPS Family.md
       - School Advisory Committee.md
       - School Management Committee.md
       - Our Staff/.keep
