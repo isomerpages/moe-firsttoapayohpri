@@ -4,11 +4,11 @@ permalink: /about-us/school-logo-song-n-uniform/
 description: ""
 variant: markdown
 ---
-#### SCHOOL LOGO
+#### SCHOOL CREST
 
 <img src="/images/Main/Revised_School_Crest_on_clear_background__Full_Colour_.png" style="width:60%;">
 
-The acronym of the school’s name “FTPPS” are strategically positioned to point at a compass. This symbolic representation signifies the school’s commitment to guide, mould and nurture our students to become better individuals, making responsible choices as they navigate life’s challenges. 
+The acronym of the school’s name “FTPPS” is strategically positioned to point at a compass. This symbolic representation signifies the school’s commitment to guide, mould and nurture our students to become better individuals, making responsible choices as they navigate life’s challenges. 
 
 At its core is a compass embraced by the school motto which serves as a beacon, guiding students towards a future where they can positively impact and contribute to the nation as concerned and useful citizens. 
 
