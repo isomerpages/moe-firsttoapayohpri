@@ -21,13 +21,13 @@ variant: tiptap
 <p></p>
 <h4>Student Vision Outcomes</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About US/Student_Vision_outcome.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/About US/Student_Vision_outcome.png">
 </div>
 <p></p>
 <h4>Staff Vision Outcomes</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About US/Staff_Vision_Outcomes.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/About US/Staff_Vision_Outcomes.png">
 </div>
 <p></p>
 <p></p>
