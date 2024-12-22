@@ -5,27 +5,6 @@ description: ""
 third_nav_title: Mother Tongue
 variant: markdown
 ---
-<table>
-	<tbody><tr>
-		<td width="100px">
-			<img style="height:75px; width:75px" src="/images/mission.jpg">
-		</td>
-		<td> 
-			<h5><b>Mission</b></h5>
-			To develop confident and independent learners of the Mother Tongue&nbsp;Languages through developing listening, speaking, writing and reading&nbsp;skills.
-		</td>
-	</tr>
-	<tr>
-     <td>
-		   <img style="height:75px; width:75px" src="/images/vision.png">
-     </td>
-     <td> 
-			 <h5><b>Vision</b></h5>
-	     Achieving Excellence in Learning and Developing Good Character.
-       </td>
-	</tr>
-</tbody></table>
-
 <h4><b>Learning Approach</b></h4>
 
 To instil the interest and enjoy the learning of Chinese Language, Chinese Department make use of the advancements in Information &amp; Communication Technology (ICT) as an invaluable tool for enhancing the ways our teachers and students teach and learn.
@@ -59,9 +38,8 @@ Interesting picture books with Chinese cultural elements are also used in conjun
 
 <h5><b>Mother Tongue Languages Fortnight (MTLFN) and Language &amp; Cultural Camps</b></h5>
 
+![](/images/Curriculum/Mother%20Tongue/Chinese/MTLFN.png)
 The MTL Fortnight activities and Language &amp; Cultural Camps provide enriching and meaningful learning experiences for students to actively learn MTL and the associated culture to experience MTL as ‘a living language’. The activities provide authentic opportunities for students to use MTL and experience the culture. By providing an immersive environment for students to learn and use MTL in a more in-depth manner, students are able to better appreciate their respective mother tongue languages and cultures.
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BSqFoIp7F_k?si=Di-8DPcAiaQ7T3Ak" height="468" width="832"></iframe>
 
 <h5><b>Chinese Language Enrichment Module (CLEM)</b></h5>
 
