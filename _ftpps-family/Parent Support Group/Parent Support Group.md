@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
+
+![](/images/FTTPS%20Family/PSG/PSG_EXCOs.png)
+
 <h4><b>Benefits of Joining the PSG</b></h4>
 
 **Partnership**
@@ -31,11 +34,11 @@ Activities and programmes to bond with your child.
 <br>
 Join us in our learning journeys, camps and enrichment programmes.
 
+![](/images/FTTPS%20Family/PSG/Parent_Child_Bonding_and_Learning_Journey_to_Bollywood_Farms.png)
+<p style="text-align:center;">Parent Child Bonding and Learning Journey to Bollywood Farms</p>
 
-
-![](/images/PSG2.jpg)
-The Parent Support Group with the School Staff Developer and Year Head (P1&amp;P2)  
-
+![](/images/FTTPS%20Family/PSG/PSG_Performing_for_Teachers__Day_.png)
+<p style="text-align:center;">PSG Performing for Teachers Day</p>
 
 Don’t hesitate anymore! Join the PSG today! Scan the QR Code to register.
 
