@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Curriculum.md
       - English Language.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese.md
