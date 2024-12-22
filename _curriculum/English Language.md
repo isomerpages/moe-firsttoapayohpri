@@ -6,10 +6,8 @@ variant: markdown
 ---
 <h4><b>Literacy Through Photojournalism</b></h4>
 
-Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
-
 ![Literacy Through Photojournalism](/images/Curriculum/English%20Language/literacy%20through%20photojournalism.jpg)
-
+Students undergo basic photography training during Art lessons and follow up with English lessons to acquire the language skills to describe the photographs they have taken. Students learn to use language to represent their photographs taken and eventually use this skill to raise awareness of environmental and social issues within the community.
 
 <h3><b>STELLAR</b></h3>
 
@@ -17,14 +15,14 @@ The STELLAR framework guides the teaching and learning of English language in se
 
 <h4><b>Lower Primary</b></h4>
 <br>
+
+![P1 &amp; P2 Learning Journeys](/images/Curriculum/English%20Language/p1%20&amp;%20p2%20learning%20journeys.jpg)
 Students experience the Shared Book Approach (SBA), Modified Language Experience (MLEA) writing, Extensive Reading and Differentiated Focus Lessons (DFL) to learn skills related to “learning to read”, writing, speaking and listening. 
 
 <h4><b>Upper Primary</b></h4>
 <br>
 Students are taught progressive skills of Sustained Silent Reading, Supported Reading, KWL and Retelling. They also have Differentiated Focus Lessons (DFL) and language activities, as well as Extensive Reading. They engage in the Writing Process Cycle where they read, write and rewrite drafts in exploring language use.
 <br>
-
-![P1 &amp; P2 Learning Journeys](/images/Curriculum/English%20Language/p1%20&amp;%20p2%20learning%20journeys.jpg)
 
 <h4><b>Speaking Programmes</b></h4>
 Students develop confidence in speaking through a spiral approach to cultivate appropriate intonation, expression and pronunciation. 
@@ -37,9 +35,8 @@ Students develop confidence in speaking through a spiral approach to cultivate a
 
 <h4><b>Story Spark Programme</b></h4>
 
-The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
-
 ![](/images/Curriculum/English%20Language/myON_resize.png)
+The Story Spark Programme aims to develop a joy of independent reading among students using e-books. The programme provides levelled readers, which match students’ reading ability, for them to enjoy at their own time and pace. 
 
 <h4><b>Support Programmes</b></h4>
 
@@ -47,8 +44,7 @@ The Story Spark Programme aims to develop a joy of independent reading among stu
 	<li><b>Learning Support Programme (LSP)</b></li>Students are given the support to bridge gaps in reading and writing to cope in English lessons.<br><br>
 	<li><b>School-based Dyslexia Remediation (SDR)</b></li>The SDR programme aims to assist students with dyslexia in decoding words through syllabication and an understanding of phonics. Through rigorous cycles of 60 min lessons, it monitors the development of students across 2 years.<br><br>
 	<li><b>Reading Remediation Programme (RRP)</b></li>RRP identifies students who are below the appropriate developmental reading age and guides them to decode monosyllabic and multi-syllabic words with consideration of their meanings as part of a sentence. Through biweekly sessions and progress monitoring cycles, it tracks the development of students across 2 years. As students progress, they will also be taught reading comprehension skills.<br><br>
-	<li><b>kidsREAD Programme</b></li> A collaboration with the National Library Board (NLB) and Raffles Girls’ School (RGS), kidsREAD aims to promote the love of reading and cultivate good reading habits among young students. The kidsREAD sessions are conducted by our teachers, as well as the RGS student volunteers trained by NLB in basic storytelling skills.<br><br>
+	<li><b>kidsREAD Programme</b></li> <img src="/images/Curriculum/English%20Language/kidsread%20programme.jpg">
+	A collaboration with the National Library Board (NLB) and Raffles Girls’ School (RGS), kidsREAD aims to promote the love of reading and cultivate good reading habits among young students. The kidsREAD sessions are conducted by our teachers, as well as the RGS student volunteers trained by NLB in basic storytelling skills.<br><br>
 </ul>
-
-![kidsREAD Programme](/images/Curriculum/English%20Language/kidsread%20programme.jpg)
 
