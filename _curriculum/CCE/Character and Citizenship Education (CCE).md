@@ -5,27 +5,6 @@ description: ""
 third_nav_title: CCE
 variant: markdown
 ---
-<table>
-	<tbody><tr>
-		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5><b>Mission</b></h5>
-			Empowering every child to be a responsible citizen who serves his community with love, respect and integrity.
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5><b>Vision</b></h5>
-			To nurture students of good character
-		</td>
-	</tr>
-</tbody></table>
-<br><br>
 With CCE 2021, we aim to develop in our students:
 <br>
 <ol style="list-style-type: lower-alpha">
