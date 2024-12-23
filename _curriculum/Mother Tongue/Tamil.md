@@ -13,8 +13,6 @@ The Tamil &nbsp;Language Department aims to achieve quality results through qual
 
 ##### Learning Journey to Little India Pongal Festival
 
-Pupils of P4 and P5 went to Little India to participate in the Pongal Festivities. It was an opportunity not be missed as they had a chance to see cows and goats at arms-length. They also took part in all the hands-on sessions like saree/vetti tying, Kolam drawing, cooking of pongal rice and village dancing.
-
 <table>
 	<tbody><tr>
 		<td width="63%">
@@ -25,22 +23,22 @@ Pupils of P4 and P5 went to Little India to participate in the Pongal Festivitie
 		</td>
 	</tr>
 </tbody></table>
+Pupils of P4 and P5 went to Little India to participate in the Pongal Festivities. It was an opportunity not be missed as they had a chance to see cows and goats at arms-length. They also took part in all the hands-on sessions like saree/vetti tying, Kolam drawing, cooking of pongal rice and village dancing.
 
 ##### MTL Fortnight
-
-Various cultural activities were organized for our pupils. All pupils participated in these with enthusiasm. These activities helped them to be aware of their cultural roots and activities.
 
 <img src="/images/t3.jpg" style="width:70%">
 <br>
 <img src="/images/t4.jpg" style="width:70%">
+Various cultural activities were organized for our pupils. All pupils participated in these with enthusiasm. These activities helped them to be aware of their cultural roots and activities.
 
 ##### Learning Quest  
-
-Pupils participating in the various activities carried out during the Learning Quest
 
 | | |
 | --- | --- |
 | ![](/images/t5.jpg) | ![](/images/t6.jpg) |
+
+Pupils participating in the various activities carried out during the Learning Quest
 
 #### Programmes
 
