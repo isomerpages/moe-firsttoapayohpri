@@ -3,39 +3,19 @@ title: Aesthetics
 permalink: /curriculum/aesthetics/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
-<table>
-	<tr>
-		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px"/>
-		</td>
-		<td> 
-			<h5>Mission</h5>
-			To develop passion and excellence in the arts
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px"/>
-		</td>
-		<td> 
-			<h5>Vision</h5>
-			To immerse our learning community in a stimulating environment to develop passion and excellence in the arts
-		</td>
-	</tr>
-</table>
+<img src="/images/Aesthetics.png" style="width:60%">
 
-<img src="/images/Aesthetics.png" style="width:60%"/>
-
-Aesthetics department aims to bring out the passion and excellence in the Arts through programmes such as **Literacy Through Photography (LTP)**, **Knowing Great Artists and Art and Music Instructor Scheme (AMIS) Programme**. To bring about the mission of the department, every student will go through the FTPPS 4Es Aesthetics Framework – **Experiment, Exploration, Exposure and Expression**. 
+Aesthetics department aims to bring out the passion and excellence in the Arts through programmes such as&nbsp;**Literacy Through Photography (LTP)**,&nbsp;**Knowing Great Artists and Art and Music Instructor Scheme (AMIS) Programme**. To bring about the mission of the department, every student will go through the FTPPS 4Es Aesthetics Framework –&nbsp;**Experiment, Exploration, Exposure and Expression**.&nbsp;
 
 **Experiment**\- Broad- based learning of Art/Music across the level
 
-**Exploration**\- Broad- based application of learning of Art/Music across different platforms to enhance and broaden the Arts experience 
+**Exploration**\- Broad- based application of learning of Art/Music across different platforms to enhance and broaden the Arts experience&nbsp;
 
-**Exposure** \- Broad- based opportunity to participate in Arts learning journeys and assembly programmes 
+**Exposure**&nbsp;\- Broad- based opportunity to participate in Arts learning journeys and assembly programmes&nbsp;
 
-**Expression** \-  To showcase students’ artistic talent at various platforms
+**Expression**&nbsp;\- &nbsp;To showcase students’ artistic talent at various platforms
 
 #### 2019 Programmes
 
@@ -52,74 +32,74 @@ As part of the school's Learning for Life Programme (LLP), all students from P1 
 
 The LTP allows the students to develop attributes of a confident person, concerned citizen and self-directed learner as they embark on learning individually and in close collaboration with their schoolmates. In the course of learning and quest for the perfect shot, students learn perseverance and patience. Collaborating with one another also exposes them to different perspectives.
 
-<img src="/images/LTP.jpg" style="width:60%"/>
+<img src="/images/LTP.jpg" style="width:60%">
 
-<img src="/images/LTPReflection.jpg" style="width:75%"/>
+<img src="/images/LTPReflection.jpg" style="width:75%">
 
-<img src="/images/LTP2.jpg" style="width:60%"/>
+<img src="/images/LTP2.jpg" style="width:60%">
 
 ##### Art@Recess
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="34.5%">
-			<img src="/images/ART1.jpg"/>
+			<img src="/images/ART1.jpg">
 		</td>
 		<td>
-			<img src="/images/ART5.jpg"/>
+			<img src="/images/ART5.jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<img src="/images/image001.jpg" style="width:60%"/>
+<img src="/images/image001.jpg" style="width:60%">
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="50%">
-			<img src="/images/ART2.jpg"/>
+			<img src="/images/ART2.jpg">
 		</td>
 		<td>
-			<img src="/images/ART3.jpg"/>
+			<img src="/images/ART3.jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
-<img src="/images/ART4.jpg" style="width:60%"/>
+<img src="/images/ART4.jpg" style="width:60%">
 
 ##### Busktop@Recess
 
 Buskstop@Recess built upon the 21st century skills of developing confident individual. Pupils were given a performing platform where they could unleash their musical talent and express themselves aesthetically. During the 4-day event, pupils sang, danced and played musical instruments in solo or group for a crowd of audience during recesses. It is a musically enriching moment for all!
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="51%">
-			<img src="/images/Busktop1.jpg"/>
+			<img src="/images/Busktop1.jpg">
 		</td>
 		<td width="24.5%">
-			<img src="/images/Busktop2.jpg"/>
+			<img src="/images/Busktop2.jpg">
 		</td>
 		<td width="24.5%">
-			<img src="/images/Busktop3.jpg"/>
+			<img src="/images/Busktop3.jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 ##### Karoake@Recess
 
-Students listened and sang local and national songs during Karaoke@Recess. The programme is held every Friday for both recesses. Videos with lyrics were flashed for students to follow in choral singing. It is a musically enriching moment for all!
+Students listened and sang local and national songs during Karaoke@Recess. The programme is held every Friday for both recesses. Videos with lyrics were flashed for students to follow in choral singing.&nbsp;It is a musically enriching moment for all!
 	
-<img src="/images/karaoke1.jpg" style="width:60%"/>
+<img src="/images/karaoke1.jpg" style="width:60%">
 
 <table>
-	<tr>
+	<tbody><tr>
 		<td width="37%">
-			<img src="/images/karaoke2.jpg"/>
+			<img src="/images/karaoke2.jpg">
 		</td>
 		<td>
-			<img src="/images/karaoke3.jpg"/>
+			<img src="/images/karaoke3.jpg">
 		</td>
 	</tr>
-</table>
+</tbody></table>
 
 ##### Classical Peekaboo@Recess
 
