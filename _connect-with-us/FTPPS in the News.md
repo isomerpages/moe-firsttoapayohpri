@@ -27,10 +27,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/15rnQnXq9E/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/FTPPS in the News/21_nov_2024_FTPPS_in_the_News.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/15rnQnXq9E/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CONNECT with Us/FTPPS in the News/21_nov_2024_FTPPS_in_the_News.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/19rpHF9hG9/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/FTPPS in the News/22_oct_2024_FTPPS_in_the_News.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/19rpHF9hG9/"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CONNECT with Us/FTPPS in the News/22_oct_2024_FTPPS_in_the_News.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
