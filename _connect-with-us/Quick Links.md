@@ -24,10 +24,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/Quick Links/SSOE2.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://ssoe2.moe.edu.sg/sp?id=index"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/Quick Links/SSOE2.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/Quick%20Links/SLS.jpg"></a>
 </td>
