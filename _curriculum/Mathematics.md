@@ -4,35 +4,9 @@ permalink: /curriculum/mathematics/
 description: ""
 variant: markdown
 ---
-<table>
-	<tbody><tr>
-		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5>Mission</h5>
-			To inculcate positive attitudes towards the learning of Mathematics and cultivate&nbsp;analytical and logical thinking for problem-solving.
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5>Vision</h5>
-			To nurture logical, critical and independent problem-solvers.
-		</td>
-	</tr>
-</tbody></table>
-
 ![](/images/2021%20Math%20Syllabus%20Framework.jpg)
 
-#### Programmes
-
-
 ##### Learning Approach
-
-In the teaching and learning of mathematics, the school believes in building a strong foundation in the mathematical concepts in our students. We guide our students in the acquisition of mathematical concepts and skills through activity-based lessons using the&nbsp;**Concrete-Pictorial-Abstract (C-P-A)**&nbsp;approach. Students are given concrete experiences to help them develop a sense of numbers, make connections and subsequently become better problem-solvers.
 
 <table>
 	<tbody><tr>
@@ -52,10 +26,12 @@ In the teaching and learning of mathematics, the school believes in building a s
 		</td>
 	</tr>
 </tbody></table>
-	
-We believe that students discover, reason and communicate their thinking as they work in collaboration with their peers. Through&nbsp;**collaborative learning**, students build confidence in problem-solving, foster an interest towards learning mathematics and importantly, acquire deeper knowledge in mathematics.
-	
+
+In the teaching and learning of mathematics, the school believes in building a strong foundation in the mathematical concepts in our students. We guide our students in the acquisition of mathematical concepts and skills through activity-based lessons using the&nbsp;**Concrete-Pictorial-Abstract (C-P-A)**&nbsp;approach. Students are given concrete experiences to help them develop a sense of numbers, make connections and subsequently become better problem-solvers.
+
 <img src="/images/ma6.jpg" style="width:70%">
+
+We believe that students discover, reason and communicate their thinking as they work in collaboration with their peers. Through&nbsp;**collaborative learning**, students build confidence in problem-solving, foster an interest towards learning mathematics and importantly, acquire deeper knowledge in mathematics.
 
 Targeted at the lower primary levels,&nbsp;**Learning Support for Mathematics (LSM)**&nbsp;is an early intervention effort aimed at providing additional support to students who do not have foundational numeracy skills and knowledge to access the Primary 1 Mathematics curriculum. Identified students will be supported by specially trained LSM Teachers through activity-based lessons focusing on small successes to build on their motivation.
 
@@ -68,14 +44,13 @@ For the middle primary levels, the&nbsp;**Improving Confidence and Achievement i
 	
 	<h5><a id="home">Use of Games in Mathematics (P1 to P6)</a></h5>
 	
-Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted.&nbsp;
-
-Embedding games into the concrete-pictorial-abstract approach in Mathematics is purposeful, as students actively reinforce and hone their factual fluency and mathematical concepts. Also, games call for the need for our students to think out of the box as they devise creative and innovative solutions in the gameplay. Some examples of the games used during curriculum time are listed below.
-	
 | ![](/images/ma05.jpg) | ![](/images/ma06.jpg) |
 | --- | --- |
 | ![](/images/ma07.jpg) | ![](/images/ma08.jpg) |
 
+Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted.&nbsp;
+
+Embedding games into the concrete-pictorial-abstract approach in Mathematics is purposeful, as students actively reinforce and hone their factual fluency and mathematical concepts. Also, games call for the need for our students to think out of the box as they devise creative and innovative solutions in the gameplay. Some examples of the games used during curriculum time are listed below.
 
 <h5><a id="menu1"> P1 to P2 Programmes</a></h5>
 
