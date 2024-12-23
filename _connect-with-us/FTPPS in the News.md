@@ -27,53 +27,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/12%20Apr%202022.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/15rnQnXq9E/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/FTPPS in the News/21_nov_2024_FTPPS_in_the_News.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/12%20Apr%202022-2.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/share/p/19rpHF9hG9/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/FTPPS in the News/22_oct_2024_FTPPS_in_the_News.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/30%20May%202022.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/20%20Jan%202021.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/18%20Dec%202020.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/16%20Nov%202020.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/3%20Aug%202020.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/27%20July%202020.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/CONNECT%20with%20Us/FTPPS%20in%20the%20News/13%20May%202020.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -86,5 +46,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:3%" height="auto" width="100%" src="/images/arrow-up.png">
 </div>
-<p><a href="/connect-with-us/ftpps-in-the-news#lo_main" rel="noopener noreferrer nofollow" target="_blank"> Back to Top</a>
+<p><a href="/connect-with-us/ftpps-in-the-news#lo_main" rel="noopener noreferrer nofollow" target="_blank">Back to Top</a>
 </p>
