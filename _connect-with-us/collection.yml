@@ -2,8 +2,6 @@ collections:
   connect-with-us:
     output: true
     order:
-      - CONNECT with Us.md
-      - Inspiring Moments.md
       - FTPPS in the News.md
       - Letters of Appreciation.md
       - School Admission/.keep

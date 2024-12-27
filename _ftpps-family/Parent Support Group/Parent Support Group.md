@@ -5,41 +5,9 @@ description: ""
 third_nav_title: Parent Support Group
 variant: markdown
 ---
-<h4><u>Introduction</u></h4>
+![](/images/FTTPS%20Family/PSG/PSG_EXCOs.png)
 
-The Parents Support Group (PSG) of First Toa Payoh Primary comprises parent volunteers whose children are studying or have studied in the school. The aim of the PSG is to provide a platform for networking between parents and the school so that the school could meet its objectives of providing a holistic education for the children.
-
-<h4><u>Vision</u></h4>
-
-To work in partnership with the School and parents to build a caring and creative learning community in the pursuit of excellence.  
-
-<h4><u>Mission</u></h4>
-
-To fully support the school in nurturing every child to his or her best.
-
-<h4><u>Values</u></h4>
-
-**Respect**
-<br>
-We trust and respect one another, regardless of race, language and religion&nbsp;&nbsp; &nbsp;
-
-**Responsibility**
-<br>
-We take pride in serving and show enthusiasm and initiative in all that we do&nbsp;&nbsp; 
-
-**Love**
-<br>
-We care and love one another with respect and dignity
-
-**Integrity**
-<br>
-We uphold confidentiality and can be trusted with responsibilities
-
-**Perseverance**
-<br>
-We work as a team and support the school to the best of our abilities.  
-
-<h4>Benefits of Joining the PSG</h4>
+<h4><b>Benefits of Joining the PSG</b></h4>
 
 **Partnership**
 <br>
@@ -65,12 +33,11 @@ Activities and programmes to bond with your child.
 <br>
 Join us in our learning journeys, camps and enrichment programmes.
 
-![](/images/PSG1.jpg)
-Family Science Club – Our Collaboration with Science Centre Singapore  
+![](/images/FTTPS%20Family/PSG/Parent_Child_Bonding_and_Learning_Journey_to_Bollywood_Farms.png)
+<p style="text-align:center;">Parent Child Bonding and Learning Journey to Bollywood Farms</p>
 
-![](/images/PSG2.jpg)
-The Parent Support Group with the School Staff Developer and Year Head (P1&amp;P2)  
-
+![](/images/FTTPS%20Family/PSG/PSG_Performing_for_Teachers__Day_.png)
+<p style="text-align:center;">PSG Performing for Teachers Day</p>
 
 Don’t hesitate anymore! Join the PSG today! Scan the QR Code to register.
 

@@ -2,37 +2,13 @@
 title: Media Resource Library (KIP Hub)
 permalink: /curriculum/media-resource-library-kip-hub/
 description: ""
+variant: markdown
 ---
-<table>
-	<tbody><tr>
-		<td width="100px">
-			<img src="/images/mission.jpg" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5><b>Mission</b></h5>
-			Improve Every Child’s Accessibility to Books
-			<br>
-			Develop a Reading Child
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="/images/vision.png" style="height:75px; width:75px">
-		</td>
-		<td> 
-			<h5><b>Vision</b></h5>
-			To develop the joy of reading in our FTPPS students
-		</td>
-	</tr>
-</tbody></table>
-
-
 ![The KIP HUB](/images/Curriculum/Media%20Resource%20Library/1%20intro.jpg)
 ![The KIP HUB_2](/images/Curriculum/Media%20Resource%20Library/2%20intro.jpg)
 <br>
 ![Media Resource Library Goals](/images/Curriculum/Media%20Resource%20Library/mrl%20goals.jpg)
 
-<h3><b> Programmes</b></h3><br>
 <h4><b>Accessibility to Books</b></h4>
 
 <b>Molly Bus (A collaboration with National Library Board)</b>

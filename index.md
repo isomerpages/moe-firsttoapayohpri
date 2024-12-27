@@ -15,15 +15,12 @@ sections:
         - title: MK @ First Toa Payoh
           description: ""
           url: /mk-at-first-toa-payoh/see-to-believe/
-        - title: Open House 2023
-          description: ""
-          url: /open-house-2023/
         - title: Virtual Tour
           description: ""
           url: /FTPPS-virtual-tour
-        - title: Highlights
+        - title: Visit us on Instagram!
           description: ""
-          url: /highlights
+          url: https://www.instagram.com/ftppsofficial
   - infopic:
       title: Primary 1 Admin Briefing
       subtitle: NEWS & ANNOUNCEMENTS
@@ -62,6 +59,6 @@ sections:
         Official Facebook page to find out more.
       button: Click here
       url: https://www.facebook.com/ftppsofficial/
-      image: /images/HOMEPAGE/fb_screenshot.jpeg
+      image: /images/Main/Screenshot_2024_12_22_224254.png
       alt: Image alt text
 ---
