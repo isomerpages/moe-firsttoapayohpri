@@ -86,10 +86,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>WONG NGIAN KHEE IAIN (MR)</p>
+<p>BEATRIZ FERNANDEZ (MISS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ngian_khee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ngian_khee@moe.edu.sg</a>
+<p><a href="mailto:beatriz_fernandez@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>beatriz_fernandez@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -98,10 +98,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HSU YU-HSUN (MISS)</p>
+<p>LIM SIAN TENG EDWIN JOSEPH (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hsu_yu_hsun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hsu_yu_hsun@moe.edu.sg</a>
+<p><a href="mailto:lim_sian_teng_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_sian_teng_edwin@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -110,10 +110,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN JOO HUI EFFIE (MRS)</p>
+<p>HAN HENG EE ADELYN (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_joo_hui_effie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_joo_hui_effie@moe.edu.sg</a>
+<p><a href="mailto:han_heng_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>han_heng_ee@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
