@@ -3,28 +3,203 @@ title: P3 Teachers
 permalink: /ftpps-family/our-staff/p3-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-|  |  |  |
-|---|---|---|
-|  **P3 RESPECT** |  |  |
-|  Form Teachers  |  LAM LAI NGOR (MISS) |  [lam_lai_ngor@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
-|   |  NIOW JIA YING (MISS)   |  [niow_jia_ying@moe.edu.sg](mailto:niow_jia_ying@moe.edu.sg) |
-|   |  GOH KAI YANG, TIMOTHY (MR)   |  [goh_kai_yang_timothy@moe.edu.sg](mailto:goh_kai_yang_timothy@moe.edu.sg) |
-|   |   |   |
-|  **P3 RESPONSIBILITY** |  |  |
-|  Form Teachers |  TAN AI CHOO PAMELA (MDM) |  [tan_ai_choo@moe.edu.sg](mailto:tan_ai_choo@moe.edu.sg) |
-|   |  HAN HENG EE ADELYN (MDM)  |  [han_heng_ee@moe.edu.sg](mailto:han_heng_ee@moe.edu.sg) |
-|   |   |   |
-|  **P3 INTEGRITY** |  |  |
-|  Form Teachers  |  CHOW ZHAOYU JADEN (MR) |  [chow_zhaoyu_jaden@moe.edu.sg](mailto:lam_lai_ngor@moe.edu.sg) |
-|   |  SNG SIN LIM CAROL (MDM)  |  [sng_sin_lim@moe.edu.sg](mailto:sng_sin_lim@moe.edu.sg) |
-|  |  |  |
-|  **P3 LOVE** |  |  |
-|  Form Teachers |  TEO CHWEE CHIN KATHERINE (MDM) |  [teo_chwee_chin@moe.edu.sg](mailto:teo_chwee_chin@moe.edu.sg) |
-|   |  SITI NUR RADHIAHTUN (MDM) |  [siti_nur_radhiatun_ms@moe.edu.sg](mailto:siti_nur_radhiatun_ms@moe.edu.sg) |
-|   |   |   |
-|  **P3 PERSEVERANCE** |  |  |
-|  Form Teachers |  LIM XINTIAN AMANDA (MRS) |  [lek_xintian_amanda@moe.edu.sg](mailto:lek_xintian_amanda@moe.edu.sg) |
-|   |  NOR IZAWATY BINTE MOHAMED NOOR (MISS) |  [nor_izawaty_mohamed_noor@moe.edu.sg](mailto:nor_izawaty_mohamed_noor@moe.edu.sg) |
-|   |   |   |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 RESPONSIBILITY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH JIA XUAN (MS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_jia_xuan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_jia_xuan_a@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FIKIR AMIN BINTI MD SAID (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:fikir_amin_md_said@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>fikir_amin_md_said@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHARAF YAR KHAN (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharaf_yar_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharaf_yar_khan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 INTEGRITY</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM MING YUEK SHIRLEY (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ming_yuek_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ming_yuek_shirley@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KUI ING PEARLY (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_kui_ing_pearly@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kui_ing_pearly@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD IRFAN SELAMAT (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_irfan_selamat_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_irfan_selamat_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P3 LOVE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM XINTIAN AMANDA (MRS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lek_xintian_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lek_xintian_amanda@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TONG MENG LAN RACHEL (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tong_meng_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_meng_lan@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEE MAY HUA MAYBELLINE (MRS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_may_hua_maybelline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_may_hua_maybelline@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
