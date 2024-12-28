@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>P4 RESPECT</strong>
+<p><strong>P5 RESPECT</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
