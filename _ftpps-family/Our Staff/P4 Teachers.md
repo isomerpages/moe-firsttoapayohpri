@@ -24,9 +24,15 @@ variant: tiptap
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p><strong>P4 RESPECT</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -145,11 +151,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIA HUI SIANG (MISS)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_hui_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_hui_siang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -157,11 +162,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEE MAY HUA MAYBELLINE (MRS)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_may_hua_maybelline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_may_hua_maybelline@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -169,11 +173,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM CHEE KNG (MR)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_chee_kng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chee_kng@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
