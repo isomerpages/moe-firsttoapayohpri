@@ -137,7 +137,8 @@ variant: tiptap
 <p>LIM XIN HUI (MISS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_xin_hui_aa@moe.edu.sg</p>
+<p><a href="mailto:lim_xin_hui_aa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_xin_hui_aa@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +149,8 @@ variant: tiptap
 <p>DIANA BINTE MOHAMED MAZLAN (MISS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>diana_mohamed_mazlan@moe.edu.sg</p>
+<p><a href="mailto:diana_mohamed_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">diana_mohamed_mazlan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +184,8 @@ variant: tiptap
 <p>SHEN TIAN RONG (MRS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_tian_rong@moe.edu.sg</p>
+<p><a href="mailto:tan_tian_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_tian_rong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +196,8 @@ variant: tiptap
 <p>SIM YEOW SENG IVAN (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sim_yeow_seng_ivan@moe.edu.sg</p>
+<p><a href="mailto:sim_yeow_seng_ivan@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_yeow_seng_ivan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
