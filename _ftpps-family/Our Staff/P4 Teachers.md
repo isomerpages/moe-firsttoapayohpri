@@ -151,21 +151,11 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TEO CHWEE CHIN KATHERINE (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo_chwee_chin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_chwee_chin@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +163,19 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>WONG NGIAN KHEE IAIN (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_ngian_khee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_ngian_khee@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW KHIN SIN (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -207,11 +209,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IGNATIUS MARIO DOLI SENTOSA (MR)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ignatius_mario_doli_sentosa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ignatius_mario_doli_sentosa@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -219,11 +220,21 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LEE CHUNG FANG (MISS)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_chung_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chung_fang@moe.edu.sg</a>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
