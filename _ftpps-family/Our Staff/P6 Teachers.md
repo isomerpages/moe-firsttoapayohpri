@@ -3,25 +3,191 @@ title: P6 Teachers
 permalink: /ftpps-family/our-staff/p6-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-|  |  |  |
-|---|---|---|
-| **P6 RESPECT** |  |  |
-|  Form Teachers |  ANG MEI LING (MISS)  |  [ang_mei_ling@moe.edu.sg](mailto:ang_mei_ling@moe.edu.sg) |
-|   |  DIANA BINTE MOHAMED MAZLAN (MISS)  |  [diana_mohamed_mazlan@moe.edu.sg](mailto:diana_mohamed_mazlan@moe.edu.sg) |
-|  |  |  |
-| **P6 RESPONSIBILITY** |  |  |
-|  Form Teachers |  ZULKARNA'IN BIN BUNIRAN (MR) |  [zulkarnain_b_buniran@moe.edu.sg](mailto:zulkarnain_b_buniran@moe.edu.sg) |
-|   |  GOH SHIH HUI GLENICE (MS) |  [goh_shih_hui@moe.edu.sg](mailto:goh_shih_hui@moe.edu.sg) |
-|  |  |  |
-| **P6 INTEGRITY** |  |  |
-|  Form Teachers |  JULIANA BTE ARIFFIN (MDM)  |  [juliana_ariffin@moe.edu.sg](mailto:juliana_ariffin@moe.edu.sg) |
-|   | LIM MING YUEK SHIRLEY (MDM) |  [lim_ming_yuek_shirley@moe.edu.sg](mailto:lim_ming_yuek_shirley@moe.edu.sg) |
-|  |  JASMINE KOK (MISS) |  [jasmine_kok@moe.edu.sg](mailto:jasmine_kok@moe.edu.sg) |
-|  |  |  |
-| **P6 LOVE** |  |  |
-|  Form Teachers | HO AI LING RINA (MRS) |  [whey_ai_ling_rina@moe.edu.sg](mailto:whey_ai_ling_rina@moe.edu.sg) |
-|   |  TAN BOON HOCK EDWIN (MR) |  [tan_boon_hock_edwin@moe.edu.sg](mailto:tan_boon_hock_edwin@moe.edu.sg) |
-|   |  JOEL PRATHIEV VINSON (MR)  |  [joel_prathiev_vinson@moe.edu.sg](mailto:joel_prathiev_vinson@moe.edu.sg)  |
-|   |   |   |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P6 RESPONSIBILITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIA HUI SIANG (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_hui_siang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chia_hui_siang@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURUL IRDINA BTE AGOS SADI (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurul_irdina_agos_sadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nurul_irdina_agos_sadi@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM XIN YEE LYDIA (MRS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_xin_yee_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_xin_yee_lydia@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P6 INTEGRITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO KIRK BOONE (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_kirk_boone@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yeo_kirk_boone@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUI JEAN EE (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gui_jean_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gui_jean_ee@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN HWA HWA ANDY (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_hwa_hwa_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hwa_hwa_andy@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>P6 LOVE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZULKARNA’IN BIN BUNIRAN (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zulkarnain_b_buniran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zulkarnain_b_buniran@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG YING MINDY (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_ying_mindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_ying_mindy@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN BOON HOCK EDWIN (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_boon_hock_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_boon_hock_edwin@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

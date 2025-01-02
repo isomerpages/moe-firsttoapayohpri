@@ -3,25 +3,190 @@ title: P1 Teachers
 permalink: /ftpps-family/our-staff/p1-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-|  |  |  |
-|---|---|---|
-| **P1 RESPECT** |  |  |
-|  Form Teachers |  SHEN TIAN RONG (MRS) |  [tan_tian_rong@moe.edu.sg](mailto:tan_tian_rong@moe.edu.sg) |
-|   |  NURUL IRDINA BTE AGOS SADI (MISS) |  [nurul_irdina_agos_sadi@moe.edu.sg](mailto:nurul_irdina_agos_sadi@moe.edu.sg) |
-|   |   |   |
-|  **P1 RESPONSIBILITY** |  |  |
-|  Form Teachers |  SOH-TAN LI LI (MRS) |  [soh-tan_li_li@moe.edu.sg](mailto:soh-tan_li_li@moe.edu.sg) |
-|   |  GOWRI D/O DEVAKARAN (MDM)   |  [gowri_devakaran@moe.edu.sg](mailto:gowri_devakaran@moe.edu.sg) |
-|   |   |   |
-|  **P1 LOVE** |  |  |
-|  Form Teachers |  ABDUL AZEEZ NOORUNISA (MDM) |  [abdul_azeez_noorunisa@moe.edu.sg](mailto:abdul_azeez_noorunisa@moe.edu.sg) |
-|   | CHUA SHEN LING SERENE (MRS)  |  [loke_shen_ling_serene@moe.edu.sg](mailto:loke_shen_ling_serene@moe.edu.sg) |
-|   | TONG MENG LAN RACHEL (MDM)  |  [tong_meng_lan@moe.edu.sg](mailto:tong_meng_lan@moe.edu.sg) |
-|   | CHARISSA ZI XIN (MDM)  |  [charissa_zi_xin@moe.edu.sg](mailto:charissa_zi_xin@moe.edu.sg) |
-|   |   |   |
-|  **P1 INTEGRITY** |  |  |
-|  Form Teachers |  JUNAINAH BINTE MD TAIB (MDM) |  [junainah_md_taib@moe.edu.sg](mailto:junainah_md_taib@moe.edu.sg) |
-|   | BALARAMAN DEEPA (MDM) |  [deepa_balaraman@moe.edu.sg](mailto:deepa_balaraman@moe.edu.sg) |
-|   |   |   |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P1 RESPECT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SABRINA BTE SAINI (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sabrina_saini@moe.edu.sg" rel="noopener nofollow" target="_blank">sabrina_saini@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BALARAMAN DEEPA (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:deepa_balaraman@moe.edu.sg" rel="noopener nofollow" target="_blank">deepa_balaraman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P1 RESPONSIBILITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VERACHELVAN (MRS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gomathi_verachelvan@moe.edu.sg" rel="noopener nofollow" target="_blank">gomathi_verachelvan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO NA (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:na_zhao@moe.edu.sg" rel="noopener nofollow" target="_blank">na_zhao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P1 LOVE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM XIN HUI (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_xin_hui_aa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_xin_hui_aa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIANA BINTE MOHAMED MAZLAN (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:diana_mohamed_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">diana_mohamed_mazlan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P1 INTEGRITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN TIAN RONG (MRS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_tian_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_tian_rong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM YEOW SENG IVAN (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sim_yeow_seng_ivan@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_yeow_seng_ivan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

@@ -3,24 +3,214 @@ title: P2 Teachers
 permalink: /ftpps-family/our-staff/p2-teachers/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-|  |  |  |
-|---|---|---|
-|  **P2 RESPECT** |  |  |
-|  Form Teachers |  LEE HWEE KHENG (MDM) |  [lee_hwee_kheng@moe.edu.sg ](mailto:lee_hwee_kheng@moe.edu.sg ) |
-|   |  CHIN YING TING (MDM) |  [chin_ying_ting@moe.edu.sg](mailto:chin_ying_ting@moe.edu.sg) |
-|  |  |  |
-|  **P2 RESPONSIBILITY** |  |  |
-|  Form Teachers |  SABRINA BTE SAINI (MDM) |  [sabrina_saini@moe.edu.sg](mailto:sabrina_saini@moe.edu.sg) |
-|  |  ZHAO NA (MISS)  |  [na_zhao@moe.edu.sg](mailto:na_zhao@moe.edu.sg) |
-|  |  |  |
-|  **P2 LOVE** |  |  |
-|  Form Teachers |  VERACHELVAN (MRS) |  [gomathi_verachelvan@moe.edu.sg](mailto:gomathi_verachelvan@moe.edu.sg) |
-|  |  TAN HWA HWA ANDY (MR) |  [tan_hwa_hwa_andy@moe.edu.sg](mailto:tan_hwa_hwa_andy@moe.edu.sg) |
-|  |  LIM XIN HUI (MISS) |  [lim_xin_hui_aa@moe.edu.sg](mailto:lim_xin_hui_aa@moe.edu.sg) |
-|  |  |  |
-|  **P2 INTEGRITY**  |   |   |
-|  Form Teachers |  SENG SIOK KUAN ANNE (MISS) |  [seng_siok_kuan_anne@moe.edu.sg](mailto:seng_siok_kuan_anne@moe.edu.sg) |
-|   |  SIM YEOW SENG IVAN (MR) |  [sim_yeow_seng_ivan@moe.edu.sg](mailto:sim_yeow_seng_ivan@moe.edu.sg) |
-|   |   |   |
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P2 RESPECT</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE CHUNG FANG (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_chung_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_chung_fang@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD HUZAIFAH BIN HARIS (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:muhammad_huzaifah_haris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_huzaifah_haris@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P2 RESPONSIBILITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN AI CHOO PAMELA (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_ai_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_ai_choo@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOH-TAN LI LI (MRS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:soh-tan_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh-tan_li_li@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY LYE HOCK GABRIEL (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_lye_hock_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lye_hock_gabriel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P2 LOVE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ABDUL AZEEZ NOORUNISA (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_azeez_noorunisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>abdul_azeez_noorunisa@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH KAI YANG, TIMOTHY (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_kai_yang_timothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_kai_yang_timothy@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM JIA EN, EBEL (MISS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_jia_en_ebel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_en_ebel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P2 INTEGRITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JUNAINAH BINTE MD TAIB (MDM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:junainah_md_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>junainah_md_taib@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM CHEE KNG (MR)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_chee_kng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chee_kng@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
