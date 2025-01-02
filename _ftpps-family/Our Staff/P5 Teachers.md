@@ -29,7 +29,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IGNATIUS MARIO DOLI SENTOSA (MR)</p>
+<p>Mr Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ignatius_mario_doli_sentosa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ignatius_mario_doli_sentosa@moe.edu.sg</u></a>
@@ -41,10 +41,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HO AI LING RINA (MRS)</p>
+<p>Mrs Rina Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:whey_ai_ling_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>whey_ai_ling_rina@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Loo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loo_wei_seng_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_wei_seng_andy@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -70,10 +82,34 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANG MEI LING (MISS)</p>
+<p>Miss Ang Mei Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_mei_ling@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Brenda Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_chi_chia_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chi_chia_brenda@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ben Teng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teng_beng_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teng_beng_chye@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +135,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SNG SIN LIM CAROL (MDM)</p>
+<p>Mdm Carol Sng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_sin_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sng_sin_lim@moe.edu.sg</u></a>
@@ -111,7 +147,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PANDIYAN (MRS)</p>
+<p>Mrs Pandiyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:k_maanvili@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>k_maanvili@moe.edu.sg</u></a>
@@ -123,7 +159,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN JOO HUI EFFIE (MRS)</p>
+<p>Mrs Effie Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_joo_hui_effie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_joo_hui_effie@moe.edu.sg</u></a>
@@ -158,7 +194,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JULIANA BTE ARIFFIN (MDM)</p>
+<p>Mdm Juliana Bte Ariffin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:juliana_ariffin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>juliana_ariffin@moe.edu.sg</u></a>
@@ -170,7 +206,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LAI CHIH WEI (MR)</p>
+<p>Mr Lai Chih Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_chih_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chih_wei@moe.edu.sg</a>
@@ -182,10 +218,22 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>JOEL PRATHIEV VINSON (MR)</p>
+<p>Mr Joel Vinson</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joel_prathiev_vinson@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>joel_prathiev_vinson@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Peck Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_peck_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peck_hoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
