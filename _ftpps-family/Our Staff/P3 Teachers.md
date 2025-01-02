@@ -58,7 +58,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sharaf</p>
+<p>Mr Sharaf Yar Khan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharaf_yar_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharaf_yar_khan@moe.edu.sg</a>
@@ -111,7 +111,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD IRFAN SELAMAT (MR)</p>
+<p>Mr Muhammad Irfan Bin Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_irfan_selamat_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_irfan_selamat_a@moe.edu.sg</a>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM XINTIAN AMANDA (MRS)</p>
+<p>Mrs Amanda Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lek_xintian_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lek_xintian_amanda@moe.edu.sg</u></a>
@@ -152,7 +152,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TONG MENG LAN RACHEL (MDM)</p>
+<p>Mdm Rachel Tong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tong_meng_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_meng_lan@moe.edu.sg</u></a>
@@ -164,7 +164,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEE MAY HUA MAYBELLINE (MRS)</p>
+<p>Mrs Maybelline See</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kong_may_hua_maybelline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_may_hua_maybelline@moe.edu.sg</u></a>
