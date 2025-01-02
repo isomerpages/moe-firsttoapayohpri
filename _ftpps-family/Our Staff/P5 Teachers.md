@@ -173,7 +173,8 @@ variant: tiptap
 <p>LAI CHIH WEI (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lai_chih_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chih_wei@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
