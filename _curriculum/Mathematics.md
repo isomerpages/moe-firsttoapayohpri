@@ -37,20 +37,12 @@ Targeted at the lower primary levels,&nbsp;**Learning Support for Mathematics (L
 
 For the middle primary levels, the&nbsp;**Improving Confidence and Achievement in Numeracy (ICAN)**&nbsp;programme is a collaboration between schools and MOE to support low progress learners students using intervention strategies and models that are guided by research to tackle the 4 key issues: learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.
 
-*   [Use of Games in Mathematics (P1 to P6)](/curriculum/mathematics#home)
 *   [P1 to P2 Programmes](/curriculum/mathematics#menu1)
 *   [P3 to P4 Programmes](/curriculum/mathematics#menu2)
 *   [P5 to P6 Programmes](/curriculum/mathematics#menu3)
+*    [Use of Games in Mathematics (P1 to P6)](/curriculum/mathematics#home)
 	
-	<h5><a id="home">Use of Games in Mathematics (P1 to P6)</a></h5>
 	
-| ![](/images/ma05.jpg) | ![](/images/ma06.jpg) |
-| --- | --- |
-| ![](/images/ma07.jpg) | ![](/images/ma08.jpg) |
-
-Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted.&nbsp;
-
-Embedding games into the concrete-pictorial-abstract approach in Mathematics is purposeful, as students actively reinforce and hone their factual fluency and mathematical concepts. Also, games call for the need for our students to think out of the box as they devise creative and innovative solutions in the gameplay. Some examples of the games used during curriculum time are listed below.
 
 <h5><a id="menu1"> P1 to P2 Programmes</a></h5>
 
@@ -156,8 +148,6 @@ Shopping Adventure is a holistic, engaging approach to teaching money concepts. 
 
 <h6><b>P3 AND P4 EXPERIENTIAL LEARNING</b></h6>
 
-Since the 2021 CATalytics Project with SEAB research team, students learn through a series of lessons which involved procuring and customising day-to-day items (eg: 1 kg of rice, 650 g of flour, 1 kg 400 g of red beans, etc) and setting up learning stations in the hall, taking into much consideration prevailing SMM requirements. All students of varying academic progress benefit very much from the experiential and authentic hands-on experiences on the topic Measurement, especially the sub-topic Mass. The students’ learning experiences increase their motivation to explore real life objects, and heighten the relevance of Math to everyday activities.
-
 <table>
 	<tbody><tr>
 		<td>
@@ -183,6 +173,8 @@ Since the 2021 CATalytics Project with SEAB research team, students learn throug
 	</tr>
 </tbody></table>
 
+Since the 2021 CATalytics Project with SEAB research team, students learn through a series of lessons which involved procuring and customising day-to-day items (eg: 1 kg of rice, 650 g of flour, 1 kg 400 g of red beans, etc) and setting up learning stations in the hall, taking into much consideration prevailing SMM requirements. All students of varying academic progress benefit very much from the experiential and authentic hands-on experiences on the topic Measurement, especially the sub-topic Mass. The students’ learning experiences increase their motivation to explore real life objects, and heighten the relevance of Math to everyday activities.
+
 <h6><b>IMPROVING CONFIDENCE AND ACHIEVEMENT IN NUMERACY (ICAN)</b></h6>
 
 The ICAN programme is a collaboration between schools and MOE to support low progress learners students using intervention strategies and models that are guided by research to tackle the 4 key issues of learning gaps, language, motivation and memory. The lessons follow the FREMC structure – Factual Fluency, Readiness, Engagement, Mastery and Consolidation.
@@ -193,23 +185,25 @@ The ICAN programme is a collaboration between schools and MOE to support low pro
 
 <h6><b>LEARNING MULTIPLICATION SONGS</b></h6>
 <i>A Harmonious Approach to Mathematical Confidence</i><br><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vx480C7JjRc?si=ZDjbjgSMiKc0jDIp" height="315" width="560"></iframe>
+<br>
 Our dedicated Math Teacher, Mr Ivan Sim, has orchestrated an innovative and melodious journey through the introduction of customised resources — The Multiplication Songs. This initiative has elevated the learning experiences of our students across various levels, spreading the joy of learning mathematics.<br><br>
 Inspired by our creative Math Head Mrs Maybelline See, Mr Sim embarked on the journey of adapting these multiplication songs. These songs, carefully tailored to engage young minds, bring an element of joy to the learning process, making mathematical concepts more accessible and enjoyable.<br><br>
 The multiplication songs are more than a teaching tool; they are a testament to the power of creative and engaging methods in education. The songs have not only added a musical dimension to mathematical learning but has also fostered a positive attitude towards the subject, setting the stage for a lifelong appreciation of the beauty of numbers.
 <br><br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vx480C7JjRc?si=ZDjbjgSMiKc0jDIp" height="315" width="560"></iframe>
-<br>
+
 
 <h6><b>E2K MATH</b></h6>
 <i>Nurturing Mathematical Minds</i><br><br>
-E2K Mathematics Programme is an innovative journey, guiding students to master mathematical concepts with depth. Embracing an inquiry approach, the program focuses on developing mathematical reasoning skills.<br><br>
-At the core of E2K Math is the encouragement of independent and collaborative exploration. Students engage with puzzles, games, and tailored mathematical explorations, fostering curiosity and active participation in mathematical thinking.<br><br>
-Going beyond conventional methods, the program aims to instil not only mathematical proficiency but also the attitudes of seasoned mathematicians. Through hands-on challenges, students develop resilience and creativity, cultivating a mindset aligned with true mathematical scholarship.<br><br>
-Crucially, E2K recognizes 21st-century demands, aligning objectives with the development of critical thinking, invention thinking, and effective communication skills. These competencies prepare students for academic challenges and future endeavours.
 
 | ![](/images/Curriculum/Math/P3_1.jpg) | ![](/images/Curriculum/Math/P3_2.jpg) |  ![](/images/Curriculum/Math/P3_3.jpg)|
 | -------- | -------- | -------- |
 |       |      |       |
+
+E2K Mathematics Programme is an innovative journey, guiding students to master mathematical concepts with depth. Embracing an inquiry approach, the program focuses on developing mathematical reasoning skills.<br><br>
+At the core of E2K Math is the encouragement of independent and collaborative exploration. Students engage with puzzles, games, and tailored mathematical explorations, fostering curiosity and active participation in mathematical thinking.<br><br>
+Going beyond conventional methods, the program aims to instil not only mathematical proficiency but also the attitudes of seasoned mathematicians. Through hands-on challenges, students develop resilience and creativity, cultivating a mindset aligned with true mathematical scholarship.<br><br>
+Crucially, E2K recognizes 21st-century demands, aligning objectives with the development of critical thinking, invention thinking, and effective communication skills. These competencies prepare students for academic challenges and future endeavours.
 
 <h5><a id="menu3">P5 to P6 Programmes</a></h5>
 
@@ -227,7 +221,18 @@ Every year, the P5 and P6 level will attend a problem solving workshop targeting
 
 <h6><b>P5 CATALYTICS</b></h6>
 <i>Towards Adaptive Learning</i><br><br>
+<img style="width:50%" src="/images/Curriculum/Math/P5.jpg">
 In the digital era, P5 students recently undertook the SEAB CATalytics assessment, a computer-based tool evaluating core knowledge and skills in Primary Mathematics. CATalytics not only gauges overall performance but also guides tailored learning strategies.<br><br>
 Participating in CATalytics is a leap forward in leveraging technology for an enhanced learning journey. It becomes a dynamic feedback loop, offering insights into students’ learning journey. Understanding strengths and areas for growth equips them to navigate challenges, fostering a sense of ownership in learning.<br><br>
 As we navigate 21st-century education, tools like CATalytics assess academic prowess and catalyse a responsive, student-centric approach. It reflects our commitment to evolving education alongside the needs of the digital era.<br><br>
-<img style="width:50%" src="/images/Curriculum/Math/P5.jpg">
+
+
+<h5><a id="home">Use of Games in Mathematics (P1 to P6)</a></h5>
+	
+| ![](/images/ma05.jpg) | ![](/images/ma06.jpg) |
+| --- | --- |
+| ![](/images/ma07.jpg) | ![](/images/ma08.jpg) |
+
+Through the use of games, we strive to nurture students’ creative and inventive thinking. Games provide the opportunity for students to apply their reasoning in a fun and inviting environment, where learning through engagement is promoted.&nbsp;
+
+Embedding games into the concrete-pictorial-abstract approach in Mathematics is purposeful, as students actively reinforce and hone their factual fluency and mathematical concepts. Also, games call for the need for our students to think out of the box as they devise creative and innovative solutions in the gameplay. Some examples of the games used during curriculum time are listed below.
