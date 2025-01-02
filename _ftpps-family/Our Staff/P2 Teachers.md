@@ -46,10 +46,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HUZAIFAH (MR)</p>
+<p>MUHAMMAD HUZAIFAH BIN HARIS (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_huzaifah_haris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_huzaifah_haris@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -98,10 +99,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GABRIEL TAY (MR)</p>
+<p>TAY LYE HOCK GABRIEL (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tay_lye_hock_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_lye_hock_gabriel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +155,8 @@ variant: tiptap
 <p>LIM JIA EN, EBEL (MISS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_jia_en_ebel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_en_ebel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
