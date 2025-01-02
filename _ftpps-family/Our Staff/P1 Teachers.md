@@ -58,6 +58,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Mavis Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:low_yoke_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yoke_chan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,6 +103,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:na_zhao@moe.edu.sg" rel="noopener nofollow" target="_blank">na_zhao@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nurulhuda Bte Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurulhuda_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhuda_yusoff_A@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -140,6 +164,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs Christina Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_shiok_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_shiok_ching@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,6 +209,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_yeow_seng_ivan@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_yeow_seng_ivan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Anne Seng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seng_siok_kuan_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_siok_kuan_anne@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Sandee Sim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mei_yuen_sandee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_yuen_sandee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
