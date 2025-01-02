@@ -34,7 +34,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SABRINA BTE SAINI (MDM)</p>
+<p>Mdm Sabrina Saini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sabrina_saini@moe.edu.sg" rel="noopener nofollow" target="_blank">sabrina_saini@moe.edu.sg</a>
@@ -46,7 +46,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>BALARAMAN DEEPA (MDM)</p>
+<p>Mdm Deepa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:deepa_balaraman@moe.edu.sg" rel="noopener nofollow" target="_blank">deepa_balaraman@moe.edu.sg</a>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VERACHELVAN (MRS)</p>
+<p>Mrs Vera</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gomathi_verachelvan@moe.edu.sg" rel="noopener nofollow" target="_blank">gomathi_verachelvan@moe.edu.sg</a>
@@ -87,7 +87,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ZHAO NA (MISS)</p>
+<p>Miss Zhao Na</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:na_zhao@moe.edu.sg" rel="noopener nofollow" target="_blank">na_zhao@moe.edu.sg</a>
@@ -116,7 +116,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LIM XIN HUI (MISS)</p>
+<p>Miss Lim Xin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_xin_hui_aa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_xin_hui_aa@moe.edu.sg</a>
@@ -128,7 +128,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DIANA BINTE MOHAMED MAZLAN (MISS)</p>
+<p>Miss Diana Binte Mohamed Mazlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:diana_mohamed_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">diana_mohamed_mazlan@moe.edu.sg</a>
@@ -157,7 +157,7 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SHEN TIAN RONG (MRS)</p>
+<p>Mrs Shen Tian Rong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_tian_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_tian_rong@moe.edu.sg</a>
@@ -169,7 +169,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SIM YEOW SENG IVAN (MR)</p>
+<p>Mr Ivan Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_yeow_seng_ivan@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_yeow_seng_ivan@moe.edu.sg</a>
