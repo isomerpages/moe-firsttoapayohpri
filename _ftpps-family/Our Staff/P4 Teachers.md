@@ -43,7 +43,7 @@ variant: tiptap
 <p>VICTORIA NIOW JIA YING (MISS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:niow_jia_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>niow_jia_ying@moe.edu.sg</u></a>
+<p><a href="mailto:niow_jia_ying_victoria@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">niow_jia_ying_victoria@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -64,10 +64,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALVYN ENG (MR)</p>
+<p>ENG YAN CHEN ALVYN (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:eng_yan_chen_alvyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eng_yan_chen_alvyn@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +173,8 @@ variant: tiptap
 <p>LOW KHIN SIN (MR)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:low_khin_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_khin_sin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -218,7 +220,8 @@ variant: tiptap
 <p>LIU YUSI (MDM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:liu_yusi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yusi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
