@@ -26,7 +26,7 @@ sections:
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
       button: more information
-      url: /p1-orientation/
+      url: /p1-orientation-2025/
       image: /images/Main/P1_Orientation_Slides_2025_Page_04.jpg
       alt: Image alt text
   - infopic:
