@@ -230,10 +230,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Ebel Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_jia_en_ebel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_en_ebel@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
