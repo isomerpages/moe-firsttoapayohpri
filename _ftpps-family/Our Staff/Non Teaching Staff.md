@@ -3,13 +3,108 @@ title: Non Teaching Staff
 permalink: /ftpps-family/our-staff/non-teaching-staff/
 description: ""
 third_nav_title: Our Staff
-variant: markdown
+variant: tiptap
 ---
-|  |  |
-| :---: | :---: |
-| **Administration Manager**  |  NOEL GOH GUAN HOCK (MR) <br>[noel_goh@moe.edu.sg](mailto:noel_goh@moe.edu.sg) |
-| **Operations Manager**  |  SASIDHARAN S/O VELU (MR) <br>[sasidharan_velu@moe.edu.sg](mailto:sasidharan_velu@moe.edu.sg)<br><br> YEO SIEK KAR ERIC (MR)<br>[yeo_siek_kar_eric@moe.edu.sg](mailto:yeo_siek_kar_eric@moe.edu.sg)  |
-| **ICT Manager** | TAN XIAO HUI (MISS)<br>[tan\_xiao\_hui@moe.edu.sg](mailto:tan_xiao_hui@moe.edu.sg) |
-| **Admin Executive** |  SALAWATI BTE SARIE (MDM)<br>[salawati\_sarie@moe.edu.sg](mailto:salawati_sarie@moe.edu.sg)<br><br>CHANG CHIOU LIAN SHIRIN (MDM) <br>[chang\_chiou\_lian@moe.edu.sg](mailto:chang_chiou_lian@moe.edu.sg)<br><br>NG KAH CHOO (MDM) <br>[ng_kah_choo@moe.edu.sg](mailto:ng_kah_choo@moe.edu.sg)<br> |
-| **Corporate Support Officer** | ATHENA GOH SI YUN (MDM)<br>[athena\_goh\_si\_yun@moe.edu.sg](mailto:athena_goh_si_yun@moe.edu.sg)<br><br> POON SWEE CHING (MS)<br>[poon\_swee\_ching@moe.edu.sg](mailto:poon_swee_ching@moe.edu.sg)<br><br> ZAFIRAH BTE ABDULLAH (MS)<br>[zafirah\_abdullah@moe.edu.sg](mailto:zafirah_abdullah@moe.edu.sg)<br> |
-| **Operations Support Officer** |  JAINAH BTE BASIR (MDM)<br> NELLY (MDM)<br>LIM YOCK CHUAN (MR)<br>LUCY WONG (MS)<br>TAN LEE KIANG MAY (MDM)<br>LIM BENG CHI (MR) |
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Noel Goh
+<br><a href="mailto:noel_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noel_goh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sasidharan
+<br><a href="mailto:sasidharan_velu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sasidharan_velu@moe.edu.sg</a>
+<br>
+<br>Mr Eric Yeo
+<br><a href="mailto:yeo_siek_kar_eric@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_siek_kar_eric@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Tan Xiao Hui
+<br><a href="mailto:tan_xiao_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xiao_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Admin Executive</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Salawati
+<br><a href="mailto:salawati_sarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salawati_sarie@moe.edu.sg</a>
+<br>
+<br>Mdm Shirin Chang
+<br><a href="mailto:chang_chiou_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_chiou_lian@moe.edu.sg</a>
+<br>
+<br>Mdm Ng Kah Choo
+<br><a href="mailto:ng_kah_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kah_choo@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Corporate Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Athena Goh
+<br><a href="mailto:athena_goh_si_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">athena_goh_si_yun@moe.edu.sg</a>
+<br>
+<br>Ms Poon Swee Ching
+<br><a href="mailto:poon_swee_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_swee_ching@moe.edu.sg</a>
+<br>
+<br>Ms Zafirah
+<br><a href="mailto:zafirah_abdullah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zafirah_abdullah@moe.edu.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Operations Support Officer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jainah
+<br>Mdm Nelly
+<br>Mr Lim Yock Chuan
+<br>Ms Lucy Wong
+<br>Mdm May Tan
+<br>Mr Lim Beng Chi</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
