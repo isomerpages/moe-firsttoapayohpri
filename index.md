@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
+      title: P1 Orientation
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: more information
+      url: /p1-orientation-2025/
+      image: /images/Main/P1_Orientation_Slides_2025_Page_04.jpg
+      alt: Image alt text
+  - infopic:
       title: Primary 1 Admin Briefing
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
