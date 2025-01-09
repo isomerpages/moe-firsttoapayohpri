@@ -3,6 +3,7 @@ title: School's Service Provider
 permalink: /ftpps-family/parents-corner/school-s-service-provider/
 description: ""
 third_nav_title: Parents' Corner
+variant: markdown
 ---
 <br>
 <ul class="jekyllcodex_accordion">
@@ -13,8 +14,6 @@ third_nav_title: Parents' Corner
 			<p></p><h5><strong>Chua Lee Kiang Bus Transport Service</strong></h5><br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
 Tel: 9755 8611
 <br><p></p>
-
-<p><a href="/files/Parents'%20Corner/awarded%20bus%20operator's%20contact%20&amp;%20nte%20price.pdf"><b>Bus Fare </b></a><br>Description: The bus fares listed are the maximum fares for each distance cap. Actual bus fares based on other commercial considerations such as the distance, route, number of students on buses and the size of school bus etc.<br></p>
     </div>
 	</li>
   <li>
