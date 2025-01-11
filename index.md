@@ -38,28 +38,6 @@ sections:
       image: /images/HOMEPAGE/P1__1920_x_1080_px_.jpg
       alt: Image alt text
   - infopic:
-      title: President’s Award for Teachers 2025
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      description: Do you know teachers who have made outstanding contributions in
-        moulding the future of our nation? We invite you to nominate them for
-        PAT!
-      button: Nominate here
-      url: https://go.gov.sg/pat2025
-      image: /images/HOMEPAGE/Slide1.jpg
-      alt: Image alt text
-  - infopic:
-      title: Outstanding Youth in Education Award 2025
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      description: Do you know a passionate young teacher (aged 35 and below) who
-        inspires students and peers? We invite you to nominate our inspiring
-        young teachers for the OYCA!
-      button: Nominate here
-      url: https://go.gov.sg/oyea2025
-      image: /images/HOMEPAGE/Slide2.jpg
-      alt: Image alt text
-  - infopic:
       title: FTPPS Official Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
