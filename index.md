@@ -22,6 +22,17 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
+      title: MOE Kindergarten Open House 2025
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      description: Explore the key features of the MK curriculum, programmes and
+        immerse yourself in the MK learning environment.  Sign up for the 2025
+        MK Open House!
+      button: more information
+      url: https://www.moe.gov.sg/preschool/moe-kindergarten/mkopenhouse
+      image: /images/MK@First Toa Payoh/MOE_Kindergarten_Open_House_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: P1 Orientation
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
