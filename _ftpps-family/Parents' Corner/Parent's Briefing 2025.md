@@ -27,5 +27,5 @@ the link below.</p>
 </p>
 <p></p>
 <p></p>
-<p>We encourage you to review them and reach out with any questions you may
-have. Thank you for your continued support!</p>
+<p>We encourage you to review them and reach out to us if you have any questions.
+Thank you for your continued support!</p>
