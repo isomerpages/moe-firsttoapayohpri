@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
+      title: Parent's Briefing 2025
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: more information
+      url: /parent-s-briefing-2025/
+      image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
+      alt: Image alt text
+  - infopic:
       title: MOE Kindergarten Open House 2025
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
@@ -39,14 +47,6 @@ sections:
       button: more information
       url: /p1-orientation-2025/
       image: /images/Main/P1_Orientation_Slides_2025_Page_04.jpg
-      alt: Image alt text
-  - infopic:
-      title: Primary 1 Admin Briefing
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      button: more information
-      url: /p1-admin-briefing/
-      image: /images/HOMEPAGE/P1__1920_x_1080_px_.jpg
       alt: Image alt text
   - infopic:
       title: FTPPS Official Facebook Page
