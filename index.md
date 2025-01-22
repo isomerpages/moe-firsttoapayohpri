@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HOMEPAGE/Website_Banner.gif
+      background: /images/HOMEPAGE/Website_Banner_v4.gif
       key_highlights:
         - title: MK @ First Toa Payoh
           description: ""
