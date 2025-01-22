@@ -54,12 +54,6 @@ Pupils participating in the various activities carried out during the Learning Q
 *   Reading Logs &amp; Badges&nbsp;<br>
 *   10 minutes Reading&nbsp;<br>
 
-###### ICT- 10CM
-
-*   10T’Sigaram -2016 
-
-Pupils of P1 and P2 access this portal to do extensive reading during curriculum time 3 times a&nbsp; week.&nbsp;This program helps to improve pupils’ reading and spoken Tamil.
-
 ##### P3 to P4 Programmes
 
 • 10 mins Reading session every day <br>
