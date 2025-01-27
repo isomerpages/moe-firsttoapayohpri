@@ -177,7 +177,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 28</p>
+<p>Term 3 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -203,12 +203,11 @@ and how to seek help for themselves and their friends.</p>
 </table>
 <p>
 <br>
-<br>
 </p>
-<h4>Primary 6</h4>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/Picture1.jpg">
+</div>
+<h4><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>Primary 6</strong><br></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -251,7 +250,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 4</p>
 </td>
 </tr>
 <tr>
@@ -276,27 +275,24 @@ and learn to behave maturely towards each other.</p>
 <p>
 <br>
 </p>
-<h4>Information for Parents</h4>
-<p>
-<br>
-</p>
-<ol>
+<h4>Information for Parents<br></h4>
+<ol start="8" data-tight="true" class="tight">
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.
-<br>
-<br>
-</p>
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
 </li>
+</ol>
+<p></p>
+<ol start="9" data-tight="true" class="tight">
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an <a href="https://form.gov.sg/65bc9b1dbb98e09d5705f51f" rel="noopener noreferrer nofollow" target="_blank">opt-out form in FormSG</a> by <u>29 February 2024</u>.
+lessons need to complete an <a href="https://go.gov.sg/ftppssed2025" rel="noopener noreferrer nofollow" target="_blank">opt-out form in FormSG</a> by <strong><u>3 March 2025</u></strong>.
 This form will be communicated to parents at the start of the year and
-is also downloadable <a href="/files/CURRICULUM/CCE/Sexuality%20Education%20(SEd)/051_2024_Sexuality_Education_Letter_to_Parents_optoutform.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <u>29 February 2024</u>.
-<br>
+is also downloadable <a href="/files/CURRICULUM/CCE/Sexuality Education (SEd)/SEd_2025_OptOutForm.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by <strong><u>3 March 2025</u></strong>.
 <br>
 </p>
+<p></p>
 </li>
 <li>
 <p>Parents can contact the school at 62567822 or email the school at <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> for
