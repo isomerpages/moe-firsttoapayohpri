@@ -23,6 +23,7 @@ beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.
 <br>
 </p>
+<p></p>
 </li>
 <li>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
@@ -35,6 +36,7 @@ others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.
 <br>
 </p>
+<p></p>
 </li>
 <li>
 <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
@@ -64,6 +66,7 @@ Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://
 more information on the scope of Sexuality Education in the school curriculum.
 <br>
 </p>
+<p></p>
 </li>
 <li>
 <p>The subjects that incorporate topics on sexuality include:</p>
@@ -71,6 +74,7 @@ more information on the scope of Sexuality Education in the school curriculum.
 <p>b. Character and Citizenship Education (CCE)
 <br>
 </p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons:</u></strong>
 <br>
 </p>
@@ -86,8 +90,6 @@ our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
-</li>
-<li>
 <p>
 <br>
 </p>
@@ -100,15 +102,14 @@ years. They learn to build healthy and rewarding relationships with others,
 including those with members of the opposite sex. Students are also guided
 to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
+<p>
+<br>
+</p>
 </li>
-<li>
-<p>
-<br>
-</p>
-<h4>First Toa Payoh Primary School, the following Sexuality Education lessons will be taught in 2024: <br><br>Primary 5</h4>
-<p>
-<br>
-</p>
+</ol>
+<h3><strong>First Toa Payoh Primary School, the following Sexuality Education lessons will be taught in 2025: </strong><br></h3>
+<h4><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>Primary 5</strong></h4>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -147,9 +148,9 @@ from sexuality-related risks.</p>
 caused by physical changes during puberty. Students will learn to describe
 the healthy ways to manage their negative feelings during this time. They
 will also learn to recognise that oneâ€™s identity need not be negatively
-affected, even when oneâ€™s body is experiencing changes due to puberty.
-<br>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -172,7 +173,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 2</p>
+<p>Term 3 Week 28</p>
 </td>
 </tr>
 <tr>
@@ -184,13 +185,14 @@ own responses when they encounter pornography by applying the strategy <strong>â
 <p>In this lesson, students will learn about sexual abuse, how it can happen
 during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
-and how to seek help for themselves and their friends.
-<br>
-<br><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+and how to seek help for themselves and their friends.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 3</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -274,7 +276,7 @@ and learn to behave maturely towards each other.</p>
 <p>
 <br>
 </p>
-</li>
+<ol>
 <li>
 <p>Parents may opt their children out of Sexuality Education lessons, and/or
 supplementary Sexuality Education programmes by MOE-approved external providers.
