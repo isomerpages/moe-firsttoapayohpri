@@ -55,7 +55,7 @@ ones.
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <p></p>
-<h4>Overview of First Toa Payoh Primary School’s Sexuality Education Programme for 2024</h4>
+<h4>Overview of First Toa Payoh Primary School’s Sexuality Education Programme for 2025</h4>
 <p></p>
 </li>
 <li>
