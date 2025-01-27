@@ -108,6 +108,10 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <h3><strong>First Toa Payoh Primary School, the following Sexuality Education lessons will be taught in 2025: </strong><br></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Curriculum/CCE/Picture1.jpg">
+</div>
 <h4><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE <br>Primary 5</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
