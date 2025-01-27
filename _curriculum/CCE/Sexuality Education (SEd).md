@@ -298,15 +298,7 @@ The completed opt-out form is to be submitted by <strong><u>3 March 2025</u></st
 <li>
 <p>Parents can contact the school at 62567822 or email the school at <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
-programme.
-<br>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:3%" height="auto" width="100%" src="/images/arrow-up.png">
-</div>
-<p>Back to Top</p>
+programme.</p>
 </li>
 </ol>
 <p></p>
