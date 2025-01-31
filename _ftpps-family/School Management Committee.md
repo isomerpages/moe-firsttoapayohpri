@@ -130,7 +130,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANG MEI LING (MISS)
+<p>Miss Ang Mei Ling
 <br><a href="mailto:ang_mei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_mei_ling@moe.edu.sg</a>
 </p>
 </td>
@@ -185,7 +185,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HAN HENG EE ADELYN (MDM)
+<p>Mdm Han Heng Ee Adelyn
 <br>&nbsp;<a href="mailto:han_heng_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">han_heng_ee@moe.edu.sg</a>
 </p>
 </td>
@@ -196,7 +196,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TAN JOO HUI EFFIE (MRS)
+<p>Mrs Tan Joo Hui Effie
 <br><a href="mailto:ho_joo_hui_effie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_joo_hui_effie@moe.edu.sg</a>
 </p>
 </td>
@@ -207,7 +207,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MUHAMMAD HUZAIFAH BIN HARIS (MR)
+<p>Mr Muhammad Huzaifah Bin Haris
 <br><a href="mailto:muhammad_huzaifah_haris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_huzaifah_haris@moe.edu.sg</a>
 </p>
 </td>
@@ -218,7 +218,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SEE MAY HUA MAYBELLINE (MRS)
+<p>Mrs See May Hua Maybelline
 <br><a href="mailto:kong_may_hua_maybelline.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_may_hua_maybelline.moe.edu.sg</a>
 </p>
 </td>
@@ -229,7 +229,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ANDY TAN (MR)
+<p>Mr Andy Tan
 <br><a href="mailto:tan_hwa_hwa_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwa_hwa_andy@moe.edu.sg</a>
 </p>
 </td>
