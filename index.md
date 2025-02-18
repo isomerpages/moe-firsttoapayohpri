@@ -38,14 +38,6 @@ sections:
       image: /images/MK@First Toa Payoh/Open House/MOE_Kindergarten_Open_House.jpg
       alt: Image alt text
   - infopic:
-      title: P1 Orientation
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      button: more information
-      url: /p1-orientation-2025/
-      image: /images/Main/P1_Orientation_Slides_2025_Page_04.jpg
-      alt: Image alt text
-  - infopic:
       title: FTPPS Official Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
