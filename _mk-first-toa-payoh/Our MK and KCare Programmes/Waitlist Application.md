@@ -35,8 +35,8 @@ f) The child’s Immunisation Record
 
 This application is only valid for 3 months. Please submit another application if you do not hear from us after 3 months.
 
-To apply, please click&nbsp;[here](https://go.gov.sg/mk-waitlist2024)&nbsp;to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.
+To apply, please click&nbsp;[here](https://go.gov.sg/mkfywaitlist)&nbsp;to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.
 
-<a href="https://go.gov.sg/mk-waitlist2024">
-	<img src="/images/MK@First%20Toa%20Payoh/https___go_gov_sg_mkfywaitlist.png" style="width:50%">
+<a href="https://go.gov.sg/mkfywaitlist">
+	<img src="/images/MK@First%20Toa%20Payoh/https___go_gov_sg_mkfywaitlist2025.png" style="width:50%">
 </a>
