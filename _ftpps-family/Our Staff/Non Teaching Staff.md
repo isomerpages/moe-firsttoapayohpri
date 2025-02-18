@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Xiao Hui
+<p>Ms Tan Xiao Hui
 <br><a href="mailto:tan_xiao_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_xiao_hui@moe.edu.sg</a>
 </p>
 </td>
@@ -64,10 +64,7 @@ variant: tiptap
 <p>Mdm Salawati
 <br><a href="mailto:salawati_sarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salawati_sarie@moe.edu.sg</a>
 <br>
-<br>Mdm Shirin Chang
-<br><a href="mailto:chang_chiou_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_chiou_lian@moe.edu.sg</a>
-<br>
-<br>Mdm Ng Kah Choo
+<br>Ms Ng Kah Choo
 <br><a href="mailto:ng_kah_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kah_choo@moe.edu.sg</a>
 <br>
 </p>
