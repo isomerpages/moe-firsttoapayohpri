@@ -16,7 +16,10 @@ third_nav_title: Parents' Corner
 important information and updates that will help you stay informed about
 your child's educational experience. To access the slides, simply click
 the link below.</p>
-<p></p>
+<p><a href="https://drive.google.com/file/d/12M8zc3TOuk8w8FvOjrXXXMtDl5JoaTQM/view?usp=sharing" rel="noopener nofollow" target="_blank">Briefing Slides for P1 Parents</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1aoFrHjj_MAwPXK05v0FgurVaJ9pe-Jff/view?usp=sharing" rel="noopener nofollow" target="_blank">Briefing Slides for P2 Parents</a>
+</p>
 <p><a href="/files/Parent's Briefing/2025/BRIEFING_FOR_PARENTS_2025_P3.pdf" rel="noopener nofollow" target="_blank">Briefing Slides for P3 Parents</a>
 </p>
 <p><a href="/files/Parent's Briefing/2025/BRIEFING_FOR_PARENTS_2025_P4.pdf" rel="noopener nofollow" target="_blank">Briefing Slides for P4 Parents</a>
