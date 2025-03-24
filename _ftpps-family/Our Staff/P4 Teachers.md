@@ -282,6 +282,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Sharaf Yar Khan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharaf_yar_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharaf_yar_khan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Emily Tang</p>
 </td>
 <td rowspan="1" colspan="1">
