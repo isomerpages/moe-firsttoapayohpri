@@ -20,7 +20,7 @@ Tel: 9755 8611
     <input type="checkbox" id="accordion2">
     <label for="accordion2">SCHOOL BOOKSHOP</label>
     <div>
-			<p></p><h5><strong>The Continental Book Centre</strong></h5><br>Website: <a href="http://www.thecontinental.sg/">http://www.thecontinental.sg</a><br>Tel: 6247 8482<p></p>
+			<p></p><h5><strong>The Continental Book Centre</strong></h5><br>Website: <a href="http://www.thecontinental.sg/">http://www.thecontinental.sg</a><br>Tel: 8904 3456<p></p>
 
 <p>Operating Hours:
 <br>

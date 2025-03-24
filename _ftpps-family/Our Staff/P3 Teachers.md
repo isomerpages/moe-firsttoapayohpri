@@ -58,10 +58,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sharaf Yar Khan</p>
+<p>Mrs Sandee Sim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharaf_yar_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharaf_yar_khan@moe.edu.sg</a>
+<p><a href="mailto:tan_mei_yuen_sandee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_yuen_sandee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
