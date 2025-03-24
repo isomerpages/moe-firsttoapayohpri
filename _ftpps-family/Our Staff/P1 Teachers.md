@@ -164,6 +164,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Nowel Ng Xin He</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nowell_Ng_Xin_He@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nowell_ng_xin_he@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs Christina Lim</p>
 </td>
 <td rowspan="1" colspan="1">
