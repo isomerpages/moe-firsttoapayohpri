@@ -176,18 +176,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tay_shiok_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_shiok_ching@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
