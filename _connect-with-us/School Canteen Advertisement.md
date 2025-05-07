@@ -25,6 +25,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Western Food Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 December 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Halal</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,29 +45,18 @@ variant: tiptap
 <p>Non-Halal</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Application Procedure</strong></h4>
-<h5><strong>Interest applicants must meet the following criteria:</strong></h5>
+<h5><strong>Interested applicants must meet the following criteria:</strong></h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Citizen or Singapore Permanent Resident for stallholder and
-stall assistant.</p>
+<p>Singapore Citizen or Singapore Permanent Resident for the stallholder
+and the stall assistant.</p>
 </li>
 <li>
-<p>Able to provide food that meet the health/ nutritional standards set by
-the Health Promotion Board (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>);</p>
+<p>Able to provide food that meets the health/ nutritional standards set
+by the Health Promotion Board (see <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">link</a>);</p>
 </li>
 <li>
 <p>Able to provide good service and quality food at reasonable prices (to
@@ -84,23 +84,23 @@ from Singapore Food Agency (SFA).</p>
 </li>
 </ul>
 <h5><strong>How to apply?</strong></h5>
-<p>Interested applicant is required to submit the completed application form
-and the following documents by closing date to email: <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> OR
-to the school’s General Office.</p>
+<p>Interested applicant is required to submit the completed <a href="/files/Application_for_Canteen_Stall_FormBF7_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">application form</a> and
+the following documents by closing date to email: <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> OR to the school’s General
+Office.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>One recent passport-sized photograph</p>
 </li>
 <li>
-<p>One photocopy of applicant's NRIC (front &amp; back)</p>
+<p>One photocopy of the applicant’s NRIC (front &amp; back)</p>
 </li>
 <li>
 <p>Proposed menu list and prices</p>
 </li>
 <li>
-<p>Photocopies of relevant certificates such as Basic Food Hygiene, etc.</p>
+<p>Photocopies of relevant certificates, such as Basic Food Hygiene, etc.</p>
 </li>
 </ul>
 <h5><strong>Interview and Food Tasting</strong></h5>
 <p>Please note that only shortlisted applicants will be invited for an interview
-and may be required to provide food sampling (at applicant’s own expense).</p>
+and may be required to provide food sampling (at the applicant’s own expense).</p>
