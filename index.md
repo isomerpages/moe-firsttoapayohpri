@@ -22,21 +22,14 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
-      title: Parent's Briefing 2025
+      title: Our School, Our Stories
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
-      button: more information
-      url: /parent-s-briefing-2025/
-      image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
+      button: Click Here!
+      url: /FTPPS-virtual-tour/
+      image: /images/HOMEPAGE/4_FTPPS_Cartoon_Kids.png
       alt: Image alt text
-  - infopic:
-      title: MOE Kindergarten Open House 2025
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      button: more information
-      url: /mk-open-house-2025/
-      image: /images/MK@First Toa Payoh/Open House/MOE_Kindergarten_Open_House.jpg
-      alt: Image alt text
+      description: Want to know what we do in First Toa Payoh Primary School?
   - infopic:
       title: FTPPS Official Facebook Page
       subtitle: NEWS & ANNOUNCEMENTS
