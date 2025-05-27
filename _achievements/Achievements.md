@@ -4,7 +4,7 @@ permalink: /achievements/
 variant: markdown
 description: ""
 ---
-<ul class="jekyllcodex\_accordion">  
+<ul class="jekyllcodex_accordion">  
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">2025</label><div>  
