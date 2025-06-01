@@ -14,4 +14,4 @@ variant: markdown
 * Ms Esther Foong-Tan
 * Mr Goh Chong Jin Junasis
 * Ms Lin Suling
-* Varlerie Cheng
+* Ms Varlerie Cheng
