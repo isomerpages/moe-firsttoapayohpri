@@ -34,6 +34,18 @@ description: ""
     <td><img src="/images/Achievements/2024/9.png" style="width:100%"></td>
     <td><img src="/images/Achievements/2024/10.png" style="width:100%"></td>
   </tr>
+    <tr>
+    <td><img src="/images/Achievements/2024/11.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2024/12.png" style="width:100%"></td>
+  </tr>
+    <tr>
+    <td><img src="/images/Achievements/2024/13.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2024/14.png" style="width:100%"></td>
+  </tr>
+    <tr>
+    <td><img src="/images/Achievements/2024/15.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2024/16.png" style="width:100%"></td>
+  </tr>
 </tbody></table>
 </p>
 </div></li>  
