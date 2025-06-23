@@ -13,14 +13,13 @@ description: ""
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">2024</label><div>  
-<p>Insert content here</p>  
+<p><img src="/images/Achievements/2024/1.png" style="width:45%"><img src="/images/Achievements/2024/2.png" style="width:45%"></p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">2023</label><div>  
-<p>Insert content here</p>  
+<p>![](/images/under_construction.jpg)</p>  
 </div></li>  
   
 </ul>
 
-![](/images/under_construction.jpg)
