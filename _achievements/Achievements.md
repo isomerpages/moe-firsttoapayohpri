@@ -18,8 +18,7 @@ description: ""
   
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">2023</label><div>  
-<p>![](/images/under_construction.jpg)</p>  
+<p><img src="/images/under_construction.jpg"></p>  
 </div></li>  
   
 </ul>
-
