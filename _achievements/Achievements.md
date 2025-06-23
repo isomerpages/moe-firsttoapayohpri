@@ -22,6 +22,18 @@ description: ""
     <td><img src="/images/Achievements/2024/3.png" style="width:100%"></td>
     <td><img src="/images/Achievements/2024/4.png" style="width:100%"></td>
   </tr>
+	    <tr>
+    <td><img src="/images/Achievements/2024/5.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2024/8.png" style="width:100%"></td>
+  </tr>
+    <tr>
+    <td><img src="/images/Achievements/2024/6.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2024/7.png" style="width:100%"></td>
+  </tr>
+    <tr>
+    <td><img src="/images/Achievements/2024/9.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2024/10.png" style="width:100%"></td>
+  </tr>
 </tbody></table>
 </p>
 </div></li>  
