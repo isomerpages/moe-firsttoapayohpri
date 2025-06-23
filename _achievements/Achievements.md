@@ -13,8 +13,16 @@ description: ""
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">2024</label><div>  
-<p><img src="/images/Achievements/2024/1.png" style="width:45%"><img src="/images/Achievements/2024/2.png" style="width:45%"></p>  
-</div></li>  
+<p>  
+&nbsp;&nbsp;
+		
+	</p></div>
+	&nbsp;
+		
+	
+	
+<p></p>  
+</li>  
   
 <li><input type="checkbox" id="accordion3">  
 <label for="accordion3">2023</label><div>  
