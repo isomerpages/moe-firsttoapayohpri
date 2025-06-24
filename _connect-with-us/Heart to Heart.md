@@ -5,6 +5,19 @@ description: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/Heart to Heart/OLJ1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/Heart to Heart/OLJ2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/Heart to Heart/OLJ3.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CONNECT with Us/Heart to Heart/1.jpg">
 </div>
