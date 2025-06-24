@@ -217,18 +217,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Peck Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_peck_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_peck_hoon@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
