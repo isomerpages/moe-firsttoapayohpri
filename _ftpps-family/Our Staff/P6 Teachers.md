@@ -126,7 +126,7 @@ variant: tiptap
 <p>Ms Stephy Chien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">stephy_chien_mun_yin@moe.edu.sg</a>
+<p><a href="mailto:stephy_chien_mun_yin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stephy_chien_mun_yin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
