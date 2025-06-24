@@ -8,7 +8,25 @@ description: ""
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">2025</label><div>  
-<p><img src="/images/under_construction.jpg"></p>  
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Achievements/2025/1.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2025/2.png" style="width:100%"></td>
+  </tr>
+    <tr>
+    <td><img src="/images/Achievements/2025/3.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2025/4.png" style="width:100%"></td>
+  </tr>
+	    <tr>
+    <td><img src="/images/Achievements/2025/5.png" style="width:100%"></td>
+    <td><img src="/images/Achievements/2025/6.png" style="width:100%"></td>
+  </tr>
+    <tr>  
+    <td><img src="/images/Achievements/2025/7.png" style="width:100%"></td>
+  </tr>
+  
+</tbody></table>
+</p>
 </div></li>  
   
 <li><input type="checkbox" id="accordion2">  
