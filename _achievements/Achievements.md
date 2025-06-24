@@ -50,9 +50,5 @@ description: ""
 </p>
 </div></li>  
   
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">2023</label><div>  
-<p><img src="/images/under_construction.jpg"></p>  
-</div></li>  
   
 </ul>
