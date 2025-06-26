@@ -105,18 +105,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sian_teng_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_sian_teng_edwin@moe.edu.sg</u></a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Adelyn Han</p>
 </td>
 <td rowspan="1" colspan="1">
