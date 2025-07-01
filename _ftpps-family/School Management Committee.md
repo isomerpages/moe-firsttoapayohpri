@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH/ P1 &amp; P2</strong>
+<p><strong>Year Head / P1 &amp; P2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH/ P3 &amp; P4</strong>
+<p><strong>Year Head / P3 &amp; P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,12 +104,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YH/ P5 &amp; P6</strong>
+<p><strong>Year Head / P5 &amp; P6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abraham Abe
 <br><a href="mailto:abraham_abe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abraham_abe@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head / P1 &amp; P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nisa
+<br><a href="mailto:abdul_azeez_noorunisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_azeez_noorunisa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head / P1 &amp; P2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Glenice Goh
+<br><a href="mailto:goh_shih_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shih_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -231,6 +253,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Andy Tan
 <br><a href="mailto:tan_hwa_hwa_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hwa_hwa_andy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH/ Student Well-being</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Diana Binte Mohamed Mazlan
+<br><a href="mailto:diana_mohamed_mazlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diana_mohamed_mazlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
