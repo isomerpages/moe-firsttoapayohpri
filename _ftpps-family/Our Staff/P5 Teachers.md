@@ -53,6 +53,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Timothy Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_yew_sing_timothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_yew_sing_timothy@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Andy Loo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -163,6 +175,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_joo_hui_effie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ho_joo_hui_effie@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poonguzhali Chandrasekaran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:poonguzhali_chandrasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poonguzhali_chandrasekaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
