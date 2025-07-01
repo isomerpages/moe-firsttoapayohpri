@@ -66,7 +66,4 @@ description: ""
   </tr>
 </tbody></table>
 </p>
-</div></li>  
-  
-  
-</ul>
+</div></li> </ul>
