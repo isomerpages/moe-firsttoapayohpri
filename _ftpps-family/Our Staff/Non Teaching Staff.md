@@ -68,6 +68,9 @@ variant: tiptap
 <br><a href="mailto:ng_kah_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kah_choo@moe.edu.sg</a>
 <br>
 </p>
+<p>Mdm Athena Goh
+<br><a href="mailto:athena_goh_si_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">athena_goh_si_yun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,10 +79,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Athena Goh
-<br><a href="mailto:athena_goh_si_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">athena_goh_si_yun@moe.edu.sg</a>
-<br>
-<br>Ms Poon Swee Ching
+<p>Ms Poon Swee Ching
 <br><a href="mailto:poon_swee_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_swee_ching@moe.edu.sg</a>
 <br>
 <br>Ms Zafirah
