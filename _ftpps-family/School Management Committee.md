@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal</strong>
+<p><strong>PRINCIPAL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal</strong>
+<p><strong>VICE-PRINCIPAL</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal (Admin)</strong>
+<p><strong>VICE-PRINCIPAL (Admin)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P1 &amp; P2</strong>
+<p><strong>YEAR HEAD / P1 &amp; P2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P3 &amp; P4</strong>
+<p><strong>YEAR HEAD / P3 &amp; P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head / P5 &amp; P6</strong>
+<p><strong>YEAR HEAD / P5 &amp; P6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +115,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head / P1 &amp; P2</strong>
+<p><strong>ASSISTANT YEAR HEAD / P1 &amp; P2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,7 +126,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head / P1 &amp; P2</strong>
+<p><strong>ASSISTANT YEAR HEAD/ P3 &amp; P4</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +258,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SH/ Student Well-being</strong>
+<p><strong>SH/ STUDENT WELL-BEING</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
