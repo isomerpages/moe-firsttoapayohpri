@@ -30,8 +30,8 @@ description: ""
 <label for="accordion5"> </label>Visual Arts &amp; Photojournalism<div>  
 <p></p><ul class="jekyllcodex_accordion"> 
 		  <li>
-    <input id="accordion4" type="checkbox">
-    <label for="accordion4">2022 Awards </label>
+    <input id="accordion23" type="checkbox">
+    <label for="accordion23">2022 Awards </label>
     <div>
 		<p>	<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide1.jpg"><br>
 			<img src="/images/Achievements/Visual%20Arts_Photojournalism/2022/Aesthetics%20Award%202022/Slide2.jpg">
@@ -63,8 +63,8 @@ description: ""
 		</div>
   </li>
 	  <li>
-    <input id="accordion3" type="checkbox">
-    <label for="accordion3">2020 Awards </label>
+    <input id="accordion22" type="checkbox">
+    <label for="accordion22">2020 Awards </label>
     <div>
 		<p>	<img src="/images/OSOS%20Awards%202020%20for%20website_Page_1.jpg"><br>
 			<img src="/images/OSOS%20Awards%202020%20for%20website_Page_2.jpg"><br>
@@ -76,8 +76,8 @@ description: ""
 		</div>
   </li>
   <li>
-    <input id="accordion2" type="checkbox">
-    <label for="accordion2">2019 Awards </label>
+    <input id="accordion21" type="checkbox">
+    <label for="accordion21">2019 Awards </label>
     <div>
 		<p>	<img src="/images/SYF1.jpg">
 			<img src="/images/SYF2.jpg"><br>
@@ -100,8 +100,8 @@ description: ""
   </li>
 	
   <li>
-    <input id="accordion1" type="checkbox">
-    <label for="accordion1">2018 Awards </label>
+    <input id="accordion20" type="checkbox">
+    <label for="accordion20">2018 Awards </label>
     <div>
 		<p>	<img src="/images/website_photo1.jpg"><br>
 			<img src="/images/1%20(5).jpg">
@@ -114,11 +114,6 @@ description: ""
 		</div>
   </li>
 </ul>
-
-
-<a href="/achievements/visual-arts-photojournalism#lo\_main">
-	<img src="/images/arrow-up.png" style="width:3%" align="center"> Back to Top
-</a><p></p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion6">  
