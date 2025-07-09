@@ -33,9 +33,8 @@ description: ""
   
 <li><input type="checkbox" id="accordion6">  
 <label for="accordion6">Other Achievements</label><div>  
-<p></p><h4 align="center"> Singapore Amazing Flying Competition</h4>
-
-[![Singapore Amazing Flying Machine Competition 2021](/images/Singapore%20Amazing%20Flying%20Machine%20Competition%202021.jpg)](https://www.facebook.com/moesingapore/posts/10160815518087004)
+	<p></p><h4 align="center"> Singapore Amazing Flying Competition</h4>
+	<a href="”https://www.facebook.com/moesingapore/posts/10160815518087004”"><img src="”/images/Singapore%20Amazing%20Flying%20Machine%20Competition%202021.jpg”"></a>
 <p></p>  
 </div></li>  
   
