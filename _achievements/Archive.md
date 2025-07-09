@@ -22,7 +22,7 @@ description: ""
 </div></li>  
 	
 <li><input type="checkbox" id="accordion4">  
-<label for="accordion4"> </label><div>  
+<label for="accordion4">Uniform Groups</label><div>  
 <p>Insert content here</p>  
 </div></li>  
   
