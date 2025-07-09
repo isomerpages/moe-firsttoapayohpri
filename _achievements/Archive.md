@@ -23,7 +23,7 @@ description: ""
 	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Uniform Groups</label><div>  
-<p>Insert content here</p>  
+<p></p><hr><p></p><div class="isomer-image-wrapper"><img style="width:80%" height="auto" width="100%" src="/images/CCA%20School%20Achievements%202019_June_UG-2.jpg"></div><p></p><p></p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion5">  
