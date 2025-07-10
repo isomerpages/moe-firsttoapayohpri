@@ -13,7 +13,31 @@ description: ""
   
 <li><input type="checkbox" id="accordion2">  
 <label for="accordion2">Performing Arts</label><div>  
-<p> </p>  
+	<p></p><h4> SYF Arts Presentation 2018</h4>
+
+<h5>Choir</h5>
+
+Singapore Youth Festival Arts Presentation -&nbsp;Certificate of Accomplishment
+
+<img src="/images/Choir.jpeg" style="width:70%">  
+
+<h5>Malay Dance</h5>
+
+Singapore Youth Festival Arts Presentation -&nbsp;Certificate of Accomplishment&nbsp;
+
+<img src="/images/Malay%20Dance.jpeg" style="width:70%">
+
+<h5>Indian Dance</h5>
+
+Singapore Youth Festival Arts Presentation -&nbsp;Certificate of Accomplishment
+
+<img src="/images/Indian%20Dance.jpeg" style="width:70%">
+  
+<h5>Chinese Dance</h5>
+
+Singapore Youth Festival Arts Presentation -&nbsp;Certificate of Accomplishment&nbsp;
+
+  <img src="/images/Chinese%20Dance.jpeg" style="width:70%"><p></p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion3">  
