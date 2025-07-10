@@ -8,7 +8,11 @@ description: ""
   
 <li><input type="checkbox" id="accordion1">  
 <label for="accordion1">Environmental Awards</label><div>  
-<p> </p>  
+<p><img src="/images/Environment%20Education%20@%20First%20Toa%20Payoh%20Primary-page-002.jpg" style="width:80%">
+
+<br>
+
+<img src="/images/Environment%20Education%20@%20First%20Toa%20Payoh%20Primary-page-001.jpg" style="width:80%"></p>  
 </div></li>  
   
 <li><input type="checkbox" id="accordion2">  
