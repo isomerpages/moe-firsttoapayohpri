@@ -2,10 +2,8 @@ collections:
   achievements:
     output: true
     order:
-      - Achievements.md
-      - Environmental Awards.md
-      - Performing Arts.md
+      - Our Proud Moments.md
       - Sports and Games.md
       - Uniform Groups.md
       - Visual Arts & Photojournalism.md
-      - Other Achievements.md
+      - Archive.md
