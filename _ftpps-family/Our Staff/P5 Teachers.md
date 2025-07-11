@@ -109,7 +109,7 @@ variant: tiptap
 <p>Ms Brenda Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_chi_chia_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chi_chia_brenda@moe.edu.sg</a>
+<p><a href="mailto:ho_chi_chia_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chi_chia_brenda_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
