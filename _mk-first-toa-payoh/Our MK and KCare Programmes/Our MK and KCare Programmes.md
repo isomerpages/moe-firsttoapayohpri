@@ -64,7 +64,6 @@ variant: tiptap
 </table>
 <h4>Kindergarten Care (KCare)</h4>
 <p>KCare operates from Monday to Friday, 12pm to 7pm.</p>
-<p></p>
 <p>During school terms when MK operates, MK teachers will receive the KCare
 children who are in KCare from 7am and KCare will operate from 12pm to
 7pm. During school holidays when MK is closed, KCare will continue to operate
