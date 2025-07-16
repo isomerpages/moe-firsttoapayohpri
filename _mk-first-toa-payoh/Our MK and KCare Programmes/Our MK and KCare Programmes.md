@@ -84,7 +84,7 @@ between 7am to 7pm.</p>
 <p>MOE Kindergarten</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8am- 12pm</p>
+<p>8am - 12pm</p>
 </td>
 </tr>
 <tr>
