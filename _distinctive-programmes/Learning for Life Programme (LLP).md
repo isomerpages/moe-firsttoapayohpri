@@ -2,9 +2,8 @@
 title: Learning for Life Programme (LLP)
 permalink: /distinctive-programmes/learning-for-life-programme-llp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
 ![](/images/%20Distinctive%20Programmes/LLP/1_resize.jpg)
 ![](/images/%20Distinctive%20Programmes/LLP/2_resize.jpg)
 ![](/images/%20Distinctive%20Programmes/LLP/3_resize.jpg)
