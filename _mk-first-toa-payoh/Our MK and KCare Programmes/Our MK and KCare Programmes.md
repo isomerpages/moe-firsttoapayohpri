@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our MK and KCare Programmes
 variant: tiptap
 ---
-<h3>MK Programme</h3>
+<h4>MK Programme</h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><br>Kindergarten Care (KCare)</h3>
+<h4>Kindergarten Care (KCare)</h4>
 <p>KCare operates from Monday to Friday, 12pm to 7pm.</p>
 <p></p>
 <p>During school terms when MK operates, MK teachers will receive the KCare
