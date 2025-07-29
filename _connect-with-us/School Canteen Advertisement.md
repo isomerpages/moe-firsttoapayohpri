@@ -34,6 +34,17 @@ variant: tiptap
 <p>Halal</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chinese Noodle Stall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 December 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Soup Noodles</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Application Procedure</strong></h4>
