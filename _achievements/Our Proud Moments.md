@@ -23,7 +23,11 @@ description: ""
   </tr>
     <tr>  
     <td><img src="/images/Achievements/2025/7_2.png" style="width:100%"></td>
-			<td><img src="/images/Achievements/2025/2025_Achievements_8.png" style="width:100%"></td>
+			<td><img src="/images/Achievements/2025/choir.png" style="width:100%"></td>
+  </tr>
+			<tr>  
+    <td><img src="/images/Achievements/2025/list.png" style="width:100%"></td>
+			<td></td>
   </tr>
 			<tr>  
     <td><img src="/images/Achievements/2025/1_Staff.png" style="width:100%"></td>
