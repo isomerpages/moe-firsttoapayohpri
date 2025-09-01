@@ -94,16 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YEAR HEAD / P3 &amp; P4</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Maskinah <a href="mailto:siti_maskinah_muzakir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_maskinah_muzakir@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>YEAR HEAD / P5 &amp; P6</strong>
 </p>
 </td>
