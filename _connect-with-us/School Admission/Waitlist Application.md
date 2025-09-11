@@ -15,4 +15,4 @@ Please take note of the following:
   
 To apply, please click&nbsp;[here](https://go.gov.sg/ftppswaitlistapplicationform)&nbsp;to submit a waitlist form for your child/ward. Alternatively, you may scan the following QR code.  
   
-<img src="/images/Waitlist.png" style="width:40%">
+<img src="/images/ftppswaitlist.jpg" style="width:40%">
