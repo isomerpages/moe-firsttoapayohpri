@@ -31,17 +31,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>VICE-PRINCIPAL</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Remund Koh
-<br><a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>VICE-PRINCIPAL (Admin)</strong>
 </p>
 </td>
