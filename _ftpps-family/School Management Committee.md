@@ -110,7 +110,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Glenice Goh
-<br><a href="mailto:goh_shih_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_shih_hui@moe.edu.sg</a>
+<br><a href="mailto:glenice_goh_shih_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">glenice_goh_shih_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
