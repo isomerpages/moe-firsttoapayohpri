@@ -11,7 +11,7 @@ variant: markdown
 <b><u>Members</u></b>
 * Mr Loh Yong Cheng
 * Ms Yeo Gek Wah Annie
-* Ms Esther Foong-Tan
+* Mrs Esther Foong-Tan
 * Mr Goh Chong Jin Junasis
 * Ms Lin Suling
-* Ms Varlerie Cheng
+* Ms Valerie Cheng
