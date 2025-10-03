@@ -8,7 +8,7 @@ variant: markdown
 
 The CCA Programme provides students with a platform to discover their interests and talents. Well-organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood.  
   
-<b>CCAs are built into the school curriculum and it is conducted every Friday from <u>7.30am to 9.00am</u></b>.  
+<b>CCAs are built into the school curriculum and it is conducted every Monday from <u>2:00pm to 4:00pm</u></b>.  
 
 ![](/images/CCA.jpg)
 
