@@ -25,8 +25,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Noel Goh
-<br><a href="mailto:noel_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noel_goh@moe.edu.sg</a>
+<p>Ms Ashley Low
+<br><a href="mailto:noel_goh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yi_jie_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
