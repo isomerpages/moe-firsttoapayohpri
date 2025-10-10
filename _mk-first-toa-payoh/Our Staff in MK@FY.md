@@ -72,6 +72,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Sri Letchimi D/O Techinamurthi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MKE / EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sri_Letchimi_Techinamurthi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sri_Letchimi_Techinamurthi@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Han Xiaoni</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +126,7 @@ variant: tiptap
 <p>MKE / CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gao_fangfang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_fangfang@moe.edu.sg</a> 
+<p><a href="mailto:gao_fangfang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gao_fangfang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
