@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
+      title: P1 Admin Briefing Slides
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      button: Click Here!
+      url: /p1-admin-briefing/
+      image: /images/FTTPS Family/Copy_of_P1__1920_x_1080_px_V2.png
+      alt: Image alt text
+  - infopic:
       title: Our School, Our Stories
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
