@@ -24,13 +24,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Rajeshwari D/O Thangasami</p>
+<p>Mrs Priscilla Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Centre Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Rajeshwari_Thangasami_Mrs_Palanisamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rajeshwari_Thangasami_Mrs_Palanisamy@moe.edu.sg</a>
+<p><a href="mailto:toh_oi_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>toh_oi_leng@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
