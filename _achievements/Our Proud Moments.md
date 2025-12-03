@@ -27,7 +27,7 @@ description: ""
   </tr>
 			<tr>  
     <td><img src="/images/Achievements/2025/list.png" style="width:100%"></td>
-			<td><img src="/images/Achievements/2025/Anti-Drug.png" style="width:100%"></td>
+			<td><img src="/images/Achievements/2025/Anti_Drug.png" style="width:100%"></td>
   </tr>
 			<tr>  
     <td><img src="/images/Achievements/2025/1_Staff.png" style="width:100%"></td>
