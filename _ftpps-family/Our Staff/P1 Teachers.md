@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P1 RESPECT</strong>
+<p><strong>P1 INTEGRITY</strong>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P1 RESPONSIBILITY</strong>
+<p><strong>P1 LOVE</strong>
 </p>
 </td>
 </tr>
@@ -131,7 +131,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P1 LOVE</strong>
+<p><strong>P1 PERSEVERANCE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Form Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P1 LOVERESPECT</strong>
 </p>
 </td>
 </tr>
@@ -184,7 +223,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P1 INTEGRITY</strong>
+<p><strong>P1 RESPONSIBILITY</strong>
 </p>
 </td>
 </tr>
