@@ -87,10 +87,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Vera</p>
+<p>Mdm Junainah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gomathi_verachelvan@moe.edu.sg" rel="noopener nofollow" target="_blank">gomathi_verachelvan@moe.edu.sg</a>
+<p><a href="mailto:junainah_md_taib@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>junainah_md_taib@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -99,10 +99,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Zhao Na</p>
+<p>Mr Lim Chee Kng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:na_zhao@moe.edu.sg" rel="noopener nofollow" target="_blank">na_zhao@moe.edu.sg</a>
+<p><a href="mailto:lim_chee_kng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_chee_kng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -111,10 +111,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurulhuda Bte Yusoff</p>
+<p>Ms Lai Yujuan Ann Melissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurulhuda_yusoff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhuda_yusoff_A@moe.edu.sg</a>
+<p><a href="mailto:lai_yujuan_ann_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lai_yujuan_ann_melissa@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
