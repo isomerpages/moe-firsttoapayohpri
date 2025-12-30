@@ -54,7 +54,7 @@ Fax: +(65) 67460687
     <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        </p><h5><strong>Singapore EduSMART Learning Hub</strong></h5><br>Tel: 9653 1727<br>Email:<a href="mailto:firsttp_scc@singaporeedusmart.com.sg">firsttp_scc@singaporeedusmart.com.sg</a><p></p>
+        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: <br>Email:<a href="mailto:"></a><p></p>
 
 <p>Operating Hours (Mon - Fri):
 <br>

@@ -96,7 +96,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Jainah
 <br>Mdm Nelly
-<br>Mr Lim Yock Chuan
 <br>Ms Lucy Wong
 <br>Mdm May Tan
 <br>Mr Lim Beng Chi</p>
