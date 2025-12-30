@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YEAR HEAD / P1 &amp; P2</strong>
+<p><strong>YEAR HEAD / LOWER PRIMARY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,7 +94,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>YEAR HEAD / P5 &amp; P6</strong>
+<p><strong>YEAR HEAD / UPPER PRIMARY</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +116,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ASSISTANT YEAR HEAD/ P3 &amp; P4</strong>
+<p><strong>ASSISTANT YEAR HEAD / P3 &amp; P4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mok Ling Ling</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ASSISTANT YEAR HEAD/ P5 &amp; P6</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
