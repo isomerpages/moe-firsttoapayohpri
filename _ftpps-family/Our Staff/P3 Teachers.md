@@ -180,10 +180,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Amanda Lim</p>
+<p>Mdm Lee Hwee Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lek_xintian_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lek_xintian_amanda@moe.edu.sg</u></a>
+<p><a href="mailto:lee_hwee_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_hwee_kheng@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -192,10 +192,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rachel Tong</p>
+<p>Mr Ignatius</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tong_meng_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_meng_lan@moe.edu.sg</u></a>
+<p><a href="mailto:ignatius_mario_doli_sentosa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ignatius_mario_doli_sentosa@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -204,10 +204,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maybelline See</p>
+<p>Mr Gabriel Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kong_may_hua_maybelline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_may_hua_maybelline@moe.edu.sg</u></a>
+<p><a href="mailto:tay_lye_hock_gabriel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tay_lye_hock_gabriel@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
