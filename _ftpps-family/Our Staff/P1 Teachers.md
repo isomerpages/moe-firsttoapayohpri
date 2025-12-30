@@ -246,10 +246,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ivan Sim</p>
+<p>Mdm Deepa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_yeow_seng_ivan@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_yeow_seng_ivan@moe.edu.sg</a>
+<p><a href="mailto:deepa_balaraman@moe.edu.sg" rel="noopener nofollow" target="_blank"><u>deepa_balaraman@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -258,10 +258,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Anne Seng</p>
+<p>Mrs Mavis Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seng_siok_kuan_anne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_siok_kuan_anne@moe.edu.sg</a>
+<p><a href="mailto:low_yoke_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>low_yoke_chan@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
