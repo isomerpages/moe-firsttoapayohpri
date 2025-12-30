@@ -29,10 +29,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ignatius</p>
+<p>Miss Joanne Denise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ignatius_mario_doli_sentosa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ignatius_mario_doli_sentosa@moe.edu.sg</u></a>
+<p><a href="mailto:paranjothy_joanne_denise@moe.edu.sg" rel="noopener nofollow" target="_blank">paranjothy_joanne_denise@moe.edu.sg</a>
 </p>
 </td>
 </tr>
