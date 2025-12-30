@@ -140,10 +140,11 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Rachel Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tong_meng_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tong_meng_lan@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -151,10 +152,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Andy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_hwa_hwa_andy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_hwa_hwa_andy@moe.edu.sg</u></a>
+</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +172,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P1 LOVERESPECT</strong>
+<p><strong>P1 RESPECT</strong>
 </p>
 </td>
 </tr>
@@ -179,10 +181,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Lim Xin Hui</p>
+<p>Mdm Tan Ai Choo Pamela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_xin_hui_aa@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_xin_hui_aa@moe.edu.sg</a>
+<p><a href="mailto:tan_ai_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_ai_choo@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -191,10 +193,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Binte Mohamed Mazlan</p>
+<p>Miss Nor Izawaty Binte Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:diana_mohamed_mazlan@moe.edu.sg" rel="noopener nofollow" target="_blank">diana_mohamed_mazlan@moe.edu.sg</a>
+<p><a href="mailto:nor_izawaty_mohamed_noor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nor_izawaty_mohamed_noor@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -203,10 +205,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nowel Ng Xin He</p>
+<p>Mr Alvyn Eng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nowell_Ng_Xin_He@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nowell_ng_xin_he@moe.edu.sg</a>
+<p><a href="mailto:eng_yan_chen_alvyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>eng_yan_chen_alvyn@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -232,10 +234,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Shen Tian Rong</p>
+<p>Muhammad Huzaifah Bin Haris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_tian_rong@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_tian_rong@moe.edu.sg</a>
+<p><a href="mailto:muhammad_huzaifah_haris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>muhammad_huzaifah_haris@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
