@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P6 RESPONSIBILITY</strong>
+<p><strong>P6 INTEGRITY</strong>
 </p>
 </td>
 </tr>
@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>P6 INTEGRITY</strong>
+<p><strong>P6 LOVE</strong>
 </p>
 </td>
 </tr>
@@ -131,7 +131,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>P6 LOVE</strong>
+<p><strong>P6 RESPECT</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,6 +175,56 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_boon_hock_edwin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_boon_hock_edwin@moe.edu.sg</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>P6 RESPONSIBILITY</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
