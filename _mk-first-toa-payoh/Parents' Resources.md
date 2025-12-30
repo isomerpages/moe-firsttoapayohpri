@@ -10,8 +10,8 @@ variant: tiptap
 <br>Email :&nbsp;<a href="mailto:mk_firsttoapayoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_firsttoapayoh@moe.edu.sg</a>
 </p>
 <p><strong><u>KINDERGARTEN CARE (K-CARE)</u></strong> 
-<br><strong>Singapore EduSMART Learning Hub Pte Ltd</strong> 
-<br>Tel: 8031 9188
+<br><strong>Commit Learning Schoolhouse Eos Private Limited</strong>
+<br>Tel:
 <br>
 </p>
 <p><strong><u>MK UNIFORM</u></strong> 
