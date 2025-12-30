@@ -34,10 +34,10 @@ variant: tiptap
 <p>Form Teachers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sabrina Saini</p>
+<p>Mdm Nisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sabrina_saini@moe.edu.sg" rel="noopener nofollow" target="_blank">sabrina_saini@moe.edu.sg</a>
+<p><a href="mailto:abdul_azeez_noorunisa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>abdul_azeez_noorunisa@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -46,10 +46,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Deepa</p>
+<p>Mrs Soh-Tan Li Li</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deepa_balaraman@moe.edu.sg" rel="noopener nofollow" target="_blank">deepa_balaraman@moe.edu.sg</a>
+<p><a href="mailto:soh-tan_li_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>soh-tan_li_li@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -58,10 +58,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mavis Leong</p>
+<p>Mdm Gui Jean Ee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:low_yoke_chan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">low_yoke_chan@moe.edu.sg</a>
+<p><a href="mailto:gui_jean_ee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>gui_jean_ee@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
