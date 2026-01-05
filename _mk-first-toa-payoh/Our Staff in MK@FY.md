@@ -84,6 +84,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Miss Lee Yun Xun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MKE / EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_yun_xun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_yun_xun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Han Xiaoni</p>
 </td>
 <td rowspan="1" colspan="1">
