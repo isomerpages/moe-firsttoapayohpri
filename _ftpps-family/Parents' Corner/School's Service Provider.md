@@ -12,7 +12,7 @@ variant: markdown
     <label for="accordion1">BUS OPERATOR</label>
     <div>
 			<p></p><h5><strong>Chua Lee Kiang Bus Transport Service</strong></h5><br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
-Tel: 9755 8611
+Tel: 9382 4721
 <br><p></p>
     </div>
 	</li>
@@ -38,13 +38,9 @@ Mondays to Fridays
         </p><h5><strong>Beau Voix Uniform</strong></h5><br>
 2 Sims Close
 <br>
-#03-08 Gemini@Sims
-<br>
-Singapore 387298<br><br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a><p></p>
+Singapore 387298<br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a><p></p>
 
 <p>Tel: 67436645 / 67447084
-<br>
-Fax: +(65) 67460687
 <br>Email:<a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a><br><br>Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases <a href="https://www.beauvoix.com/">online</a> or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.<br></p>
     </div>
   </li>
