@@ -10,5 +10,5 @@ third_nav_title: Parents' Corner
 using the link below! These resources will help your child settle into
 their new school.</p>
 <p>Thanks for being a vital part of our community.</p>
-<p><a href="/files/Parents' Corner/P1 Admin Briefing/P1_Orientation_Slides_2025.pdf" rel="noopener nofollow" target="_blank">Download P1 Orientation Here</a>
+<p><a href="/files/Parents' Corner/P1 Admin Briefing/P1_Orientation_Slides_2026_For_School_Website.pdf" rel="noopener nofollow" target="_blank">Download P1 Orientation Here</a>
 </p>
