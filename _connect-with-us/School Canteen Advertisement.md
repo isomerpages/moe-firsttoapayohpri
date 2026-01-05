@@ -28,7 +28,7 @@ variant: tiptap
 <p>Halal Noodle/Western Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2025</p>
+<p>31 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Halal</p>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Chinese Noodle Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 December 2025</p>
+<p>31 March 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chinese Soup Noodles</p>
