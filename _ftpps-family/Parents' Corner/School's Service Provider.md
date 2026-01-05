@@ -50,7 +50,7 @@ Singapore 387298<br>Website: <a href="https://www.beauvoix.com/">https://www.bea
     <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: 8945 8707<br>Email:<a href="mailto:"></a><p></p>
+        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: 8945 8707<br>Email: <a href="mailto:admission_cls_ftpps@commitlearning.com.sg">admission_cls_ftpps@commitlearning.com.sg</a><p></p>
 
 <p>Operating Hours (Mon - Fri):
 <br>
