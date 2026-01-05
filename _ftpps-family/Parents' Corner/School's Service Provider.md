@@ -50,13 +50,13 @@ Singapore 387298<br>Website: <a href="https://www.beauvoix.com/">https://www.bea
     <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: <br>Email:<a href="mailto:"></a><p></p>
+        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: 8945 8707<br>Email:<a href="mailto:"></a><p></p>
 
 <p>Operating Hours (Mon - Fri):
 <br>
 School Term: 1.30 pm to 7 pm
 <br>
-School Holiday: 7.30 am to 7 pm<br></p>
+School Holiday: 7 am to 7 pm<br></p>
     </div>
   </li>
 	
