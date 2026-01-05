@@ -121,6 +121,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mok Ling Ling</p>
+<p><a href="mailto:teo-mok_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo-mok_ling_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
