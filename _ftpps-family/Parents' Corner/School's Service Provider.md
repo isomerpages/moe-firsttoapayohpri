@@ -12,7 +12,7 @@ variant: markdown
     <label for="accordion1">BUS OPERATOR</label>
     <div>
 			<p></p><h5><strong>Chua Lee Kiang Bus Transport Service</strong></h5><br>5043 Ang Mo Kio Industrial Park 2, #01-523,<br>Singapore 569546<br>
-Tel: 9755 8611
+Tel: 9382 4721
 <br><p></p>
     </div>
 	</li>
@@ -38,13 +38,9 @@ Mondays to Fridays
         </p><h5><strong>Beau Voix Uniform</strong></h5><br>
 2 Sims Close
 <br>
-#03-08 Gemini@Sims
-<br>
-Singapore 387298<br><br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a><p></p>
+Singapore 387298<br>Website: <a href="https://www.beauvoix.com/">https://www.beauvoix.com</a><p></p>
 
 <p>Tel: 67436645 / 67447084
-<br>
-Fax: +(65) 67460687
 <br>Email:<a href="mailto:info@beauvoix.com.sg">info@beauvoix.com.sg</a><br><br>Parents/ Guardians may purchase school uniform from the School Bookshop during school term. Alternatively, you may make your purchases <a href="https://www.beauvoix.com/">online</a> or at their office 2 Sims Close #03-08 Gemini@Sims Singapore 387298.<br></p>
     </div>
   </li>
@@ -54,13 +50,13 @@ Fax: +(65) 67460687
     <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: <br>Email:<a href="mailto:"></a><p></p>
+        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: 8945 8707<br>Email: <a href="mailto:admission_cls_ftpps@commitlearning.com.sg">admission_cls_ftpps@commitlearning.com.sg</a><p></p>
 
 <p>Operating Hours (Mon - Fri):
 <br>
 School Term: 1.30 pm to 7 pm
 <br>
-School Holiday: 7.30 am to 7 pm<br></p>
+School Holiday: 7 am to 7 pm<br></p>
     </div>
   </li>
 	

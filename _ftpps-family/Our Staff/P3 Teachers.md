@@ -58,6 +58,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Sharifa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:alattas_shahrazad_aqel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alattas_shahrazad_aqel@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +102,8 @@ variant: tiptap
 <p>Mdm Mok Ling Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:teo-mok_ling_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo-mok_ling_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

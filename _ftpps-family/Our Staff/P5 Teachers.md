@@ -271,6 +271,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Irene Lee Ai Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irene_lee_ai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_lee_ai_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
