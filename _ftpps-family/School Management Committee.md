@@ -143,7 +143,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Edwin Tan
-<br><a href="http://tan_boon_hock_edwin@moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hock_edwin@moe.edu.sg</a>
+<br><a href="mailto:tan_boon_hock_edwin@moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hock_edwin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
