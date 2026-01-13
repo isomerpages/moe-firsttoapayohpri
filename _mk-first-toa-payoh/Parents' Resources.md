@@ -11,7 +11,8 @@ variant: tiptap
 </p>
 <p><strong><u>KINDERGARTEN CARE (K-CARE)</u></strong> 
 <br><strong>Commit Learning Schoolhouse Eos Private Limited</strong>
-<br>Tel:
+<br>Tel: 80726054
+<br>Email: <a href="mailto:admission_cls_ftpps_kcare@commitlearning.com.sg" rel="noopener noreferrer nofollow" target="_blank">admission_cls_ftpps_kcare@commitlearning.com.sg</a>
 <br>
 </p>
 <p><strong><u>MK UNIFORM</u></strong> 
