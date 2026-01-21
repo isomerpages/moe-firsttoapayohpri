@@ -26,7 +26,7 @@ sections:
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
       button: Click Here!
-      url: /p1-orientation-2026/
+      url: /parent-s-briefing-2026/
       image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
       alt: Image alt text
   - infopic:
