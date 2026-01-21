@@ -16,18 +16,168 @@ third_nav_title: Parents' Corner
 important information and updates that will help you stay informed about
 your child's educational experience. To access the slides, simply click
 the link below.</p>
-<p><a href="https://drive.google.com/file/d/12M8zc3TOuk8w8FvOjrXXXMtDl5JoaTQM/view?usp=sharing" rel="noopener nofollow" target="_blank">Briefing Slides for P1 Parents</a>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1aoFrHjj_MAwPXK05v0FgurVaJ9pe-Jff/view?usp=sharing" rel="noopener nofollow" target="_blank">Briefing Slides for P2 Parents</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Link to School Slides</strong>
 </p>
-<p><a href="/files/Parent's Briefing/2025/BRIEFING_FOR_PARENTS_2025_P3.pdf" rel="noopener nofollow" target="_blank">Briefing Slides for P3 Parents</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MOE Website links</strong>
 </p>
-<p><a href="/files/Parent's Briefing/2025/BRIEFING_FOR_PARENTS_2025_P4.pdf" rel="noopener nofollow" target="_blank">Briefing Slides for P4 Parents</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Edusave Merit Bursary</strong>
+<br>The different awards students can receive based on their character, leadership,
+learning disposition, conduct and academic performance.
+<br><a href="https://www.moe.gov.sg/financial-matters/awards-scholarships/edusave-awards" rel="noopener nofollow" target="_blank">Edusave awards and scholarships MOE</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1UWp_DOPMxqTuHhVc82R4xIZUp15ZV_-h/view?usp=drive_link" rel="noopener nofollow" target="_blank">Briefing Slides for P5 Parents</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/Cyber_Wellenss.pdf" rel="noopener nofollow" target="_blank">Cyber Wellness</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1V28jLAlZVZ0XH9Nd9-ZfXqp5SUtEMetE/view?usp=drive_link" rel="noopener nofollow" target="_blank">Briefing Slides for P6 Parents</a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/Discipline.pdf" rel="noopener nofollow" target="_blank">Discipline</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>All</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/Grow_Well_SG_Parents_Briefing.pdf" rel="noopener nofollow" target="_blank">Grow Well SG</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 &amp; P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/P1_and_P2_Matters_reduced.pdf" rel="noopener nofollow" target="_blank">P1 and P2 Matters</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/P3_Matters_and_GEP.pdf" rel="noopener nofollow" target="_blank">P3 Matters and GEP</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Gifted Education Programme (GEP):</strong>
+<br>How intellectually gifted students can realise their potential:
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/gifted-education" rel="noopener nofollow" target="_blank">Gifted Education Programme MOE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/P4_Matters_and_SBB.pdf" rel="noopener nofollow" target="_blank">P4 Matters and SBB</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Subject-based banding (SBB)</strong>
+<br>SBB gives students the opportunity to take a combination of standard and
+foundation subjects based on their strengths at P5 and 6:
+<br><a href="https://www.moe.gov.sg/primary/curriculum/subject-based-banding" rel="noopener nofollow" target="_blank">Subject-Based banding for primary school MOE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>P5 &amp; P6</p>
+</td>
+<td rowspan="3" colspan="1">
+<p><a href="/files/Parent's Briefing/2026/P5_and_P6_Matters.pdf" rel="noopener nofollow" target="_blank">P5 and P6 Matters</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MOE SchoolFinder: </strong>
+<br>For information on different aspects of schools:
+<br><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Direct School Admission (DSA):</strong> 
+<br>P6 students can apply before taking the PSLE for certain secondary schools
+based on their talent in sports, CCAs and specific academic areas:
+<br><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">Direct School Admission for secondary school</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary School Leaving Exam (PSLE):</strong>
+<br>All you need to know about the PSLE scoring system and the posting to
+Secondary School:
+<br><a href="https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html" rel="noopener nofollow" target="_blank">New PSLE Scoring System MOE</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p>We encourage you to review them and reach out to us if you have any questions.
