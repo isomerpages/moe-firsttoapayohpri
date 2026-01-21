@@ -22,7 +22,7 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
-      title: P1 Orientation Slides
+      title: Parent's Briefing 2026
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
       button: Click Here!
