@@ -97,9 +97,7 @@ exposed to a wide range of influences that could endanger health and undermine
 the integrity of the family. Our students require close guidance so that
 they can respond with discernment to the sexual messages in the media and
 other sources.</p>
-<p>
-<br>
-</p>
+<p></p>
 </li>
 <li>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
