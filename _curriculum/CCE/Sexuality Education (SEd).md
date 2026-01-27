@@ -288,26 +288,27 @@ and learn to behave maturely towards each other.</p>
 <h4>Information for Parents<br></h4>
 <ol start="8" data-tight="true" class="tight">
 <li>
-<p>Parents may opt their children out of Sexuality Education lessons, and/or
-supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt
+their children out of Sexuality Education lessons, and/or supplementary
+Sexuality Education programmes by MOE-approved external providers.</p>
 </li>
 </ol>
 <p></p>
 <ol start="9" data-tight="true" class="tight">
 <li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an <a href="https://go.gov.sg/ftppssed2025" rel="noopener noreferrer nofollow" target="_blank">opt-out form in FormSG</a> by <strong><u>3 March 2025</u></strong>.
-This form will be communicated to parents at the start of the year and
-is also downloadable <a href="/files/CURRICULUM/CCE/Sexuality Education (SEd)/SEd_2025_OptOutForm.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by <strong><u>3 March 2025</u></strong>.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish
+to opt their children out of the Sexuality Education lessons need to complete
+an opt-out form. This form will be communicated to parents at the start
+of the year through Parents Gateway and is also available <a href="/files/CURRICULUM/CCE/Sexuality Education (SEd)/SEd_2026_OptOutForm_Annex_A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+reference. The completed opt-out form is to be submitted by <strong><u>9 March 2026</u></strong>.
 <br>
 </p>
 <p></p>
 </li>
 <li>
-<p>Parents can contact the school at 62567822 or email the school at <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> for
-discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact
+the school at 62567822 or email the school at <a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a> for discussion or to
+seek clarification about the school’s Sexuality Education programme.</p>
 </li>
 </ol>
 <p></p>
