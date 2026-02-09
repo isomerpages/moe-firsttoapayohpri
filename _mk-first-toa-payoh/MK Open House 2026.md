@@ -4,11 +4,11 @@ permalink: /mk-open-house-2026/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First Toa Payoh/MOE_Kindergarten_Open_House.png">
-</div>
-<p></p>
-<p>If you have any questions, don’t hesitate to reach out to us. We look
-forward to supporting your child's educational journey together!</p>
+<p></p><a class="isomer-image-wrapper" href="https://mkfy-openhouse2026.app.entry.gov.sg/form/c57e5a2d-cf8f-4326-a47d-447155806da1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First Toa Payoh/Open House/OPEN_HOUSE__5_.png"></a>
+<a class="isomer-image-wrapper" href="https://mkfy-openhouse2026.app.entry.gov.sg/form/c57e5a2d-cf8f-4326-a47d-447155806da1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First Toa Payoh/Open House/OPEN_HOUSE__7_.png">
+</a><a class="isomer-image-wrapper" href="https://mkfy-openhouse2026.app.entry.gov.sg/form/c57e5a2d-cf8f-4326-a47d-447155806da1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First Toa Payoh/Open House/OPEN_HOUSE__4_.png"></a>
+<a class="isomer-image-wrapper" href="https://mkfy-openhouse2026.app.entry.gov.sg/form/c57e5a2d-cf8f-4326-a47d-447155806da1">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First Toa Payoh/Open House/OPEN_HOUSE__6_.png">
+</a><a class="isomer-image-wrapper" href="https://mkfy-openhouse2026.app.entry.gov.sg/form/c57e5a2d-cf8f-4326-a47d-447155806da1"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@First Toa Payoh/Open House/OPEN_HOUSE__8_.png"></a>
 <p></p>
