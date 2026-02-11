@@ -48,9 +48,9 @@ to visit the above-mentioned vendor's warehouse.</p>
 <h5>First Flight Newsletter</h5>
 <p>Find out more about life at MOE Kindergarten and pick up tips to support
 your child.</p>
-<p><a href="/files/MK@First Toa Payoh/Parents’ Resources/First Flight Newsletter/first_flight_18.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2024 - Special Edition</a>
-</p>
-<p><a href="/files/MK@First Toa Payoh/Parents’ Resources/First Flight Newsletter/first-flight-17.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2023</a>
+<p><a href="/files/MK@First Toa Payoh/Parents’ Resources/First Flight Newsletter/first_flight_20.pdf" rel="noopener nofollow" target="_blank">2025 Edition</a>
+<br><a href="/files/MK@First Toa Payoh/Parents’ Resources/First Flight Newsletter/first_flight_18.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2024 - Special Edition</a>
+<br><a href="/files/MK@First Toa Payoh/Parents’ Resources/First Flight Newsletter/first-flight-17.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2023</a>
 <br><a href="/files/MK@First%20Toa%20Payoh/Parents%E2%80%99%20Resources/First%20Flight%20Newsletter/MK%20first-flight-16.pdf" rel="noopener noreferrer nofollow" target="_blank">Jul 2022</a>
 <br><a href="/files/MK@First%20Toa%20Payoh/Parents%E2%80%99%20Resources/First%20Flight%20Newsletter/MK%20first-flight-15.pdf" rel="noopener noreferrer nofollow" target="_blank">Jan 2022</a>
 <br><a href="/files/first-flight-14.pdf" rel="noopener noreferrer nofollow" target="_blank">Jul 2021</a>
