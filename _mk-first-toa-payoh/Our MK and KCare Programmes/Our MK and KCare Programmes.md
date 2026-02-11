@@ -174,7 +174,7 @@ to four years.</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="815" width="458" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4QKWG0Bj-fo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="524" width="295" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4QKWG0Bj-fo"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,7 +192,7 @@ to four years.</p>
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="1048" width="590" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HlhGGrVYRjI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="524" width="292" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HlhGGrVYRjI"></iframe>
 </div>
 </td>
 <td rowspan="1" colspan="1">
