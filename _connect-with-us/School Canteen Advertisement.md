@@ -25,24 +25,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halal Noodle/Western Food Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Halal</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Noodle Stall</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 March 2026</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chinese Soup Noodles</p>
+<p></p>
 </td>
 </tr>
 </tbody>
