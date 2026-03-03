@@ -50,17 +50,16 @@ Singapore 387298<br>Website: <a href="https://www.beauvoix.com/">https://www.bea
     <label for="accordion4">SCHOOL-BASED STUDENT CARE SERVICES</label>
     <div>
       <p>
-        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: 8945 8707<br>Email: <a href="mailto:admission_cls_ftpps@commitlearning.com.sg">admission_cls_ftpps@commitlearning.com.sg</a><p></p>
+        </p><h5><strong>Commit Learning Schoolhouse Eos Private Limited</strong></h5><br>Tel: 8945 8707<br>Email: <a href="mailto:cls.ftpps@gmail.com">cls.ftpps@gmail.com</a><p></p>
 
 <p>Operating Hours (Mon - Fri):
 <br>
 School Term: 1.30 pm to 7 pm
 <br>
-School Holiday: 7.30 am to 7 pm<br></p>
-    </div>
-  </li>
-	
-<li>
+School Holiday: 7.30 am to 7 pm<br><br>
+QR Code for Indication of Interest Form<br><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=103"><img src="/images/FTTPS%20Family/QR_Code_SCC.jpg" style="width:30%" align="left"><br></a></p>
+	<br><br><br><br><br>
+</div></li><li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">DENTAL SERVICE</label>
     <div>
