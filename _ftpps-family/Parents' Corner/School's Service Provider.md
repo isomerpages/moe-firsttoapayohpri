@@ -57,10 +57,9 @@ Singapore 387298<br>Website: <a href="https://www.beauvoix.com/">https://www.bea
 School Term: 1.30 pm to 7 pm
 <br>
 School Holiday: 7.30 am to 7 pm<br><br>
-QR Code for Indication of Interest Form<br><img src="/images/FTTPS%20Family/QR_Code_SCC.jpg" style="width:30%">
-			</p>
-    </div>
-  </li>
+QR Code for Indication of Interest Form<br><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=103"><img src="/images/FTTPS%20Family/QR_Code_SCC.jpg" style="width:30%" align="left"><br><br><br><br><br></a></p><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=103">
+    </a></div><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=103">
+  </a></li><a href="https://cls.cyberland.sg/scc/sccapplication.php?CentreID=103">
 	
 <li>
     <input type="checkbox" id="accordion5">
@@ -105,4 +104,4 @@ QR Code for Indication of Interest Form<br><img src="/images/FTTPS%20Family/QR_C
 Tel: 6435 3779 or 6435 3151</p>
     </div>
   </li>
-</ul>
+</a></ul>
