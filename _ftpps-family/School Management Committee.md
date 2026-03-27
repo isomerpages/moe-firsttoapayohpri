@@ -25,7 +25,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jennifer Choy
-<br><a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a>
+<br><a href="mailto:jennifer_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jennifer_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cheryl Lim
-<br><a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a>
+<br><a href="mailto:cheryl_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -47,7 +47,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Yam Eng
-<br><a href="mailto:ftpps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ftpps@moe.edu.sg</a>
+<br><a href="mailto:tay_yam_eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yam_eng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
