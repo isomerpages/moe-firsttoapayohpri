@@ -4,7 +4,7 @@ permalink: /FTPPS-virtual-tour/
 description: ""
 variant: markdown
 ---
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QSZZTKUj2B4?si=c7cYMbF6ngTRxtYQ" height="415" width="660"></iframe>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wQk47caY51E?si=Vy0QXBNsiQMq7AZn" height="415" width="660"></iframe>
 <br>
 <br>
 
@@ -14,5 +14,5 @@ variant: markdown
 
 \*\*Best viewed in&nbsp;**Full Screen**&nbsp;mode.  
 You may also click on this&nbsp;[link](https://kuula.co/share/collection/7Pl6B?fs=1&amp;vr=1&amp;zoom=1&amp;sd=1&amp;initload=0&amp;autorotate=0.1&amp;thumbs=-1&amp;info=0&amp;logo=-1)&nbsp;to access to the 360 virtual tour of the school.
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Our Foundation Years" src="https://www.youtube.com/embed/9gzKTOypbQI" height="415" width="660"></iframe>
+<br><br>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/w8LLtI2wDb0?si=kWNJm60TmVlj3iCm" height="415" width="660"></iframe>
