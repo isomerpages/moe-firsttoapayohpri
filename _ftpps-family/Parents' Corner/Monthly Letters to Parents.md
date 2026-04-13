@@ -12,3 +12,5 @@ variant: markdown
 [Letter to Parents - February 2026](/files/Parents'%20Corner/Letter%20to%20Parents/0226___Letter_to_Parents.pdf)
 <br>
 [Letter to Parents - March 2026](/files/Parents'%20Corner/Letter%20to%20Parents/0326___Letter_to_Parents_Final.pdf)
+<br>
+[Letter to Parents - April 2026](/files/Parents'%20Corner/Letter%20to%20Parents/0426___Letter_to_Parents.pdf)
