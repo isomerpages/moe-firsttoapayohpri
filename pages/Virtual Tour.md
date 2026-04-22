@@ -9,7 +9,7 @@ variant: markdown
 <br>
 
 <a href="https://kuula.co/share/collection/7MF35?logo=1&amp;info=1&amp;logosize=96&amp;fs=1&amp;vr=1&amp;zoom=1&amp;sd=1&amp;initload=0&amp;thumbs=1">
-	<img src="/images/Main/FTPPS%20Virtual%20Tour.jpg" style="width:60%">
+	<img src="/images/Main/Screenshot_2026_04_22_154342.png" style="width:100%">
 </a>
 
 \*\*Best viewed in&nbsp;**Full Screen**&nbsp;mode.  
