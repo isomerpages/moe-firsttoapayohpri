@@ -67,12 +67,3 @@ The colour blue symbolises calmness and stability, mirroring the supportive envi
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I3NpCmi8E4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-#### School Uniform
-
-One would have to look closely at the fabric of the school uniform to notice this interesting fact: the numeral 1 is a motif of the fabric.  
-
-We have the unique distinction of being the first primary school serving the Toa Payoh residents since 1968.
-
-As our students proudly wear this mark of distinction, we would like them to aspire to be No. 1 in character and in the many areas of their development.
-
-![](/images/Uniform.png)
