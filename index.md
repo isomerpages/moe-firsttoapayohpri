@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HOMEPAGE/Website_Banner_v2__1_.gif
+      background: /images/HOMEPAGE/Website_Banner_v3.gif
       key_highlights:
         - title: MK @ First Toa Payoh
           description: ""
@@ -21,22 +21,6 @@ sections:
         - title: Visit us on Instagram!
           description: ""
           url: https://www.instagram.com/ftppsofficial
-  - infopic:
-      title: MK Open House 2026
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      button: Click Here!
-      url: /mk-open-house-2026/
-      image: /images/MK@First Toa Payoh/Open House/OPEN_HOUSE__8_.png
-      alt: Image alt text
-  - infopic:
-      title: Parent's Briefing 2026
-      subtitle: NEWS & ANNOUNCEMENTS
-      id: infopic
-      button: Click Here!
-      url: /parent-s-briefing-2026/
-      image: /images/HOMEPAGE/E-BRIEFING FOR PARENTS.jpg
-      alt: Image alt text
   - infopic:
       title: Our School, Our Stories
       subtitle: NEWS & ANNOUNCEMENTS
