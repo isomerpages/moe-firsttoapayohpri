@@ -98,7 +98,8 @@ variant: tiptap
 <br>Mdm Nelly
 <br>Ms Lucy Wong
 <br>Mdm May Tan
-<br>Mr Lim Beng Chi</p>
+<br>Mr Lim Beng Chi
+<br>Mr Teh Chuan Hock</p>
 </td>
 </tr>
 </tbody>
