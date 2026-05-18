@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salawati
+<p>Ms Salawati
 <br><a href="mailto:salawati_sarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salawati_sarie@moe.edu.sg</a>
 <br>
 <br>Ms Ng Kah Choo
