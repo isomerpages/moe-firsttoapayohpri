@@ -4,13 +4,65 @@ permalink: /curriculum/cca-n-pal/
 description: ""
 variant: markdown
 ---
-##### Co-curricular Activities (CCA)  
+### Co-curricular Activities (CCA)  
 
-The CCA Programme provides students with a platform to discover their interests and talents. Well-organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood.  
+At First Toa Payoh Primary School, our Co-Curricular Activities (CCAs) are an important part of every child’s educational journey. Beyond developing skills and talents, CCAs provide meaningful opportunities for students to build character, strengthen friendships, discover their interests, and grow as confident and caring individuals.
+
+Through sports, uniformed groups, clubs, and performing arts, students learn to work with others, overcome challenges, lead with purpose, and contribute positively to the school community. Our CCA experiences are designed to nurture well-rounded learners who embody our school values and develop the confidence to make a positive impact in school and beyond.
+
+<ul class="jekyllcodex_accordion">  
   
-<b>CCAs are built into the school curriculum and it is conducted every Monday from <u>2:00pm to 4:00pm</u></b>.  
+<li><input type="checkbox" id="accordion1">  
+	<label for="accordion1"><h5><b>Sports &amp; Games</b></h5></label><div>  
+	<p><br><b><u>Football</u></b><br>
+		Football at FTPPS provides students with a dynamic and engaging environment to develop their football skills while building important life values. Through training, gameplay, and team experiences, students learn discipline, teamwork, resilience, sportsmanship, and the importance of commitment. <br><br>Students who demonstrate readiness may have opportunities to represent the school at the National School Games, where they learn to compete with integrity, perseverance, and pride while growing as both players and teammates. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Football.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Football.jpg" style="width:100%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Basketballl</u></b><br>
+		Basketball has a proud tradition at FTPPS and continues to provide students with meaningful opportunities to develop both their sporting abilities and character. Through training and competitive play, students learn teamwork, discipline, resilience, self-belief, and leadership.<br><br>
+As students work towards common goals as a team, they develop confidence, responsibility, and the perseverance needed to overcome challenges both on and off the court.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Basketball.jpg" style="width:100"></td>
+    <td><img src="/images/Curriculum/CCA/2_Basketball.jpg" style="width:1000%"></td>
+  </tr></tbody></table>
+</p>
+</div></li>  
 
-![](/images/CCA.jpg)
+<li><input type="checkbox" id="accordion2">  
+	<label for="accordion1"><h5><b>Uniformed Groups</b></h5></label><div>  
+	<p><br><b><u>Boys’ Brigade</u></b><br>
+		The Boys’ Brigade provides students with rich opportunities to grow in character, leadership, and service. Through camps, competitions, team challenges, and community service initiatives, students develop resilience, problem-solving skills, teamwork, and a strong sense of responsibility. <br><br>Programmes such as Adventure Quest, Character Quest, and Values-in-Action experiences provide authentic opportunities for students to apply what they have learnt while developing care and concern for others. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Boys__Brigade.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Boys__Brigade.jpg" style="width:100%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Basketballl</u></b><br>
+		Basketball has a proud tradition at FTPPS and continues to provide students with meaningful opportunities to develop both their sporting abilities and character. Through training and competitive play, students learn teamwork, discipline, resilience, self-belief, and leadership.<br><br>
+As students work towards common goals as a team, they develop confidence, responsibility, and the perseverance needed to overcome challenges both on and off the court.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Basketball.jpg" style="width:100"></td>
+    <td><img src="/images/Curriculum/CCA/2_Basketball.jpg" style="width:1000%"></td>
+  </tr></tbody></table>
+</p>
+</div></li> 
+
+
+
+
+		
+	
+
+</ul>
 
 #### Programmes
 
