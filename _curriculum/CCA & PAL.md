@@ -102,45 +102,33 @@ The programme equips students with valuable future-ready skills while nurturing 
     <td><img src="/images/Curriculum/CCA/2_Choir.jpg" style="width:65%"></td>
   </tr></tbody></table>
 </p>
-		<p><br><b><u>Girls’ Brigade</u></b><br>
-		The Girls’ Brigade nurtures confident, caring, and resilient young leaders through meaningful experiences that develop character, teamwork, service, and leadership. Through camps, team challenges, and community engagement opportunities, students learn to collaborate, problem-solve, and lead with empathy.<br><br>
-These experiences help our girls grow in confidence while developing a strong sense of purpose, responsibility, and care for the wider community.
+		<p><br><b><u>Dance</u></b><br>
+		Dance provides students with opportunities to express themselves creatively while developing discipline, confidence, resilience, teamwork, and performance skills. Through guided training and collaborative practices, students learn the value of commitment, perseverance, and working together towards a shared vision.<br><br>
+Students may have opportunities to represent the school at platforms such as the Singapore Youth Festival (SYF), as well as perform at school events and celebrations, allowing them to showcase their growth, passion, and creativity with the wider school community.
 <br></p>
 <p><table>
     <tbody><tr>
-    <td><img src="/images/Curriculum/CCA/1_Girls__Brigade.jpg" style="width:45%"></td>
-    <td><img src="/images/Curriculum/CCA/2_Girls__Brigade.jpg" style="width:100%"></td>
-  </tr></tbody></table>
-</p>
-<p><br><b><u>Scouts</u></b><br>
-		Scouting offers students enriching opportunities to develop resilience, leadership, independence, and practical life skills through adventure-based learning. Students take part in activities such as knotting, map reading, outdoor exploration, and team challenges that encourage resourcefulness, collaboration, and problem-solving.<br><br>
-Grounded in the Scout Promise and Law, the programme helps students grow into responsible, caring, and capable individuals who are ready to contribute positively to society. 
-<br></p>
-<p><table>
-    <tbody><tr>
-    <td><img src="/images/Curriculum/CCA/1_Scouts.jpg" style="width:100%"></td>
-    <td><img src="/images/Curriculum/CCA/2_Scouts.jpg" style="width:75%"></td>
+    <td><img src="/images/Curriculum/CCA/1_Dance.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Dance.jpg" style="width:40%"></td>
   </tr></tbody></table>
 </p>
 </div></li> 
 		
-	
-
+	<li><input type="checkbox" id="accordion5">  
+  <label for="accordion5"><h5><b>Programmes</b></h5></label><div>  
+  <p><br><b><u> P1-P2 PAL Programmes</u></b><br>
+    P1 and P2 students go through Programme for Active Learning (PAL) during CCA sessions. They go through 6 different domains over the course of 2 years. The domains include Visual Arts, Sports &amp; Games, Outdoor Education, Music, Performing Arts and Drama. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/PAL1.jpg" style="width:80%"></td>
+    <td><img src="/images/PAL4.jpg" style="width:100%"></td>
+	</tr><tr>
+    <td><img src="/images/PAL5.jpg" style="width:100%"></td>
+      </tr>
+  </tbody></table>
+</p>
+    <p><br><b><u>CCA Experience </u></b><br>
+    All P3 students will go through a CCA experience programme, where they will experience 3 sessions on a specific CCA of their choosing in the 4 different CCA domains. After going through a full year of the experience, they will make a decision on the CCA they would like to join in 2021 as a P4 student.&nbsp;This would provide students with a clearer picture of what the different CCAs have to offer so that they would be able to make an informed decision together with their parents when choosing their CCAs.
+<br></p>
+</div></li> 
 </ul>
-
-#### Programmes
-
-##### P1-P2 PAL Programmes
-
-P1 and P2 students go through Programme for Active Learning (PAL) during CCA sessions. They go through 6 different domains over the course of 2 years. The domains include Visual Arts, Sports &amp; Games, Outdoor Education, Music, Performing Arts and Drama.
-
-<img src="/images/PAL1.jpg" style="width:60%">
-
-<img src="/images/PAL4.jpg" style="width:80%">
-
-<img src="/images/PAL5.jpg" style="width:80%">
-
-
-##### CCA Experience  
-
-All P3 students will go through a CCA experience programme, where they will experience 3 sessions on a specific CCA of their choosing in the 4 different CCA domains. After going through a full year of the experience, they will make a decision on the CCA they would like to join in 2021 as a P4 student.&nbsp;This would provide students with a clearer picture of what the different CCAs have to offer so that they would be able to make an informed decision together with their parents when choosing their CCAs.
