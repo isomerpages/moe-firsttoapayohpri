@@ -95,11 +95,11 @@ The programme equips students with valuable future-ready skills while nurturing 
 <li><input type="checkbox" id="accordion4">  
 	<label for="accordion4"><h5><b>Performing Arts</b></h5></label><div>  
 	<p><br><b><u>Choir</u></b><br>
-		The Boys’ Brigade provides students with rich opportunities to grow in character, leadership, and service. Through camps, competitions, team challenges, and community service initiatives, students develop resilience, problem-solving skills, teamwork, and a strong sense of responsibility. <br><br>Programmes such as Adventure Quest, Character Quest, and Values-in-Action experiences provide authentic opportunities for students to apply what they have learnt while developing care and concern for others. <br></p>
+		Choir provides students with meaningful opportunities to develop their vocal abilities, musical appreciation, confidence, and discipline through collaborative performance experiences. Students learn the importance of teamwork, commitment, and collective effort as they work together to create quality performances.<br><br>Students may have opportunities to represent the school at platforms such as the Singapore Youth Festival (SYF), as well as perform at school events and celebrations, allowing them to showcase their learning while developing confidence and stage presence. <br></p>
 <p><table>
     <tbody><tr>
-    <td><img src="/images/Curriculum/CCA/1_Boys__Brigade.jpg" style="width:100%"></td>
-    <td><img src="/images/Curriculum/CCA/2_Boys__Brigade.jpg" style="width:50%"></td>
+    <td><img src="/images/Curriculum/CCA/1_Choir.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Choir.jpg" style="width:65%"></td>
   </tr></tbody></table>
 </p>
 		<p><br><b><u>Girls’ Brigade</u></b><br>
