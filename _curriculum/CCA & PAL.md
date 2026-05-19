@@ -19,17 +19,17 @@ Through sports, uniformed groups, clubs, and performing arts, students learn to 
 <p><table>
     <tbody><tr>
     <td><img src="/images/Curriculum/CCA/1_Football.jpg" style="width:100%"></td>
-    <td><img src="/images/Curriculum/CCA/2_Football.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Football.jpg" style="width:50%"></td>
   </tr></tbody></table>
 </p>
-		<p><br><b><u>Basketballl</u></b><br>
+		<p><br><b><u>Basketball</u></b><br>
 		Basketball has a proud tradition at FTPPS and continues to provide students with meaningful opportunities to develop both their sporting abilities and character. Through training and competitive play, students learn teamwork, discipline, resilience, self-belief, and leadership.<br><br>
 As students work towards common goals as a team, they develop confidence, responsibility, and the perseverance needed to overcome challenges both on and off the court.
 <br></p>
 <p><table>
     <tbody><tr>
-    <td><img src="/images/Curriculum/CCA/1_Basketball.jpg" style="width:100"></td>
-    <td><img src="/images/Curriculum/CCA/2_Basketball.jpg" style="width:1000%"></td>
+    <td><img src="/images/Curriculum/CCA/1_Basketball.jpg" style="width:80%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Basketball.jpg" style="width:100%"></td>
   </tr></tbody></table>
 </p>
 </div></li>  
@@ -41,17 +41,27 @@ As students work towards common goals as a team, they develop confidence, respon
 <p><table>
     <tbody><tr>
     <td><img src="/images/Curriculum/CCA/1_Boys__Brigade.jpg" style="width:100%"></td>
-    <td><img src="/images/Curriculum/CCA/2_Boys__Brigade.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Boys__Brigade.jpg" style="width:50%"></td>
   </tr></tbody></table>
 </p>
-		<p><br><b><u>Basketballl</u></b><br>
-		Basketball has a proud tradition at FTPPS and continues to provide students with meaningful opportunities to develop both their sporting abilities and character. Through training and competitive play, students learn teamwork, discipline, resilience, self-belief, and leadership.<br><br>
-As students work towards common goals as a team, they develop confidence, responsibility, and the perseverance needed to overcome challenges both on and off the court.
+		<p><br><b><u>Girls’ Brigade</u></b><br>
+		The Girls’ Brigade nurtures confident, caring, and resilient young leaders through meaningful experiences that develop character, teamwork, service, and leadership. Through camps, team challenges, and community engagement opportunities, students learn to collaborate, problem-solve, and lead with empathy.<br><br>
+These experiences help our girls grow in confidence while developing a strong sense of purpose, responsibility, and care for the wider community.
 <br></p>
 <p><table>
     <tbody><tr>
-    <td><img src="/images/Curriculum/CCA/1_Basketball.jpg" style="width:100"></td>
-    <td><img src="/images/Curriculum/CCA/2_Basketball.jpg" style="width:1000%"></td>
+    <td><img src="/images/Curriculum/CCA/1_Girls__Brigade.jpg" style="width:45%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Girls__Brigade.jpg" style="width:100%"></td>
+  </tr></tbody></table>
+</p>
+<p><br><b><u>Scouts</u></b><br>
+		Scouting offers students enriching opportunities to develop resilience, leadership, independence, and practical life skills through adventure-based learning. Students take part in activities such as knotting, map reading, outdoor exploration, and team challenges that encourage resourcefulness, collaboration, and problem-solving.<br><br>
+Grounded in the Scout Promise and Law, the programme helps students grow into responsible, caring, and capable individuals who are ready to contribute positively to society. 
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Scouts.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Scouts.jpg" style="width:75%"></td>
   </tr></tbody></table>
 </p>
 </div></li> 
