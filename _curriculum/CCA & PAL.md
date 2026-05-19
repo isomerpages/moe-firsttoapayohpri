@@ -35,7 +35,7 @@ As students work towards common goals as a team, they develop confidence, respon
 </div></li>  
 
 <li><input type="checkbox" id="accordion2">  
-	<label for="accordion1"><h5><b>Uniformed Groups</b></h5></label><div>  
+	<label for="accordion2"><h5><b>Uniformed Groups</b></h5></label><div>  
 	<p><br><b><u>Boys’ Brigade</u></b><br>
 		The Boys’ Brigade provides students with rich opportunities to grow in character, leadership, and service. Through camps, competitions, team challenges, and community service initiatives, students develop resilience, problem-solving skills, teamwork, and a strong sense of responsibility. <br><br>Programmes such as Adventure Quest, Character Quest, and Values-in-Action experiences provide authentic opportunities for students to apply what they have learnt while developing care and concern for others. <br></p>
 <p><table>
@@ -66,9 +66,63 @@ Grounded in the Scout Promise and Law, the programme helps students grow into re
 </p>
 </div></li> 
 
+<li><input type="checkbox" id="accordion3">  
+	<label for="accordion3"><h5><b>Clubs</b></h5></label><div>  
+	<p><br><b><u>Photography</u></b><br>
+	Photography provides students with opportunities to explore creativity, storytelling, and visual communication through the lens of a camera. As part of our Applied Learning Programme (ALP), students learn to communicate ideas, perspectives, and stories in meaningful and creative ways.<br><br>Through projects, collaborative tasks, and competition opportunities, students develop creativity, confidence, responsibility, and a deeper appreciation for the world around them.<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Photography.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Photography.jpg" style="width:48%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Art Club</u></b><br>
+		Art Club provides students with a space to explore creativity, experiment with different artistic techniques, and express their ideas in meaningful ways. Through hands-on experiences with different mediums and art forms, students develop confidence, perseverance, creativity, and problem-solving skills.<br><br>
+The programme also nurtures an appreciation for artistic expression while encouraging students to think creatively and work collaboratively.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Art_Club.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Art_Club.jpg" style="width:75%"></td>
+  </tr></tbody></table>
+</p>
+<p><br><b><u>Robotics</u></b><br>
+		Robotics provides students with exciting opportunities to explore coding, design thinking, innovation, and computational problem-solving in a hands-on environment. Through designing, building, and programming, students learn to think critically, collaborate effectively, and persevere through challenges.<br><br>
+The programme equips students with valuable future-ready skills while nurturing adaptability, creativity, and resilience.
+<br></p>
+</div></li>
 
-
-
+<li><input type="checkbox" id="accordion4">  
+	<label for="accordion4"><h5><b>Performing Arts</b></h5></label><div>  
+	<p><br><b><u>Choir</u></b><br>
+		The Boys’ Brigade provides students with rich opportunities to grow in character, leadership, and service. Through camps, competitions, team challenges, and community service initiatives, students develop resilience, problem-solving skills, teamwork, and a strong sense of responsibility. <br><br>Programmes such as Adventure Quest, Character Quest, and Values-in-Action experiences provide authentic opportunities for students to apply what they have learnt while developing care and concern for others. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Boys__Brigade.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Boys__Brigade.jpg" style="width:50%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Girls’ Brigade</u></b><br>
+		The Girls’ Brigade nurtures confident, caring, and resilient young leaders through meaningful experiences that develop character, teamwork, service, and leadership. Through camps, team challenges, and community engagement opportunities, students learn to collaborate, problem-solve, and lead with empathy.<br><br>
+These experiences help our girls grow in confidence while developing a strong sense of purpose, responsibility, and care for the wider community.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Girls__Brigade.jpg" style="width:45%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Girls__Brigade.jpg" style="width:100%"></td>
+  </tr></tbody></table>
+</p>
+<p><br><b><u>Scouts</u></b><br>
+		Scouting offers students enriching opportunities to develop resilience, leadership, independence, and practical life skills through adventure-based learning. Students take part in activities such as knotting, map reading, outdoor exploration, and team challenges that encourage resourcefulness, collaboration, and problem-solving.<br><br>
+Grounded in the Scout Promise and Law, the programme helps students grow into responsible, caring, and capable individuals who are ready to contribute positively to society. 
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Scouts.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Scouts.jpg" style="width:75%"></td>
+  </tr></tbody></table>
+</p>
+</div></li> 
 		
 	
 
