@@ -61,7 +61,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Salawati
+<p>Ms Salawati
 <br><a href="mailto:salawati_sarie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">salawati_sarie@moe.edu.sg</a>
 <br>
 <br>Ms Ng Kah Choo
@@ -98,7 +98,8 @@ variant: tiptap
 <br>Mdm Nelly
 <br>Ms Lucy Wong
 <br>Mdm May Tan
-<br>Mr Lim Beng Chi</p>
+<br>Mr Lim Beng Chi
+<br>Mr Teh Chuan Hock</p>
 </td>
 </tr>
 </tbody>

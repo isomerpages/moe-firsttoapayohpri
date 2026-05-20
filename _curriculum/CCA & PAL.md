@@ -4,27 +4,131 @@ permalink: /curriculum/cca-n-pal/
 description: ""
 variant: markdown
 ---
-##### Co-curricular Activities (CCA)  
+### Co-curricular Activities (CCA)  
 
-The CCA Programme provides students with a platform to discover their interests and talents. Well-organised and implemented, they can fuel in the individual a life-long love for a particular activity, be it a sport or a musical pursuit. This helps the individual to lead a balanced life in adulthood.  
+At First Toa Payoh Primary School, our Co-Curricular Activities (CCAs) are an important part of every child’s educational journey. Beyond developing skills and talents, CCAs provide meaningful opportunities for students to build character, strengthen friendships, discover their interests, and grow as confident and caring individuals.
+
+Through sports, uniformed groups, clubs, and performing arts, students learn to work with others, overcome challenges, lead with purpose, and contribute positively to the school community. Our CCA experiences are designed to nurture well-rounded learners who embody our school values and develop the confidence to make a positive impact in school and beyond.
+
+<ul class="jekyllcodex_accordion">  
   
-<b>CCAs are built into the school curriculum and it is conducted every Monday from <u>2:00pm to 4:00pm</u></b>.  
+<li><input type="checkbox" id="accordion1">  
+	<label for="accordion1"><h5><b>Sports &amp; Games</b></h5></label><div>  
+	<p><br><b><u>Football</u></b><br>
+		Football at FTPPS provides students with a dynamic and engaging environment to develop their football skills while building important life values. Through training, gameplay, and team experiences, students learn discipline, teamwork, resilience, sportsmanship, and the importance of commitment. <br><br>Students who demonstrate readiness may have opportunities to represent the school at the National School Games, where they learn to compete with integrity, perseverance, and pride while growing as both players and teammates. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Football.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Football.jpg" style="width:50%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Basketball</u></b><br>
+		Basketball has a proud tradition at FTPPS and continues to provide students with meaningful opportunities to develop both their sporting abilities and character. Through training and competitive play, students learn teamwork, discipline, resilience, self-belief, and leadership.<br><br>
+As students work towards common goals as a team, they develop confidence, responsibility, and the perseverance needed to overcome challenges both on and off the court.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Basketball.jpg" style="width:80%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Basketball.jpg" style="width:100%"></td>
+  </tr></tbody></table>
+</p>
+</div></li>  
 
-![](/images/CCA.jpg)
+<li><input type="checkbox" id="accordion2">  
+	<label for="accordion2"><h5><b>Uniformed Groups</b></h5></label><div>  
+	<p><br><b><u>Boys’ Brigade</u></b><br>
+		The Boys’ Brigade provides students with rich opportunities to grow in character, leadership, and service. Through camps, competitions, team challenges, and community service initiatives, students develop resilience, problem-solving skills, teamwork, and a strong sense of responsibility. <br><br>Programmes such as Adventure Quest, Character Quest, and Values-in-Action experiences provide authentic opportunities for students to apply what they have learnt while developing care and concern for others. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Boys__Brigade.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Boys__Brigade.jpg" style="width:50%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Girls’ Brigade</u></b><br>
+		The Girls’ Brigade nurtures confident, caring, and resilient young leaders through meaningful experiences that develop character, teamwork, service, and leadership. Through camps, team challenges, and community engagement opportunities, students learn to collaborate, problem-solve, and lead with empathy.<br><br>
+These experiences help our girls grow in confidence while developing a strong sense of purpose, responsibility, and care for the wider community.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Girls__Brigade.jpg" style="width:45%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Girls__Brigade.jpg" style="width:100%"></td>
+  </tr></tbody></table>
+</p>
+<p><br><b><u>Scouts</u></b><br>
+		Scouting offers students enriching opportunities to develop resilience, leadership, independence, and practical life skills through adventure-based learning. Students take part in activities such as knotting, map reading, outdoor exploration, and team challenges that encourage resourcefulness, collaboration, and problem-solving.<br><br>
+Grounded in the Scout Promise and Law, the programme helps students grow into responsible, caring, and capable individuals who are ready to contribute positively to society. 
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Scouts.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Scouts.jpg" style="width:75%"></td>
+  </tr></tbody></table>
+</p>
+</div></li> 
 
-#### Programmes
+<li><input type="checkbox" id="accordion3">  
+	<label for="accordion3"><h5><b>Clubs</b></h5></label><div>  
+	<p><br><b><u>Photography</u></b><br>
+	Photography provides students with opportunities to explore creativity, storytelling, and visual communication through the lens of a camera. As part of our Applied Learning Programme (ALP), students learn to communicate ideas, perspectives, and stories in meaningful and creative ways.<br><br>Through projects, collaborative tasks, and competition opportunities, students develop creativity, confidence, responsibility, and a deeper appreciation for the world around them.<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Photography.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Photography.jpg" style="width:48%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Art Club</u></b><br>
+		Art Club provides students with a space to explore creativity, experiment with different artistic techniques, and express their ideas in meaningful ways. Through hands-on experiences with different mediums and art forms, students develop confidence, perseverance, creativity, and problem-solving skills.<br><br>
+The programme also nurtures an appreciation for artistic expression while encouraging students to think creatively and work collaboratively.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Art_Club.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Art_Club.jpg" style="width:75%"></td>
+  </tr></tbody></table>
+</p>
+<p><br><b><u>Robotics</u></b><br>
+		Robotics provides students with exciting opportunities to explore coding, design thinking, innovation, and computational problem-solving in a hands-on environment. Through designing, building, and programming, students learn to think critically, collaborate effectively, and persevere through challenges.<br><br>
+The programme equips students with valuable future-ready skills while nurturing adaptability, creativity, and resilience.
+<br></p>
+</div></li>
 
-##### P1-P2 PAL Programmes
-
-P1 and P2 students go through Programme for Active Learning (PAL) during CCA sessions. They go through 6 different domains over the course of 2 years. The domains include Visual Arts, Sports &amp; Games, Outdoor Education, Music, Performing Arts and Drama.
-
-<img src="/images/PAL1.jpg" style="width:60%">
-
-<img src="/images/PAL4.jpg" style="width:80%">
-
-<img src="/images/PAL5.jpg" style="width:80%">
-
-
-##### CCA Experience  
-
-All P3 students will go through a CCA experience programme, where they will experience 3 sessions on a specific CCA of their choosing in the 4 different CCA domains. After going through a full year of the experience, they will make a decision on the CCA they would like to join in 2021 as a P4 student.&nbsp;This would provide students with a clearer picture of what the different CCAs have to offer so that they would be able to make an informed decision together with their parents when choosing their CCAs.
+<li><input type="checkbox" id="accordion4">  
+	<label for="accordion4"><h5><b>Performing Arts</b></h5></label><div>  
+	<p><br><b><u>Choir</u></b><br>
+		Choir provides students with meaningful opportunities to develop their vocal abilities, musical appreciation, confidence, and discipline through collaborative performance experiences. Students learn the importance of teamwork, commitment, and collective effort as they work together to create quality performances.<br><br>Students may have opportunities to represent the school at platforms such as the Singapore Youth Festival (SYF), as well as perform at school events and celebrations, allowing them to showcase their learning while developing confidence and stage presence. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Choir.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Choir.jpg" style="width:65%"></td>
+  </tr></tbody></table>
+</p>
+		<p><br><b><u>Dance</u></b><br>
+		Dance provides students with opportunities to express themselves creatively while developing discipline, confidence, resilience, teamwork, and performance skills. Through guided training and collaborative practices, students learn the value of commitment, perseverance, and working together towards a shared vision.<br><br>
+Students may have opportunities to represent the school at platforms such as the Singapore Youth Festival (SYF), as well as perform at school events and celebrations, allowing them to showcase their growth, passion, and creativity with the wider school community.
+<br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/Curriculum/CCA/1_Dance.jpg" style="width:100%"></td>
+    <td><img src="/images/Curriculum/CCA/2_Dance.jpg" style="width:40%"></td>
+  </tr></tbody></table>
+</p>
+</div></li> 
+		
+	<li><input type="checkbox" id="accordion5">  
+  <label for="accordion5"><h5><b>Programmes</b></h5></label><div>  
+  <p><br><b><u> P1-P2 PAL Programmes</u></b><br>
+    P1 and P2 students go through Programme for Active Learning (PAL) during CCA sessions. They go through 6 different domains over the course of 2 years. The domains include Visual Arts, Sports &amp; Games, Outdoor Education, Music, Performing Arts and Drama. <br></p>
+<p><table>
+    <tbody><tr>
+    <td><img src="/images/PAL1.jpg" style="width:80%"></td>
+    <td><img src="/images/PAL4.jpg" style="width:100%"></td>
+	</tr><tr>
+    <td><img src="/images/PAL5.jpg" style="width:100%"></td>
+      </tr>
+  </tbody></table>
+</p>
+    <p><br><b><u>CCA Experience </u></b><br>
+    All P3 students will go through a CCA experience programme, where they will experience 3 sessions on a specific CCA of their choosing in the 4 different CCA domains. After going through a full year of the experience, they will make a decision on the CCA they would like to join in 2021 as a P4 student.&nbsp;This would provide students with a clearer picture of what the different CCAs have to offer so that they would be able to make an informed decision together with their parents when choosing their CCAs.
+<br></p>
+</div></li> 
+</ul>
