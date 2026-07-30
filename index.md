@@ -22,6 +22,15 @@ sections:
           description: ""
           url: https://www.instagram.com/ftppsofficial
   - infopic:
+      title: P3 Identification Exercise
+      subtitle: NEWS & ANNOUNCEMENTS
+      id: infopic
+      description: The Refreshed Approach Online Briefing for Parent Engagement 2026
+      button: Click Here!
+      url: https://firsttoapayohpri.moe.edu.sg/p3-identification-exercise-2026/
+      image: /images/FTTPS Family/Picture1.jpg
+      alt: Image alt text
+  - infopic:
       title: Our School, Our Stories
       subtitle: NEWS & ANNOUNCEMENTS
       id: infopic
